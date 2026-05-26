@@ -1,26 +1,26 @@
 {
-  "generatedAt": "2026-05-26T19:40:00.573201+07:00",
+  "generatedAt": "2026-05-26T21:09:18.825330+07:00",
   "dateRange": "2026-05-19 to 2026-05-26",
   "sourceErrors": [
-    "gdelt: <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>"
+    "gdelt: HTTP Error 429: Too Many Requests"
   ],
   "topics": [
     {
-      "id": "topic-a6f289c356",
-      "title": "หนังสือพิมพ์",
+      "id": "007-first-light-15fae6adf9",
+      "title": "007 first light",
       "sourceType": "trends",
-      "category": "entertainment",
-      "contentPotential": "high",
+      "category": "social_topic",
+      "contentPotential": "medium",
       "riskLevel": "low",
       "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่า reaction ส่วนตัวต่อกระแส แล้วเปิดคำถามให้คนคุยต่อ",
-      "promptIdea": "กระแสนี้ทุกคนอยู่ทีมไหน?",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
       "hashtags": [
-        "#EntertainmentTH",
-        "#คุยเรื่องบันเทิง",
-        "#กระแสวันนี้",
-        "#หนังสือพิมพ์"
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#007firstlight"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -29,23 +29,23 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "หน้า 1 หนังสือพิมพ์มติชน วันนี้",
-          "url": "https://www.matichon.co.th/newspaper-cover/news_5732121"
+          "title": "007 First Light review – a triumphant James Bond game made by obsessive fans",
+          "url": "https://www.theguardian.com/games/2026/may/26/007-first-light-review-james-bond-game-pc-xbox-playstation-5"
         },
         {
-          "title": "หนังสือพิมพ์อิเล็กทรอนิกส์ Share2Trade 27 พ.ค. 2569 (INSET, BIZ, NER)",
-          "url": "https://www.share2trade.com/news/55861/%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%AA%E0%B8%B7%E0%B8%AD%E0%B8%9E%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B9%8C%E0%B8%AD%E0%B8%B4%E0%B9%80%E0%B8%A5%E0%B9%87%E0%B8%81%E0%B8%97%E0%B8%A3%E0%B8%AD%E0%B8%99%E0%B8%B4%E0%B8%81%E0%B8%AA%E0%B9%8C-share2trade-27-%E0%B8%9E%E0%B8%84-2569-inset-biz-ner"
+          "title": "007 First Light Performance Benchmark Review - 30+ GPUs Tested",
+          "url": "https://www.techpowerup.com/review/007-first-light-performance-benchmark/"
         },
         {
-          "title": "หนังสือพิมพ์อิเล็กทรอนิกส์ Share2Trade 19 พ.ค. 2569 (SFLEX, ATLAS, TOA)",
-          "url": "https://www.share2trade.com/news/55560/%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%AA%E0%B8%B7%E0%B8%AD%E0%B8%9E%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B9%8C%E0%B8%AD%E0%B8%B4%E0%B9%80%E0%B8%A5%E0%B9%87%E0%B8%81%E0%B8%97%E0%B8%A3%E0%B8%AD%E0%B8%99%E0%B8%B4%E0%B8%81%E0%B8%AA%E0%B9%8C-share2trade-19-%E0%B8%9E%E0%B8%84-2569-sflex-atlas-toa"
+          "title": "The ‘007 First Light’ Metacritic Review Score Is In",
+          "url": "https://www.forbes.com/sites/paultassi/2026/05/26/the-007-first-light-metacritic-review-score-is-in/"
         }
       ],
-      "updatedAt": "2026-05-26T17:50:00+07:00"
+      "updatedAt": "2026-05-26T19:30:00+07:00"
     },
     {
-      "id": "mika-salo-c5c08b3f15",
-      "title": "mika salo",
+      "id": "roland-garros-669104144c",
+      "title": "roland garros",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
@@ -58,7 +58,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#mikasalo"
+        "#rolandgarros"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -67,28 +67,28 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "Finnish F1 driver attacked, slashed crossing road in Bangkok",
-          "url": "https://www.bangkokpost.com/thailand/general/3261175/finnish-f1-driver-attacked-slashed-crossing-road-in-bangkok"
+          "title": "EN DIRECT, Roland-Garros 2026 : Moïse Kouamé, 17 ans, élimine Marin Cilic en trois sets, Aryna Sabalenka expéditive, Medvedvev éliminé, Alexandre Muller abandonne",
+          "url": "https://www.lemonde.fr/sport/live/2026/05/26/en-direct-roland-garros-2026-suivez-la-journee-du-mardi-26-mai_6693862_3242.html"
         },
         {
-          "title": "Thai doctor in coma, Briton arrested after Pha-ngan hit-and-run",
-          "url": "https://world.thaipbs.or.th/detail/61475"
+          "title": "A 17 ans, le Français Moïse Kouame crée l'exploit en éliminant au premier tour l'ancien demi-finaliste de Roland-Garros Marin Cilic",
+          "url": "https://www.franceinfo.fr/roland-garros/a-17-ans-le-francais-moise-kouame-cree-l-exploit-en-eliminant-au-premier-tour-l-ancien-demi-finaliste-de-roland-garros-marin-cilic_8029223.html"
         },
         {
-          "title": "‘Dr Ton’ airlifted for urgent brain surgery after Koh Phangan crash",
-          "url": "https://www.nationthailand.com/news/general/40066656"
+          "title": "Moïse Kouamé : quel âge a le jeune espoir du tennis français ?",
+          "url": "https://www.closermag.fr/actualites/moise-kouame-quel-age-a-le-jeune-espoir-du-tennis-francais-3638295"
         }
       ],
-      "updatedAt": "2026-05-26T16:50:00+07:00"
+      "updatedAt": "2026-05-26T20:00:00+07:00"
     },
     {
-      "id": "thailand-6cbfbc47d7",
-      "title": "thailand",
+      "id": "3-99dcfc8c15",
+      "title": "ช่อง3",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 500+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 5000+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -96,7 +96,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#thailand"
+        "#ช่อง3"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -105,61 +105,23 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "New cannabis rules have little effect",
-          "url": "https://www.bangkokpost.com/learning/advanced/3260568/new-cannabis-rules-have-little-effect"
+          "title": "ตอนแกพูดแกคงโล่งอก แต่เพื่อนอย่างฉันโคตรเจ็บใจเลย",
+          "url": "https://ch3plus.com/v/275152"
         },
         {
-          "title": "Thailand’s medical cannabis regulations encounter enforcement discrepancies",
-          "url": "https://www.mmjdaily.com/article/9840741/thailand-s-medical-cannabis-regulations-encounter-enforcement-discrepancies/"
+          "title": "ฉันโคตรเจ็บใจเลย",
+          "url": "https://ch3plus.com/v/275109"
         },
         {
-          "title": "Thailand's Medical Cannabis Prescription Rules Show Limited Impact on Street-Level Access",
-          "url": "https://hempgazette.com/news/thailand-medical-cannabis-prescription-rules-limited-impact/"
+          "title": "ณเดชน์ – เจมส์ มาร์ นำทีมช่อง 3 เปลี่ยนทุกก้าวเป็นพลังแห่งการให้ ชวนวิ่งกับสภากาชาดไทย Bangkok Double Bridge Half Marathon 2026 Donation HUB",
+          "url": "https://today.line.me/th/v3/article/eLKWw5n"
         }
       ],
-      "updatedAt": "2026-05-26T17:10:00+07:00"
+      "updatedAt": "2026-05-26T20:30:00+07:00"
     },
     {
-      "id": "topic-610c9539b0",
-      "title": "กระทรวงการคลัง",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 500+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#กระทรวงการคลัง"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "ไทยช่วยไทยพลัส 60/40 ใช้ยังไงให้คุ้มสุด? หลายคนยังเข้าใจผิด",
-          "url": "https://www.sanook.com/money/951543/"
-        },
-        {
-          "title": "เช็กสิทธิไทยช่วยไทยพลัส อัปเดตล่าสุด www.ไทยช่วยไทยพลัส.th ยังเหลือ 5 ล้านสิทธิ",
-          "url": "https://www.thairath.co.th/news/society/2935512"
-        },
-        {
-          "title": "ต่อเนื่องวันที่ 2 ชาวเกาะสตูลเดินทางข้ามฟากปูเสื่อนั่งรอคิวหน้าธนาคาร",
-          "url": "https://mgronline.com/south/detail/9690000049772"
-        }
-      ],
-      "updatedAt": "2026-05-26T15:10:00+07:00"
-    },
-    {
-      "id": "topic-0b641e6062",
-      "title": "กุลวุฒิ วิทิตศานต์",
+      "id": "topic-0eb75f9608",
+      "title": "ประเทศไทย",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
@@ -172,7 +134,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#กุลวุฒิวิทิตศานต์"
+        "#ประเทศไทย"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -181,28 +143,28 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "ครีม บุศนันทน์ พลิกพ่ายดาวรุ่งญี่ปุ่น 1-2 เกม จอดรอบแรกแบดมินตันสิงคโปร์ โอเพ่น",
-          "url": "https://www.siamsport.co.th/other-sports/badminton/104296/"
+          "title": "บีโอไอ ดึงบริษัทแม่ Ray-Ban ลงทุน“AI Glasses”ในไทย หลังมีข่าวซื้อหุ้นท็อปเจริญ รุกตลาดแว่นอัจฉริยะ",
+          "url": "https://www.thairath.co.th/money/economics/thai_economics/2935453"
         },
         {
-          "title": "อันดับโลกใหม่ \"วิว กุลวุฒิ\" กับ \"อิคคิว พณิชพล\" ล่าสุด ของสหพันธ์แบดมินตัน (BWF)",
-          "url": "https://www.sanook.com/sport/1635821/"
+          "title": "นายกฯ นำทีมไทยแลนด์ พบประธานาธิบดีฝรั่งเศส เดินหน้าดึง Airbus-EssilorLuxottica ขยายลงทุนไทย",
+          "url": "https://thestandard.co/thailand-france-investment-airbus-essilorluxottica/"
         },
         {
-          "title": "‘วิว-เมย์’ คงที่! ‘อิคคิว-พิ้งค์’ อันดับพุ่งแบดโลก | Play Now Thailand",
-          "url": "https://today.line.me/th/v3/article/PGeWRg5"
+          "title": "ไทย เสนอตัว เชื่อมฝรั่งเศส กับเอเชีย-อาเซียน เปิดประตูการค้าการลงทุน สู่โลกยุคใหม่",
+          "url": "https://www.pptvhd36.com/wealth/economic/276313"
         }
       ],
-      "updatedAt": "2026-05-26T18:20:00+07:00"
+      "updatedAt": "2026-05-26T20:50:00+07:00"
     },
     {
-      "id": "topic-35e4d7c5ca",
-      "title": "รัฐมนตรี",
+      "id": "topic-2c8fb0aa74",
+      "title": "ฝ่ายค้าน",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 2000+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 100+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -210,7 +172,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#รัฐมนตรี"
+        "#ฝ่ายค้าน"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -219,19 +181,83 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "\"สุริยะ\" ลุยงานต่อลงพื้นที่เร่งแก้น้ำท่วม-น้ำแล้ง หลังวูบเข้า รพ.",
-          "url": "https://www.thaipbs.or.th/program/EveningNews/watch/278137"
+          "title": "\"เขม โสกา\" อดีตผู้นำฝ่ายค้านกัมพูชาได้รับพระราชทานอภัยโทษหลังถูกจำคุก 27 ปี",
+          "url": "https://www.bbc.com/thai/articles/c62xxvz24q5o"
         },
         {
-          "title": "“รัฐมนตรีฯสุริยะ” ออกจาก รพ. แล้ว หลังวูบหมดสติเมื่อคืนที่ผ่านมา ลุยภารกิจอุดรฯ | สวพ.FM91",
-          "url": "https://today.line.me/th/v3/article/XYKyNwQ"
+          "title": "กษัตริย์กัมพูชาพระราชทานอภัยโทษ “เขม โสกา” อดีตผู้นำฝ่ายค้าน",
+          "url": "https://www.thairath.co.th/news/foreign/2935287"
         },
         {
-          "title": "เผื่อเหตุฉุกเฉิน!รถกู้ชีพกู้ภัยขั้นสูงEMSสแตนด์บายทุกจุดที่ “สุริยะ”ลงตรวจพื้นที่",
-          "url": "https://mgronline.com/local/detail/9690000049323"
+          "title": "ฮุน เซน อภัยโทษข้อหากบฏให้อดีตผู้นำฝ่ายค้าน",
+          "url": "https://www.thaipost.net/abroad-news/1002716/"
         }
       ],
-      "updatedAt": "2026-05-26T16:40:00+07:00"
+      "updatedAt": "2026-05-26T19:50:00+07:00"
+    },
+    {
+      "id": "topic-504c3fce23",
+      "title": "พยัคฆ์ร้ายซ่อนลาย",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 100+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#พยัคฆ์ร้ายซ่อนลาย"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "พยัคฆ์ร้ายซ่อนลาย EP.7 [1/4] ล่าสุด",
+          "url": "https://ch3plus.com/v/275132"
+        },
+        {
+          "title": "Photo Gallery เรื่องย่อตอน ละคร “พยัคฆ์ร้ายซ่อนลาย” ตอนที่ 1",
+          "url": "https://mgronline.com/drama/photo-gallery/9690000045960"
+        },
+        {
+          "title": "เรื่องย่อ “พยัคฆ์ร้ายซ่อนลาย” | daradaily",
+          "url": "https://today.line.me/th/v3/article/WBKyBay"
+        }
+      ],
+      "updatedAt": "2026-05-26T19:30:00+07:00"
+    },
+    {
+      "id": "topic-e505487000",
+      "title": "มติ ค ร่ม",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 1000+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#มติคร่ม"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        }
+      ],
+      "updatedAt": "2026-05-26T19:40:00+07:00"
     },
     {
       "id": "topic-6a15e12569",
@@ -240,7 +266,7 @@
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 500+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -272,13 +298,13 @@
       "updatedAt": "2026-05-26T18:20:00+07:00"
     },
     {
-      "id": "topic-621a34f8a5",
-      "title": "ศาล",
+      "id": "topic-e4302e2d92",
+      "title": "หวยลาวออกวันนี้ สด",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 500+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 2000+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -286,7 +312,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#ศาล"
+        "#หวยลาวออกวันนี้สด"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -295,57 +321,19 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "ส่องแนวทาง \"คำวินิจฉัย\" พ.ร.ก.กู้เงิน 4 แสนล้าน",
-          "url": "https://www.thaipbs.or.th/program/khaoTieng/watch/277529"
+          "title": "หวยลาววันนี้ 26 พฤษภาคม 2569 ผลหวยลาววันนี้ ตรวจผลหวยลาวพัฒนา",
+          "url": "https://www.sanook.com/news/9891058/"
         },
         {
-          "title": "นายกฯ มั่นใจ พ.ร.ก.กู้เงิน 4 แสนล้าน ไม่ขัดรัฐธรรมนูญ ยันไม่มีตกหล่นรายทาง",
-          "url": "https://www.thairath.co.th/news/politic/2935506"
+          "title": "หวยลาววันนี้ 26/05/69 ถ่ายทอดสดหวยลาว หวยลาวพัฒนา 26 พ.ค. 2569",
+          "url": "https://www.komchadluek.net/lottery/lottery-statistics/617636"
         },
         {
-          "title": "เลขาฯ ครม. เตรียมยื่นเอกสารชี้แจง พ.ร.ก.กู้เงิน ต่อศาลรัฐธรรมนูญหลังครบเดดไลน์วันนี้",
-          "url": "https://thestandard.co/cabinet-secretary-loan-decree-clarification/"
+          "title": "“หวยลาว”ประจำวันที่ 25/05/69",
+          "url": "https://siamrath.co.th/lottery/laos/149896"
         }
       ],
-      "updatedAt": "2026-05-26T16:10:00+07:00"
-    },
-    {
-      "id": "topic-42317f52c2",
-      "title": "อิสราเอล",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 1000+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#อิสราเอล"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "กองทัพสหรัฐฯ เปิดฉากโจมตีอิหร่านครั้งใหม่ ขณะที่อิสราเอลยกระดับโจมตีฮิซบอลเลาะห์",
-          "url": "https://www.bbc.com/thai/articles/cn0ppg0xgxno"
-        },
-        {
-          "title": "\"ทรัมป์\" กลับคำ ไม่รีบสงบศึก ยื่นข้อเสนอที่ทำให้อึ้งถ้วนหน้า",
-          "url": "https://www.thairath.co.th/newspaper/2935321"
-        },
-        {
-          "title": "FTSE 100 วันนี้: หุ้นปรับขึ้นหลังความหวังข้อตกลงอิหร่านชดเชยราคาน้ํามันพุ่ง โดย Investing.com",
-          "url": "https://th.investing.com/news/stock-market-news/article-684187"
-        }
-      ],
-      "updatedAt": "2026-05-26T15:20:00+07:00"
+      "updatedAt": "2026-05-26T20:30:00+07:00"
     },
     {
       "id": "topic-4a47dcbcd7",
@@ -354,7 +342,7 @@
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 500+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -371,16 +359,16 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
+          "title": "\"แอน ทองประสม\" ลุคนี้ว้าวมาก ใส่เสื้อแหวกอก ไม่รู้จะโฟกัสอะไรก่อนเลย",
+          "url": "https://www.sanook.com/news/9891046/"
+        },
+        {
           "title": "แอน ทองประสม เปิดภาพล่าสุดในชุดแหวกอก สวยเกินต้านจนแฟนๆ แห่คอมเมนต์",
           "url": "https://www.thairath.co.th/entertain/news/2935471"
         },
         {
-          "title": "สวยแพงระยับ แอน ทองประสม คอแทบเคล็ดแบกเพชร 200 ล้าน สาดออร่านางพญา",
-          "url": "https://today.line.me/th/v3/article/x2W7pyq"
-        },
-        {
-          "title": "\"แอน ทองประสม\" ลุคนี้ว้าวมาก ใส่เสื้อแหวกอก ไม่รู้จะโฟกัสอะไรก่อนเลย",
-          "url": "https://www.sanook.com/news/9891046/"
+          "title": "ตาแตก! ‘แอน ทองประสม’ ลุคออกงานล่าสุด ใส่เพชรเม็ดใหญ่ที่สุดตั้งแต่เคยใส่มา | The Bangkok Insight",
+          "url": "https://today.line.me/th/v3/article/aGKaNYn"
         }
       ],
       "updatedAt": "2026-05-26T18:20:00+07:00"
