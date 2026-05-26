@@ -21,11 +21,42 @@ GDELT_DOC_API = "https://api.gdeltproject.org/api/v2/doc/doc"
 CATEGORY_RULES = {
     "food": ["อาหาร", "คาเฟ่", "ร้าน", "กิน", "เมนู", "food", "cafe", "restaurant", "coffee"],
     "beauty": ["แฟชั่น", "สวย", "beauty", "fashion", "makeup", "skincare"],
-    "entertainment": ["เพลง", "ละคร", "หนัง", "ดารา", "ซีรีส์", "concert", "movie", "music", "series"],
+    "entertainment": ["เพลง", "หนัง", "ดารา", "ซีรีส์", "concert", "movie", "music", "series"],
     "relationship": ["รัก", "แฟน", "แต่งงาน", "relationship", "dating", "marriage"],
     "lifestyle": ["เที่ยว", "บ้าน", "ทำงาน", "สุขภาพ", "travel", "lifestyle", "work"],
     "social_topic": ["สังคม", "ไวรัล", "viral", "community", "online"],
 }
+
+TOPIC_CLUSTERS = [
+    {
+        "key": "thai-help-thai-plus",
+        "title": "ไทยช่วยไทยพลัส / คนละครึ่งพลัส",
+        "terms": ["ไทยช่วยไทย", "คนละครึ่งพลัส", "เป๋าตัง", "เช็กสิทธิ", "เช็คสิทธิ"],
+        "category": "social_topic",
+        "riskLevel": "medium",
+        "contentPotential": "medium",
+        "summary": "ประเด็นลงทะเบียนและตรวจสิทธิโครงการไทยช่วยไทยพลัส/คนละครึ่งพลัสมีหลายข่าวในช่วงนี้ เหมาะใช้เป็นหัวข้อให้ข้อมูลและชวนแชร์ประสบการณ์แบบระวังความถูกต้อง",
+        "whyItMatters": "เป็นเรื่องที่คนจำนวนมากค้นหาเพราะเกี่ยวกับสิทธิและการลงทะเบียน จึงมีโอกาสเกิดคำถามและ discussion สูง",
+        "creatorAngle": "เล่าประสบการณ์การเช็กสิทธิหรือถามว่าคนอื่นเจอขั้นตอนไหนติดขัด โดยไม่ยืนยันข้อมูลแทนแหล่งทางการ",
+        "promptIdea": "มีใครลองเช็กสิทธิแล้วเจอข้อความแบบไหนบ้าง?",
+        "hashtags": ["#ไทยช่วยไทยพลัส", "#คนละครึ่งพลัส", "#เช็กสิทธิ", "#เป๋าตัง"],
+        "riskNote": "Medium risk ควรอ้างอิงแหล่งทางการและเตือนให้ระวังลิงก์ปลอมหรือข้อมูลผิด",
+    },
+    {
+        "key": "ferrari-luce",
+        "title": "Ferrari / Ferrari Luce",
+        "terms": ["ferrari luce", "ferrari"],
+        "category": "lifestyle",
+        "riskLevel": "low",
+        "contentPotential": "medium",
+        "summary": "หัวข้อ Ferrari/Ferrari Luce ถูกค้นหาในช่วงล่าสุด เหมาะเป็น topic สาย lifestyle, luxury หรือ design",
+        "whyItMatters": "เป็น trend ที่หยิบไปคุยเรื่องภาพลักษณ์ แบรนด์ หรือความเห็นต่อสินค้า/ดีไซน์ได้",
+        "creatorAngle": "ชวนคุยว่าคนมองแบรนด์ luxury แบบนี้ยังไง หรือดีไซน์ไหนที่จำง่ายที่สุด",
+        "promptIdea": "ถ้าพูดถึงแบรนด์นี้ ทุกคนนึกถึงอะไรเป็นอย่างแรก?",
+        "hashtags": ["#LifestyleTH", "#LuxuryTalk", "#DesignTrend"],
+        "riskNote": "Low risk แต่ควรเลี่ยงใช้รูป/โลโก้โดยไม่มีสิทธิ์",
+    },
+]
 
 HIGH_RISK_TERMS = [
     "การเมือง",
@@ -54,6 +85,8 @@ MEDIUM_RISK_TERMS = [
     "ร้องเรียน",
     "แบน",
     "ประท้วง",
+    "มิจฉาชีพ",
+    "ลิงก์ปลอม",
     "debate",
     "complaint",
     "boycott",
@@ -70,18 +103,25 @@ def main() -> int:
 
     out_path = Path(args.out)
     now = datetime.now(BANGKOK)
+    existing_topics = load_existing_topics(out_path)
     topics = []
     errors = []
+    failed_sources = set()
 
     try:
         topics.extend(fetch_google_trends(now))
     except Exception as exc:  # noqa: BLE001 - CLI should keep going on feed failure.
         errors.append(f"google_trends: {exc}")
+        failed_sources.add("trends")
 
     try:
         topics.extend(fetch_gdelt_news(now))
     except Exception as exc:  # noqa: BLE001
         errors.append(f"gdelt: {exc}")
+        failed_sources.add("news")
+
+    if existing_topics and failed_sources:
+        topics.extend(topic for topic in existing_topics if topic.get("sourceType") in failed_sources)
 
     topics = dedupe_topics(topics)
 
@@ -104,6 +144,16 @@ def main() -> int:
     if errors:
         print("Feed warnings: " + "; ".join(errors), file=sys.stderr)
     return 0
+
+
+def load_existing_topics(path: Path) -> list[dict]:
+    if not path.exists():
+        return []
+    try:
+        payload = json.loads(path.read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError):
+        return []
+    return payload.get("topics", []) if isinstance(payload.get("topics"), list) else []
 
 
 def fetch_google_trends(now: datetime) -> list[dict]:
@@ -164,10 +214,18 @@ def fetch_gdelt_news(now: datetime) -> list[dict]:
 
 
 def make_topic(title: str, source_type: str, summary: str, sources: list[dict], updated_at: datetime, traffic: str | None = None) -> dict:
-    category = classify_category(title + " " + summary)
-    risk = classify_risk(title + " " + summary)
-    potential = classify_potential(category, risk, source_type, traffic)
-    hashtags = hashtags_for(category, title)
+    cluster = topic_cluster(title + " " + summary)
+    if cluster:
+        category = cluster["category"]
+        risk = cluster["riskLevel"]
+        potential = cluster["contentPotential"]
+        hashtags = cluster["hashtags"]
+        summary = cluster["summary"]
+    else:
+        category = classify_category(title + " " + summary)
+        risk = classify_risk(title + " " + summary)
+        potential = classify_potential(category, risk, source_type, traffic)
+        hashtags = hashtags_for(category, title)
     return {
         "id": stable_id(title),
         "title": title,
@@ -176,11 +234,11 @@ def make_topic(title: str, source_type: str, summary: str, sources: list[dict], 
         "contentPotential": potential,
         "riskLevel": risk,
         "summary": summary,
-        "whyItMatters": why_it_matters(category, source_type),
-        "creatorAngle": creator_angle(category, risk),
-        "promptIdea": prompt_idea(category, risk),
+        "whyItMatters": cluster["whyItMatters"] if cluster else why_it_matters(category, source_type),
+        "creatorAngle": cluster["creatorAngle"] if cluster else creator_angle(category, risk),
+        "promptIdea": cluster["promptIdea"] if cluster else prompt_idea(category, risk),
         "hashtags": hashtags,
-        "riskNote": risk_note(risk),
+        "riskNote": cluster["riskNote"] if cluster else risk_note(risk),
         "sources": clean_sources(sources),
         "updatedAt": updated_at.astimezone(BANGKOK).isoformat(),
     }
@@ -271,19 +329,67 @@ def risk_note(risk: str) -> str:
 def dedupe_topics(topics: list[dict]) -> list[dict]:
     merged: dict[str, dict] = {}
     for topic in topics:
-        key = normalize_title(topic["title"])
+        if should_skip_topic(topic["title"]):
+            continue
+        cluster = topic_cluster(topic["title"] + " " + topic.get("summary", ""))
+        key = cluster["key"] if cluster else normalize_title(topic["title"])
         if key in merged:
             existing = merged[key]
             existing["sources"] = clean_sources(existing.get("sources", []) + topic.get("sources", []))
+            existing["hashtags"] = merge_list(existing.get("hashtags", []), topic.get("hashtags", []), limit=6)
             if existing["sourceType"] != topic["sourceType"]:
                 existing["sourceType"] = "news" if "news" in {existing["sourceType"], topic["sourceType"]} else existing["sourceType"]
+            if cluster:
+                apply_cluster(existing, cluster)
             continue
+        if cluster:
+            topic = {**topic}
+            apply_cluster(topic, cluster)
         merged[key] = topic
     return sorted(merged.values(), key=lambda item: (risk_rank(item["riskLevel"]), potential_rank(item["contentPotential"]), item["title"]))
 
 
 def normalize_title(title: str) -> str:
     return re.sub(r"\W+", "", title.lower())
+
+
+def topic_cluster(text_value: str) -> dict | None:
+    lowered = text_value.lower()
+    for cluster in TOPIC_CLUSTERS:
+        if any(term.lower() in lowered for term in cluster["terms"]):
+            return cluster
+    return None
+
+
+def apply_cluster(topic: dict, cluster: dict) -> None:
+    topic["id"] = cluster["key"]
+    topic["title"] = cluster["title"]
+    topic["category"] = cluster["category"]
+    topic["riskLevel"] = cluster["riskLevel"]
+    topic["contentPotential"] = cluster["contentPotential"]
+    topic["summary"] = cluster["summary"]
+    topic["whyItMatters"] = cluster["whyItMatters"]
+    topic["creatorAngle"] = cluster["creatorAngle"]
+    topic["promptIdea"] = cluster["promptIdea"]
+    topic["hashtags"] = cluster["hashtags"]
+    topic["riskNote"] = cluster["riskNote"]
+
+
+def should_skip_topic(title: str) -> bool:
+    # CJK-only foreign headlines are usually not usable for Thai creator briefs in v1.
+    has_cjk = re.search(r"[\u3400-\u9fff]", title) is not None
+    has_thai = re.search(r"[\u0e00-\u0e7f]", title) is not None
+    return has_cjk and not has_thai
+
+
+def merge_list(left: list, right: list, limit: int) -> list:
+    output = []
+    for item in left + right:
+        if item and item not in output:
+            output.append(item)
+        if len(output) >= limit:
+            break
+    return output
 
 
 def risk_rank(risk: str) -> int:
