@@ -1,0 +1,127 @@
+<!doctype html>
+<html lang="th">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Creator Weekly Trend Hub</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <div>
+        <p class="eyebrow">Thailand Creator Program</p>
+        <h1>Creator Weekly Trend Hub</h1>
+        <p class="lede">เทรนด์ ข่าว และแฮชแท็กสำหรับหยิบไปทำโพสต์ในแอปประจำสัปดาห์</p>
+      </div>
+      <div class="status-panel" aria-live="polite">
+        <span class="status-label">Last updated</span>
+        <strong id="lastUpdated">Loading...</strong>
+        <span id="dateRange">กำลังโหลดข้อมูล</span>
+      </div>
+    </header>
+
+    <main>
+      <section class="controls" aria-label="Trend filters">
+        <label class="search">
+          <span>Search</span>
+          <input id="searchInput" type="search" placeholder="ค้นหา topic, hashtag, category" />
+        </label>
+        <label>
+          <span>Category</span>
+          <select id="categoryFilter">
+            <option value="all">All categories</option>
+          </select>
+        </label>
+        <label>
+          <span>Risk</span>
+          <select id="riskFilter">
+            <option value="all">All risk levels</option>
+            <option value="low">Low</option>
+            <option value="medium">Medium</option>
+            <option value="high">High</option>
+          </select>
+        </label>
+        <label>
+          <span>Source</span>
+          <select id="sourceFilter">
+            <option value="all">All sources</option>
+            <option value="trends">Trends</option>
+            <option value="news">News</option>
+          </select>
+        </label>
+        <label>
+          <span>Potential</span>
+          <select id="potentialFilter">
+            <option value="all">All potential</option>
+            <option value="high">High</option>
+            <option value="medium">Medium</option>
+            <option value="low">Low</option>
+          </select>
+        </label>
+      </section>
+
+      <section class="summary-grid" aria-label="Trend summary">
+        <article>
+          <span id="totalTopics">0</span>
+          <p>Topics</p>
+        </article>
+        <article>
+          <span id="postIdeaCount">0</span>
+          <p>Post ideas</p>
+        </article>
+        <article>
+          <span id="riskCount">0</span>
+          <p>Risk watch</p>
+        </article>
+        <article>
+          <span id="hashtagCount">0</span>
+          <p>Hashtags</p>
+        </article>
+      </section>
+
+      <nav class="tabs" aria-label="Trend views">
+        <button class="tab active" data-tab="postIdeas" type="button">Post Ideas</button>
+        <button class="tab" data-tab="news" type="button">News & Social Topics</button>
+        <button class="tab" data-tab="hashtags" type="button">Hashtags</button>
+        <button class="tab" data-tab="risk" type="button">Risk Watch</button>
+      </nav>
+
+      <section id="content" class="content" aria-live="polite"></section>
+    </main>
+
+    <template id="topicCardTemplate">
+      <article class="topic-card">
+        <div class="card-head">
+          <div>
+            <p class="card-kicker"></p>
+            <h2></h2>
+          </div>
+          <span class="risk-pill"></span>
+        </div>
+        <p class="summary"></p>
+        <div class="card-grid">
+          <section>
+            <h3>Why it matters</h3>
+            <p class="why"></p>
+          </section>
+          <section>
+            <h3>Creator angle</h3>
+            <p class="angle"></p>
+          </section>
+          <section>
+            <h3>Prompt idea</h3>
+            <p class="prompt"></p>
+          </section>
+          <section>
+            <h3>Risk note</h3>
+            <p class="risk-note"></p>
+          </section>
+        </div>
+        <div class="hashtags"></div>
+        <div class="sources"></div>
+      </article>
+    </template>
+
+    <script src="app.js"></script>
+  </body>
+</html>
