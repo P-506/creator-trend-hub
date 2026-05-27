@@ -1,6 +1,16 @@
 name: Update Trend Feed
 
 on:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/update-trends.yml"
+      - "scripts/fetch_trends.py"
+      - "index.html"
+      - "styles.css"
+      - "app.js"
+      - "README.md"
   schedule:
     # Every 3 hours from 08:00 to 23:00 Bangkok time.
     - cron: "0 1,4,7,10,13,16 * * *"
