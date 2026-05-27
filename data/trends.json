@@ -1,9 +1,7 @@
 {
-  "generatedAt": "2026-05-27T15:26:53.093149+07:00",
+  "generatedAt": "2026-05-27T15:33:53.671184+07:00",
   "dateRange": "2026-05-20 to 2026-05-27",
-  "sourceErrors": [
-    "gdelt: HTTP Error 429: Too Many Requests"
-  ],
+  "sourceErrors": [],
   "topics": [
     {
       "id": "corpcore-62bc46bda1",
@@ -585,16 +583,16 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "Spider-Noir review – Nicolas Cage’s stylish take on the superhero as a 1940s detective is huge fun",
-          "url": "https://www.theguardian.com/tv-and-radio/2026/may/27/spider-noir-review-nicolas-cages-stylish-take-on-the-superhero-as-a-1940s-detective-is-huge-fun"
-        },
-        {
           "title": "‘Spider-Noir’ Is a Multicolor Spin on ‘Spider-Man’",
           "url": "https://www.nytimes.com/2026/05/25/arts/television/spider-noir-spider-man.html"
         },
         {
-          "title": "‘Spider-Noir’ Review: Nicolas Cage Marvels in One of the Year’s Top TV Treats",
-          "url": "https://www.thewrap.com/creative-content/reviews/spider-noir-review-nicolas-cage-prime-video/"
+          "title": "Sony’s sloppy Spider-Man universe gets even messier with Spider-Noir",
+          "url": "https://www.theverge.com/entertainment/936358/amazon-spider-noir-review"
+        },
+        {
+          "title": "‘Spider-Noir’ TV series sews superhero suspense with noir-style story",
+          "url": "https://www.reuters.com/lifestyle/spider-noir-tv-series-sews-superhero-suspense-with-noir-style-story-2026-05-26/"
         }
       ],
       "updatedAt": "2026-05-27T14:40:00+07:00"
@@ -638,44 +636,6 @@
       "updatedAt": "2026-05-27T15:10:00+07:00"
     },
     {
-      "id": "topic-1e3fdf3478",
-      "title": "คลาสรูม",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 1000+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#คลาสรูม"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "The EdTech Backlash Is Here, and It's Just Getting Started",
-          "url": "https://jacobin.com/2026/05/educational-technology-children-learning-iready"
-        },
-        {
-          "title": "These Houston schools are saying no to AI and devices and yes to paper and pen",
-          "url": "https://www.houstonchronicle.com/news/houston-texas/education/article/school-technology-screens-learning-22238095.php"
-        },
-        {
-          "title": "Elevate voices of classroom teachers",
-          "url": "https://www.cnhinews.com/pennsylvania/opinion/article_31d9fdf1-fcb9-55bf-9b59-6b13d3763345.html"
-        }
-      ],
-      "updatedAt": "2026-05-27T08:50:00+07:00"
-    },
-    {
       "id": "fifa-2026-468af288e8",
       "title": "ความสัมพันธ์ 'FIFA กับอุตสาหกรรมพนันกีฬา' สร้างความกังวลก่อนฟุตบอลโลก 2026",
       "sourceType": "news",
@@ -700,6 +660,44 @@
         }
       ],
       "updatedAt": "2026-05-27T08:29:20+07:00"
+    },
+    {
+      "id": "90-a3a45919d6",
+      "title": "นักร้องยุค 90",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 100+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#นักร้องยุค90"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "อุ๊ยใครกัน? เพจดังแฉ “นักร้องสาวยุค 90” แอบกิ๊กแฟนชาวบ้าน แถมวิดีโอคอลโชว์หวิว",
+          "url": "https://www.thairath.co.th/entertain/gossip/2935624"
+        },
+        {
+          "title": "นักร้องสาวยุค 90 แย่งสามีคนอื่น แม้ตัวเองมีสามีเเล้ว | News In Thailand",
+          "url": "https://today.line.me/th/v3/article/wJKr1z0"
+        },
+        {
+          "title": "แฉ นักร้องสาวยุค90 เจ้าของเพลงดังมาก... แย่งแฟนคนอื่น แห่เปิดดู MV ร้องได้ทั้งเพลง",
+          "url": "https://www.khaosod.co.th/entertainment/news_10260882"
+        }
+      ],
+      "updatedAt": "2026-05-27T15:20:00+07:00"
     },
     {
       "id": "fta-bebc8c6e81",

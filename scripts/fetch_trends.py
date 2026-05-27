@@ -137,11 +137,12 @@ def main() -> int:
         errors.append(f"google_news: {exc}")
         failed_sources.add("news")
 
-    try:
-        topics.extend(fetch_gdelt_news(now))
-    except Exception as exc:  # noqa: BLE001
-        errors.append(f"gdelt: {exc}")
-        failed_sources.add("news")
+    if should_fetch_gdelt(now):
+        try:
+            topics.extend(fetch_gdelt_news(now))
+        except Exception as exc:  # noqa: BLE001
+            errors.append(f"gdelt: {exc}")
+            failed_sources.add("news")
 
     if existing_topics and failed_sources:
         fresh_source_types = {topic.get("sourceType") for topic in topics}
@@ -182,6 +183,12 @@ def load_existing_topics(path: Path) -> list[dict]:
     except (OSError, json.JSONDecodeError):
         return []
     return payload.get("topics", []) if isinstance(payload.get("topics"), list) else []
+
+
+def should_fetch_gdelt(now: datetime) -> bool:
+    # GDELT is useful as a broad public-news signal, but it rate-limits easily.
+    # Keep it to the first and evening scheduled runs in Bangkok time.
+    return now.astimezone(BANGKOK).hour in {8, 20}
 
 
 def fetch_google_trends(now: datetime) -> list[dict]:
