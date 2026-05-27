@@ -52,9 +52,7 @@ const els = {
 async function init() {
   bindEvents();
   try {
-    const response = await fetch("data/trends.json", { cache: "no-store" });
-    if (!response.ok) throw new Error(`HTTP ${response.status}`);
-    state.data = await response.json();
+    state.data = await fetchTrendData();
   } catch (error) {
     console.warn("Using fallback trend data:", error);
     state.data = fallbackData;
@@ -62,6 +60,34 @@ async function init() {
   state.topics = Array.isArray(state.data.topics) ? state.data.topics : [];
   populateCategoryFilter();
   render();
+}
+
+async function fetchTrendData() {
+  const urls = [
+    `data/trends.json?ts=${Date.now()}`,
+    "https://raw.githubusercontent.com/P-506/creator-trend-hub/gh-pages/data/trends.json",
+    "https://raw.githubusercontent.com/P-506/creator-trend-hub/main/data/trends.json",
+  ];
+  let latest = null;
+  const errors = [];
+
+  for (const url of urls) {
+    try {
+      const response = await fetch(url, { cache: "no-store" });
+      if (!response.ok) throw new Error(`HTTP ${response.status}`);
+      const data = await response.json();
+      if (!latest || new Date(data.generatedAt || 0) > new Date(latest.generatedAt || 0)) {
+        latest = data;
+      }
+    } catch (error) {
+      errors.push(`${url}: ${error.message || error}`);
+    }
+  }
+
+  if (!latest) {
+    throw new Error(errors.join("; "));
+  }
+  return latest;
 }
 
 function bindEvents() {
