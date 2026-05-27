@@ -43,11 +43,14 @@ This folder is ready to be pushed as its own GitHub repository.
 1. Create a new GitHub repository, for example `creator-trend-hub`.
 2. Push the contents of this folder to the repository's `main` branch.
 3. In GitHub, go to `Settings` -> `Pages`.
-4. Set `Source` to `GitHub Actions`.
-5. Run the `Deploy Creator Trend Hub` workflow, or push to `main`.
+4. Set `Source` to `Deploy from a branch`.
+5. Set `Branch` to `gh-pages` and `Folder` to `/root`.
+6. Run the `Update Trend Feed` workflow, or wait for the schedule.
 
 The deployed site will be available at:
 
 ```text
 https://<username>.github.io/creator-trend-hub/
 ```
+
+The `Update Trend Feed` workflow refreshes `data/trends.json` on `main` and publishes the static site to `gh-pages`.

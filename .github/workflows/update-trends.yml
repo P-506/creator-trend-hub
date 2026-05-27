@@ -2,7 +2,8 @@ name: Update Trend Feed
 
 on:
   schedule:
-    - cron: "0 2 * * 1,3,5"
+    # Every 3 hours from 08:00 to 23:00 Bangkok time.
+    - cron: "0 1,4,7,10,13,16 * * *"
   workflow_dispatch:
 
 permissions:
@@ -28,3 +29,19 @@ jobs:
         with:
           commit_message: "Update trend feed"
           file_pattern: data/trends.json
+
+      - name: Prepare Pages artifact
+        run: |
+          mkdir -p dist
+          cp index.html styles.css app.js README.md dist/
+          cp -R data dist/data
+          touch dist/.nojekyll
+
+      - name: Publish to gh-pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: gh-pages
+          publish_dir: ./dist
+          force_orphan: true
+          commit_message: "Publish updated trend hub"

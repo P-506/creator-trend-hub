@@ -16,13 +16,25 @@ from pathlib import Path
 BANGKOK = timezone(timedelta(hours=7))
 GOOGLE_TRENDS_RSS = "https://trends.google.com/trending/rss?geo=TH"
 GDELT_DOC_API = "https://api.gdeltproject.org/api/v2/doc/doc"
+GOOGLE_NEWS_RSS = "https://news.google.com/rss/search"
+
+GOOGLE_NEWS_KEYWORDS = [
+    "คาเฟ่",
+    "อาหาร",
+    "แฟชั่น",
+    "ความสัมพันธ์",
+    "วอลเลย์บอล",
+    "ซีรีส์",
+    "ดราม่า",
+    "คนละครึ่งพลัส",
+]
 
 
 CATEGORY_RULES = {
     "food": ["อาหาร", "คาเฟ่", "ร้าน", "กิน", "เมนู", "food", "cafe", "restaurant", "coffee"],
     "beauty": ["แฟชั่น", "สวย", "beauty", "fashion", "makeup", "skincare"],
     "entertainment": ["เพลง", "หนัง", "ดารา", "ซีรีส์", "concert", "movie", "music", "series"],
-    "relationship": ["รัก", "แฟน", "แต่งงาน", "relationship", "dating", "marriage"],
+    "relationship": ["ความรัก", "คู่รัก", "แต่งงาน", "relationship", "dating", "marriage"],
     "lifestyle": ["เที่ยว", "บ้าน", "ทำงาน", "สุขภาพ", "travel", "lifestyle", "work"],
     "social_topic": ["สังคม", "ไวรัล", "viral", "community", "online"],
 }
@@ -69,6 +81,11 @@ HIGH_RISK_TERMS = [
     "โรค",
     "วัคซีน",
     "ศาสนา",
+    "เถื่อน",
+    "ทลาย",
+    "เสียโฉม",
+    "มะเร็ง",
+    "ตาย",
     "politic",
     "election",
     "crime",
@@ -115,13 +132,24 @@ def main() -> int:
         failed_sources.add("trends")
 
     try:
+        topics.extend(fetch_google_news_keywords(now))
+    except Exception as exc:  # noqa: BLE001
+        errors.append(f"google_news: {exc}")
+        failed_sources.add("news")
+
+    try:
         topics.extend(fetch_gdelt_news(now))
     except Exception as exc:  # noqa: BLE001
         errors.append(f"gdelt: {exc}")
         failed_sources.add("news")
 
     if existing_topics and failed_sources:
-        topics.extend(topic for topic in existing_topics if topic.get("sourceType") in failed_sources)
+        fresh_source_types = {topic.get("sourceType") for topic in topics}
+        topics.extend(
+            topic
+            for topic in existing_topics
+            if topic.get("sourceType") in failed_sources and topic.get("sourceType") not in fresh_source_types
+        )
 
     topics = dedupe_topics(topics)
 
@@ -210,6 +238,41 @@ def fetch_gdelt_news(now: datetime) -> list[dict]:
             sources=[{"title": domain, "url": url}] if url else [],
             updated_at=seen,
         ))
+    return topics
+
+
+def fetch_google_news_keywords(now: datetime) -> list[dict]:
+    topics = []
+    for keyword in GOOGLE_NEWS_KEYWORDS:
+        params = {
+            "q": f"{keyword} when:7d",
+            "hl": "th",
+            "gl": "TH",
+            "ceid": "TH:th",
+        }
+        url = f"{GOOGLE_NEWS_RSS}?{urllib.parse.urlencode(params)}"
+        root = parse_xml(fetch_url(url, timeout=25))
+        for item in root.findall("./channel/item")[:5]:
+            raw_title = text(item, "title")
+            title, source_name = split_google_news_title(raw_title)
+            title = clean_news_title(title)
+            link = text(item, "link")
+            pub_date = parse_rss_date(text(item, "pubDate")) or now
+            description = strip_html(text(item, "description"))
+            summary = f"ข่าวจาก Google News keyword: {keyword}"
+            if source_name:
+                summary += f" / source: {source_name}"
+            if description and description != raw_title:
+                summary += f" - {description[:180]}"
+            topics.append(
+                make_topic(
+                    title=title,
+                    source_type="news",
+                    summary=summary,
+                    sources=[{"title": source_name or "Google News", "url": link}] if link else [],
+                    updated_at=pub_date,
+                )
+            )
     return topics
 
 
@@ -435,6 +498,22 @@ def text(node: ET.Element, path: str, ns: dict | None = None) -> str:
 
 def strip_html(value: str) -> str:
     return re.sub(r"<[^>]+>", " ", value).replace("&nbsp;", " ").strip()
+
+
+def split_google_news_title(title: str) -> tuple[str, str | None]:
+    if " - " not in title:
+        return title.strip(), None
+    headline, source = title.rsplit(" - ", 1)
+    return headline.strip(), source.strip() or None
+
+
+def clean_news_title(title: str) -> str:
+    title = re.sub(r"\s+", " ", title).strip()
+    title = re.sub(r"\s+#\S.*$", "", title)
+    title = title.strip(" .")
+    if len(title) > 170:
+        title = title[:167].rstrip() + "..."
+    return title
 
 
 def parse_rss_date(value: str) -> datetime | None:
