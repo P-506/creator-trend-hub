@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-30T21:42:21.651631+07:00",
-  "dateRange": "2026-05-23 to 2026-05-30",
+  "generatedAt": "2026-05-31T00:11:52.011790+07:00",
+  "dateRange": "2026-05-24 to 2026-05-31",
   "sourceErrors": [],
   "topics": [
     {
@@ -108,6 +108,32 @@
       "updatedAt": "2026-05-28T19:07:18+07:00"
     },
     {
+      "id": "netflix-b7960cf3d5",
+      "title": "คนมหัศจรรย์พลังรั่ว ซีรีส์เกาหลีสุดปั่นบน Netflix",
+      "sourceType": "news",
+      "category": "entertainment",
+      "contentPotential": "high",
+      "riskLevel": "low",
+      "summary": "ข่าวจาก Google News keyword: ซีรีส์ / source: readthecloud.co - คนมหัศจรรย์พลังรั่ว ซีรีส์เกาหลีสุดปั่นบน Netflix    readthecloud.co",
+      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
+      "creatorAngle": "เล่า reaction ส่วนตัวต่อกระแส แล้วเปิดคำถามให้คนคุยต่อ",
+      "promptIdea": "กระแสนี้ทุกคนอยู่ทีมไหน?",
+      "hashtags": [
+        "#EntertainmentTH",
+        "#คุยเรื่องบันเทิง",
+        "#กระแสวันนี้",
+        "#คนมหัศจรรย์พลังรั่วซีรีส"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "readthecloud.co",
+          "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOdl9FUjF0bHBLQ2V0eEV6eXp3N0lZZXoxNXl6NVppWEVpU29PSnEtelBKWnNrT0F4RGZFeGxGT3VxRlJ2TGZRQ1VmbnJaLW5pNGNYc2VTQkQ4dlVLTEctdjc3MGZSVXZKMnR5WlJwWGJKZ0x3OHVJSmE2ZENHN1I1RE1VRGtDaHhBZnRqVFNRTW9Qd1NvWG5DdmpuandzNHowTnhIbU40R29iTHJIRHIxU2JGRzg4cHJCR0ttNDdrcnEwSmV3YmlucVlGVWpMdnh2T1dtQlhDdjJReTQ1UGRvczEwNTR3c2t4b0dVa2RKSUpSSUtGbzBDTTFnYXNJSWlxNU5RaWVITGYwU2lRSE1FYWhGMjd2SkpsVG8wR19ZNS1ZZw?oc=5"
+        }
+      ],
+      "updatedAt": "2026-05-27T09:50:53+07:00"
+    },
+    {
       "id": "the-lead-2026-5ed00c33d9",
       "title": "ชวนดูซีรีส์! บทเพลงแห่งนางงิ้ว The Lead (2026)",
       "sourceType": "news",
@@ -160,56 +186,42 @@
       "updatedAt": "2026-05-26T14:00:00+07:00"
     },
     {
-      "id": "topic-2c3876c3ba",
-      "title": "ตลาดค้าปลีกเครื่องนุ่งห่มฝรั่งเศสซบเซา ยกเว้นยอดขายออนไลน์เติบโตต่อเนื่อง",
-      "sourceType": "news",
-      "category": "beauty",
+      "id": "topic-a18b1dd6d9",
+      "title": "บ้านผลบอล",
+      "sourceType": "trends",
+      "category": "lifestyle",
       "contentPotential": "high",
       "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: แฟชั่น / source: ditp.go.th - ตลาดค้าปลีกเครื่องนุ่งห่มฝรั่งเศสซบเซา ยกเว้นยอดขายออนไลน์เติบโตต่อเนื่อง    ditp.go.th",
-      "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
-      "creatorAngle": "ชวนแชร์สไตล์ ไอเท็ม หรือเทคนิคที่ใช้จริงโดยไม่ขายของแข็งเกินไป",
-      "promptIdea": "สไตล์นี้ถ้าแต่งในชีวิตจริงจะรอดไหม?",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 20000+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "โยงกับชีวิตประจำวันของ Creator และถามประสบการณ์คนในคอมมูนิตี้",
+      "promptIdea": "ช่วงนี้มีใครเจอเรื่องแบบนี้เหมือนกันไหม?",
       "hashtags": [
-        "#BeautyTalk",
-        "#FashionTH",
-        "#ไอเดียแต่งตัว",
-        "#ตลาดค้าปลีกเครื่องนุ่งห่"
+        "#LifestyleTH",
+        "#ชีวิตประจำวัน",
+        "#แชร์ประสบการณ์",
+        "#บ้านผลบอล"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
         {
-          "title": "ditp.go.th",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5vTTg4WGJqVTFKbmI4R0xOaEh5cWk1NmpVaWRFTE9TTHBvX0FGbUczdmN4Q1FoVUtMVGVPVlhzQk81c09zSHlqV2NSUHU5RThTc0NpOGRQXzlhYVZ3NHFHaGlB?oc=5"
-        }
-      ],
-      "updatedAt": "2026-05-29T03:59:00+07:00"
-    },
-    {
-      "id": "topic-c6d249ea39",
-      "title": "นายกฯ เป็นเจ้าภาพงานเลี้ยงอาหารค่ำ ปธน.เวียดนามและคณะ ตอกย้ำมิตรภาพบนรากฐานความผูกพันด้านประวัติศาสตร์ วัฒนธรรม อาหาร และการท่องเที่ยว อ่านต่อในคอมเมนต์",
-      "sourceType": "news",
-      "category": "food",
-      "contentPotential": "high",
-      "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: อาหาร / source: facebook.com - นายกฯ เป็นเจ้าภาพงานเลี้ยงอาหารค่ำ ปธน.เวียดนามและคณะ ตอกย้ำมิตรภาพบนรากฐานความผูกพันด้านประวัติศาสตร์ วัฒนธรรม อาหาร และการท่องเที่ยว อ่านต่อในคอมเมนต์ #สวพ91 #นายกรัฐมนตรี #ไทยเว",
-      "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
-      "creatorAngle": "ให้ Creator เล่าประสบการณ์ร้าน/เมนูที่อยากลอง แล้วถามคนอื่นว่าคิดเหมือนกันไหม",
-      "promptIdea": "เห็นคนพูดถึงเมนูนี้เยอะมาก มีใครลองแล้วบ้าง?",
-      "hashtags": [
-        "#FoodTrend",
-        "#CafeTH",
-        "#รีวิวของกิน",
-        "#นายกฯเป็นเจ้าภาพงานเลี้ย"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
         {
-          "title": "facebook.com",
-          "url": "https://news.google.com/rss/articles/CBMikghBVV95cUxOYUFHMW1UT3RGVzU2c04xVmlBY3BET3JScG9QdGRKU0Q3Z0M5bUNXLUc5a2tZZEhtcERKcE9SVUZhbjBtZ2VtYjJwOXRrN3F2YTdpZnpIUzJsc2EzTE0zOV9fT2s0UjdvSFM2UTBYb1BlWlNRclJ5SWVkLWNmclMxVGtvaUVNYUpvaUF0S1BubW1BQUNWazJqRS1BbzQ0UTZGU3UxVkloRGxQYmV3NVJQV0FZQ2lxWnc0RHo4NURuVDZnRVdESzRRejRCRFlxV2JkYVNMek94Zl9ZQzVZcFlXM0ZCd2dUMzJXYTk3ZWVjeHJKSktBMV9CQmhIQndxdGdKb3lhTXlZVGhtRXc2b2hhWnZzbmFqQTZNV0tCbU1sOVFWaDd1TV90Z0pYNE5xcXVfR0VDaHZtaUdQZ0VPWGsyY3BpWmM2U1NwRG5SM0d4YTVfYmtEZ0RvcnNpcjd0X2JLc21VdXp1WmpOaWpTVFBraWpPYjgwQ0JUaElOcHN6TWczNXhvYjFIOEZ2eXFCX1JZbkdjUjV1SDdEUWEzbVZkTkYtVjBfZTZrMEFSaEVVVXNQNDVHLUpoVnVwSTJ0T3gwb0V0V0F2SUlLb3NFUk5SVXhUVUNwZHZ3aG90WmpnZksyc0RaZW11cnhHVWFIUEVtdzlSVzg5N3NydENad041d3pnclZKamtpTE4zczBuSEo4bk0tSUxYalNTQkJ0ODRzMV90bEFiOGItcGVjc3VpTGhCdWdMelJhbDEyRlRQSDlTNHNDNlBGV1BuR19sSkFVaE8tXzhLanpQQVZxQXljY3JfbzdwcFA0YkNEb05BZDNTNTFJZHBQNWd2U09sZERjVnE2c3d6Mmg4ZUdFakZlZHlfLTVNRDcyUVdRX1NLNDk1UDE2dlpyWjJmZXZKbnFXakJrR09wRWlRWV93bXhpLXQ5eE51WkI2LUtaRjZteUpEcmxENHVvanNRTHFGQWV6clFqZ3F3TzN2Um1xYXVaQmNwV09JVGlVc21uT0VBeWxNRmppdjAtbVItOWtESUFFRzhuQTE1LUhtQzVva2hvdzJ0WVFXdUxFQTN3TGFBWHg2RUdfWDU2Y2wwLS1RcWhWT3VENU80SlhCTW1TY0p3UmxqcURNYTFsX29RQUdwVkJRSTJLME1xZk80SnlMdUtmTDhJQjNrLVdwS0FxSzVmd0JvUVdYSnlBZWotMmpSc2JwdjZHQXk5WGE0Nnk5SjZHQkY1WXhzOU5aaF9jRXZvcmhycEt0RHJVVTZ0UnJ5NjdXWGJDX3VWbzVqeE1QeTB6SzV1LUZBckYxQnVhZTdfaElpa2hLRUFEbnRjNkw3ci1helo1SlZkSzNTX3NCUHo2MkQ0NEdPcDRIWnhaaEl2Rk5B?oc=5"
+          "title": "อิราโอล่า เต็งจ๋าคุม ลิเวอร์พูล! คล็อปป์-เอ็นรีเก้ ติดโผด้วย",
+          "url": "https://www.siamsport.co.th/football-international/premierleague/104483/"
+        },
+        {
+          "title": "ไม่รอช้า \"ลิเวอร์พูล\" เผยสาเหตุปลด \"สล็อต\" แล้ว คำตอบชัดเจน",
+          "url": "https://www.thairath.co.th/sport/eurofootball/premierleague/2936423"
+        },
+        {
+          "title": "มันจบแล้ว! \"โรมาโน\" ตีข่าว \"หงส์แดง\" เฉดหัว \"ชล็อต\" เรียบร้อย",
+          "url": "https://www.dailynews.co.th/news/5906396/"
         }
       ],
-      "updatedAt": "2026-05-29T00:53:31+07:00"
+      "updatedAt": "2026-05-30T23:30:00+07:00"
     },
     {
       "id": "2026-b60e08602c",
@@ -288,6 +300,32 @@
         }
       ],
       "updatedAt": "2026-05-27T12:41:27+07:00"
+    },
+    {
+      "id": "appetizer-4-dd1512468e",
+      "title": "ลุ้นแชมป์!! ผ่านพ้นไปกับเมนูแรก Appetizer หรืออาหารเรียกน้ำย่อยของทั้ง 4 คน ธิติ-ต้นกล้า-นิว-พลอย เพียงแค่แข่งแรกก็ลุ้นหัวใจแทบวาย . แต่ไม่ว่าผลจะออกมาอย่างไรก็ยังคงต้...",
+      "sourceType": "news",
+      "category": "food",
+      "contentPotential": "high",
+      "riskLevel": "low",
+      "summary": "ข่าวจาก Google News keyword: อาหาร / source: facebook.com - ลุ้นแชมป์!! ผ่านพ้นไปกับเมนูแรก Appetizer หรืออาหารเรียกน้ำย่อยของทั้ง 4 คน ธิติ-ต้นกล้า-นิว-พลอย เพียงแค่แข่งแรกก็ลุ้นหัวใจแทบวาย . แต่ไม่ว่าผลจะออกมาอย่างไรก็ยังคงต้องเดินหน้าลุย",
+      "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
+      "creatorAngle": "ให้ Creator เล่าประสบการณ์ร้าน/เมนูที่อยากลอง แล้วถามคนอื่นว่าคิดเหมือนกันไหม",
+      "promptIdea": "เห็นคนพูดถึงเมนูนี้เยอะมาก มีใครลองแล้วบ้าง?",
+      "hashtags": [
+        "#FoodTrend",
+        "#CafeTH",
+        "#รีวิวของกิน",
+        "#ลุ้นแชมป์!!ผ่านพ้นไปกับเ"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "facebook.com",
+          "url": "https://news.google.com/rss/articles/CBMi8AZBVV95cUxQQjBpaTNDTHZ1V2V3YW00ekZXb0JTc0tmZkFOUWpwUVJNZnk5LUF3b2IxTlVyX3MxVE9tem5jSW9QVDliRjl5ZXJUWFZ5M2NHa0p4TmloSmFYVDVuSUpaQldkTjFnM2FHaFFJaW1sYUkxeGtKeXJ2UHh6Z0FveDV2SzFiRkIwbnZ6bElCNmRYNnlXOTdmaXl2c0NPSWZrTnVydmlYZ0JrMmkxYVE5XzVoYXp4OEd1M2h3aGQtSllOR2p4QUF5Sk1VdzJYcDlqb1FhV3dzd3U3UGZ1eEZxRzJjUzFqUDlrOWhyWDEtdmY1a3NUSnQ1VDNla1pZS184SDVTemV4VHF1aF9Ib3ZtZmZxNGpkcEsyMF9fc3RjdDBwSTBOaUNLRXFuaDZOcEhBdUlvck5VelM2dUx0aFRHVHJsREdlTHJpV1U3emhhcjN3djBLQTZnMlZKelVEYUxycTlweUFoVmdVams1aW1BX21EYU04M29MWUdsLUstN3p2WGhISmd0UVUtc29NYXB5RUtPUE44b0FLaldkUE5qbllNbWJEN2hqRXhmbVBoNzI4MU1GaTMwemdENHZFbUo2SDJTQjk2UjZqdzlsVERlUzkzU3o4cEZ1Njl1T09seWw4MGw5UTVKdUViNHFqdC00OTZLSHN3YWhsSVVfbDNPVEx4eVhsX0Jyanc3X2Raa082ZURza1psSk9MODRuSnF1cEtQYjlnMlVZNEFkbjhMbTBOakg0REtsRDkxNHY0dGpQR2M1azZTQ3pyUDI3RmtFSk5ZOWJiZDVSMjR6T3N6WjkyVHJKRjNaYlp1OWFBaG9ZcnAyaWRON2NFR2JqWVRYNWlZT1ZJZWd6ZXZFaTRsb1lucXhFcU9LVldwMktRbVdZdnVKNjZJbDFSTlJxWlh3ZDFPQUpMOTV1V1FZd2Y4XzV3cGNpbVIzN1ByTUVIMWpFZnJKNTdEQkl0dXhtNnloVE5xMzRrNGZoRGxJYlFYTU1VZ1hETWN1T1ZodVZMWEdrRnU2OEVwYzNfemJBOW92UE90M3Yya1c0ZDN0T1ZiTHdBRXZ5ZlJiSlRhdkdfb0hvYUtkMy1WZ1pGOEZlMnpQRW1iS0xvTkp5NjJaa05wMEx6MERPTzh0OHZBOWlXTTFkQ1lDd2duLW9ZbXYtemJESDU0?oc=5"
+        }
+      ],
+      "updatedAt": "2026-05-29T12:30:02+07:00"
     },
     {
       "id": "pet-food-50-lifemate-rs-group-00393f353e",
@@ -394,30 +432,56 @@
       "updatedAt": "2026-05-27T11:04:21+07:00"
     },
     {
-      "id": "dazzling-2026-9fb67b7219",
-      "title": "เรื่องย่อซีรีส์ : Dazzling | พราว (2026)",
+      "id": "thaifex-2026-nsl-foods-food-innovation-627a477e93",
+      "title": "เปิดฉากงาน THAIFEX 2026 \"NSL Foods\" ชูนวัตกรรมอาหารอนาคต Food Innovation",
       "sourceType": "news",
-      "category": "entertainment",
+      "category": "food",
       "contentPotential": "high",
       "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: ซีรีส์ / source: korseries.com - เรื่องย่อซีรีส์ : Dazzling | พราว (2026)    korseries.com",
-      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
-      "creatorAngle": "เล่า reaction ส่วนตัวต่อกระแส แล้วเปิดคำถามให้คนคุยต่อ",
-      "promptIdea": "กระแสนี้ทุกคนอยู่ทีมไหน?",
+      "summary": "ข่าวจาก Google News keyword: อาหาร / source: Thairath.co.th - เปิดฉากงาน THAIFEX 2026 \"NSL Foods\" ชูนวัตกรรมอาหารอนาคต Food Innovation    Thairath.co.th",
+      "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
+      "creatorAngle": "ให้ Creator เล่าประสบการณ์ร้าน/เมนูที่อยากลอง แล้วถามคนอื่นว่าคิดเหมือนกันไหม",
+      "promptIdea": "เห็นคนพูดถึงเมนูนี้เยอะมาก มีใครลองแล้วบ้าง?",
       "hashtags": [
-        "#EntertainmentTH",
-        "#คุยเรื่องบันเทิง",
-        "#กระแสวันนี้",
-        "#เรื่องย่อซีรีส์:Dazzling"
+        "#FoodTrend",
+        "#CafeTH",
+        "#รีวิวของกิน",
+        "#เปิดฉากงานTHAIFEX2026\"NS"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
         {
-          "title": "korseries.com",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBVTnpKRHNxSm96NUFPZUpuMkhjOEgxMFhueU1mR05mZXVpQnhVWWpWbGVhTy1id1BnQXdaNTRRSWM5amptTTV1X2VkWXRBSU5PU29CTm9tQ2x4dkJ6Qnc?oc=5"
+          "title": "Thairath.co.th",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1nWGt2WlBCSHFvTW1JYnRTNXFpbHBscndYYzhXXzVfYUs0ZUF4Wl9ldFF6em5oY1pJT1FpdFJoUXFYWWRiM2h6SG1sTWNnYkxxMnpoNkVuQ3B6M3J0UEprWnRJMA?oc=5"
         }
       ],
-      "updatedAt": "2026-05-27T21:48:04+07:00"
+      "updatedAt": "2026-05-26T15:09:49+07:00"
+    },
+    {
+      "id": "28-2569-world-intellectual-propert-a3caf5e5b4",
+      "title": "เมื่อวันที่ 28 พฤษภาคม 2569 สมเด็จพระเจ้าลูกเธอ เจ้าฟ้าสิริวัณณวรี นารีรัตนราชกัญญา เสด็จไปยังอาคารสำนักงานใหญ่ องค์การทรัพย์สินทางปัญญาโลก (World Intellectual Propert...",
+      "sourceType": "news",
+      "category": "beauty",
+      "contentPotential": "high",
+      "riskLevel": "low",
+      "summary": "ข่าวจาก Google News keyword: แฟชั่น / source: facebook.com - เมื่อวันที่ 28 พฤษภาคม 2569 สมเด็จพระเจ้าลูกเธอ เจ้าฟ้าสิริวัณณวรี นารีรัตนราชกัญญา เสด็จไปยังอาคารสำนักงานใหญ่ องค์การทรัพย์สินทางปัญญาโลก (World Intellectual Property Organizatio",
+      "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
+      "creatorAngle": "ชวนแชร์สไตล์ ไอเท็ม หรือเทคนิคที่ใช้จริงโดยไม่ขายของแข็งเกินไป",
+      "promptIdea": "สไตล์นี้ถ้าแต่งในชีวิตจริงจะรอดไหม?",
+      "hashtags": [
+        "#BeautyTalk",
+        "#FashionTH",
+        "#ไอเดียแต่งตัว",
+        "#เมื่อวันที่28พฤษภาคม2569"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "facebook.com",
+          "url": "https://news.google.com/rss/articles/CBMiqAdBVV95cUxPeDIxX0c0TUc3ZzU0TjlGbTJCMFRfWVZzYnl6ZklYR1ZPb1FrVTctSHpBdVVZeTI0WTFOZkdoX2w5ajBkSjA2bTdMYnI2TVc3TmZJWXZuSDQ5dE4wNDlrNmNoTE9hRTdDZVZjSEhtVTl2XzNFRnZQbHptcW1fc19tSWcyT1lya0VMdnRqNjJCd3A2N0Fyd05ueWlmalEwcXhvTklxS1U4MXhqUWhtNnozSTAzZ2VEaGxQZElCM0pSUndlTTlkTktzeTB2VGFZY0FEdmZhYU8zeXh3bXZIamhxTUl0Z2NkYzZROVJuTzJiMFY3ZDQ2bF9TNkMtSERROHc4VldhaFdWWHBlLVFRUlZTaFBKT0F5X3g0SWttT3ZtSFRja2V4NUh4Qk9KN1VXV3NtczlLenl1OW1MRFVKMUt1RG5WcGNsSHFrckZOanJfUUJKb2x0WS1oZXRUeVVEcmFmRUJKTDdpcUpDVDJCOVdvcFZsUjlVSExQNE11MHB3dHJBRUQtcHd1OU1TNWd5ckk0Vl9Nb0RSR3lrUDcybG52S3B3YklNUWdtbmU5X3NIRFdRdjNzVWN4VEhXZlh1MmJTeWpRY2NEMEN0MDZaaWRnWnhMUTNnMkFGVGRIYThxTjNVT2dob0Jwaloyek5BWmtiNW9zckJBMVlFdFNtbExzV1RYNXNVTk53NUw4LWFjMG5jS3ZYdlhQRmRaeFdnUVZibzFLaGdXQkZ5VGlSc2NuN2JlU1R6M2Z6aEltSzAzMFR3SVc0SEFQdHZaZEszSXpfSlRSOG5pMUg3cmJVc1hZNzE1WXEtRndEVXUxZGoyWXdzQ0hsWmVpNUZwOGdtZ1R2c0F3LVRtRVppeHBWUE9ONkxnTG1PT05IWENzOXJnWjNjWWtkc2VxTmlpRURheGdidXRJZ0FpWkwtdTV1c2pmVjRIa3pWZDBCU1NmY2dFQWFOTW5rZ2R5TlFPVGRySzVTNUxEMWUycC1mclQ1ZVBHdzdhaUEzX3JDOHBVZGVpSnlLdjhKSzczRzFBY1FJNXBoNlB0NHROMnMwZ042UVM2TTNTbW1kNEtPeVhlV2Vhc0ZSY09UNWpFN1R6SFBGYkNobG9KdDNyeFV2V1gta0Z3clhmalBwaFYwRnRUWlpFUkxaMS1lZnkwbTRkZVJKWlVwOU81eUpGek52M00tc3BuLWJwa1F6TFBpNGN4eFZiNXB4eWNiRVFzWVpSbXdWUzNfNktxNDltVDA?oc=5"
+        }
+      ],
+      "updatedAt": "2026-05-29T16:49:46+07:00"
     },
     {
       "id": "netflix-2569-9f6c724d0f",
@@ -576,46 +640,8 @@
       "updatedAt": "2026-05-25T05:34:19+07:00"
     },
     {
-      "id": "andoni-iraola-7818557acd",
-      "title": "andoni iraola",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 2000+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#andoniiraola"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "Iraola por Slot",
-          "url": "https://as.com/futbol/internacional/iraola-por-slot-f202605-n/"
-        },
-        {
-          "title": "¿Quién será el próximo entrenador del Liverpool?",
-          "url": "https://www.si.com/es-us/futbol/quien-sera-el-proximo-entrenador-del-liverpool"
-        },
-        {
-          "title": "«La situación iba a ir de mal en peor»: el exdelantero del Manchester United respalda la destitución de Arne Slot por el «ambiente tóxico» en Anfield",
-          "url": "https://www.goal.com/es-mx/listados/la-situacion-iba-a-ir-de-mal-en-peor-el-exdelantero-del-manchester-united-respalda-la-destitucion-de-arne-slot-por-el-ambiente-toxico-en-anfield/blt1c5cf9c8965bb165"
-        }
-      ],
-      "updatedAt": "2026-05-30T18:20:00+07:00"
-    },
-    {
-      "id": "bein-sports-1-7921ea2f4a",
-      "title": "bein sports 1",
+      "id": "arsenal-vs-psg-live-f3c6afd8b8",
+      "title": "arsenal vs psg live",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
@@ -628,7 +654,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#beinsports1"
+        "#arsenalvspsglive"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -637,23 +663,23 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "Republic of Ireland 1-0 Qatar: Nathan Collins earns The Boys in Green narrow friendly win as both sides end with 10 men",
-          "url": "https://www.skysports.com/football/news/11095/13548850/republic-of-ireland-1-0-qatar-nathan-collins-earns-the-boys-in-green-narrow-friendly-win-as-both-sides-end-with-10-men"
+          "title": "Arsenal travelling squad for Budapest confirmed pre-CL final",
+          "url": "https://dailycannon.com/2026/05/arsenal-champions-league-final-squad/"
         },
         {
-          "title": "Ireland vs Qatar: How to Watch, Prediction, Odds, Friendly Preview",
-          "url": "https://www.foxsports.com/stories/soccer/ireland-vs-qatar-how-watch-prediction-friendly-preview"
+          "title": "🎥 The stadium's already buzzing! Fans are up for the CL final",
+          "url": "https://onefootball.com/en/news/the-stadiums-already-buzzing-fans-are-up-for-the-cl-final-42944017"
         },
         {
-          "title": "Ten-man Ireland edge Qatar amid tennis ball protests at Aviva Stadium",
-          "url": "https://www.rte.ie/sport/soccer/2026/0528/1575637-ten-man-ireland-edge-qatar-amid-tennis-ball-protests/"
+          "title": "Licensable picture: UEFA Champions League - Final - Arsenal Arrival",
+          "url": "https://www.reutersconnect.com/item/uefa-champions-league-final-arsenal-arrival/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNNVMxR09HRlI"
         }
       ],
-      "updatedAt": "2026-05-30T20:00:00+07:00"
+      "updatedAt": "2026-05-30T23:10:00+07:00"
     },
     {
-      "id": "mgi-all-star-67ab3e4779",
-      "title": "mgi all star",
+      "id": "beinsport-b72c1c8265",
+      "title": "beinsport",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
@@ -666,7 +692,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#mgiallstar"
+        "#beinsport"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -675,61 +701,23 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "Cebuana queens Gazini Ganados, Fuschia Anne Ravena in Top 18 of MGI All Stars",
-          "url": "https://entertainment.inquirer.net/671943/gazini-ganados-fuschia-anne-ravena-advance-to-top-18-of-mgi-all-stars"
+          "title": "Alphonso Davies headlines Canada's 26-player World Cup roster",
+          "url": "https://www.espn.com/soccer/story/_/id/48914937/alphonso-davies-named-canada-world-cup-squad-injury-concerns"
         },
         {
-          "title": "GOOD LUCK, QUEENS! Five Pinay queens are making their return to the pageant stage for the first-ever MGI All Stars. Send them love and support as they aim to make history for the Philippines on Saturday night, May 30.",
-          "url": "https://www.facebook.com/abscbnNEWS/posts/good-luck-queens-five-pinay-queens-are-making-their-return-to-the-pageant-stage-/1525114546330463/"
+          "title": "Canada name World Cup squad: Promise David and Alfie Jones in as Jesse Marsch bets on fitness of key players",
+          "url": "https://www.nytimes.com/athletic/7281859/2026/05/29/canada-world-cup-squad-injuries-promise-david-alfie-jones/"
         },
         {
-          "title": "Five Filipinas face make-or-break bid at Miss Grand International All Stars 2026",
-          "url": "https://tribune.net.ph/2026/05/30/five-filipinas-face-make-or-break-bid-at-miss-grand-international-all-stars-2026"
+          "title": "World Cup 2026: Alphonso Davies in Canada squad despite recent injuries",
+          "url": "https://www.bbc.com/sport/football/articles/c4g4j119xdqo"
         }
       ],
-      "updatedAt": "2026-05-30T19:40:00+07:00"
+      "updatedAt": "2026-05-30T23:10:00+07:00"
     },
     {
-      "id": "soccersuck-88e63af65d",
-      "title": "soccersuck",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#soccersuck"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "เรอัล มาดริด ยังคงเป็นสโมสรฟุตบอลที่แพงที่สุดในโลก",
-          "url": "https://www.vietnam.vn/th/real-madrid-van-la-doi-bong-dat-gia-nhat-the-gioi"
-        },
-        {
-          "title": "ฟอร์บส์เปิดอันดับทีมฟุตบอลมูลค่าสูงสุดในโลก เรอัล มาดริด ครองแชมป์ 5 ปีติด",
-          "url": "https://www.khaosod.co.th/sports/news_10264330"
-        },
-        {
-          "title": "แมนฯ ยูฯ เป็นสโมสรฟุตบอล มีมูลค่าสูงเป็นอันดับ 2 ของโลก ราว 6.5 พันล้านดอลลาร์สหรัฐ",
-          "url": "https://mainstand.co.th/th/news/1/article/25370"
-        }
-      ],
-      "updatedAt": "2026-05-30T18:40:00+07:00"
-    },
-    {
-      "id": "ticket-to-heaven-b925f5cd1d",
-      "title": "ticket to heaven",
+      "id": "fotmob-c98fcf49cc",
+      "title": "fotmob",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
@@ -742,7 +730,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#tickettoheaven"
+        "#fotmob"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -751,28 +739,28 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "\"เจมีไนน์-โฟร์ท\" ฉีกบทบาทใน “Ticket to Heaven เด็กชายไม่ไปสวรรค์’’",
-          "url": "https://www.thairath.co.th/novel/news/2935905"
+          "title": "Zimbabwe vs India: Friendlies stats & head-to-head",
+          "url": "https://www.bbc.com/sport/football/live/cwy2l8klxv1t"
         },
         {
-          "title": "ล้างภาพจำ! ‘เจมีไนน์’ สวิตช์โหมด หลัง \"สมเจม\" ไวรัลเกินควบคุม - ‘ปอนด์’ ออกแนวสงสาร",
-          "url": "https://www.mintmagth.com/story/gemini-somgem-in-lol-fan-fest-2026-concert-new-pic-ticket-to-heaven-ppnaravit"
+          "title": "Unity Cup 2026: Indian football team finishes fourth after losing 1-0 to Zimbabwe",
+          "url": "https://www.olympics.com/en/news/unity-cup-2026-football-india-vs-zimbabwe-3rd-place-playoff-report"
         },
         {
-          "title": "วงในรู้กัน! ‘เจมีไนน์-โฟร์ท’ ไม่มีพลาด ยังยืนยันคำเดิมกับสถานะของ ‘ปอนด์-ภูวินทร์’",
-          "url": "https://www.mintmagth.com/people/gemini-fourth-ticket-to-heaven-the-live-pond-phuwin"
+          "title": "India vs Zimbabwe - live score, predicted lineups and H2H stats",
+          "url": "https://www.fotmob.com/en-GB/matches/zimbabwe-vs-india/1besm3"
         }
       ],
-      "updatedAt": "2026-05-30T21:10:00+07:00"
+      "updatedAt": "2026-05-30T23:30:00+07:00"
     },
     {
-      "id": "topic-cdf82543a4",
-      "title": "การประปานครหลวง",
+      "id": "psg-106a87994d",
+      "title": "psg",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 2000+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -780,16 +768,28 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#การประปานครหลวง"
+        "#psg"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
         {
           "title": "Google Trends",
           "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "Composition du PSG face à Arsenal : Fabian Ruiz préféré à Warren Zaïre-Emery pour la finale de Ligue des champions",
+          "url": "https://www.lequipe.fr/Football/Actualites/Composition-du-psg-face-a-arsenal-fabian-ruiz-prefere-a-warren-zaire-emery-pour-la-finale-de-ligue-des-champions/1680270"
+        },
+        {
+          "title": "PSG - Arsenal : les compositions officielles",
+          "url": "https://www.footmercato.net/a6575628585784942083-psg-arsenal-les-compositions-officielles"
+        },
+        {
+          "title": "DIRECT. PSG-Arsenal: premier acte terriblement frustrant pour Paris, on avait rêvé d'un autre scénario",
+          "url": "https://rmcsport.bfmtv.com/football/ligue-des-champions/direct-psg-arsenal-suivez-le-match-de-la-finale-de-ligue-des-champions-en-live_LS-202605300041.html"
         }
       ],
-      "updatedAt": "2026-05-30T19:20:00+07:00"
+      "updatedAt": "2026-05-30T23:00:00+07:00"
     },
     {
       "id": "fifa-2026-468af288e8",
@@ -818,13 +818,13 @@
       "updatedAt": "2026-05-27T08:29:20+07:00"
     },
     {
-      "id": "topic-b783096ad7",
-      "title": "ซิริอุส",
+      "id": "topic-1b6617efde",
+      "title": "ดูทีวีออนไลน์",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 100+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 1000+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -832,7 +832,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#ซิริอุส"
+        "#ดูทีวีออนไลน์"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -841,19 +841,37 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "AIK vs Sirius: Allsvenskan stats & head-to-head",
-          "url": "https://www.bbc.co.uk/sport/football/live/cdxpp25n9rqt"
-        },
-        {
-          "title": "Football Bet of the Day: Stockholm strikes appeal on Saturday",
-          "url": "https://mrfixitstips.co.uk/football-bet-of-the-day-stockholm-strikes-appeal-on-saturday/"
-        },
-        {
-          "title": "AIK vs Sirius match lineup | Sweden League · 30 May 2026",
-          "url": "https://www.ysscores.com/en/lineup/5107509/AIK-vs-IK-Sirius"
+          "title": "\"ป๋ากิ๊ก-ตุ๊กกี้\" เขย่าหน้าจอ ช่อง 7HD นั่งเก้าอี้กรรมการ \"ดวลเพลงดัง\"",
+          "url": "https://entertainment.trueid.net/detail/8OnVndzqDeJO"
         }
       ],
-      "updatedAt": "2026-05-30T20:30:00+07:00"
+      "updatedAt": "2026-05-30T23:00:00+07:00"
+    },
+    {
+      "id": "topic-a2cffea7c2",
+      "title": "ทรูไอดี",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#ทรูไอดี"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        }
+      ],
+      "updatedAt": "2026-05-30T23:00:00+07:00"
     },
     {
       "id": "170-0e995f67e9",
@@ -882,6 +900,44 @@
       "updatedAt": "2026-05-26T18:14:38+07:00"
     },
     {
+      "id": "topic-2e5fe1c5cb",
+      "title": "บอลโลก",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#บอลโลก"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "โปรแกรมฟุตบอลโลก 2026 FIFA World Cup รอบสุดท้าย พร้อมวัน เวลาแข่งขัน",
+          "url": "https://www.pptvhd36.com/sport/news/276321"
+        },
+        {
+          "title": "แคนาดา เปิดโผ 26 แข้งลุยบอลโลก - อัลฟอนโซ เดวีส์ ยังนำทัพ",
+          "url": "https://www.khaosod.co.th/sports/news_10264871"
+        },
+        {
+          "title": "คาดไม่ถึง เปิดทีมเต็งแชมป์ฟุตบอลโลก 2026 ล่าสุด หลัง 8 ชาติใหญ่ประกาศรายชื่อครบแล้ว",
+          "url": "https://www.thairath.co.th/sport/worldcup/2936258"
+        }
+      ],
+      "updatedAt": "2026-05-30T23:50:00+07:00"
+    },
+    {
       "id": "55-6475205943",
       "title": "ประธานาธิบดีจีน-ออสเตรีย ส่งสารยินดี 55 ปีความสัมพันธ์ทางการทูตสองประเทศ",
       "sourceType": "news",
@@ -906,44 +962,6 @@
         }
       ],
       "updatedAt": "2026-05-29T11:11:01+07:00"
-    },
-    {
-      "id": "topic-d5ea870dd1",
-      "title": "ลิเก",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 100+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#ลิเก"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "\"น้ำเพชร\" โวยด่านสรรพยา! โดนยัดใบสั่ง 500 อ้าง พ.ร.บ. ขาด ทั้งที่หลักฐานคาตา ลั่นถามมาตรฐานตำรวจอยู่ตรงไหน?",
-          "url": "https://mgronline.com/onlinesection/detail/9690000051218"
-        },
-        {
-          "title": "“น้ำเพชร” งงหนัก! ถูก ตร.เรียกกลางด่าน บอก พ.ร.บ.ขาด ทั้งที่ความจริงยังไม่ขาด สุดท้ายเจอใบสั่ง 500 บาท",
-          "url": "https://today.line.me/th/v3/article/rmK0KvQ"
-        },
-        {
-          "title": "ตำรวจแจงปมนางเอกลิเก ‘น้ำเพชร’ โดนใบสั่ง เผยปัญหาจาก ‘ในระบบ’ ไม่พบว่ารถต่อทะเบียน",
-          "url": "https://www.dailynews.co.th/news/5905777/"
-        }
-      ],
-      "updatedAt": "2026-05-30T19:20:00+07:00"
     },
     {
       "id": "vnl-2026-12-3-0c85eb189a",
@@ -972,82 +990,6 @@
       "updatedAt": "2026-05-29T09:07:41+07:00"
     },
     {
-      "id": "topic-42b5f0f784",
-      "title": "สกอตแลนด์บอล",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 100+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#สกอตแลนด์บอล"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "สก๊อต' จัดกอร์ดอนเฝ้าเสา-พักแม็คกินน์ก่อนลุยบอลโลก | Soccersuck",
-          "url": "https://today.line.me/th/v3/article/vXapWn0"
-        },
-        {
-          "title": "ทีมชาติสกอตแลนด์ ประกาศ 26 ขุนพล ทำศึกฟุตบอลโลก 2026 รอบสุดท้าย",
-          "url": "https://www.pptvhd36.com/sport/news/276494"
-        },
-        {
-          "title": "สตีฟ คลาร์ก ต่อสัญญาระยะยาวคุมทีมชาติสกอตแลนด์ไปถึงปี 2030",
-          "url": "https://www.khaosod.co.th/sports/news_10262746"
-        }
-      ],
-      "updatedAt": "2026-05-30T20:10:00+07:00"
-    },
-    {
-      "id": "topic-a79a530798",
-      "title": "อิราโอล่า",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 5000+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#อิราโอล่า"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "ฟุตบอลแบบ อิราโอล่า จะเปลี่ยนแปลง ลิเวอร์พูล ได้ยังไง?!",
-          "url": "https://www.siamsport.co.th/football-international/premierleague/104491/"
-        },
-        {
-          "title": "ด่วน!! \"ลิเวอร์พูล\" ปลด \"สล็อต\" แล้ว เผยตัวเต็งกุนซือคนใหม่ทันที",
-          "url": "https://www.thairath.co.th/sport/eurofootball/premierleague/2936418"
-        },
-        {
-          "title": "มันจบแล้ว! \"โรมาโน\" ตีข่าว \"หงส์แดง\" เฉดหัว \"ชล็อต\" เรียบร้อย",
-          "url": "https://www.dailynews.co.th/news/5906396/"
-        }
-      ],
-      "updatedAt": "2026-05-30T18:20:00+07:00"
-    },
-    {
       "id": "vnl-2026-fef9014509",
       "title": "เปิดอันดับโลก ก่อนวอลเลย์บอลหญิงไทยทำศึกเนชั่นส์ ลีก VNL 2026",
       "sourceType": "news",
@@ -1072,6 +1014,82 @@
         }
       ],
       "updatedAt": "2026-05-27T12:23:00+07:00"
+    },
+    {
+      "id": "topic-150c04c12f",
+      "title": "ไทยรัฐ",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#ไทยรัฐ"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "หวยออก 1 มิ.ย. นักเก็บสถิติไม่พลาดส่อง \"เลขเด็ด\" ไปเสี่ยงโชคงวดนี้ 1/6/69",
+          "url": "https://www.thairath.co.th/lottery/news/2936278"
+        },
+        {
+          "title": "สถิติหวยออกวันจันทร์ หวยงวดนี้ 1 มิถุนายน 2569 สถิติย้อนหลัง 10 ปี งวด 1/6/69",
+          "url": "https://www.sanook.com/news/9891350/"
+        },
+        {
+          "title": "เลขเด็ด 1/6/69 เปิด 10 อันดับเลขขายดีจากสลาก 5 ภาค",
+          "url": "https://readthecloud.co/%E0%B9%80%E0%B8%A5%E0%B8%82%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%94/"
+        }
+      ],
+      "updatedAt": "2026-05-30T23:20:00+07:00"
+    },
+    {
+      "id": "topic-da5ff02143",
+      "title": "ไทยรัฐออนไลน์",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 100+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#ไทยรัฐออนไลน์"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "ไขข้อข้องใจ! รัฐจ่าย 60% เราจ่าย 40% คิดยังไง? ต้องเติมเงินเข้าเป๋าตังเท่าไร",
+          "url": "https://www.thairath.co.th/news/society/2936283"
+        },
+        {
+          "title": "ลงทะเบียน ไทยช่วยไทย พลัส 5 วัน สรุปประชาชนลงทะเบียนสำเร็จกว่า 26 ล้านคน ลงทะเบียนไม่สำเร็จ กว่า 4 แสนคน",
+          "url": "https://today.line.me/th/v3/article/mWK0KBp"
+        },
+        {
+          "title": "ผู้ประกอบการค้าปลีก-ส่ง จังหวัดลำพูน เพิ่มสต๊อกสินค้า 3 เท่า ขานรับนโยบายไทยช่วยไทย พลัส",
+          "url": "https://news.ch7.com/detail/876146"
+        }
+      ],
+      "updatedAt": "2026-05-30T23:40:00+07:00"
     },
     {
       "id": "topic-575d2a5703",
@@ -1249,10 +1267,6 @@
       "riskNote": "Medium risk ควรอ้างอิงแหล่งทางการและเตือนให้ระวังลิงก์ปลอมหรือข้อมูลผิด",
       "sources": [
         {
-          "title": "กรมประชาสัมพันธ์",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5KU3FhazhERlFmYTNTV1k2QkIwRzNQVUNla3hsVG0zdzVrNElONEtlVXYxbmNWM2RXSlFZVTV0RmNOVFNXYmNzRkdyWS1pMjNvcjZ4RTYyTzQ0LTk3dzBMVDFoUFlQTVdaV2pCRXgyRUhxNmM?oc=5"
-        },
-        {
           "title": "ศูนย์ต่อต้านข่าวปลอม ประเทศไทย",
           "url": "https://news.google.com/rss/articles/CBMi5wdBVV95cUxOaDVZYnRtRHp3OWQ5VW0zc2h4WHhVa1AyNDZveHo4ZDJ1T2lTbEViWDFheWhCSmtSRWtlaWtMbmFHeG8wOFlLM3A0ZzdNNFc3cHh5T0hIZHdUOEs0VVdXTzhMdHd4Mm5aOXFyTW9PbVEwYXpuVGFDVmw2SXBFUHpuYmlCdXVzWWRvRFo1ZnVRWnRkbWwwVEZMMnBhMi1fcGN5d1UteVFrcmNtS0NqTXBQazV2RW52MXh0ZUNzZ1UxN3oxUlBBbGVUeWJPNnJHSXdhQ0lBNURMYnVJRDhxS1k3Vm1IR1I3MEoyUW5mbHBtN1hEbnpGNGJPVlRMNm93dHhnRU1VeGc1dVFXV043S0RNb3ExNFBVVVhOcmJCUG1oOUx1eXZLNnMyYllQZmh1VkpBRkYtc29jVFhhb2t6YU41WnV3MnJwOHNpV3lVME5uT0RjakhWZmp6UkZNcmZ0czVTWGhoS2ZkYmJZRnVxY0Vya1NTNlg0OFJfeE1tNTZiUE8xVmYxbkhDdndWZDE4a28ydThiY1lmck9OaldnLTB0cUo4QmN2bFdHR1pGQ2ZSeTZuV3lSQVR1ZHNvSDJFYmpONmpxNlY4V1Z1cGo0NV9wWEhWTTJsT0FJcnJpTzUzTFV5QmlZRXU4ZWh3SHJiY2lfcUN2Z2NVN0hkVlYyUUlhT3RkejdpNFdIM2pNQ3lEVS1HNWh5cXRBWE1LUW9BNVdzenF3QVpITTJxbTRGVFJiTlplM2lPN3pPckNTYkNnYm1xbUFUV3ZJUk5keHg3XzJUeVJZT2FweGdIVHpneWlhNmx1VlBHYVAxRVlFaUVRMUE1THo3eDVBYjk2SGpZUDdmVXNhYmhmT0NBNWE5SVF2a2duTlJ3MDFXN2N6TjF3VTlxSWtWRXV0U2ZhRmlqRmY0U1R3bkRJZWNQN3VnNEdTcDY2NHhVeVJGRzZMY0VjVXY5QS1RemF0ZGlMeG91VTBTc0poV0hZRTF4X3pTN3J6eC1TRjlXZ1FFVUNvZ1owOHduNlN0OW9kZTNwTS03d1p1dGIwWGhoWDM4SjdzU1JhV0wtelhxU09ENF9rVHhDY3QwV2YwVHRKd24ySnJhaThzcGtjMlliS1hxdFhaQ05oX21Ga2R5MG9DSnNqSEFkZ2h0OVlORHl4OUlCbTVUZHR4OXU4eFRkNjFUWmw2c2NiNHFTMFRhUEkwRWRjUjdydUZxSE9oWVN1V2NOMm5ibG13cFJRZnZLTXNMQi1WLUtraU5NU3UwOW1DSHNJMklhby1tdVNsZjlQMWhTd2NrSTBLaEFQOTlCeVI4QnRnTWJBbnpYTTA3Qms?oc=5"
         },
@@ -1267,9 +1281,13 @@
         {
           "title": "Sanook.com",
           "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1fUHpXWGJvR0lkRzZRYjFIVUdia2pOYk5vcjJXZzhpRGFMT0JUd0liWmc5bmRtdktOd0MzRE1BWFAyekRUTXFoMjQyYW0?oc=5"
+        },
+        {
+          "title": "Thai PBS",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUN3hlSFdwT2dpQU5vTFRwYXkxNUJPd2VidUxYd25tZGxHQkswcG9CR285WmNIRjRmcU9wZURCcWlQaXE0Tk9rcGw3V05GTWhJemZsTFloSGtHdw?oc=5"
         }
       ],
-      "updatedAt": "2026-05-25T08:55:24+07:00"
+      "updatedAt": "2026-05-24T18:09:27+07:00"
     },
     {
       "id": "phutta-talk-spd-4a77f048c9",
@@ -1295,7 +1313,7 @@
           "url": "https://news.google.com/rss/articles/CBMi1gZBVV95cUxNQ01mckRubEtkTFF6TVRBb01qUWtfUHZkcXNBMEMyY1ItckZyZGI5SFdsSDBLYm5DLTgxTlVZWmJKMFZzRnZIVTFGNWZreVdTcFNYV2NWZFdOa0ZNOE5xMjJ5QkpiNURUY29tazg5X3FnVFRrMXVkQktxX2REOUw3enR4bThVTnExZjMtV2pLMG9PWEpSZy1nbm1INThNN05uVF83WmUwZFB1NGFZODlCYnlMcjkwaFdyaGFNcWttdGVYZmFsZXNQa1owVEZOREhrZExjNjFHaHdqZXhlS0pQMzA1YjNTRlZxQXdNMmk0NW9tczVrUmNzZklqZnpIUzhkREpJM0Q3YmxlWVZWeVQtZmlzN3JDaVdkdmtZUlg4TkRiTlYwMXRhdG16dGhBN1lDeHNRWWJBMkJsYnotdXpJRWZJQkRIMEdfb2Q3Q1lSWlZ4d0p2bXg2alB3NFdZcU9zVko2Q09BZzlYLTV6YTBMRTZBajFTNmFzbFN0cWc3ZGg3enRERGVJU3VYakc4dzNURXByQTRXNHpaV1MxUURnRXptbm0yZXNHMG56bmNQeHNrN3Jfa2Rldm54QXA1MmVzc2hRZVg0czhjYzJRMTdBeXJmcjNXUEZEMkw3ZmhFdVBGNkhsOUJzcjlfQjBvVU5oNFFBLVUzQzBNTFdncnRUVEtJOWVuMF9MQ1JZNzVqdVgweVN6TDhBc0lSQjBoV1BJV2FnT0JCTzFRdjY5RW5XbFFQZU9mY2FJUDB3Um1sanlFOUEzODRJa2lKd1o4bmdEbHN5bXh3d084M0poQXRZcnNOek43MjBJY3NLODJPamctQUJveXAwTkFaQkNxemFtNHJxTXd3d0FWRkl1S1lOQ282UEJvOHp6N1paYUZaSW9zU25ORC1MOFlYZ2Vtc0Z0ZnVBUW14dlh1VTQwT2doc2M5dExQMThPSE5rcXBZWlJ6YWZIMEctTE5HbnNCcTllbXR1VWpvUklGY3RXN3l1dnhXWVF4VndJR0JrWUFmcW9nOHNlOFA1SENGQzVaNURNX1NIQ1pRVXY1UVlhQnpsUGtGSEdRN1A4ZlRGRlpRZjlHOVdqeWc3VjVqYVVYMkdhQlJ1VEE4OEpSYTdBalE4NjhKbE4wdw?oc=5"
         }
       ],
-      "updatedAt": "2026-05-30T19:30:34+07:00"
+      "updatedAt": "2026-05-30T22:37:24+07:00"
     }
   ]
 }
