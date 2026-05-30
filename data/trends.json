@@ -1,8 +1,34 @@
 {
-  "generatedAt": "2026-05-29T23:43:18.142047+07:00",
-  "dateRange": "2026-05-22 to 2026-05-29",
+  "generatedAt": "2026-05-30T11:54:02.896684+07:00",
+  "dateRange": "2026-05-23 to 2026-05-30",
   "sourceErrors": [],
   "topics": [
+    {
+      "id": "2-thai-select-361e127b0b",
+      "title": "\"ศุภจี\" ตรวจเยี่ยม \"เสือโหย–บางใหญ่\" 2 ร้านอาหารไทย Thai SELECT กลางนครเจนีวา ดันภาพลักษณ์อาหารไทยคุณภาพ - รสชาติไทยแท้สู่ตลาดโลก",
+      "sourceType": "news",
+      "category": "food",
+      "contentPotential": "high",
+      "riskLevel": "low",
+      "summary": "ข่าวจาก Google News keyword: อาหาร / source: moc.go.th - \"ศุภจี\" ตรวจเยี่ยม \"เสือโหย–บางใหญ่\" 2 ร้านอาหารไทย Thai SELECT กลางนครเจนีวา ดันภาพลักษณ์อาหารไทยคุณภาพ - รสชาติไทยแท้สู่ตลาดโลก    moc.go.th",
+      "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
+      "creatorAngle": "ให้ Creator เล่าประสบการณ์ร้าน/เมนูที่อยากลอง แล้วถามคนอื่นว่าคิดเหมือนกันไหม",
+      "promptIdea": "เห็นคนพูดถึงเมนูนี้เยอะมาก มีใครลองแล้วบ้าง?",
+      "hashtags": [
+        "#FoodTrend",
+        "#CafeTH",
+        "#รีวิวของกิน",
+        "#\"ศุภจี\"ตรวจเยี่ยม\"เสือโห"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "moc.go.th",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1mODRxckVaSnVEbkdYdzc4RXRaUE5LREZCUjlHZmFLNTlkcEY0MXl1MWJSaXlwMktucjlHRGhXUy1XRC1oRXNRbkE3REtnNHhRaVMwUmt5UzZQalpDa2U5OTBLUFp2eXVEZ1E5cVRYUQ?oc=5"
+        }
+      ],
+      "updatedAt": "2026-05-28T09:47:46+07:00"
+    },
     {
       "id": "eveandboy-workshop-1-8789cb37c9",
       "title": "EVEANDBOY เปิดคาเฟ่-Workshop ดึงลูกค้าใช้เวลาในร้านนานขึ้น ตั้งเป้ายอดขาย 1 หมื่นล้าน",
@@ -28,32 +54,6 @@
         }
       ],
       "updatedAt": "2026-05-25T17:30:25+07:00"
-    },
-    {
-      "id": "ihl-899bf5411f",
-      "title": "IHL สายแฟชั่นเต็มตัว บอลโลกหนุนรองเท้า",
-      "sourceType": "news",
-      "category": "beauty",
-      "contentPotential": "high",
-      "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: แฟชั่น / source: Thunhoon - IHL สายแฟชั่นเต็มตัว บอลโลกหนุนรองเท้า    Thunhoon",
-      "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
-      "creatorAngle": "ชวนแชร์สไตล์ ไอเท็ม หรือเทคนิคที่ใช้จริงโดยไม่ขายของแข็งเกินไป",
-      "promptIdea": "สไตล์นี้ถ้าแต่งในชีวิตจริงจะรอดไหม?",
-      "hashtags": [
-        "#BeautyTalk",
-        "#FashionTH",
-        "#ไอเดียแต่งตัว",
-        "#IHLสายแฟชั่นเต็มตัวบอลโล"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Thunhoon",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9hY1BJeUtsZFptZVdLTUFVRlFBRGYyX05jX2J1bkxVX2xCRHBNbmxMdWhtN3g0OG5SZjZ2NTAzU3BjRmx2MnpaamtEalJZb25B?oc=5"
-        }
-      ],
-      "updatedAt": "2026-05-29T02:41:54+07:00"
     },
     {
       "id": "nicolo-bakery-one-bangkok-a86e68c096",
@@ -218,7 +218,7 @@
       "category": "entertainment",
       "contentPotential": "high",
       "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: ซีรีส์ / source: Sanook - รวมซีรีส์จีนพากย์ไทย น่าดูที่สุดในปี 2026 พระ-นางเคมีปัง คัดมาแล้วเน้นๆ    Sanook",
+      "summary": "ข่าวจาก Google News keyword: ซีรีส์ / source: Sanook.com - รวมซีรีส์จีนพากย์ไทย น่าดูที่สุดในปี 2026 พระ-นางเคมีปัง คัดมาแล้วเน้นๆ    Sanook.com",
       "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
       "creatorAngle": "เล่า reaction ส่วนตัวต่อกระแส แล้วเปิดคำถามให้คนคุยต่อ",
       "promptIdea": "กระแสนี้ทุกคนอยู่ทีมไหน?",
@@ -231,7 +231,7 @@
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
         {
-          "title": "Sanook",
+          "title": "Sanook.com",
           "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBWSWZpaE1xV1djTTFUMWxtQnUyeFdFQ2hyVFE3MHhybHc2WVhMMlpwRXdVRG9MTHB1M2phS3N3ZlE1bWhtWUhvMXZ3V2M?oc=5"
         }
       ],
@@ -270,7 +270,7 @@
       "category": "food",
       "contentPotential": "high",
       "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: คาเฟ่ / source: TrueID InTrend - รีวิวนั่งทำงานที่คาเฟ่ IKEA ไปยังไง บรรยากาศดีไหม    TrueID InTrend",
+      "summary": "ข่าวจาก Google News keyword: คาเฟ่ / source: TrueID - รีวิวนั่งทำงานที่คาเฟ่ IKEA ไปยังไง บรรยากาศดีไหม    TrueID",
       "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
       "creatorAngle": "ให้ Creator เล่าประสบการณ์ร้าน/เมนูที่อยากลอง แล้วถามคนอื่นว่าคิดเหมือนกันไหม",
       "promptIdea": "เห็นคนพูดถึงเมนูนี้เยอะมาก มีใครลองแล้วบ้าง?",
@@ -283,8 +283,8 @@
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
         {
-          "title": "TrueID InTrend",
-          "url": "https://news.google.com/rss/articles/CBMi6ARBVV95cUxPal9fdUJHdWhDRDBWSDl0S0NCMnFveDV5djZJUFVTV3o0aGlGa0w3NTRJMXBBay1NdEk5V1Rtamd5aW5LdWNjWXBHc2hVYUw1MTNTWDIyaFpZajdaV3cwQlAyNTBieEtsLWdYb0RsZFNyeTNaekxIRnBkOXExTlJ2RW8teHJVdm5Ia1ZwanZycUNZT3lSR2g1TXdhc3BpSmpNNXdwQ3JqeDR2X3FWcGo2WGhwcXllVEF6VGs1cXMyZGtsQVZ1NnRoRTBKemMtUUhsZUszc0lMTEtKVWtlZ01fR0prYmM2YU14bFVMTmhTUzlGc0JVSDJtWVRaYk4xcFFheE1iQzdZSS1MbjZVVnpINGVhMlhkOHEwd0dEcUVSZ2swT1ZNcGlxcHV3YlI0cERRd05zZHA1Y3ZENldRSnpaOU5KOFhYcVJXZUprYWM5Smppc1VwU2h5ekRLUlBzVFZsbjhwR0VRR1RYTGRrakd0QUhIN3BuN1JPaTJBWUF0UkFFSDdPMHlRZ3FvbFc3SHFYdXhPWHRoendyRU40NTNtbk1vZGVidGJGa2NyZ2lhUFVDaEphNFNBb0dZOXVFR1FxS1FyWXc0ZEpWNGFReW14eURIQ2RrYmVxRXNIdDNzNmNHXzF2NFhTbHFvakhLMmdiZWJyR2tWQm1mcF91Zk1MRUVWRlVaVWhsd2F1MUNxSms2cV93bF9tRE5GdEVIZ3RqVVctc015aVE4dEdCbHB5ZXdBcWZLOVYxWVJKSk9CWGl6NW9SVjB3dGQwWnVNSmpNMmFMVFpyeHVXT2NndkY3bFR3MWJXb0pL?oc=5"
+          "title": "TrueID",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9WLVlCd3VVTUpwNWYteE4xM2s1Rk9ScVhHUzh0MXZ5R2E5NzV6dXdrbFhnYzdKLXplOGc4Q3diN1Rha1pnMUhQZ18tMVhGN01sZ2R3UTdkbVY?oc=5"
         }
       ],
       "updatedAt": "2026-05-27T12:41:27+07:00"
@@ -394,30 +394,30 @@
       "updatedAt": "2026-05-27T11:04:21+07:00"
     },
     {
-      "id": "5-2026-17e6a38150",
-      "title": "แกร็บฟู้ด เปิด 5 เทรนด์อาหารสุดปังที่ได้ไปต่อในปี 2026",
+      "id": "dazzling-2026-9fb67b7219",
+      "title": "เรื่องย่อซีรีส์ : Dazzling | พราว (2026)",
       "sourceType": "news",
-      "category": "food",
+      "category": "entertainment",
       "contentPotential": "high",
       "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: อาหาร / source: Marketeer Online - แกร็บฟู้ด เปิด 5 เทรนด์อาหารสุดปังที่ได้ไปต่อในปี 2026    Marketeer Online",
-      "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
-      "creatorAngle": "ให้ Creator เล่าประสบการณ์ร้าน/เมนูที่อยากลอง แล้วถามคนอื่นว่าคิดเหมือนกันไหม",
-      "promptIdea": "เห็นคนพูดถึงเมนูนี้เยอะมาก มีใครลองแล้วบ้าง?",
+      "summary": "ข่าวจาก Google News keyword: ซีรีส์ / source: korseries.com - เรื่องย่อซีรีส์ : Dazzling | พราว (2026)    korseries.com",
+      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
+      "creatorAngle": "เล่า reaction ส่วนตัวต่อกระแส แล้วเปิดคำถามให้คนคุยต่อ",
+      "promptIdea": "กระแสนี้ทุกคนอยู่ทีมไหน?",
       "hashtags": [
-        "#FoodTrend",
-        "#CafeTH",
-        "#รีวิวของกิน",
-        "#แกร็บฟู้ดเปิด5เทรนด์อาหา"
+        "#EntertainmentTH",
+        "#คุยเรื่องบันเทิง",
+        "#กระแสวันนี้",
+        "#เรื่องย่อซีรีส์:Dazzling"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
         {
-          "title": "Marketeer Online",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9ncVRpMi1ZOU5jMUdYeVlsX0JLX2taWDk5RXJsaVpKZm1OdTZsVk5DT2xxM2hFcFgzbndJLXJNMUxkT3J1eXBXbG1hRFpabmo3ME5CMA?oc=5"
+          "title": "korseries.com",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBVTnpKRHNxSm96NUFPZUpuMkhjOEgxMFhueU1mR05mZXVpQnhVWWpWbGVhTy1id1BnQXdaNTRRSWM5amptTTV1X2VkWXRBSU5PU29CTm9tQ2x4dkJ6Qnc?oc=5"
         }
       ],
-      "updatedAt": "2026-05-27T16:23:23+07:00"
+      "updatedAt": "2026-05-27T21:48:04+07:00"
     },
     {
       "id": "2027-f4db91ce8a",
@@ -472,13 +472,39 @@
       "updatedAt": "2026-05-26T14:00:00+07:00"
     },
     {
+      "id": "topic-c6e116dbb4",
+      "title": "“วิโรจน์” จี้ทางหลวง ตรวจสอบแฟชั่นสติ๊กเกอร์ หวั่นส่วยรถบรรทุกคืนชีพ",
+      "sourceType": "news",
+      "category": "beauty",
+      "contentPotential": "high",
+      "riskLevel": "low",
+      "summary": "ข่าวจาก Google News keyword: แฟชั่น / source: Thairath.co.th - “วิโรจน์” จี้ทางหลวง ตรวจสอบแฟชั่นสติ๊กเกอร์ หวั่นส่วยรถบรรทุกคืนชีพ    Thairath.co.th",
+      "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
+      "creatorAngle": "ชวนแชร์สไตล์ ไอเท็ม หรือเทคนิคที่ใช้จริงโดยไม่ขายของแข็งเกินไป",
+      "promptIdea": "สไตล์นี้ถ้าแต่งในชีวิตจริงจะรอดไหม?",
+      "hashtags": [
+        "#BeautyTalk",
+        "#FashionTH",
+        "#ไอเดียแต่งตัว",
+        "#“วิโรจน์”จี้ทางหลวงตรวจส"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Thairath.co.th",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1heTFQRG5CZktyUTlfb1JZdDRsYy1TTEw4VG1vdkhlRFFKOXpCWkZCVGt6cGd0ZGlWSmZWRVRyY1VHTlJKYmJQN0lkbVY2YlNoTEd0aG5adk9TTjg?oc=5"
+        }
+      ],
+      "updatedAt": "2026-05-27T18:27:56+07:00"
+    },
+    {
       "id": "3-vnl-2026-88fccbb5b4",
       "title": "\"นายกสมพร\" เผยชื่อ 3 วอลเลย์บอลสาวไทย หมดสิทธ์ลุยศึก VNL 2026 สนามแรก",
       "sourceType": "news",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: วอลเลย์บอล / source: Sanook - \"นายกสมพร\" เผยชื่อ 3 วอลเลย์บอลสาวไทย หมดสิทธ์ลุยศึก VNL 2026 สนามแรก    Sanook",
+      "summary": "ข่าวจาก Google News keyword: วอลเลย์บอล / source: Sanook.com - \"นายกสมพร\" เผยชื่อ 3 วอลเลย์บอลสาวไทย หมดสิทธ์ลุยศึก VNL 2026 สนามแรก    Sanook.com",
       "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -491,7 +517,7 @@
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
         {
-          "title": "Sanook",
+          "title": "Sanook.com",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1OTVhqaTVnMVctdWYxSEhwMmVnYnVmUkNmdGRjcVN1N0lXSHc0Nm4wcDdLbDlhZWtMMEtMdGpxdHRzZElVWDJ3elBqYkVqQQ?oc=5"
         }
       ],
@@ -524,38 +550,8 @@
       "updatedAt": "2026-05-25T05:34:19+07:00"
     },
     {
-      "id": "broken-blade-code-b55901421b",
-      "title": "broken blade code",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 100+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#brokenbladecode"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "Broken Blade Codes (May 2026)",
-          "url": "https://beebom.com/broken-blade-codes/"
-        }
-      ],
-      "updatedAt": "2026-05-29T21:30:00+07:00"
-    },
-    {
-      "id": "ipl-9817258300",
-      "title": "ipl",
+      "id": "one-ui-8-5-e2f6c58b94",
+      "title": "one ui 8.5",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
@@ -568,7 +564,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#ipl"
+        "#oneui8.5"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -577,61 +573,23 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "'Cricket is a team game': Vaibhav Sooryavanshi reveals father's lesson on missed centuries",
-          "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/cricket-is-a-team-game-vaibhav-sooryavanshi-reveals-fathers-lesson-on-missed-centuries/articleshow/131385180.cms"
+          "title": "Here's Every Samsung Phone Getting The One UI 8.5 Update",
+          "url": "https://www.bgr.com/2181572/every-samsung-phone-getting-one-ui-8-5-update/"
         },
         {
-          "title": "India IPL Cricket",
-          "url": "https://www.springfieldnewssun.com/nation-world/india-ipl-cricket/image_3026e232-4140-51cc-9bb5-ea8a27d2a0de.html"
+          "title": "One UI 8.5 update expands to more budget Galaxy phones and tablets",
+          "url": "https://tech-ish.com/2026/05/29/one-ui-8-5-update-expands-to-more-budget-galaxy-phones-and-tablets/"
         },
         {
-          "title": "Vaibhav Sooryavanshi scripts yet another IPL record in Qualifier 2, becomes first batter to...",
-          "url": "https://www.moneycontrol.com/sports/cricket/ipl/vaibhav-sooryavanshi-scripts-yet-another-ipl-record-in-qualifier-2-becomes-first-batter-to-article-13936001.html"
+          "title": "Samsung just expanded its most addictive camera feature beyond flagships: here's the full list of Galaxy phones getting it",
+          "url": "https://www.phonearena.com/news/camera-assistant-is-now-available-on-more-galaxy-devices_id180659"
         }
       ],
-      "updatedAt": "2026-05-29T21:10:00+07:00"
+      "updatedAt": "2026-05-30T09:00:00+07:00"
     },
     {
-      "id": "roland-garros-669104144c",
-      "title": "roland garros",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#rolandgarros"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "«Ce genre de match doit être arbitré par un homme» : le dérapage de Vallejo après sa défaite contre Kouame à Roland-Garros",
-          "url": "https://www.lefigaro.fr/sports/tennis/roland-garros/si-nous-avions-joue-dans-une-autre-ville-il-aurait-perdu-vallejo-furieux-contre-l-arbitrage-apres-sa-defaite-contre-kouame-a-roland-garros-20260529"
-        },
-        {
-          "title": "Qui est le Chilien Alejandro Tabilo, prochain adversaire de Moïse Kouame au 3e tour de Roland-Garros ?",
-          "url": "https://www.lequipe.fr/Tennis/Actualites/Qui-est-le-chilien-alejandro-tabilo-prochaine-adversaire-de-moise-kouame-au-3e-tour-de-roland-garros/1679646"
-        },
-        {
-          "title": "Dans la presse - Kouamé joua... et Roland-Garros s'embrasa",
-          "url": "https://www.france24.com/fr/%C3%A9missions/dans-la-presse/20260529-terre-de-feu-roland-garros-s-embrasena"
-        }
-      ],
-      "updatedAt": "2026-05-29T21:40:00+07:00"
-    },
-    {
-      "id": "rr-vs-gt-2b3ed897d1",
-      "title": "rr vs gt",
+      "id": "topic-678b4dcdd7",
+      "title": "ข่าวรถชน",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
@@ -644,7 +602,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#rrvsgt"
+        "#ข่าวรถชน"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -653,95 +611,19 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "Ground Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",
-          "url": "https://www.espncricinfo.com/series/ipl-2026-1510719/gujarat-titans-vs-rajasthan-royals-qualifier-2-1535464/live-cricket-score"
+          "title": "อุบัติเหตุเสียชีวิต ถนนเส้นบายพาสชะอำ มุ่งหน้า กทม. กม.ที่ 18 ต.สามพระยา อ.ชะอำ จ.เพชรบุรี | สวพ.FM91",
+          "url": "https://today.line.me/th/v3/article/nXKvn91"
         },
         {
-          "title": "IPL | RR 109/4 (11.3) (Vaibhav Sooryavanshi 47(27) ) | Gujarat Titans vs Rajasthan Royals, Qualifier 2, Indian Premier League 2026 Live Cricket Stream, live scores, ball-by-ball commentary, highlights, videos, news, and more in USA & Canada",
-          "url": "https://www.cricbuzz.com/live-cricket-scores/155398/gt-vs-rr-qualifier-2-indian-premier-league-2026"
+          "title": "สลด! หมอขับเก๋งเสียหลักพุ่งชนราวเหล็กริมทางบายพาสชะอำ ดับ 2 เจ็บสาหัส 1",
+          "url": "https://mgronline.com/local/detail/9690000050834"
         },
         {
-          "title": "Vaibhav Sooryavashi vs Siraj-Rabada - 'that's where the game could change', predicts Anil Kumble",
-          "url": "https://sports.yahoo.com/articles/vaibhav-sooryavashi-vs-siraj-rabada-124100847.html"
+          "title": "ข่าวรถเก๋งพุ่งชนราวกั้นขอบทาง เสียชีวิต 2 คน ในรถพบเสื้อกาวน์นายแพทย์",
+          "url": "https://news.ch7.com/detail/875918"
         }
       ],
-      "updatedAt": "2026-05-29T21:10:00+07:00"
-    },
-    {
-      "id": "xiaomi-17t-552c513f3a",
-      "title": "xiaomi 17t",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#xiaomi17t"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "เปิดตัว Xiaomi 17T Series จัดเต็มกล้อง Leica ซูม 5x แบตสุดอึด พร้อมทัพสินค้ารุ่นใหม่เพียบ",
-          "url": "https://www.thairath.co.th/lifestyle/tech/2936252"
-        },
-        {
-          "title": "สเปค Xiaomi 17T, Xiaomi 17T Pro กล้องหลัง Leica ซูมไกล 120 เท่า ได้ชิปเรือธง Dimensity 9500",
-          "url": "https://droidsans.com/xiaomi-17t-and-17t-pro-global-launch-spec-details/"
-        },
-        {
-          "title": "สรุปสเปก Xiaomi 17T Series สเปกครบไม่ต้องไปเรือธง ก่อนเปิดราคาเย็นนี้!",
-          "url": "https://www.sanook.com/hitech/1624994/"
-        }
-      ],
-      "updatedAt": "2026-05-29T20:40:00+07:00"
-    },
-    {
-      "id": "topic-d5d600b3ca",
-      "title": "กรุงเทพมหานคร",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 500+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#กรุงเทพมหานคร"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "คำถามท้าดวลทีมงานผู้สมัครชิงตำแหน่งผู้ว่าฯ กรุงเทพมหานคร EP.2",
-          "url": "https://www.bbc.com/thai/articles/c0j2lq3jyy9o"
-        },
-        {
-          "title": "“ชาญเทพ” เดินสวนจตุจักร-สวนรถไฟ ขอเสียงคนกรุง ​ชูนโยบาย “ขยายเวลาสวน”",
-          "url": "https://www.thairath.co.th/news/politic/2936285"
-        },
-        {
-          "title": "\"KPI Poll\" ระบุ ศึกเลือกตั้งผู้ว่าฯ กทม. พบคนยังไม่ตัดสินใจสูง ขณะที่อดีตผู้ว่าฯ ชัชชาติ คะแนนนำแต่ยังไม่นิ่ง",
-          "url": "https://today.line.me/th/v3/article/MLV6XRz"
-        }
-      ],
-      "updatedAt": "2026-05-29T19:50:00+07:00"
+      "updatedAt": "2026-05-30T08:30:00+07:00"
     },
     {
       "id": "fifa-2026-468af288e8",
@@ -770,13 +652,13 @@
       "updatedAt": "2026-05-27T08:29:20+07:00"
     },
     {
-      "id": "29-5-69-ce8ffcb4f0",
-      "title": "ตรวจหวยลาว29/5/69",
+      "id": "thaifex-2026-5a51fd3220",
+      "title": "งาน thaifex 2026",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 2000+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 100+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -784,7 +666,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#ตรวจหวยลาว29/5/69"
+        "#งานthaifex2026"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -793,19 +675,95 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "หวยลาววันนี้ 29 พฤษภาคม 2569 ผลหวยลาววันนี้ ตรวจผลหวยลาวพัฒนา",
-          "url": "https://www.sanook.com/news/9891566/"
+          "title": "รอบรั้วการตลาด : CMP ประกาศทิศทางใหม่สู่ Premium Rice Specialist บนเวที THAIFEX",
+          "url": "https://www.thairath.co.th/money/business_marketing/trends/2936335"
         },
         {
-          "title": "หวยลาววันนี้ 29/05/69 ถ่ายทอดสดหวยลาว หวยลาวพัฒนา 29 พ.ค. 2569",
-          "url": "https://www.komchadluek.net/lottery/check-lottery/617765"
+          "title": "ซีพีแรม ปักหมุดบนเดสทิเนชั่นแพลตฟอร์มใหม่",
+          "url": "https://www.sanook.com/money/951791/"
         },
         {
-          "title": "หวยลาว25/5/69 เช็กผลด่วน! ตรวจหวยลาว 25 พฤษภาคม 2569 ครบทุกรางวัล พร้อมสถิติย้อนหลังเจาะเลขเด็ดงวดนี้",
-          "url": "https://readthecloud.co/%E0%B8%AB%E0%B8%A7%E0%B8%A2%E0%B8%A5%E0%B8%B2%E0%B8%A725-5-69/"
+          "title": "“เบลล์” ฝ่าตลาดรังนกแข่งเดือด ตรึงราคา-รุกสินค้าใหม่ ดันแบรนด์โตต่อปี 69 ตอกย้ำจุดแข็ง “รังนกแท้จากธรรมชาติ”",
+          "url": "https://mgronline.com/business/detail/9690000051116"
         }
       ],
-      "updatedAt": "2026-05-29T20:40:00+07:00"
+      "updatedAt": "2026-05-30T08:50:00+07:00"
+    },
+    {
+      "id": "7-74ba5b0f9f",
+      "title": "ช่อง7",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 500+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#ช่อง7"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "หล่อปัง “มิกค์ ทองระย้า” บินลัดฟ้าสู่กรุงโซล ผู้ชายจากไทยเพียงหนึ่งเดียวที่เข้าร่วมงานครั้งนี้",
+          "url": "https://today.line.me/th/v3/article/vXapXWj"
+        },
+        {
+          "title": "ปังเเล้วปังอีก! พระเอกช่อง 7 คนนี้ ได้โกอินเตอร์เเล้ว",
+          "url": "https://entertain.teenee.com/thaistar/320431.html"
+        },
+        {
+          "title": "เปิดภาพ 'มิกค์ ทองระย้า' บินตรงเกาหลี สะเทือนฮงแด! ร่วมงานปัง ออร่าพุ่งแรง",
+          "url": "https://www.komchadluek.net/entertainment/617745"
+        }
+      ],
+      "updatedAt": "2026-05-30T08:30:00+07:00"
+    },
+    {
+      "id": "topic-e77e40bbdd",
+      "title": "ทางด่วนฟรี",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 500+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#ทางด่วนฟรี"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "ขึ้นทางด่วนฟรี วันวิสาขบูชา 2569 รวมจำนวน 3 เส้นทาง 63 ด่าน",
+          "url": "https://travel.trueid.net/detail/Ow2EyOzoKglB"
+        },
+        {
+          "title": "วิ่งฉิว!! กทพ. ยกเว้นค่าผ่านทางพิเศษ 3 สายทาง 31 พ.ค. วันวิสาขบูชา | The Bangkok Insight",
+          "url": "https://today.line.me/th/v3/article/WBK0l3g"
+        },
+        {
+          "title": "ทางด่วนฟรี เดือน มิ.ย. 69 เฉลยคำถามคาใจ ทำไม 1 มิ.ย. ไม่เปิดให้ขึ้นฟรี",
+          "url": "https://car.kapook.com/view301436.html"
+        }
+      ],
+      "updatedAt": "2026-05-30T09:00:00+07:00"
     },
     {
       "id": "75-b1cd4f8c1c",
@@ -840,7 +798,7 @@
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: ความสัมพันธ์ / source: CRI.cn - ประธานาธิบดีจีน-ออสเตรีย ส่งสารยินดี 55 ปีความสัมพันธ์ทางการทูตสองประเทศ    CRI.cn",
+      "summary": "ข่าวจาก Google News keyword: ความสัมพันธ์ / source: 国际在线 - ประธานาธิบดีจีน-ออสเตรีย ส่งสารยินดี 55 ปีความสัมพันธ์ทางการทูตสองประเทศ    国际在线",
       "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -853,7 +811,7 @@
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
         {
-          "title": "CRI.cn",
+          "title": "国际在线",
           "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8zX085djRxQmgwVXZGN29QZjlKZF8zNUlTS29RLTBmS3pxY3d2ZjVodFNpZll6ZVZGSHpxRl8wSjNWVzBvcjhnckFqdE9BZ2VNYnBiMG5FcTljM0dGaXFOVw?oc=5"
         }
       ],
@@ -886,8 +844,8 @@
       "updatedAt": "2026-05-23T15:48:37+07:00"
     },
     {
-      "id": "topic-9e66a7c502",
-      "title": "ยูฟ่า",
+      "id": "topic-f2a98a73d2",
+      "title": "ผลหวยลาววัน",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
@@ -900,7 +858,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#ยูฟ่า"
+        "#ผลหวยลาววัน"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -909,23 +867,23 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "7,000 นาทีที่ต่างกัน! เปแอสเชพักมากกว่า อาร์เซน่อล ก่อนชิง UCL",
-          "url": "https://www.siamsport.co.th/football-international/ucl/104442/"
+          "title": "หวยลาววันนี้ 28 พฤษภาคม 2569 ผลหวยลาววันนี้ ตรวจผลหวยลาวพัฒนา",
+          "url": "https://www.sanook.com/news/9891434/"
         },
         {
-          "title": "เปิดโปรแกรมนัดชิง ยูฟ่า แชมเปี้ยนส์ ลีก เปแอสเช พบ อาร์เซน่อล",
-          "url": "https://www.pptvhd36.com/sport/news/276482"
+          "title": "หวยลาว25/5/69 เช็กผลด่วน! ตรวจหวยลาว 25 พฤษภาคม 2569 ครบทุกรางวัล พร้อมสถิติย้อนหลังเจาะเลขเด็ดงวดนี้",
+          "url": "https://readthecloud.co/%E0%B8%AB%E0%B8%A7%E0%B8%A2%E0%B8%A5%E0%B8%B2%E0%B8%A725-5-69/"
         },
         {
-          "title": "ใครเหนือใคร? \"ซูเปอร์คอม\" วิเคราะห์ทีมเต็งแชมป์ ยูฟ่า แชมเปียนส์ลีก 2025-26",
-          "url": "https://www.sanook.com/sport/1635849/"
+          "title": "ตรวจผลหวยลาว 29 พ.ค. 69 รางวัลเลข 6 ตัว เลขเด็ดตำราสัตว์ พร้อมสถิติวันศุกร์",
+          "url": "https://thethaiger.com/th/news/1572303/"
         }
       ],
-      "updatedAt": "2026-05-29T20:20:00+07:00"
+      "updatedAt": "2026-05-30T07:50:00+07:00"
     },
     {
-      "id": "topic-2289c718cb",
-      "title": "สุริยันต์เล็ก",
+      "id": "one-championship-0ed9f1c7d6",
+      "title": "มวย one championship",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
@@ -938,7 +896,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#สุริยันต์เล็ก"
+        "#มวยonechampionship"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -947,23 +905,61 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "ผลไฟต์ต่อไฟต์ ศึก ONE ลุมพินี 156 & The Inner Circle",
-          "url": "https://www.onefc.com/th/news/the-inner-circle-and-one-friday-fights-156-results-and-highlights-for-every-match/"
+          "title": "“Warrior” คาคิมอฟ อานิสจอน",
+          "url": "https://www.onefc.com/th/athletes/khakimov-anisjon/"
         },
         {
-          "title": "ดูมวยสด ONE 156 สุริยันต์เล็ก พบ รามาดาน ออนดาซ (29พ.ค.69)",
-          "url": "https://sport.trueid.net/detail/lWR6Kdae4Q4W"
+          "title": "ก้องศึกน็อกดุชนะ2ไฟต์ติด! สุริยันต์เล็กพ่ายแต้มศึกONEลุมพินี156",
+          "url": "https://www.siamsport.co.th/other-sports/boxing/104451/"
         },
         {
-          "title": "LIVE : ดูมวยสด One Championship ก้องศึก ศิษย์สารวัตรเสือ vs คาคิมอฟ อานิสจอน มวย ONE ลุมพินี 156 & The Inner Circle เวลา 18.30 น.",
-          "url": "https://www.sportingnews.com/th/boxing/news/live-watch-one-championship-one-lumpinee-156/896f565140b5a10bc13cf0f3"
+          "title": "ข่าวมวยเด็ด วิกหมอชิต : วันเสาร์ที่ 30 พ.ค.69 วุฒิไกร ว.จักรวุฒิ vs ไท พี.เค.แสนชัยมวยไทยยิม",
+          "url": "https://www.ch7.com/sports/876083"
         }
       ],
-      "updatedAt": "2026-05-29T20:10:00+07:00"
+      "updatedAt": "2026-05-30T08:30:00+07:00"
     },
     {
-      "id": "topic-f2738de522",
-      "title": "เซปักตะกร้อเวิลด์คัพ",
+      "id": "topic-8fbd007c15",
+      "title": "มิตซูบิชิ ปาเจโร",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 1000+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#มิตซูบิชิปาเจโร"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "ส่องก่อนเปิดตัว All-New Mitsubishi Pajero 2027 รีเทิร์นท้าชน Everest / Fortuner / MU-X",
+          "url": "https://www.thairath.co.th/news/auto/review/2936292"
+        },
+        {
+          "title": "All-New Mitsubishi Pajero เตรียมเปิดตัวตำนาน SUV คืนชีพไตรมาส 3",
+          "url": "https://www.amarintv.com/automotive/news/547310"
+        },
+        {
+          "title": "ข่าว Mitsubishi Motors มิตซูบิชิ มอเตอร์ส ล่าสุด รวมข่าวที่เกี่ยวข้อง",
+          "url": "https://www.prachachat.net/tag/mitsubishi-motors-%E0%B8%A1%E0%B8%B4%E0%B8%95%E0%B8%8B%E0%B8%B9%E0%B8%9A%E0%B8%B4%E0%B8%8A%E0%B8%B4-%E0%B8%A1%E0%B8%AD%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%AA"
+        }
+      ],
+      "updatedAt": "2026-05-30T10:10:00+07:00"
+    },
+    {
+      "id": "28-2569-323892c4f0",
+      "title": "ราคาทอง 28 พฤษภาคม 2569",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
@@ -976,7 +972,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#เซปักตะกร้อเวิลด์คัพ"
+        "#ราคาทอง28พฤษภาคม2569"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -985,28 +981,66 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "วีรัช ตำนานตะกร้อไทย ชูคำ “เสธ.จารึก” วอล์คเอาท์โทษหนัก ไล่ “ธนา” ไปอ่านกฎระเบียบ",
-          "url": "https://mgronline.com/sport/detail/9690000050962"
+          "title": "ปรับเพิ่มขึ้น 200 บาท เปิดตลาดราคาทอง | สวพ.FM91",
+          "url": "https://today.line.me/th/v3/article/kEK05Rw"
         },
         {
-          "title": "“ตะกร้อโลก” แถลงการณ์เพิ่ม ปมดราม่า “ตะกร้อไทย” ไม่แข่งต่อ ชิงแชมป์โลก 2026",
-          "url": "https://www.thairath.co.th/sport/others/2936082"
+          "title": "ราคาทองวันนี้ (30 พ.ค.) เปิดตลาด ปรับขึ้น 200 บาท/บาททองคำ ราคาทองรูปพรรณ ขายออกบาทละ 70,800",
+          "url": "https://today.line.me/th/v3/article/2DBpVjP"
         },
         {
-          "title": "ไหนบอกเพื่อนกัน! \"มาเลเซีย\" เรียกร้องให้ลงโทษ \"ตะกร้อไทย\" แข่งไม่จบศึกชิงแชมป์โลก",
-          "url": "https://www.sanook.com/sport/1635846/"
+          "title": "ความอ่อนแอของทองคำเมื่อเร็วๆ นี้เป็นโอกาสซื้อหรือไม่? โดย Investing.com",
+          "url": "https://th.investing.com/news/commodities-news/article-688355"
         }
       ],
-      "updatedAt": "2026-05-29T20:00:00+07:00"
+      "updatedAt": "2026-05-30T08:40:00+07:00"
     },
     {
-      "id": "vnl-2026-fef9014509",
-      "title": "เปิดอันดับโลก ก่อนวอลเลย์บอลหญิงไทยทำศึกเนชั่นส์ ลีก VNL 2026",
+      "id": "topic-db8dc55793",
+      "title": "หวัง อี้",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#หวังอี้"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "\"หวัง อี้\" เผย \"กลุ่มมิตรประเทศเพื่อธรรมาภิบาลโลก\" บรรลุฉันทามติ 5 ประการ",
+          "url": "https://www.dailynews.co.th/news/5902769/"
+        },
+        {
+          "title": "คาดการณ์ว่าความสัมพันธ์ทางการค้าระหว่างแคนาดาและจีนจะเติบโตอย่างแข็งแกร่ง",
+          "url": "https://www.vietnam.vn/th/quan-he-thuong-mai-canada-trung-quoc-duoc-du-bao-tang-truong-manh"
+        },
+        {
+          "title": "รัฐมนตรีต่างประเทศจีนหารือกับตัวแทนภาคการเมืองและธุรกิจสหรัฐฯ",
+          "url": "https://thai.cri.cn/2026/05/29/ARTI1780039898516667"
+        }
+      ],
+      "updatedAt": "2026-05-30T10:00:00+07:00"
+    },
+    {
+      "id": "15-2026-4ba5c45285",
+      "title": "เปิดรายชื่อ 15 วอลเลย์บอลหญิงไทย ชุดลุยศึกเนชั่นส์ ลีก 2026 สนามแรก",
       "sourceType": "news",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: วอลเลย์บอล / source: pptvhd36 - เปิดอันดับโลก ก่อนวอลเลย์บอลหญิงไทยทำศึกเนชั่นส์ ลีก VNL 2026    pptvhd36",
+      "summary": "ข่าวจาก Google News keyword: วอลเลย์บอล / source: pptvhd36 - เปิดรายชื่อ 15 วอลเลย์บอลหญิงไทย ชุดลุยศึกเนชั่นส์ ลีก 2026 สนามแรก    pptvhd36",
       "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -1014,42 +1048,16 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#เปิดอันดับโลกก่อนวอลเลย์"
+        "#เปิดรายชื่อ15วอลเลย์บอลห"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
         {
           "title": "pptvhd36",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9LbVpNb1Q0bzdPYTVENmx0eW00MWZLam1kMUgyLVZ4cTFDOTA3WU1zWlpCcFFOUWVLdHFUdFA0Y1FZMGNtWVJqVVhzTkc4VXVURHpfZQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9OWFU1OVdITU94Y1JmSzI0c0JBVnFTVUVIczE1NnB6OW1pN0dDODFCUlVGTGoxZjEzd1VoZzdHV0xnbnM3NFRxNFIzWVZ1TWNSZW5fTg?oc=5"
         }
       ],
-      "updatedAt": "2026-05-27T12:23:00+07:00"
-    },
-    {
-      "id": "vnl-2026-d94397a28b",
-      "title": "เผยอันดับโลกก่อนศึก VNL 2026 “วอลเลย์บอลหญิงไทย” เจองานหนัก เป้าหมายไม่ตกชั้น!",
-      "sourceType": "news",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: วอลเลย์บอล / source: Sanook - เผยอันดับโลกก่อนศึก VNL 2026 “วอลเลย์บอลหญิงไทย” เจองานหนัก เป้าหมายไม่ตกชั้น!    Sanook",
-      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#เผยอันดับโลกก่อนศึกVNL20"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Sanook",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1EQ1A2am1yT1pfVUNabjM1b0swOEk5NWcxak5FdU10aktLOHBMMHVlelVjQks0OGQ4bEJTNlFUZmYzYm1qUFNNUnJEdWFzUQ?oc=5"
-        }
-      ],
-      "updatedAt": "2026-05-29T10:47:00+07:00"
+      "updatedAt": "2026-05-29T16:32:00+07:00"
     },
     {
       "id": "topic-575d2a5703",
@@ -1104,58 +1112,6 @@
       "updatedAt": "2026-05-26T15:47:15+07:00"
     },
     {
-      "id": "topic-fe5b3f4ff4",
-      "title": "ส่อดราม่าหน้าสด! ‘ทราย สก๊อต’ ฟาดกลับปมผลคะแนน ลั่นหักคะแนนคนสวยเพราะหน้าไม่สดจริง!",
-      "sourceType": "news",
-      "category": "beauty",
-      "contentPotential": "high",
-      "riskLevel": "medium",
-      "summary": "ข่าวจาก Google News keyword: ดราม่า / source: เดลินิวส์ - ส่อดราม่าหน้าสด! ‘ทราย สก๊อต’ ฟาดกลับปมผลคะแนน ลั่นหักคะแนนคนสวยเพราะหน้าไม่สดจริง!    เดลินิวส์",
-      "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
-      "creatorAngle": "ชวนแชร์สไตล์ ไอเท็ม หรือเทคนิคที่ใช้จริงโดยไม่ขายของแข็งเกินไป",
-      "promptIdea": "สไตล์นี้ถ้าแต่งในชีวิตจริงจะรอดไหม?",
-      "hashtags": [
-        "#BeautyTalk",
-        "#FashionTH",
-        "#ไอเดียแต่งตัว",
-        "#ส่อดราม่าหน้าสด!‘ทรายสก๊"
-      ],
-      "riskNote": "Medium risk ควรเลี่ยงการพาดพิงบุคคลจริงและใช้คำถามเชิงสร้างสรรค์",
-      "sources": [
-        {
-          "title": "เดลินิวส์",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1hUlBDYVRJT1ROZTUxdENiNGZXeEtJdDdRVU1NMFNIUjhjN09uVnA4Z1FwZWdaSzNjT2pocEJfQnFtbndJb01VLTZFbE1uZk84VERv?oc=5"
-        }
-      ],
-      "updatedAt": "2026-05-29T17:30:00+07:00"
-    },
-    {
-      "id": "5-perfect-crown-8492d20954",
-      "title": "เกาหลีใต้เดือด! ยื่น 5 หมื่นชื่อจี้รัฐสภาสั่งลบซีรีส์ ‘Perfect Crown’ ปมดราม่าพิพาทประวัติศาสตร์",
-      "sourceType": "news",
-      "category": "entertainment",
-      "contentPotential": "high",
-      "riskLevel": "medium",
-      "summary": "ข่าวจาก Google News keyword: ซีรีส์ / source: เดลินิวส์ - เกาหลีใต้เดือด! ยื่น 5 หมื่นชื่อจี้รัฐสภาสั่งลบซีรีส์ ‘Perfect Crown’ ปมดราม่าพิพาทประวัติศาสตร์    เดลินิวส์",
-      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
-      "creatorAngle": "เล่า reaction ส่วนตัวต่อกระแส แล้วเปิดคำถามให้คนคุยต่อ",
-      "promptIdea": "กระแสนี้ทุกคนอยู่ทีมไหน?",
-      "hashtags": [
-        "#EntertainmentTH",
-        "#คุยเรื่องบันเทิง",
-        "#กระแสวันนี้",
-        "#เกาหลีใต้เดือด!ยื่น5หมื่"
-      ],
-      "riskNote": "Medium risk ควรเลี่ยงการพาดพิงบุคคลจริงและใช้คำถามเชิงสร้างสรรค์",
-      "sources": [
-        {
-          "title": "เดลินิวส์",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB1NGZWQVBIY0lDNXZCeEgwN2lVWmtRWjNGSVRsMjI5em1tWHkydk5nRVFxUmFXcUo3QjlKTlBXTDRrdGNBSjBpVnNtWmF6Z1JXX28w?oc=5"
-        }
-      ],
-      "updatedAt": "2026-05-26T18:25:55+07:00"
-    },
-    {
       "id": "topic-ef597d629d",
       "title": "ท่ามกลางดราม่าสามี-เพื่อน สส.- “ทนายแจม” โพสต์ภาพลงพื้นที่ อบรมกู้ชีพพื้นฐาน",
       "sourceType": "news",
@@ -1188,7 +1144,7 @@
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "medium",
-      "summary": "ข่าวจาก Google News keyword: ดราม่า / source: Sanook - สรุปดราม่า! \"ตะกร้อไทย\" วอล์กเอาต์โดนปรับแพ้ในรายการชิงแชมป์โลก 2026 (คลิป)    Sanook",
+      "summary": "ข่าวจาก Google News keyword: ดราม่า / source: Sanook.com - สรุปดราม่า! \"ตะกร้อไทย\" วอล์กเอาต์โดนปรับแพ้ในรายการชิงแชมป์โลก 2026 (คลิป)    Sanook.com",
       "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -1201,11 +1157,63 @@
       "riskNote": "Medium risk ควรเลี่ยงการพาดพิงบุคคลจริงและใช้คำถามเชิงสร้างสรรค์",
       "sources": [
         {
-          "title": "Sanook",
+          "title": "Sanook.com",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9oY0tBSk11REdObWF4cTd3Y0JIa0FyRm9mNThqMHRTM1FETVNneld5ZkJFNm5ERG0tRXBETVpUcHlPX3NEMThzSzgyQ1p4Zw?oc=5"
         }
       ],
       "updatedAt": "2026-05-24T08:15:00+07:00"
+    },
+    {
+      "id": "topic-6fe46e4b02",
+      "title": "สหพันธ์วอลเลย์บอล ฟิลิปปินส์ ถูกเอฟไอวีบีลงโทษแบนฐานละเมิดจรรยาบรรณ",
+      "sourceType": "news",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "medium",
+      "summary": "ข่าวจาก Google News keyword: วอลเลย์บอล / source: ข่าวสด - สหพันธ์วอลเลย์บอล ฟิลิปปินส์ ถูกเอฟไอวีบีลงโทษแบนฐานละเมิดจรรยาบรรณ    ข่าวสด",
+      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#สหพันธ์วอลเลย์บอลฟิลิปปิ"
+      ],
+      "riskNote": "Medium risk ควรเลี่ยงการพาดพิงบุคคลจริงและใช้คำถามเชิงสร้างสรรค์",
+      "sources": [
+        {
+          "title": "ข่าวสด",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMZEpDRnY1SHpmbURiVHVEYUZlVDViX0FCZ0lxX0c5aVhINWUtNUh0TVZRdXgxZlU1cGVoTTRDVXVtVkNaZ1dobFdDa1pVcnNrQ08tNEk4WXVtZw?oc=5"
+        }
+      ],
+      "updatedAt": "2026-05-29T23:15:00+07:00"
+    },
+    {
+      "id": "tiktok-205d4fcb79",
+      "title": "แฉยับ! ทุนจีนฮุบช่อง TikTok ไรเดอร์สู้ชีวิต บังคับจัดฉากดรามาเรียกยอดวิว-ชาวเน็ตขุดโยงเครือข่ายใหญ่",
+      "sourceType": "news",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "medium",
+      "summary": "ข่าวจาก Google News keyword: ดราม่า / source: ผู้จัดการออนไลน์ - แฉยับ! ทุนจีนฮุบช่อง TikTok ไรเดอร์สู้ชีวิต บังคับจัดฉากดรามาเรียกยอดวิว-ชาวเน็ตขุดโยงเครือข่ายใหญ่    ผู้จัดการออนไลน์",
+      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#แฉยับ!ทุนจีนฮุบช่องTikTo"
+      ],
+      "riskNote": "Medium risk ควรเลี่ยงการพาดพิงบุคคลจริงและใช้คำถามเชิงสร้างสรรค์",
+      "sources": [
+        {
+          "title": "ผู้จัดการออนไลน์",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB2LVA1RzN4bjg2TjAwblJzektjUDYzaVJKaEM3bHRoRE9PdG94UWh2SGxuLXN6RjZKYWtpZ2FpWkUzampwN190c1pOUjN4c0ZCYmJ2SDBBc3laR0FwVlBFd1VNdkFmcDQ?oc=5"
+        }
+      ],
+      "updatedAt": "2026-05-26T09:44:00+07:00"
     },
     {
       "id": "thai-help-thai-plus",
@@ -1235,15 +1243,15 @@
           "url": "https://news.google.com/rss/articles/CBMi5wdBVV95cUxOaDVZYnRtRHp3OWQ5VW0zc2h4WHhVa1AyNDZveHo4ZDJ1T2lTbEViWDFheWhCSmtSRWtlaWtMbmFHeG8wOFlLM3A0ZzdNNFc3cHh5T0hIZHdUOEs0VVdXTzhMdHd4Mm5aOXFyTW9PbVEwYXpuVGFDVmw2SXBFUHpuYmlCdXVzWWRvRFo1ZnVRWnRkbWwwVEZMMnBhMi1fcGN5d1UteVFrcmNtS0NqTXBQazV2RW52MXh0ZUNzZ1UxN3oxUlBBbGVUeWJPNnJHSXdhQ0lBNURMYnVJRDhxS1k3Vm1IR1I3MEoyUW5mbHBtN1hEbnpGNGJPVlRMNm93dHhnRU1VeGc1dVFXV043S0RNb3ExNFBVVVhOcmJCUG1oOUx1eXZLNnMyYllQZmh1VkpBRkYtc29jVFhhb2t6YU41WnV3MnJwOHNpV3lVME5uT0RjakhWZmp6UkZNcmZ0czVTWGhoS2ZkYmJZRnVxY0Vya1NTNlg0OFJfeE1tNTZiUE8xVmYxbkhDdndWZDE4a28ydThiY1lmck9OaldnLTB0cUo4QmN2bFdHR1pGQ2ZSeTZuV3lSQVR1ZHNvSDJFYmpONmpxNlY4V1Z1cGo0NV9wWEhWTTJsT0FJcnJpTzUzTFV5QmlZRXU4ZWh3SHJiY2lfcUN2Z2NVN0hkVlYyUUlhT3RkejdpNFdIM2pNQ3lEVS1HNWh5cXRBWE1LUW9BNVdzenF3QVpITTJxbTRGVFJiTlplM2lPN3pPckNTYkNnYm1xbUFUV3ZJUk5keHg3XzJUeVJZT2FweGdIVHpneWlhNmx1VlBHYVAxRVlFaUVRMUE1THo3eDVBYjk2SGpZUDdmVXNhYmhmT0NBNWE5SVF2a2duTlJ3MDFXN2N6TjF3VTlxSWtWRXV0U2ZhRmlqRmY0U1R3bkRJZWNQN3VnNEdTcDY2NHhVeVJGRzZMY0VjVXY5QS1RemF0ZGlMeG91VTBTc0poV0hZRTF4X3pTN3J6eC1TRjlXZ1FFVUNvZ1owOHduNlN0OW9kZTNwTS03d1p1dGIwWGhoWDM4SjdzU1JhV0wtelhxU09ENF9rVHhDY3QwV2YwVHRKd24ySnJhaThzcGtjMlliS1hxdFhaQ05oX21Ga2R5MG9DSnNqSEFkZ2h0OVlORHl4OUlCbTVUZHR4OXU4eFRkNjFUWmw2c2NiNHFTMFRhUEkwRWRjUjdydUZxSE9oWVN1V2NOMm5ibG13cFJRZnZLTXNMQi1WLUtraU5NU3UwOW1DSHNJMklhby1tdVNsZjlQMWhTd2NrSTBLaEFQOTlCeVI4QnRnTWJBbnpYTTA3Qms?oc=5"
         },
         {
-          "title": "Thaigov",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5wb0xrc0wzTTFKSDJSMFp1amNsMG56b0hrS1huQVdoeS1nNzAtUGozVTFIRk5HX21NYS1BT0NDYWIzOGpSbkVac2V3RGpQcG1XUFE?oc=5"
+          "title": "กรมประชาสัมพันธ์",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9weWppRWdRR2F6bHNZRlZhWlIxLXNCb1dibm92eEdUeDhqR1RSYXZwaU00bG9seWx6TGRod1NuV1V0S3NqeWw5cXpSNjFLLTVlV3VxdktQcVl0WVZLWW8xMGNxcUhmNlJmWWNicHZTMEtJYmM?oc=5"
         },
         {
           "title": "LINE TODAY",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9lQjZuVm1vRzdheG5oUWltTEoxaFR4dnRmbUYxS3lSYU9DQ3BvczdITFRFajgwZ3JkdXEyaF85cUJQSnJXeVMxdUJQNW55UnI4TmRpQWVB?oc=5"
         },
         {
-          "title": "Sanook",
+          "title": "Sanook.com",
           "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1fUHpXWGJvR0lkRzZRYjFIVUdia2pOYk5vcjJXZzhpRGFMT0JUd0liWmc5bmRtdktOd0MzRE1BWFAyekRUTXFoMjQyYW0?oc=5"
         }
       ],
@@ -1276,30 +1284,30 @@
       "updatedAt": "2026-05-28T22:58:53+07:00"
     },
     {
-      "id": "5-7858ade20a",
-      "title": "ความสัมพันธ์ไทย-จีนตลอดกว่า 5 ทศวรรษ เติบโตจากการเป็นมิตรประเทศ สู่ “หุ้นส่วนความร่วมมือเชิงยุทธศาสตร์รอบด้าน” ที่ครอบคลุมทั้งการเมือง เศรษฐกิจ เทคโนโลยี และวัฒนธรรม เ...",
+      "id": "politics-28-be4f635359",
+      "title": "POLITICS: นายกฯ เป็นเจ้าภาพงานเลี้ยงอาหารค่ำ ประธานาธิบดีเวียดนามและคณะ ตอกย้ำมิตรภาพบนรากฐานความผูกพันด้านประวัติศาสตร์ วัฒนธรรม อาหาร และการท่องเที่ยว วันนี้ (28 พ.ค...",
       "sourceType": "news",
-      "category": "social_topic",
+      "category": "food",
       "contentPotential": "low",
       "riskLevel": "high",
-      "summary": "ข่าวจาก Google News keyword: ความสัมพันธ์ / source: facebook.com - ความสัมพันธ์ไทย-จีนตลอดกว่า 5 ทศวรรษ เติบโตจากการเป็นมิตรประเทศ สู่ “หุ้นส่วนความร่วมมือเชิงยุทธศาสตร์รอบด้าน” ที่ครอบคลุมทั้งการเมือง เศรษฐกิจ เทคโนโลยี และวัฒนธรรม เริ่มจากการสถา",
-      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
+      "summary": "ข่าวจาก Google News keyword: ความสัมพันธ์ / source: facebook.com - POLITICS: นายกฯ เป็นเจ้าภาพงานเลี้ยงอาหารค่ำ ประธานาธิบดีเวียดนามและคณะ ตอกย้ำมิตรภาพบนรากฐานความผูกพันด้านประวัติศาสตร์ วัฒนธรรม อาหาร และการท่องเที่ยว วันนี้ (28 พ.ค. 69) เวลา 18",
+      "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
       "creatorAngle": "ใช้เป็นข้อมูลเฝ้าระวังมากกว่าบรีฟโพสต์ หากต้องใช้ควรให้ทีม review ก่อน",
       "promptIdea": "เรื่องนี้ควรเช็กข้อมูลก่อนแชร์ ทุกคนคิดว่าเราควรระวังอะไรบ้าง?",
       "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#ความสัมพันธ์ไทย-จีนตลอดก"
+        "#FoodTrend",
+        "#CafeTH",
+        "#รีวิวของกิน",
+        "#POLITICS:นายกฯเป็นเจ้าภา"
       ],
       "riskNote": "High risk ควรให้ทีม review ก่อนนำไป brief Creator และไม่ควรชวนดราม่า",
       "sources": [
         {
           "title": "facebook.com",
-          "url": "https://news.google.com/rss/articles/CBMi5wdBVV95cUxOZlpPUzVVTW8wQnhjMjA4TDBHQy1vSldLOEtNd3JKcmdPVU9Rc0ZMQlM0b244WmpESGR4bTZPazczbFFrcktFSkpSeE5TUmpwWWlPUThQNjV2dl9EcmFSdExFbGxBOU0ySFNITHZoLUlRYUh3QWVpR05XX2wycDRDMldLYTVJeXRfS3pLQTJYeEwxZDRabFpUZjBGNjZUbVNHbzhHZXpqRXFSeWVzZUxsd1lqWkhWQW1FVFd2cGltRjI0RGd4ZVRmdFRXMExySnFtaFNfU0h0ZmNwT1Qzc0RQZkdSMWh6VDE2QXROX2tTWUk2WTRhc3VJdXZkUGlwek1LQjJzOXFUV0RDSjY5TEZ0em8wb1F0OHVTVDhob1dMMnV0V2l6eFY1TW5LNlB3cEZ5ajdaM3E5NHBqUWJMVWNRWkdJaldURFJVR19VSVhjbGQwRFhHNDNkZ0l1TG1JZVkwU09HU0lVVE02TGJpTkIwZHVvdkRMd0cxd1Q4WWtnTGVLSzhtbTZ6QU1NdUUzNk9qaVIxd1NHR0pabEF1ZWNRN1JucDI5WWpZb3BJSmpXMWRieDRRZF9fWWVQYXB0M1g2RVNyS3BoM2VEMnktQjd3emxVdVJQMVpFSFFYSEJHaFhpOXdEa05qQ3QyWDNaXzg1cmpKM1p1dEJwZEY1aW9HZVk3Mjk2LVU5RHpaNXR4aG16S1loRFY3d2NscnZxUTFrSlZJUEo5RGpudGxkRlVlZ0l0RVJNZms3Nk43SjVYNlBaRjM4RllraEhGWnhnMm02UEZ1dUUwbXVZSkh6bTRKdVNVN3RXUFNrVHh5Ty13S05fbENhMmstSlFDWXJ3M3dSVGhCUUIta2UwOE9tMEJqdHNyWmFjWDRjdW1Yd0gxcmdLblJjTk1MaVpkTm1IN1ZYWHI5ZktEU210WEQxZUVXTjVLVXFHTko4NmlaZURVVm81NVhRMnAteDdQNXVTQkw2OEZLdnVXZ245SWstMFR3RlY0S0xXNC1xbjJqcm1TX2lnTUdRZzJDUDdJOGdxRlJhOXl2ZUswQUtMRTVjN1VycUY2RFc5RTdwLVRJTDluN0E1enlGMDJ3VjFON3g1eVdGLWd4V1kteHBybm0zeTJrdm92RmRUMU1xX0JacHNLcXU5dEhobzlqbkpwRVhIcVYtbEhrVW9PcmlacnBMNXpEaUloN0lVbXpvdDhXV0pGV2VWYy15SEhPVWRMYUJ3bE45R2NSUHJIdEVPUG5aRTFuQzFXd3czM0owXzhSMFFiZEduYWF6YWlYaVpsZ0JVRFJNZHVDRWZabjdSVWNueFZzek5FcXZVelE?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMisgdBVV95cUxNcXB1NjBfc2NZTWdQSDdpT0haMlVUWl9DQWc4Yk9Cdlg5RTZGQkUtQXg5X3A1blpOWGVKU0lkaW9OVEhfUzY5Ui1OUGNCMHl6UmxIdlBRUG9BMWNaY3ozenlCZnBNUXQ4Wi1idnBxcENZcnRUYUhqX3FkN3VtNjhxaXdaWDZ6ZWtXWGlnQWNocjBQVUQ0cmllNm05Z3ZPYjVjR2k0MTVuaFZOSmtFcHQ1OUh1Tl9ncVJTTE9wQWFhWllYTTJWZTg4LS1NYjEyM1Bjb2VBZi1OdVpYRG9hUGNvNmwyWmU1U0RiRXBHQm4wSXh6dFNUR2xnWmtiMWFXTUppaHBJQnFpNU5OWE1hc2dHQVVRVEwxMGdBTG9hWDZlRm1rQll0d1U5UG94bENHTXhMb1lTVGJsSWthQ29ibEF0R0s3Mk5lc1FsaXRKV0lYSWxnTDg2VGJ1VFJZOW10ekgxbjc2WEhHa0dfR0pycm9tOVNOeHJ3U0dJUVctOHYwbEJJRDM3VE8zbV9jdU1iWVNyM3UzMmVrR1dINkpOaldwQXM0d2FWNnhsZFRKUVJUV3lmSHlCdHFuY2k2V0szT2pVeFpaUE9VQUxpMC1mVmJmUkhpRXlRTDdOX0V2YUE5Y2ZVR0NiUFhxb3VTTGo2b0I4MEdqd2NjWUFNMjBLc1ViZnk1T0UwT3QzeGJTWVkza3d0YzhrX2l5bFZnSFBJZ1NsekxrcFB1aHZHYkswSEt2M3FwVVdoQkwyRVFzNXUzenZBX19hRUNKOGJBdzNBS1pHQmktNkVFUVVtbFJyeU9TN2tvSV80aElzSUVCem9BNkVqU24wQ05iY2tySXYzT1NKQXZlU3RCU1VSNldDSXprNHA4bTAycW1uSVF1M2dYc1k0RlBjUXNCRlUyWXhYbVdNMjJVT0xMUTJ5ZzREWWdXbmphbVFqcmc1cC1CREtNMmtoWDhXMElLaDktc2wtTUlhOWNSQV9ONGNLcTV4Y0M5cHhUMlFsUDFpcEhoQXRoTVJTOVEybmw1UlRacno4TUFzbFB1cGQ1aUFHSDNhb3p1WEx2M0VyTEJGdExFcHoyS3ptdmVCWXVBR2g0RkMzUk9iMUZ1YmNOUmprR0MySmFWY09xUHlJVG5Na0RmeERtMEdGMGUyeFdaRVhPQmFMSy1fb1JzdGF4SGE1WUtlVV9ZUGotalMxVWhJVFVhYVBVcE1lOHY5OC0zSjUtWHZLckNnMVdXbUZ0anpwYzVka2NqS2Fn?oc=5"
         }
       ],
-      "updatedAt": "2026-05-28T19:00:07+07:00"
+      "updatedAt": "2026-05-29T08:28:35+07:00"
     }
   ]
 }
