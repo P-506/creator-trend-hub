@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-31T18:42:03.478006+07:00",
+  "generatedAt": "2026-05-31T21:48:40.423012+07:00",
   "dateRange": "2026-05-24 to 2026-05-31",
   "sourceErrors": [],
   "topics": [
@@ -132,32 +132,6 @@
         }
       ],
       "updatedAt": "2026-05-27T09:50:53+07:00"
-    },
-    {
-      "id": "the-lead-2026-5ed00c33d9",
-      "title": "ชวนดูซีรีส์! บทเพลงแห่งนางงิ้ว The Lead (2026)",
-      "sourceType": "news",
-      "category": "entertainment",
-      "contentPotential": "high",
-      "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: ซีรีส์ / source: TrueID - ชวนดูซีรีส์! บทเพลงแห่งนางงิ้ว The Lead (2026)    TrueID",
-      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
-      "creatorAngle": "เล่า reaction ส่วนตัวต่อกระแส แล้วเปิดคำถามให้คนคุยต่อ",
-      "promptIdea": "กระแสนี้ทุกคนอยู่ทีมไหน?",
-      "hashtags": [
-        "#EntertainmentTH",
-        "#คุยเรื่องบันเทิง",
-        "#กระแสวันนี้",
-        "#ชวนดูซีรีส์!บทเพลงแห่งนา"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "TrueID",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAtM0JJaDM4dmtZb1FlQ09WZk1KcktSN3hMVGlFNU9Ub2NnMEZsQWRQZ2ZnV1IwVnVVNmczME5GTk1OcURIRjBDVDhjYWx3V01aWUVvRHdFMHpHME9FdUMtU253?oc=5"
-        }
-      ],
-      "updatedAt": "2026-05-25T14:12:27+07:00"
     },
     {
       "id": "pursuit-of-jade-aca16b83a9",
@@ -394,6 +368,32 @@
       "updatedAt": "2026-05-27T11:04:21+07:00"
     },
     {
+      "id": "netflix-2569-9f6c724d0f",
+      "title": "แนะนำซีรีส์ - หนังใหม่ Netflix ประจำเดือนมิถุนายน 2569",
+      "sourceType": "news",
+      "category": "entertainment",
+      "contentPotential": "high",
+      "riskLevel": "low",
+      "summary": "ข่าวจาก Google News keyword: ซีรีส์ / source: pptvhd36 - แนะนำซีรีส์ - หนังใหม่ Netflix ประจำเดือนมิถุนายน 2569    pptvhd36",
+      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
+      "creatorAngle": "เล่า reaction ส่วนตัวต่อกระแส แล้วเปิดคำถามให้คนคุยต่อ",
+      "promptIdea": "กระแสนี้ทุกคนอยู่ทีมไหน?",
+      "hashtags": [
+        "#EntertainmentTH",
+        "#คุยเรื่องบันเทิง",
+        "#กระแสวันนี้",
+        "#แนะนำซีรีส์-หนังใหม่Netf"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "pptvhd36",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQjdOVXo3N1NvcU13SzBvV09SZ3RFNzZzNkNad0hjWmdtdXBGblVkc0t3RnNuaG1XTUtNNEI5OElINnVjQjBzeEllUWRhcXhKMlZ1MlJ2SGJLXzNZRVVnWTBjaGZBV0tyUDFtb212SkloRzQxWnFEdWx6dWxHUktZOTNoVERUZE1DYmQtVnpjemNTLXBMcXJSNXNjTi03UGt6V2c0RUJOeEpDUzhvZHdGS1dKd19USFNmd1E?oc=5"
+        }
+      ],
+      "updatedAt": "2026-05-29T17:04:00+07:00"
+    },
+    {
       "id": "topic-ab859ac5d1",
       "title": "ไม่ใช่ ใช่มั้ย? \"เค้กมีขน\" คาเฟ่ลับกลางเมืองพิษณุโลก แถมกินแล้วรวย",
       "sourceType": "news",
@@ -576,6 +576,44 @@
       "updatedAt": "2026-05-26T10:41:00+07:00"
     },
     {
+      "id": "7m-9b281eb894",
+      "title": "7m",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#7m"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "N5.7m Cyber Fraud: NPF-NCCC Apprehends Suspect, Aliyu Mohammed",
+          "url": "https://www.thisdaylive.com/2026/05/30/n5-7m-cyber-fraud-npf-nccc-apprehends-suspect-aliyu-mohammed/"
+        },
+        {
+          "title": "Police Nab Suspect Over Identity Theft, N5.7m Online Fraud",
+          "url": "https://leadership.ng/police-nab-suspect-over-identity-theft-n5-7m-online-fraud/"
+        },
+        {
+          "title": "Police arrests suspect over N5.7m cyber fraud",
+          "url": "https://thenationonlineng.net/police-arrests-suspect-over-n5-7m-cyber-fraud/"
+        }
+      ],
+      "updatedAt": "2026-05-31T18:30:00+07:00"
+    },
+    {
       "id": "update-7ddd6d4eea",
       "title": "UPDATE - ทีมชาติไทย",
       "sourceType": "news",
@@ -608,7 +646,7 @@
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 100+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -640,6 +678,44 @@
       "updatedAt": "2026-05-31T17:30:00+07:00"
     },
     {
+      "id": "ipl-9817258300",
+      "title": "ipl",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 100+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#ipl"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "Final (N), Ahmedabad, May 31, 2026, Indian Premier League",
+          "url": "https://www.espncricinfo.com/series/ipl-2026-1510719/royal-challengers-bengaluru-vs-gujarat-titans-final-1535465/live-cricket-score"
+        },
+        {
+          "title": "IPL | Royal Challengers Bengaluru vs Gujarat Titans, Final, Indian Premier League 2026 Live Cricket Stream, live scores, ball-by-ball commentary, highlights, videos, news, and more in USA & Canada",
+          "url": "https://www.cricbuzz.com/live-cricket-scores/155409/rcb-vs-gt-final-indian-premier-league-2026"
+        },
+        {
+          "title": "Just before the finals Ravichandran Ashwin’s big statement on Kohli will surprise fans, says ‘Virat countered that…’",
+          "url": "https://www.cricketcountry.com/news/just-before-the-finals-ravichandran-ashwins-big-statement-on-kohli-will-surprise-fans-says-virat-countered-that-1345948/"
+        }
+      ],
+      "updatedAt": "2026-05-31T20:40:00+07:00"
+    },
+    {
       "id": "japan-vs-iceland-53099eaeed",
       "title": "japan vs iceland",
       "sourceType": "trends",
@@ -663,57 +739,19 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "Japan vs Iceland Lineups, Score, Predictions, Live Streams, How and Where to Watch on TV",
-          "url": "https://athlonsports.com/soccer/international/japan-vs-iceland-lineups-score-predictions-live-streams-how-and-where-to-watch-on-tv"
+          "title": "\"We will win the World Cup.\" Japan's soccer team on a tear, defeating another European side → 'Six consecutive A-match victories'... 1-0 win against Iceland",
+          "url": "https://www.starnewskorea.com/en/sports/2026/05/31/2026053121035061526"
         },
         {
-          "title": "French Open Tennis",
-          "url": "https://www.couriernews.com/sports/french-open-tennis/image_36b42e09-3ddc-51c7-8a71-297d1c27b98f.html"
+          "title": "APTOPIX Japan Iceland Soccer",
+          "url": "https://www.bdtonline.com/sports/college_sports/aptopix-japan-iceland-soccer/image_0a6260a2-ca98-5a78-8891-55805d49305a.html"
         },
         {
-          "title": "Japan Iceland Soccer",
-          "url": "https://www.journal-news.com/nation-world/japan-iceland-soccer/image_8979a083-3640-5414-8131-473508b1d34d.html"
+          "title": "Japan defeats Iceland with a last-minute goal",
+          "url": "https://zamin.uz/en/sport/204403-japan-defeats-iceland-with-a-last-minute-goal.html"
         }
       ],
       "updatedAt": "2026-05-31T17:30:00+07:00"
-    },
-    {
-      "id": "pride-month-73ea4b2eca",
-      "title": "pride month",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#pridemonth"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "ไพรด์ พาเหรด Bangkok Pride Parade 2026 ฉลอง Pride Month 31 พ.ค.69",
-          "url": "https://travel.trueid.net/detail/5BdzK6z3qQGY"
-        },
-        {
-          "title": "เริ่มแล้วงาน Bangkok Pride Parade 2026 ขบวนพาเหรดยิ่งใหญ่ ผสานวัฒนธรรมท้องถิ่น",
-          "url": "https://www.thairath.co.th/news/society/2936568"
-        },
-        {
-          "title": "ครั้งแรกในไทย! ไอคอนสยาม เตรียมจุดพลุสีรุ้งเหนือโค้งน้ำเจ้าพระยา ฉลอง Pride Month สุดยิ่งใหญ่",
-          "url": "https://www.marketingoops.com/pr-news/pride-month-iconsiam/"
-        }
-      ],
-      "updatedAt": "2026-05-31T16:30:00+07:00"
     },
     {
       "id": "fifa-2026-468af288e8",
@@ -786,7 +824,7 @@
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 2000+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 1000+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -807,8 +845,8 @@
           "url": "https://www.siamsport.co.th/football-international/national-team/104500/"
         },
         {
-          "title": "ลูฟี่ มาเอง!! อ.โอดะ จัดเต็ม ส่งทีมงานมอบ หมวกฟาง ปลุกไฟนักเตะซามูไร ลุยบอลโลก | แนวหน้า",
-          "url": "https://today.line.me/th/v3/article/9mv1Yaq"
+          "title": "ญี่ปุ่นเฉือนไอซ์แลนด์เกมกระชับมิตร ทีมชาติ ยืดสถิติชนะต่อเนื่องเป็น 6 นัดติดกัน",
+          "url": "https://www.khaosod.co.th/sports/news_10265799"
         },
         {
           "title": "ดูบอลสด ญี่ปุ่น vs ไอซ์แลนด์ ฟุตบอลอุ่นเครื่อง 31 พ.ค. 69",
@@ -818,13 +856,13 @@
       "updatedAt": "2026-05-31T17:10:00+07:00"
     },
     {
-      "id": "topic-6a6395d2fe",
-      "title": "ดวงจันทร์",
+      "id": "topic-1b6617efde",
+      "title": "ดูทีวีออนไลน์",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 100+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 1000+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -832,7 +870,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#ดวงจันทร์"
+        "#ดูทีวีออนไลน์"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -841,28 +879,24 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "คืนพรุ่งนี้ (31 พ.ค. 69)! เกิด “ไมโครบลูมูน” ดวงจันทร์เกิด 2 ปรากฏการณ์ในวันเดียว",
-          "url": "https://www.thaipbs.or.th/now/content/4034"
+          "title": "\"ปาล์ม นิติรัฐ\" ผู้ประกาศสายครีเอเตอร์ เสริมทีมแกร่ง ช่อง 8 ปรับทัพคุยข่าวเช้า",
+          "url": "https://entertainment.trueid.net/detail/nxwwM96JWOkx"
         },
         {
-          "title": "\"ไมโครบลูมูน\" คืนวันวิสาขบูชา ย้ำอีกครั้ง ไม่ได้หมายถึง \"ดวงจันทร์สีน้ำเงิน\"",
-          "url": "https://www.thairath.co.th/news/society/2936542"
-        },
-        {
-          "title": "คืนวิสาขบูชา 2569 ชวนดู “ไมโครบลูมูน” พระจันทร์เต็มดวงสุดพิเศษ",
-          "url": "https://travel.kapook.com/view301356.html"
+          "title": "\"ป๋ากิ๊ก-ตุ๊กกี้\" เขย่าหน้าจอ ช่อง 7HD นั่งเก้าอี้กรรมการ \"ดวลเพลงดัง\"",
+          "url": "https://entertainment.trueid.net/detail/8OnVndzqDeJO"
         }
       ],
-      "updatedAt": "2026-05-31T16:10:00+07:00"
+      "updatedAt": "2026-05-31T18:50:00+07:00"
     },
     {
-      "id": "topic-6d0c26921b",
-      "title": "บัวไหลก๋วยเตี๋ยวต้มยำ",
+      "id": "topic-75a46a5664",
+      "title": "บุรีรัมย์",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 2000+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 500+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -870,7 +904,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#บัวไหลก๋วยเตี๋ยวต้มยำ"
+        "#บุรีรัมย์"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -879,19 +913,19 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "เสนาหอย ประกาศปิดร้านก๋วยเตี๋ยว ไม่มีส่วนเกี่ยวข้องใดๆ เปิ้ล นาคร รีบคอมเมนต์ทันที",
-          "url": "https://www.thairath.co.th/entertain/news/2936540"
+          "title": "LIVE ดูบอลสด บุรีรัมย์ ยูไนเต็ด พบ พีที ประจวบฯ บอลวันนี้ 19:00 น. นัดชิง ช้าง เอฟเอ คัพ 2025-26",
+          "url": "https://www.thairath.co.th/sport/thaifootball/2936537"
         },
         {
-          "title": "ลูกค้าใจหาย เสนาหอย ประกาศ ปิดกิจการ ร้านก๋วยเตี๋ยวดัง ในเดือน มิ.ย.นี้ | Khaosod",
-          "url": "https://today.line.me/th/v3/article/ZaKYWkj"
+          "title": "แชมป์ที่ 3! ‘ปราสาทสายฟ้า’ ต่อเวลาฟาด ‘ประจวบ’ คว้าเอฟเอคัพ รับเงินรวมทะลุ 90 ล้านบาท",
+          "url": "https://www.dailynews.co.th/news/5908778/"
         },
         {
-          "title": "‘เสนาหอย’ ประกาศยุติบทบาทธุรกิจก๋วยเตี๋ยว ยันไม่เกี่ยวข้องกับกิจกรรมใดๆ ทั้งสิ้น!",
-          "url": "https://www.dailynews.co.th/news/5908356/"
+          "title": "LIVE : ดูบอลสด บุรีรัมย์ พบ ประจวบ ฟุตบอลช้าง เอฟเอ คัพ นัดชิงชนะเลิศ เวลา 19.00 น.",
+          "url": "https://www.sportingnews.com/th/football/news/live-watch-buriram-united-vs-prachuap-fc-chang-fa-cup-final/97206b79b134a33375bdc5ae"
         }
       ],
-      "updatedAt": "2026-05-31T14:50:00+07:00"
+      "updatedAt": "2026-05-31T18:50:00+07:00"
     },
     {
       "id": "50-f904c87e40",
@@ -973,12 +1007,12 @@
           "url": "https://www.thairath.co.th/entertain/news/2936544"
         },
         {
-          "title": "สาเหตุ หม่ำ จ๊กมก ซุ่มเงียบไม่ต่อสัญญาเวิร์คพอยท์ ที่เห็นคือคลิปเก่า ตอบปมลาวงการ",
-          "url": "https://thethaiger.com/th/news/1572767/"
+          "title": "ช็อกวงการตลก! ‘หม่ำ จ๊กมก’ ประกาศไม่ต่อสัญญาช่องดัง ผันตัวเป็นอิสระ",
+          "url": "https://www.dailynews.co.th/news/5907670/"
         },
         {
-          "title": "หม่ำ จ๊กมก เปิดใจแยกทางเวิร์คพอยท์เกือบปีขอเป็นฟรีแลนซ์",
-          "url": "https://www.amarintv.com/video/short-clip/%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%99%E0%B8%AD%E0%B8%A1%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C/545157"
+          "title": "‘หม่ำ จ๊กมก’ ผันตัวฟรีแลนซ์ ปิดฉากอยู่ใต้สังกัด ‘เวิร์คพอยท์’ | The Bangkok Insight",
+          "url": "https://today.line.me/th/v3/article/oqKJQwp"
         }
       ],
       "updatedAt": "2026-05-31T17:20:00+07:00"
@@ -1022,13 +1056,13 @@
       "updatedAt": "2026-05-31T16:40:00+07:00"
     },
     {
-      "id": "prime-mcman-daily-uplifting-50-17d213dace",
-      "title": "ไทยคู่ฟ้า. prime mcman · Daily Uplifting. 50 ปี ความสัมพันธ์ ไทย - เวียดนาม นายกฯ เปิดทำเนียบ ต้อนรับ นายโต เลิม ประธานาธิบดีเวียดนาม เยือนไทยอย่างเป็นทางการ กระชับควา...",
+      "id": "prime-mcman-daily-upbeat-50-fa3a4c4d83",
+      "title": "ไทยคู่ฟ้า. Prime mcman · Daily upbeat. 50 ปี ความสัมพันธ์ ไทย - เวียดนาม นายกฯ เปิดทำเนียบ ต้อนรับ นายโต เลิม ประธานาธิบดีเวียดนาม เยือนไทยอย่างเป็นทางการ กระชับความสั...",
       "sourceType": "news",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: ความสัมพันธ์ / source: facebook.com - ไทยคู่ฟ้า. prime mcman · Daily Uplifting. 50 ปี ความสัมพันธ์ ไทย - เวียดนาม นายกฯ เปิดทำเนียบ ต้อนรับ นายโต เลิม ประธานาธิบดีเวียดนาม เยือนไทยอย่างเป็นทางการ กระชับความสัมพันธ์ ยกร",
+      "summary": "ข่าวจาก Google News keyword: ความสัมพันธ์ / source: facebook.com - ไทยคู่ฟ้า. Prime mcman · Daily upbeat. 50 ปี ความสัมพันธ์ ไทย - เวียดนาม นายกฯ เปิดทำเนียบ ต้อนรับ นายโต เลิม ประธานาธิบดีเวียดนาม เยือนไทยอย่างเป็นทางการ กระชับความสัมพันธ์ ยกระดั",
       "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -1036,7 +1070,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#ไทยคู่ฟ้า.primemcman·Dai"
+        "#ไทยคู่ฟ้า.Primemcman·Dai"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -1080,7 +1114,7 @@
       "category": "entertainment",
       "contentPotential": "high",
       "riskLevel": "medium",
-      "summary": "ข่าวจาก Google News keyword: ดราม่า / source: Korseries - ดราม่าลุกลาม! คำร้องขอให้ถอดซีรีส์ ‘Perfect Crown’ ออกจากแพลตฟอร์ม ทะลุ 5 หมื่นรายชื่อ เตรียมเข้าสู่การพิจารณาของรัฐสภาเกาหลี    Korseries",
+      "summary": "ข่าวจาก Google News keyword: ดราม่า / source: korseries.com - ดราม่าลุกลาม! คำร้องขอให้ถอดซีรีส์ ‘Perfect Crown’ ออกจากแพลตฟอร์ม ทะลุ 5 หมื่นรายชื่อ เตรียมเข้าสู่การพิจารณาของรัฐสภาเกาหลี    korseries.com",
       "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
       "creatorAngle": "เล่า reaction ส่วนตัวต่อกระแส แล้วเปิดคำถามให้คนคุยต่อ",
       "promptIdea": "กระแสนี้ทุกคนอยู่ทีมไหน?",
@@ -1093,37 +1127,37 @@
       "riskNote": "Medium risk ควรเลี่ยงการพาดพิงบุคคลจริงและใช้คำถามเชิงสร้างสรรค์",
       "sources": [
         {
-          "title": "Korseries",
+          "title": "korseries.com",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQM2NHc1BKTWRFdGhuaDc5QTNrNUpVRlBrV2hINmVGajl0UmRRc2dSQkR3VFliNkxqbmJhYzZQa0o1ODR1cHVxSWxycUVkM3pLWDJDOXdvX2I3TVpsVW40SDV4bkNobmloRXpuRnFNSEU3UEU2UGpLLXlfYXJSRldla0dNcVZXWTBIT2dkU2ZuM2Z6RWJiOHdaVmNRcw?oc=5"
         }
       ],
       "updatedAt": "2026-05-26T15:47:15+07:00"
     },
     {
-      "id": "topic-fe5b3f4ff4",
-      "title": "ส่อดราม่าหน้าสด! ‘ทราย สก๊อต’ ฟาดกลับปมผลคะแนน ลั่นหักคะแนนคนสวยเพราะหน้าไม่สดจริง!",
+      "id": "like-647adc0136",
+      "title": "ข่าว Like สาระ - สรุปดราม่า 'สไปร์ท-ฟ้าใส' โต้เดือดปมเงินครึ่งล้าน ก่อนบทสรุป 'นุ้งตี้' พาขอโทษ",
       "sourceType": "news",
-      "category": "beauty",
-      "contentPotential": "high",
+      "category": "social_topic",
+      "contentPotential": "medium",
       "riskLevel": "medium",
-      "summary": "ข่าวจาก Google News keyword: ดราม่า / source: เดลินิวส์ - ส่อดราม่าหน้าสด! ‘ทราย สก๊อต’ ฟาดกลับปมผลคะแนน ลั่นหักคะแนนคนสวยเพราะหน้าไม่สดจริง!    เดลินิวส์",
-      "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
-      "creatorAngle": "ชวนแชร์สไตล์ ไอเท็ม หรือเทคนิคที่ใช้จริงโดยไม่ขายของแข็งเกินไป",
-      "promptIdea": "สไตล์นี้ถ้าแต่งในชีวิตจริงจะรอดไหม?",
+      "summary": "ข่าวจาก Google News keyword: ดราม่า / source: แนวหน้า - ข่าว Like สาระ - สรุปดราม่า 'สไปร์ท-ฟ้าใส' โต้เดือดปมเงินครึ่งล้าน ก่อนบทสรุป 'นุ้งตี้' พาขอโทษ    แนวหน้า",
+      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
       "hashtags": [
-        "#BeautyTalk",
-        "#FashionTH",
-        "#ไอเดียแต่งตัว",
-        "#ส่อดราม่าหน้าสด!‘ทรายสก๊"
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#ข่าวLikeสาระ-สรุปดราม่า'"
       ],
       "riskNote": "Medium risk ควรเลี่ยงการพาดพิงบุคคลจริงและใช้คำถามเชิงสร้างสรรค์",
       "sources": [
         {
-          "title": "เดลินิวส์",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1hUlBDYVRJT1ROZTUxdENiNGZXeEtJdDdRVU1NMFNIUjhjN09uVnA4Z1FwZWdaSzNjT2pocEJfQnFtbndJb01VLTZFbE1uZk84VERv?oc=5"
+          "title": "แนวหน้า",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBMZTBUQ2dYVDZtVDlISUJBZ2dnWjZYQ0lMMkg0TGNxTEJSeUNlY2RqRjI5MFF2eUdEZEZHaHlGVktNSFdxXzM1WFJiREVrY2M?oc=5"
         }
       ],
-      "updatedAt": "2026-05-29T17:30:00+07:00"
+      "updatedAt": "2026-05-31T14:48:00+07:00"
     },
     {
       "id": "topic-6fe46e4b02",
@@ -1223,27 +1257,27 @@
       "riskNote": "Medium risk ควรอ้างอิงแหล่งทางการและเตือนให้ระวังลิงก์ปลอมหรือข้อมูลผิด",
       "sources": [
         {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "“ไทยช่วยไทย พลัส 60/40” เริ่ม 1 มิ.ย. 6 โมงเช้า รัฐบาลย้ำขั้นตอนใช้ผ่าน “เป๋าตัง”",
-          "url": "https://www.thairath.co.th/news/politic/2936480"
-        },
-        {
-          "title": "วิธีเติมเงินเข้า G-Wallet เตรียมใช้ “ไทยช่วยไทย พลัส” 60/40 | การเงินธนาคาร",
-          "url": "https://today.line.me/th/v3/article/9mvXXle"
-        },
-        {
-          "title": "พ่อค้าแม่ขายเพิ่มสต็อกสินค้า ขึ้นป้ายรองรับ \"ไทยช่วยไทยพลัส 60/40\" หรือ คนละครึ่ง ในวันพรุ่งนี้",
-          "url": "https://news.ch7.com/detail/876258"
-        },
-        {
           "title": "กรมประชาสัมพันธ์",
           "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5KU3FhazhERlFmYTNTV1k2QkIwRzNQVUNla3hsVG0zdzVrNElONEtlVXYxbmNWM2RXSlFZVTV0RmNOVFNXYmNzRkdyWS1pMjNvcjZ4RTYyTzQ0LTk3dzBMVDFoUFlQTVdaV2pCRXgyRUhxNmM?oc=5"
+        },
+        {
+          "title": "Sanook",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1fUHpXWGJvR0lkRzZRYjFIVUdia2pOYk5vcjJXZzhpRGFMT0JUd0liWmc5bmRtdktOd0MzRE1BWFAyekRUTXFoMjQyYW0?oc=5"
+        },
+        {
+          "title": "Thai PBS",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUN3hlSFdwT2dpQU5vTFRwYXkxNUJPd2VidUxYd25tZGxHQkswcG9CR285WmNIRjRmcU9wZURCcWlQaXE0Tk9rcGw3V05GTWhJemZsTFloSGtHdw?oc=5"
+        },
+        {
+          "title": "Thairath.co.th",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5DSHRyai1NejFfem15T0l2bGFxbTBpQ0Y5TWtqeENPNEdodlZKdzhDQnN0MUY0aWlOR29PRGZIdUlTQUR5OWx2a2xGMGxna3BzbG9DeHF6RDZ5S2c?oc=5"
+        },
+        {
+          "title": "Thaigov",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5Uc29vZWxrNkNHTldkeG5QYXpvMHFwbWlnVWc0XzV3VHhSZjJkUWdGNjk1TWROQkdsdzZkVk1GczlzZXFmX05qdS1JRm9uQQ?oc=5"
         }
       ],
-      "updatedAt": "2026-05-31T15:10:00+07:00"
+      "updatedAt": "2026-05-25T08:55:24+07:00"
     },
     {
       "id": "spd-bbaedf376c",
