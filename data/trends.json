@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-01T19:41:02.000632+07:00",
-  "dateRange": "2026-05-25 to 2026-06-01",
+  "generatedAt": "2026-06-02T01:41:28.730934+07:00",
+  "dateRange": "2026-05-26 to 2026-06-02",
   "sourceErrors": [],
   "topics": [
     {
@@ -10,7 +10,7 @@
       "category": "entertainment",
       "contentPotential": "high",
       "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: ซีรีส์ / source: Sanook - 6 ซีรีส์เกาหลี 18+ ดีกรีเดือด เลิฟซีนดุเดือดที่สุดในรอบ 10 ปี    Sanook",
+      "summary": "ข่าวจาก Google News keyword: ซีรีส์ / source: sanook.com - 6 ซีรีส์เกาหลี 18+ ดีกรีเดือด เลิฟซีนดุเดือดที่สุดในรอบ 10 ปี    sanook.com",
       "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
       "creatorAngle": "เล่า reaction ส่วนตัวต่อกระแส แล้วเปิดคำถามให้คนคุยต่อ",
       "promptIdea": "กระแสนี้ทุกคนอยู่ทีมไหน?",
@@ -23,7 +23,7 @@
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
         {
-          "title": "Sanook",
+          "title": "sanook.com",
           "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE43enF6eFVOYWpydkMxMVlDcGNZc2FnSl8xTm50YVlET2hOck1UdHJzZGdmOXM5RHBwNFJ0SHdocHVCU1RtN1pUaDFzUG4?oc=5"
         }
       ],
@@ -54,6 +54,32 @@
         }
       ],
       "updatedAt": "2026-06-01T07:46:16+07:00"
+    },
+    {
+      "id": "chrome-hearts-1160a7873f",
+      "title": "Chrome Hearts จากชุดหนังมอเตอร์ไซค์ในโรงรถ สู่แบรนด์แฟชั่นที่เสื้อราคาหลักล้าน",
+      "sourceType": "news",
+      "category": "beauty",
+      "contentPotential": "high",
+      "riskLevel": "low",
+      "summary": "ข่าวจาก Google News keyword: แฟชั่น / source: Marketeer Online - Chrome Hearts จากชุดหนังมอเตอร์ไซค์ในโรงรถ สู่แบรนด์แฟชั่นที่เสื้อราคาหลักล้าน    Marketeer Online",
+      "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
+      "creatorAngle": "ชวนแชร์สไตล์ ไอเท็ม หรือเทคนิคที่ใช้จริงโดยไม่ขายของแข็งเกินไป",
+      "promptIdea": "สไตล์นี้ถ้าแต่งในชีวิตจริงจะรอดไหม?",
+      "hashtags": [
+        "#BeautyTalk",
+        "#FashionTH",
+        "#ไอเดียแต่งตัว",
+        "#ChromeHeartsจากชุดหนังมอ"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Marketeer Online",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBtMUpFdjNqMzJNYU1iQ1h0Zk9VQjNCaWVFYktMaEptMVp6M0pEZmw1ck0zcmg5N0xEZHJCb3F3X21EbnBKQjdZSW03UHJHTWxRV1Qtdw?oc=5"
+        }
+      ],
+      "updatedAt": "2026-05-26T14:00:00+07:00"
     },
     {
       "id": "synova-ccbf6e9617",
@@ -218,7 +244,7 @@
       "category": "food",
       "contentPotential": "high",
       "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: คาเฟ่ / source: TrueID InTrend - รีวิวนั่งทำงานที่คาเฟ่ IKEA ไปยังไง บรรยากาศดีไหม    TrueID InTrend",
+      "summary": "ข่าวจาก Google News keyword: คาเฟ่ / source: TrueID - รีวิวนั่งทำงานที่คาเฟ่ IKEA ไปยังไง บรรยากาศดีไหม    TrueID",
       "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
       "creatorAngle": "ให้ Creator เล่าประสบการณ์ร้าน/เมนูที่อยากลอง แล้วถามคนอื่นว่าคิดเหมือนกันไหม",
       "promptIdea": "เห็นคนพูดถึงเมนูนี้เยอะมาก มีใครลองแล้วบ้าง?",
@@ -231,8 +257,8 @@
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
         {
-          "title": "TrueID InTrend",
-          "url": "https://news.google.com/rss/articles/CBMi6ARBVV95cUxPal9fdUJHdWhDRDBWSDl0S0NCMnFveDV5djZJUFVTV3o0aGlGa0w3NTRJMXBBay1NdEk5V1Rtamd5aW5LdWNjWXBHc2hVYUw1MTNTWDIyaFpZajdaV3cwQlAyNTBieEtsLWdYb0RsZFNyeTNaekxIRnBkOXExTlJ2RW8teHJVdm5Ia1ZwanZycUNZT3lSR2g1TXdhc3BpSmpNNXdwQ3JqeDR2X3FWcGo2WGhwcXllVEF6VGs1cXMyZGtsQVZ1NnRoRTBKemMtUUhsZUszc0lMTEtKVWtlZ01fR0prYmM2YU14bFVMTmhTUzlGc0JVSDJtWVRaYk4xcFFheE1iQzdZSS1MbjZVVnpINGVhMlhkOHEwd0dEcUVSZ2swT1ZNcGlxcHV3YlI0cERRd05zZHA1Y3ZENldRSnpaOU5KOFhYcVJXZUprYWM5Smppc1VwU2h5ekRLUlBzVFZsbjhwR0VRR1RYTGRrakd0QUhIN3BuN1JPaTJBWUF0UkFFSDdPMHlRZ3FvbFc3SHFYdXhPWHRoendyRU40NTNtbk1vZGVidGJGa2NyZ2lhUFVDaEphNFNBb0dZOXVFR1FxS1FyWXc0ZEpWNGFReW14eURIQ2RrYmVxRXNIdDNzNmNHXzF2NFhTbHFvakhLMmdiZWJyR2tWQm1mcF91Zk1MRUVWRlVaVWhsd2F1MUNxSms2cV93bF9tRE5GdEVIZ3RqVVctc015aVE4dEdCbHB5ZXdBcWZLOVYxWVJKSk9CWGl6NW9SVjB3dGQwWnVNSmpNMmFMVFpyeHVXT2NndkY3bFR3MWJXb0pL?oc=5"
+          "title": "TrueID",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9WLVlCd3VVTUpwNWYteE4xM2s1Rk9ScVhHUzh0MXZ5R2E5NzV6dXdrbFhnYzdKLXplOGc4Q3diN1Rha1pnMUhQZ18tMVhGN01sZ2R3UTdkbVY?oc=5"
         }
       ],
       "updatedAt": "2026-05-27T12:41:27+07:00"
@@ -262,32 +288,6 @@
         }
       ],
       "updatedAt": "2026-05-29T12:30:02+07:00"
-    },
-    {
-      "id": "pet-food-50-lifemate-rs-group-00393f353e",
-      "title": "สยายปีกสู่ Pet Food ทุ่ม 50 ล้าน ซื้อแบรนด์ Lifemate ต่อจาก RS Group",
-      "sourceType": "news",
-      "category": "food",
-      "contentPotential": "high",
-      "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: คาเฟ่ / source: Forbes Thailand - สยายปีกสู่ Pet Food ทุ่ม 50 ล้าน ซื้อแบรนด์ Lifemate ต่อจาก RS Group    Forbes Thailand",
-      "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
-      "creatorAngle": "ให้ Creator เล่าประสบการณ์ร้าน/เมนูที่อยากลอง แล้วถามคนอื่นว่าคิดเหมือนกันไหม",
-      "promptIdea": "เห็นคนพูดถึงเมนูนี้เยอะมาก มีใครลองแล้วบ้าง?",
-      "hashtags": [
-        "#FoodTrend",
-        "#CafeTH",
-        "#รีวิวของกิน",
-        "#สยายปีกสู่PetFoodทุ่ม50ล"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Forbes Thailand",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWUtqUWNrdE9fNnFoNTlCcGxIWE1VQUVOMlZkSWllQV9GRUJIN0ZSbVZ5SWh3akVLVU9TUjJaUVRrdHZfMmc4WEx4YjNSWFVjbjh0MkxTU2xwS0ItWUctLTJmbGc2eVFrOU1SeHI5b0tkcmgzNVV0NEQzSGd1d1RWX21MQ1Nyb0lXcC15am1hNA?oc=5"
-        }
-      ],
-      "updatedAt": "2026-05-26T13:50:24+07:00"
     },
     {
       "id": "2569-healthy-convenience-ece0dd8566",
@@ -368,6 +368,32 @@
       "updatedAt": "2026-05-27T11:04:21+07:00"
     },
     {
+      "id": "200-lifemate-rs-group-5743400e65",
+      "title": "เจาะกลยุทธ์ “อำพลฟูดส์” เปิด “ชาวเกาะ คาเฟ่” ในปั๊มคาลเท็กซ์ ขายเครื่องทำไอศกรีม 200 แห่งทั่วไทย ขยายพอร์ต ซื้อ “Lifemate” ต่อจาก RS Group",
+      "sourceType": "news",
+      "category": "food",
+      "contentPotential": "high",
+      "riskLevel": "low",
+      "summary": "ข่าวจาก Google News keyword: คาเฟ่ / source: Forbes Thailand - เจาะกลยุทธ์ “อำพลฟูดส์” เปิด “ชาวเกาะ คาเฟ่” ในปั๊มคาลเท็กซ์ ขายเครื่องทำไอศกรีม 200 แห่งทั่วไทย ขยายพอร์ต ซื้อ “Lifemate” ต่อจาก RS Group    Forbes Thailand",
+      "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
+      "creatorAngle": "ให้ Creator เล่าประสบการณ์ร้าน/เมนูที่อยากลอง แล้วถามคนอื่นว่าคิดเหมือนกันไหม",
+      "promptIdea": "เห็นคนพูดถึงเมนูนี้เยอะมาก มีใครลองแล้วบ้าง?",
+      "hashtags": [
+        "#FoodTrend",
+        "#CafeTH",
+        "#รีวิวของกิน",
+        "#เจาะกลยุทธ์“อำพลฟูดส์”เป"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Forbes Thailand",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWUtqUWNrdE9fNnFoNTlCcGxIWE1VQUVOMlZkSWllQV9GRUJIN0ZSbVZ5SWh3akVLVU9TUjJaUVRrdHZfMmc4WEx4YjNSWFVjbjh0MkxTU2xwS0ItWUctLTJmbGc2eVFrOU1SeHI5b0tkcmgzNVV0NEQzSGd1d1RWX21MQ1Nyb0lXcC15am1hNA?oc=5"
+        }
+      ],
+      "updatedAt": "2026-05-26T13:50:24+07:00"
+    },
+    {
       "id": "netflix-2569-9f6c724d0f",
       "title": "แนะนำซีรีส์ - หนังใหม่ Netflix ประจำเดือนมิถุนายน 2569",
       "sourceType": "news",
@@ -418,32 +444,6 @@
         }
       ],
       "updatedAt": "2026-05-30T08:45:00+07:00"
-    },
-    {
-      "id": "knot-knitting-nature-and-ocean-into-tre-4d3c0db59a",
-      "title": "ไอคอนคราฟต์ ชวนพบกับนิยามใหม่ของแฟชั่นร่วมสมัยใน “KNOT : Knitting Nature and Ocean into Trends of Fashion” นิทรรศการและแฟชั่นโชว์สะท้อนแนวคิด Waste to Value ที่จะเปลี่...",
-      "sourceType": "news",
-      "category": "beauty",
-      "contentPotential": "high",
-      "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: แฟชั่น / source: Brand Buffet - ไอคอนคราฟต์ ชวนพบกับนิยามใหม่ของแฟชั่นร่วมสมัยใน “KNOT : Knitting Nature and Ocean into Trends of Fashion” นิทรรศการและแฟชั่นโชว์สะท้อนแนวคิด Waste to Value ที่จะเปลี่ยนความยั่งยืน",
-      "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
-      "creatorAngle": "ชวนแชร์สไตล์ ไอเท็ม หรือเทคนิคที่ใช้จริงโดยไม่ขายของแข็งเกินไป",
-      "promptIdea": "สไตล์นี้ถ้าแต่งในชีวิตจริงจะรอดไหม?",
-      "hashtags": [
-        "#BeautyTalk",
-        "#FashionTH",
-        "#ไอเดียแต่งตัว",
-        "#ไอคอนคราฟต์ชวนพบกับนิยาม"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Brand Buffet",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQjh2RUNFRDk4T1dMZG1JdEluNllQdUNYVzFfUXlfai16Y2o1QnVNRmxnMkxsMXFGTWlfUFBFVXE5cGpPR3puUmwxT21QRDVzMXhYT3NQSi1PdDljd3VDN2psdnVNV0Y5cUJveXVNa1o3ajRqbFlJa0xFT3ZMQkdFUlM3cHh2QWpIa0ZGcEZXNVNmWmlDUmxr?oc=5"
-        }
-      ],
-      "updatedAt": "2026-05-28T14:33:02+07:00"
     },
     {
       "id": "flagship-store-f47dec8d18",
@@ -530,7 +530,7 @@
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: วอลเลย์บอล / source: Sanook - \"นายกสมพร\" เผยชื่อ 3 วอลเลย์บอลสาวไทย หมดสิทธ์ลุยศึก VNL 2026 สนามแรก    Sanook",
+      "summary": "ข่าวจาก Google News keyword: วอลเลย์บอล / source: sanook.com - \"นายกสมพร\" เผยชื่อ 3 วอลเลย์บอลสาวไทย หมดสิทธ์ลุยศึก VNL 2026 สนามแรก    sanook.com",
       "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -543,11 +543,113 @@
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
         {
-          "title": "Sanook",
+          "title": "sanook.com",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1OTVhqaTVnMVctdWYxSEhwMmVnYnVmUkNmdGRjcVN1N0lXSHc0Nm4wcDdLbDlhZWtMMEtMdGpxdHRzZElVWDJ3elBqYkVqQQ?oc=5"
         }
       ],
       "updatedAt": "2026-05-26T10:41:00+07:00"
+    },
+    {
+      "id": "7m-9b281eb894",
+      "title": "7m",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 100+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#7m"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "Star Pubs to invest nearly £7m in its outdoor areas",
+          "url": "https://www.thecaterer.com/news/star-pubs-to-invest-nearly-7m-in-its-outdoor-areas"
+        },
+        {
+          "title": "STAR PUBS INVESTS £6.69M IN OUTDOOR UPGRADES",
+          "url": "https://barmagazine.co.uk/star-pubs-invests-6-69m-in-outdoor-upgrades/"
+        },
+        {
+          "title": "Star Pubs to invest £6.69m in outdoor upgrades",
+          "url": "https://www.morningadvertiser.co.uk/Article/2026/06/01/star-pubs-to-invest-669m-in-outdoor-pub-upgrades/"
+        }
+      ],
+      "updatedAt": "2026-06-01T19:10:00+07:00"
+    },
+    {
+      "id": "thailand-volleyball-association-bc3e249da1",
+      "title": "Thailand Volleyball Association สมาคมกีฬาวอลเลย์บอลแห่งประเทศไทย",
+      "sourceType": "news",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "ข่าวจาก Google News keyword: วอลเลย์บอล / source: facebook.com - Thailand Volleyball Association สมาคมกีฬาวอลเลย์บอลแห่งประเทศไทย    facebook.com",
+      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#ThailandVolleyballAssoci"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "facebook.com",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQV2dWSXdDckEybEE1YldxZ0RGWWpPNFQ1ZWJvcVlQU2lnYmFtbHpiQ1oyOUdKeGNIaXNBVC13UVNsTTFvVHE2UVE1Z01JUUVKZVkyX0FWak5NaE45aEtZV1JLSVpidHZOVDc2MFBEZ3JVM0lZR0dEbkhNRGQ0UmRKYTEwcHZqZw?oc=5"
+        }
+      ],
+      "updatedAt": "2026-06-01T21:17:04+07:00"
+    },
+    {
+      "id": "thai-lottery-fefd5649f5",
+      "title": "thai lottery",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 1000+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#thailottery"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "Thai lottery 1 June 2026 check the result",
+          "url": "https://thethaiger.com/hot-news/thai-lottery-1-june-2026-check-the-result"
+        },
+        {
+          "title": "ตรวจหวย 1 มิถุนายน 2569 ผลสลากกินแบ่งรัฐบาล หวย 1/6/69",
+          "url": "https://www.sanook.com/news/9891818/"
+        },
+        {
+          "title": "LIVE ชมถ่ายทอดสด ผลการออกสลากกินแบ่งรัฐบาล 1 มิถุนายน 2569",
+          "url": "https://www.thairath.co.th/lottery/news/2936596"
+        }
+      ],
+      "updatedAt": "2026-06-01T15:50:00+07:00"
     },
     {
       "id": "fifa-2026-468af288e8",
@@ -576,13 +678,13 @@
       "updatedAt": "2026-05-27T08:29:20+07:00"
     },
     {
-      "id": "topic-85cfaeadc8",
-      "title": "ซื้อหวย",
+      "id": "3-6fde11f02a",
+      "title": "ช่อง 3 ออนไลน์",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 500+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -590,7 +692,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#ซื้อหวย"
+        "#ช่อง3ออนไลน์"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -599,28 +701,24 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "มีอยู่จริง! มิจฉาชีพหลอกขายสลากกินแบ่งฯ ทิพย์",
-          "url": "https://www.antifakenewscenter.com/%E0%B8%AD%E0%B8%B2%E0%B8%8A%E0%B8%8D%E0%B8%B2%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/%E0%B8%A1%E0%B8%B5%E0%B8%AD%E0%B8%A2%E0%B8%B9%E0%B9%88%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%87-%E0%B8%A1%E0%B8%B4%E0%B8%88%E0%B8%89%E0%B8%B2%E0%B8%8A%E0%B8%B5%E0%B8%9E%E0%B8%AB%E0%B8%A5%E0%B8%AD%E0%B8%81%E0%B8%82%E0%B8%B2%E0%B8%A2%E0%B8%AA%E0%B8%A5%E0%B8%B2%E0%B8%81%E0%B8%81%E0%B8%B4%E0%B8%99%E0%B9%81%E0%B8%9A%E0%B9%88%E0%B8%87%E0%B8%AF-%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C/"
+          "title": "หมดยุคแย่งรีโมท: รีวิวประสบการณ์ \"ดูทีวีออนไลน์\"",
+          "url": "https://news.trueid.net/detail/4pZ4GrkxqyzB"
         },
         {
-          "title": "\"ศูนย์ต้านข่าวปลอมฯ\" เตือนซื้อ \"หวยออนไลน์\" ผิดกฎหมาย เสี่ยงถูกอายัดบัญชี",
-          "url": "https://siamrath.co.th/quality-of-life/crime/151115"
-        },
-        {
-          "title": "การเมือง - บุญรวี บี้ รัฐบาล ปราบแก๊งสแกมเมอร์ตั้งล้งขายสลากกินแบ่งรัฐบาลผ่านแพลตฟอร์มออนไลน์",
-          "url": "https://www.naewna.com/politic/967164"
+          "title": "\"ทนายบุญ - ป๊อบปี้ - จ๊ะจ๋า\" เปิดตัว 3 รายการออนไลน์ใหม่ทาง Ch3Thailand",
+          "url": "https://entertainment.trueid.net/detail/YNKvgkY9vww4"
         }
       ],
-      "updatedAt": "2026-06-01T08:50:00+07:00"
+      "updatedAt": "2026-06-01T20:40:00+07:00"
     },
     {
-      "id": "topic-0d922d6ac1",
-      "title": "ดูดวง",
+      "id": "3-99dcfc8c15",
+      "title": "ช่อง3",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 100+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 2000+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -628,7 +726,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#ดูดวง"
+        "#ช่อง3"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -637,23 +735,23 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "ดาวพฤหัสย้าย 2569 กี่โมง วันที่ 31 พ.ค. เช็กเวลาแม่นๆ เตรียมสวดมนต์เสริมดวง",
-          "url": "https://www.thairath.co.th/horoscope/belief/2935881"
+          "title": "พยัคฆ์ร้ายซ่อนลาย EP.11 [1/4]",
+          "url": "https://ch3plus.com/v/275542"
         },
         {
-          "title": "หมอช้าง เผย 12 ปีมีครั้งเดียว 2ราศีรับแรงกระแทก 5เหตุผลไม่ควรพลาด",
-          "url": "https://www.khaosod.co.th/horoscope/news_10264479"
+          "title": "เรื่องย่อ พยัคฆ์ร้ายซ่อนลาย ตอนที่ 7",
+          "url": "https://ch3plus.com/special/dramascoop/6617"
         },
         {
-          "title": "4 ราศีปังๆ หลังดาวพฤหัสบดีย้าย โดย หมอเต็มมี่ไพ่เจ้าหญิงเลอนอร์มองค์ | TOJO NEWS",
-          "url": "https://today.line.me/th/v3/article/DR6YP08"
+          "title": "เรื่องย่อ พยัคฆ์ร้ายซ่อนลาย ตอนที่ 11",
+          "url": "https://ch3plus.com/special/dramascoop/6631"
         }
       ],
-      "updatedAt": "2026-06-01T08:30:00+07:00"
+      "updatedAt": "2026-06-01T20:20:00+07:00"
     },
     {
-      "id": "topic-f7fe2d818d",
-      "title": "ตรวจหวย",
+      "id": "1-2569-aec0328e66",
+      "title": "ตรวจหวย1มิถุนายน2569",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
@@ -666,7 +764,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#ตรวจหวย"
+        "#ตรวจหวย1มิถุนายน2569"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -679,15 +777,15 @@
           "url": "https://www.sanook.com/news/9891818/"
         },
         {
-          "title": "แม่ค้าผักดวงเฮง เล่าที่มา \"เลขเด็ด\" ให้โชคใหญ่ ถูกลอตเตอรี่รางวัลที่ 1",
-          "url": "https://www.thairath.co.th/lottery/news/2936771"
+          "title": "LIVE ชมถ่ายทอดสด ผลการออกสลากกินแบ่งรัฐบาล 1 มิถุนายน 2569",
+          "url": "https://www.thairath.co.th/lottery/news/2936596"
         },
         {
-          "title": "มาแล้ว เลขเด็ดปฏิทินจีน 1 มิ.ย.2569 ซูมเลขปฏิทินครอบครัวข่าว 3 เลขเน้นๆ 2 ตัว 3 ตัว",
-          "url": "https://www.khaosod.co.th/lottery/news_10265983"
+          "title": "มาตามนัด! \"เจ๊นุ๊ก บารมีมหาเฮง\" จัดเต็มแนวทางเลขเด็ด งวด 1/6/69 ฟันเลขนี้เน้นๆ",
+          "url": "https://www.dailynews.co.th/news/5909238/"
         }
       ],
-      "updatedAt": "2026-06-01T14:50:00+07:00"
+      "updatedAt": "2026-06-01T15:20:00+07:00"
     },
     {
       "id": "1-68-a536e34c90",
@@ -713,16 +811,16 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "สถิติหวยออมสิน 1 มิถุนายน 2569 ผลสลากออมสิน 1/6/69 วันนี้",
-          "url": "https://www.sanook.com/money/951835/"
-        },
-        {
-          "title": "ตรวจสลากออมสิน 1/6/69 สลากออมสินพิเศษ 2 ปี หวยออมสิน งวดวันที่ 1 มิ.ย.2569",
-          "url": "https://www.khaosod.co.th/lottery/news_10266089"
+          "title": "ตรวจสลากออมสิน 1/6/69 สลากออมสินพิเศษ 2 ปี งวด 1 มิถุนายน 2569",
+          "url": "https://www.sanook.com/money/951879/"
         },
         {
           "title": "แจกแล้ว แจกจริง 13 ล้านบาท ยังมีให้ลุ้นกันต่ออีก 2 รอบ รางวัลพิเศษรวม 100 ล้านบาท กับสลากออมสินพิเศษ 1 ปี และ 2 ปี",
           "url": "https://www.nationtv.tv/pr-news/business/pr-news/378978181"
+        },
+        {
+          "title": "ออกแล้ว 'หวยออมสิน' ตรวจหวยงวดนี้ 1 มิ.ย.69 สลากออมสิน 2 ปี หวยล่าสุด",
+          "url": "https://www.bangkokbiznews.com/news/news-update/1236513"
         }
       ],
       "updatedAt": "2026-06-01T16:00:00+07:00"
@@ -764,44 +862,6 @@
         }
       ],
       "updatedAt": "2026-06-01T09:00:00+07:00"
-    },
-    {
-      "id": "topic-1e17de1cd6",
-      "title": "บัตรสวัสดิการแห่งรัฐ",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#บัตรสวัสดิการแห่งรัฐ"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "สมัครบัตรสวัสดิการแห่งรัฐ 2569 สมัครยังไง ใครมีสิทธิได้บ้าง",
-          "url": "https://www.tqm.co.th/articles/%E0%B8%AB%E0%B8%A1%E0%B8%B5%E0%B9%80%E0%B8%9A%E0%B9%87%E0%B8%94%E0%B9%80%E0%B8%95%E0%B8%A5%E0%B9%87%E0%B8%94/%E0%B8%AA%E0%B8%A1%E0%B8%B1%E0%B8%84%E0%B8%A3%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%A3%E0%B8%AA%E0%B8%A7%E0%B8%B1%E0%B8%AA%E0%B8%94%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%A3%E0%B8%B1%E0%B8%90"
-        },
-        {
-          "title": "คลัง กดปุ่มโอน 1,000 ไทยช่วยไทยเข้าบัญชี 39.2 ล้านคน เริ่มใช้พรุ่งนี้ 6 โมงเช้า",
-          "url": "https://www.dailynews.co.th/news/5907883/"
-        },
-        {
-          "title": "บัตรสวัสดิการแห่งรัฐ 2569 เตรียมเปิดลงทะเบียนรอบใหม่ ช่วยกลุ่มผู้มีรายได้น้อย",
-          "url": "https://www.thairath.co.th/news/society/2936710"
-        }
-      ],
-      "updatedAt": "2026-06-01T06:20:00+07:00"
     },
     {
       "id": "50-f904c87e40",
@@ -856,6 +916,44 @@
       "updatedAt": "2026-06-01T14:55:34+07:00"
     },
     {
+      "id": "topic-2bed16fc1d",
+      "title": "รักหักหลัง",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#รักหักหลัง"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "เรื่องย่อ “รักหักหลัง” EP 18 ความทรงจำที่หายไปกับความเป็นห่วงใยที่ไม่เปิดเผยตัว",
+          "url": "https://www.thairath.co.th/entertain/series/2936761"
+        },
+        {
+          "title": "แม่คิดว่า พาย เป็นสมบัติของแม่ จนลืมไปว่า พาย ก็มีชีวิตเป็นของตัวเอง",
+          "url": "https://ch3plus.com/v/275759"
+        },
+        {
+          "title": "รู้จัก พาย รินรดา นางเอก รักหักหลัง (2569) ละครช่อง3",
+          "url": "https://entertainment.trueid.net/detail/oV07l1l8AYdW"
+        }
+      ],
+      "updatedAt": "2026-06-01T20:40:00+07:00"
+    },
+    {
       "id": "topic-44401bdbb3",
       "title": "ราชินี",
       "sourceType": "trends",
@@ -879,16 +977,16 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "งานดนตรี \"Soft power เสน่ห์แดนใต้\" ยกระดับศิลปวัฒนธรรมไทย สู่ระดับสากล",
-          "url": "https://www.thairath.co.th/news/local/localbusiness/2936745"
+          "title": "ในหลวง-พระราชินี พระราชทานพระบรมราชวโรกาสให้ นายกฯ และคณะ เฝ้าฯ ถวายพระพรชัยมงคลพระราชินี",
+          "url": "https://www.matichon.co.th/royal/news_5742397"
         },
         {
-          "title": "สำนักพระราชวัง เชิญชวนปชช. ลงนามถวายพระพร ‘พระราชินี’ เนื่องในโอกาสเฉลิมพระชนมพรรษา 4 รอบ",
-          "url": "https://www.matichon.co.th/royal/news_5739392"
+          "title": "พระบาทสมเด็จพระเจ้าอยู่หัว และสมเด็จพระนางเจ้า ฯ พระบรมราชินี เสด็จพระราชดำเนินไปในการตั้งเปรียญพระภิกษุ และสามเณร เนื่องในพระราชพิธีทรงบำเพ็ญพระราชกุศลวิสาขบูชา พุทธศักราช 2569 ณ พระอุโบสถ วัดพระศรีรัตนศาสดาราม พระบรมมหาราชวัง",
+          "url": "https://www.royaloffice.th/30/05/2026/%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%81%E0%B8%B8%E0%B8%A8%E0%B8%A5%E0%B8%A7%E0%B8%B4%E0%B8%AA%E0%B8%B2%E0%B8%82%E0%B8%9A%E0%B8%B9%E0%B8%8A%E0%B8%B2/"
         },
         {
-          "title": "เปิดจอง 1 มิ.ย. เข็มที่ระลึก เฉลิมพระเกียรติพระบรมราชินี",
-          "url": "https://www.thaipost.net/general-news/1005289/"
+          "title": "ในหลวง-พระราชินี ทรงรับน้อมเกล้าฯถวายรถพยาบาล เนื่องในโอกาสพระราชพิธีมหามงคลเฉลิมพระชนมพรรษา 4 รอบ",
+          "url": "https://mgronline.com/onlinesection/detail/9690000050753"
         }
       ],
       "updatedAt": "2026-06-01T10:30:00+07:00"
@@ -917,16 +1015,16 @@
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNX01za1lVMHNoM29HY2VIVmRRd3NRUmlyVWtuZ0xDR2x3UVZzNVdpSnJxczhKbHpZd1dRRkRmbjNMTVQwcnRyYXByU0dERE00b1FhZldmUHRkMXdWbGJMdEJKY1BCejI5aWRUNjcwQ05MZWhWWEFHQkpwMHFYSWpFSzZUemdqVXdSY1lCWnUxU1pnRFdENk1OWkIzYW83RGZsa3lXSXFSRWdfQ1BfdVRUUGF6cHNHQQ?oc=5"
         }
       ],
-      "updatedAt": "2026-06-01T14:54:16+07:00"
+      "updatedAt": "2026-06-01T21:51:50+07:00"
     },
     {
-      "id": "topic-6c0a8e3460",
-      "title": "สีมงคลวันนี้",
+      "id": "topic-f2d29c7ea7",
+      "title": "หวยออกอะไร",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 500+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 10000+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -934,7 +1032,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#สีมงคลวันนี้"
+        "#หวยออกอะไร"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -943,57 +1041,19 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "สีมงคลประจำเดือนมิถุนายน 2569 เช็กสีเสื้อมงคลประจำวัน เรียกทรัพย์ เสริมบารมี",
-          "url": "https://www.thairath.co.th/horoscope/belief/2936149"
+          "title": "หวยลาววันนี้ 29 พฤษภาคม 2569 ผลหวยลาววันนี้ ตรวจผลหวยลาวพัฒนา",
+          "url": "https://www.sanook.com/news/9891566/"
         },
         {
-          "title": "สีเสื้อมงคลวันหวยออก 1 มิถุนายน 2569 หวยออกวันจันทร์ ใส่เสื้อสีอะไรมีโชค",
-          "url": "https://www.thairath.co.th/horoscope/belief/2936150"
+          "title": "หวยลาววันนี้ 01/06/69 ถ่ายทอดสดหวยลาว หวยลาวพัฒนา 1 มิ.ย. 2569",
+          "url": "https://www.komchadluek.net/lottery/lotto/617864"
         },
         {
-          "title": "เตือนแล้วนะ! สีเสื้อกาลกิณี ห้ามใส่ไม่มงคล 29 พ.ค. 69 (ความเชื่อส่วนบุคคล)",
-          "url": "https://www.siamnews.com/lifestyle/belief/45504"
+          "title": "หวยลาววันนี้ งวดประจำวันที่ 1 มิถุนายน 2569 ตรวจรางวัล ล่าสุด หวยลาว ออกอะไร | Khaosod",
+          "url": "https://today.line.me/th/v3/article/PGeVrql"
         }
       ],
-      "updatedAt": "2026-06-01T06:40:00+07:00"
-    },
-    {
-      "id": "topic-d98bc69ddd",
-      "title": "หวยลาววันนี้",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 1000+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#หวยลาววันนี้"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "หวยลาววันนี้ 1 มิถุนายน 2569 ผลหวยลาววันนี้ ตรวจผลหวยลาวพัฒนา",
-          "url": "https://www.sanook.com/news/9891942/"
-        },
-        {
-          "title": "“หวยลาว”ประจำวันที่ 27/05/69",
-          "url": "https://siamrath.co.th/lottery/laos/150416"
-        },
-        {
-          "title": "หวยลาว 1 มิ.ย. 69 ออกไหม? เช็กให้ชัด วันจันทร์ตรงวันหยุดชดเชยวิสาขบูชา",
-          "url": "https://thethaiger.com/th/news/1572568/"
-        }
-      ],
-      "updatedAt": "2026-06-01T15:40:00+07:00"
+      "updatedAt": "2026-06-01T15:20:00+07:00"
     },
     {
       "id": "15-2026-4ba5c45285",
@@ -1074,32 +1134,6 @@
       "updatedAt": "2026-05-29T09:01:04+07:00"
     },
     {
-      "id": "1-2569-407265f8d1",
-      "title": "🎉ผลการแข่งขัน 1 มิ.ย. (รอบชิงฯ) 🏐วอลเลย์บอล ซีเล็ค ประชาชน ก ชาย ชิงชนะเลิศแห่งประเทศไทย ประจำปี 2569 ชิงถ้วยพระราชทานสมเด็จพระกนิษฐาธิราชเจ้า กรมสมเด็จพระเทพรัตนราชสุ...",
-      "sourceType": "news",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: วอลเลย์บอล / source: facebook.com - 🎉ผลการแข่งขัน 1 มิ.ย. (รอบชิงฯ) 🏐วอลเลย์บอล ซีเล็ค ประชาชน ก ชาย ชิงชนะเลิศแห่งประเทศไทย ประจำปี 2569 ชิงถ้วยพระราชทานสมเด็จพระกนิษฐาธิราชเจ้า กรมสมเด็จพระเทพรัตนราชสุดาฯ สยามบรมรา",
-      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#🎉ผลการแข่งขัน1มิ.ย.(รอบช"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "facebook.com",
-          "url": "https://news.google.com/rss/articles/CBMi5gdBVV95cUxOUjNNSlJmcTZQdHdyX3BZSEhqRG9idmhhY1ctWm5LOEc0bFN5WklvLW5naVZSTnZwbV9aZE82TEUwNnhfbUYzZVJkUEh6b3pfSzNLb0oxRnVuTzgwR0pJZnhNLWVPaFN6aFVONDluYUg4NXc4dm1uVzNEaTdwNkxpTmtSSHIxS3FENVphS2VXZmxuSUVPVDBaWnp4NG5HU0VGNF9sZWp6SU9iTmE4OUxHbVNUNDFfdFRtSnZmR255VlBjWVlKT3UtZlV2YWtiYWVvbVh5V2s2ZDhfa2dYTGFRQjVkbzF4OTdvdEIzU2dhTjhZb0U5MWVtQk1zcDhuZDBuZnZFdEcwWXpiUWtLbmZDcGpRc2FNZVBtY2pYa2dwZHZPbDhvNTJJc19yTEE5amZNWHh3VU41ZWM3ZGpJVHFNbUxWNlVqeDR0M1Jsc1NJSi1JRXRWTkpsX3FmUGRmajl5bGR4NFFEMG5XMFhINDJJMnlJd2NFeEpmd1RFWDZTODljLUR4VXBtazVWb09LQnZHMXJfMGlDYmNtcnhiX3VlRkgxV2VYTkk2ZmNjMmJNNnhSUzB5anVNVkFrUllFVVNPS2tZY0NCMm9TclpIS3dJbjg2OTBwd2FNOWFHSUZfQmdydVhveDdUdndGVDByYUlYMkdoVnZfd0YtLXl3aW54cTVvdHRnbi1wdWdfVE9xMHpXQ2RDV2VGQ3M3dDlyR2g0M3J6SGpTaGdFQnlxVjFIYVNoa1pIc05lbVc2UXEwaW5pVUZfNS13aHR3Q2pNeHh2SWxqdVhTMFFSZnhMYWdiNzRHX3NYUGxraS1zemxwWXZnckNheXJKaHJUX3BXeG8xYnM3WmpNS1BSeGJseDFTQmFmdGN3OFBmQjRrak5qYWtMY1dTSjdkRmh3VktYODlrS2RKZjJOR1ZIWVBaNW1PbHhSbzh4cGNrdzNSOUZHNGgwQnB5N1lzcHBKRlNpRWg0ZDB6anFhUFZQRlE3NnB0ei1tczdZdmNvYjNWZi1sTjhra2lXZXVDZUFiS2lkSF9SM01NN2xpOFR3eHFNU1lZcm4wb3M0aEZWZHBBRUZjZnRYdk9IZjYwM0RZb2Q5YTBVZUJoNXZRd3U3cWFCN1hLcGVqRVdLUUxySlR3ZGtHeFVQNU9xQWVwUVMxa3ZvTmUtWU1lS1hCVDF4cnlqZW1xdk11VEF0d2dpUldlSjdZV0VEVjJCaVJQQ0ZiZ3FNVXJMaDkzU2dJNkNWd0FXZTR0RWFvanJsbXY4LU9SY2QzSVlsb0ozdkRfS2lpcUhGelBVMGVZbXJpbktwakNIWTVJR054ZWtIZw?oc=5"
-        }
-      ],
-      "updatedAt": "2026-06-01T19:22:47+07:00"
-    },
-    {
       "id": "perfect-crown-5-c92615e010",
       "title": "ดราม่าลุกลาม! คำร้องขอให้ถอดซีรีส์ ‘Perfect Crown’ ออกจากแพลตฟอร์ม ทะลุ 5 หมื่นรายชื่อ เตรียมเข้าสู่การพิจารณาของรัฐสภาเกาหลี",
       "sourceType": "news",
@@ -1158,7 +1192,7 @@
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "medium",
-      "summary": "ข่าวจาก Google News keyword: ดราม่า / source: Sanook - สรุปดราม่า! \"ท็อป-เบียร์-วิกรม\" เปิดศึกฟาดกลางดึก งัดอดีต 3 ปี แฉสนั่น    Sanook",
+      "summary": "ข่าวจาก Google News keyword: ดราม่า / source: sanook.com - สรุปดราม่า! \"ท็อป-เบียร์-วิกรม\" เปิดศึกฟาดกลางดึก งัดอดีต 3 ปี แฉสนั่น    sanook.com",
       "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -1171,11 +1205,37 @@
       "riskNote": "Medium risk ควรเลี่ยงการพาดพิงบุคคลจริงและใช้คำถามเชิงสร้างสรรค์",
       "sources": [
         {
-          "title": "Sanook",
+          "title": "sanook.com",
           "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBScGZUaUhLc2hfYTVGYWFYQmxHemJHWC1LbHZzbXpwNWFGSzNoM3dIeXJFNnAyckdCdWhvMS1GX1NnVjREbEtRSTBzVmQ?oc=5"
         }
       ],
       "updatedAt": "2026-06-01T10:17:38+07:00"
+    },
+    {
+      "id": "lazyloxy-45e5fda217",
+      "title": "สรุปเข้าใจง่าย ดราม่า! ท็อป Lazyloxy-เบียร์ เดอะวอยซ์-วิกรม เดอะเฟซ เกิดอะไรขึ้น?",
+      "sourceType": "news",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "medium",
+      "summary": "ข่าวจาก Google News keyword: ดราม่า / source: Thairath.co.th - สรุปเข้าใจง่าย ดราม่า! ท็อป Lazyloxy-เบียร์ เดอะวอยซ์-วิกรม เดอะเฟซ เกิดอะไรขึ้น?    Thairath.co.th",
+      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#สรุปเข้าใจง่ายดราม่า!ท็อ"
+      ],
+      "riskNote": "Medium risk ควรเลี่ยงการพาดพิงบุคคลจริงและใช้คำถามเชิงสร้างสรรค์",
+      "sources": [
+        {
+          "title": "Thairath.co.th",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5fcjZ2cTJaMTNmMGJMekQzUTJ4eXVjb1p5cFlhZy1ZamVxM29hcjBzYUkzQThYcVJmV2JKblk5Vk9mZi10X1dia2J0S0hJclUwU0xhOU5pMU5jOU9FY2c?oc=5"
+        }
+      ],
+      "updatedAt": "2026-06-01T13:17:38+07:00"
     },
     {
       "id": "3-c0dc6d98bf",
@@ -1204,32 +1264,6 @@
       "updatedAt": "2026-06-01T11:20:00+07:00"
     },
     {
-      "id": "topic-d96e8832df",
-      "title": "ไขที่มาดราม่าฟิตเนสเกาหลีใต้ ทำไมต้องขึ้นป้ายไม่ต้อนรับอาจุมม่า",
-      "sourceType": "news",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "medium",
-      "summary": "ข่าวจาก Google News keyword: ดราม่า / source: Marketeer Online - ไขที่มาดราม่าฟิตเนสเกาหลีใต้ ทำไมต้องขึ้นป้ายไม่ต้อนรับอาจุมม่า    Marketeer Online",
-      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#ไขที่มาดราม่าฟิตเนสเกาหล"
-      ],
-      "riskNote": "Medium risk ควรเลี่ยงการพาดพิงบุคคลจริงและใช้คำถามเชิงสร้างสรรค์",
-      "sources": [
-        {
-          "title": "Marketeer Online",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE04Q0pWb1F6cVQ5MzNYSUotdFdYVTlIS0IxcnY1T19UU3g5Z3JwUnJEZjYyNzdyTU1HcUhxMk04bndfay1jNnZ5aGQ1ejVwSTE4R0RETw?oc=5"
-        }
-      ],
-      "updatedAt": "2026-05-28T14:00:00+07:00"
-    },
-    {
       "id": "thai-help-thai-plus",
       "title": "ไทยช่วยไทยพลัส / คนละครึ่งพลัส",
       "sourceType": "news",
@@ -1249,27 +1283,27 @@
       "riskNote": "Medium risk ควรอ้างอิงแหล่งทางการและเตือนให้ระวังลิงก์ปลอมหรือข้อมูลผิด",
       "sources": [
         {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "โครงการไทยช่วยไทย พลัส (60/40) เปิดลงทะเบียนรับสิทธิตั้งแต่วันที่ 25 - 29 พฤษภาคม 2569",
-          "url": "https://www.thaigov.go.th/th/news/164451"
-        },
-        {
-          "title": "ไทยช่วยไทย พลัส 60/40” ใช้จ่ายค่าโดยสารรถเมล์–รถไฟฟ้า–เรือ–รถบขส. ได้ผ่านแอปเป๋าตังเริ่มตั้งแต่วันนี้",
-          "url": "https://today.line.me/th/v3/article/1Dek5JE"
-        },
-        {
-          "title": "ไม่ต้องกลัว! รัฐบาลย้ำไม่ส่งข้อมูลรายได้จากแอปถุงเงินให้สรรพากรเก็บภาษีย้อนหลัง",
-          "url": "https://mgronline.com/politics/detail/9690000051833"
-        },
-        {
           "title": "Grab",
           "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5CYlNsZjc4VS11YmNabmtuZlN6Qlpnc2FsTUk0LVEzZ3kxVG9TSm9fY0JXcWw1RV9xUGFGbENLRldFNWlpV3pUUzFLZ01jempEbVg5NjNPenZ1M2JreGFuMFBDSk1qZ1lBM21WWTNOcS1sWWM?oc=5"
+        },
+        {
+          "title": "กรมประชาสัมพันธ์",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9KbDR1UjJsWUtpSUppT2JweDVDQXZPQlloRkRrbXFpUGo1c2tEOVExOGxYeWJNR3NPRFdQMEdveW1fMVpwTHpaYUpEQUExalFjSV9MTFM5azJrT1Y2bGpNd29UX083RDI4SHFuT3p4WkdNUUk?oc=5"
+        },
+        {
+          "title": "Thairath.co.th",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1MYmhuRXIxM2lEb1k3NlIwTk53V2s3QVdQa3M0VExuV3VsWEhNUFpWUzJ5MXdEaTNPYU5ZclEyWHRYU0NuNzlkSFU5NjN4N3F0X1R5b0o0d21TWVU?oc=5"
+        },
+        {
+          "title": "sanook.com",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1YMHlGSTN4d0MwTkpCNkRka1ZiSkVkbDZtZmtHUURobGZ5X1NrS0xmenZuRW1YY09nMnFRUV9XY3BVa3p0WGp6dG5aQWw?oc=5"
+        },
+        {
+          "title": "CAR250",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9pMW53RzZocUlLSzUxbzU5VEpKYTdYbVIwS2VqdnlNRDJySjVGU2x5Rnp5ZUxTeVl6dmZzRnJiTjczTzFlN0xIWnRkemhZTWZFamQ2cQ?oc=5"
         }
       ],
-      "updatedAt": "2026-06-01T08:30:00+07:00"
+      "updatedAt": "2026-05-29T12:36:28+07:00"
     }
   ]
 }
