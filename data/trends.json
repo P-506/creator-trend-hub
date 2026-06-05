@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-05T22:56:41.982122+07:00",
-  "dateRange": "2026-05-29 to 2026-06-05",
+  "generatedAt": "2026-06-06T01:02:30.871368+07:00",
+  "dateRange": "2026-05-30 to 2026-06-06",
   "sourceErrors": [],
   "topics": [
     {
@@ -446,6 +446,44 @@
       "updatedAt": "2026-06-05T12:04:32+07:00"
     },
     {
+      "id": "topic-715eaee5ed",
+      "title": "อาหารทะเล",
+      "sourceType": "trends",
+      "category": "food",
+      "contentPotential": "high",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 2000+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "ให้ Creator เล่าประสบการณ์ร้าน/เมนูที่อยากลอง แล้วถามคนอื่นว่าคิดเหมือนกันไหม",
+      "promptIdea": "เห็นคนพูดถึงเมนูนี้เยอะมาก มีใครลองแล้วบ้าง?",
+      "hashtags": [
+        "#FoodTrend",
+        "#CafeTH",
+        "#รีวิวของกิน",
+        "#อาหารทะเล"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "จับกัมพูชาแสบ ลั่น 'แค่คุกผมไม่กลัว' สั่งเมียใช้อดีตผัวคนไทย สวมเป็นนายจ้าง, แจ้งเกิดลูกสวมสัญชาติไทย",
+          "url": "https://today.line.me/th/v3/article/qoKywz2"
+        },
+        {
+          "title": "ดับซ่าหนุ่มเขมร แย่งอาชีพคนไทย เปิดร้านขายอาหารทะเลแห้ง กร่างใส่เจ้าหน้าที่ เมียโดนจับไปด้วย",
+          "url": "https://www.khaosod.co.th/around-thailand/news_10271636"
+        },
+        {
+          "title": "จับสาวเขมรเปิดแผงขายอาหารกลางตลาด ด้านผัวเขมรห้าวไม่กลัวคุก",
+          "url": "https://www.amarintv.com/video/news/%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A7%E0%B9%80%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%87%E0%B8%AD%E0%B8%A1%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C/545533"
+        }
+      ],
+      "updatedAt": "2026-06-05T20:00:00+07:00"
+    },
+    {
       "id": "5-2026-a450982847",
       "title": "เปิด 5 ซีรีส์จีนย้อนยุคสุดแป้ก ปี 2026 คนดูคาดหวังสูง แต่ดูจบแล้วผิดหวังหนัก",
       "sourceType": "news",
@@ -599,19 +637,57 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "2 Fed officials warn of interest rate hike potential",
-          "url": "https://www.axios.com/2026/06/04/inflation-rates-labor-market-fed"
+          "title": "Jobs report sparks inflation fears; Trump responds",
+          "url": "https://thehill.com/business/5911960-donald-trump-inflation-fears-jobs-report/"
         },
         {
-          "title": "Fed’s Logan Finds More Inflation Drivers in West Texas",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-05/fed-s-logan-finds-more-inflation-drivers-in-west-texas"
+          "title": "Trump expresses frustration over stock selloff following jobs report",
+          "url": "https://www.marketwatch.com/livecoverage/may-2026-jobs-report-today-live-updates/card/trump-expresses-frustration-over-stock-selloff-following-jobs-report-jzL9EPf1LdOtblWI8ABs"
         },
         {
-          "title": "Logan: Fed May Need to Hike Interest Rates This Year to Confront Inflation",
-          "url": "https://www.wsj.com/economy/central-banking/logan-fed-may-need-to-hike-interest-rates-this-year-to-confront-inflation-53a73e28"
+          "title": "Trump administration reacts to latest jobs numbers that beat expert expectations",
+          "url": "https://www.cbsnews.com/video/trump-administration-reacts-to-latest-jobs-numbers-that-beat-expert-expectations/"
         }
       ],
       "updatedAt": "2026-06-05T19:00:00+07:00"
+    },
+    {
+      "id": "time-714eea0f4c",
+      "title": "time",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#time"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "Trump’s next GOP loyalty test: Ending the changing of the clocks",
+          "url": "https://www.politico.com/news/2026/06/05/trump-daylight-savings-congress-clocks-00950984"
+        },
+        {
+          "title": "Insiders Spill on Trump’s Weird Clock Obsession",
+          "url": "https://www.thedailybeast.com/insiders-spill-on-trumps-weird-clock-obsession/"
+        },
+        {
+          "title": "Legislation to make daylight saving time permanent expected to reach House vote this summer",
+          "url": "https://www.wbay.com/2026/06/04/legislation-make-daylight-saving-time-permanent-expected-reach-house-vote-this-summer/"
+        }
+      ],
+      "updatedAt": "2026-06-05T23:50:00+07:00"
     },
     {
       "id": "vnl-2026-a604f945ab",
@@ -637,12 +713,12 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "วอลเลย์บอลหญิงไทย ซ้อมเน้นเกมรับ-เสิร์ฟ ลุ้นคว้าชัยแมตช์แรกกับเบลเยียม VNL 2026",
-          "url": "https://www.siamsport.co.th/other-sports/volleyball/104736/"
+          "title": "โปรแกรมถ่ายทอดสด วอลเลย์บอลหญิง เนชันส์ลีก 2026 ประจำวันที่ 5 มิ.ย. 69",
+          "url": "https://www.sanook.com/sport/1636012/"
         },
         {
-          "title": "เก็บแต้มแรก! ตารางคะแนน \"สาวไทย\" ศึกวอลเลย์บอลหญิง เนชันส์ลีก 2026",
-          "url": "https://www.sanook.com/sport/1636020/"
+          "title": "\"กัปตันพู่ \" ลั่นปลดล็อกแชร์แต้มจีนสุดคุ้มค่าพร้อมบู๊ เบลเยียมศึก VNL 2026 เสาร์นี้",
+          "url": "https://www.siamsport.co.th/other-sports/volleyball/104696/"
         },
         {
           "title": "พิมพิชยา ควง ทัดดาว พูดตรงๆหลัง วอลเลย์บอลหญิงไทย แพ้ จีน VNL 2026",
@@ -672,10 +748,10 @@
       "sources": [
         {
           "title": "Khon Kaen University",
-          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5mNkNIQXJVMnhyLWxMMG5yYURuTWd2QXN4NldDbEdBcWlNT29qeVdwQ3V1Z2UzZHBzc21WS2FnSGU0cWJtNHlz?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9US0pSLURXVXZfU3JHUHZVMzJEUHhfdWZPdFB4UC1UQVcyUm1vYmprNDQtcW45SnJBVHdoTXRtbm83QQ?oc=5"
         }
       ],
-      "updatedAt": "2026-06-05T10:44:04+07:00"
+      "updatedAt": "2026-06-05T12:42:59+07:00"
     },
     {
       "id": "vnl-2026-9f0ef8e93c",
@@ -728,44 +804,6 @@
         }
       ],
       "updatedAt": "2026-06-02T16:09:37+07:00"
-    },
-    {
-      "id": "topic-f152199d4b",
-      "title": "ผลบอลไทย",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#ผลบอลไทย"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "ทีมชาติไทย U19 ถล่ม สิงคโปร์ 4-0 คว้าชัย 2 นัดรวด ศึกชิงแชมป์อาเซียน",
-          "url": "https://www.siamsport.co.th/football-thailand/thai-national/104739/"
-        },
-        {
-          "title": "‘ช้างศึก 19 ปี’ อัด ‘สิงคโปร์’ 4-0 นำจ่าฝูงบอลอาเซียน",
-          "url": "https://www.dailynews.co.th/news/5922568/"
-        },
-        {
-          "title": "\"อิทธิมนต์\" ทำท่าดีใจเป่าเค้ก มอบเป็นของขวัญวันเกิดแม่ พา \"ช้างศึก U19\" ถล่มบรูไนเปิดหัวศึกอาเซียน",
-          "url": "https://www.thairath.co.th/sport/thaifootball/changsuek/2937151"
-        }
-      ],
-      "updatedAt": "2026-06-05T21:50:00+07:00"
     },
     {
       "id": "0-3-vnl-2026-1-1-1289146413",
@@ -844,44 +882,6 @@
         }
       ],
       "updatedAt": "2026-06-03T14:00:00+07:00"
-    },
-    {
-      "id": "topic-621a34f8a5",
-      "title": "ศาล",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 2000+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#ศาล"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "“ปกรณ์” ชี้ ศร.เรียกผู้เชี่ยวชาญให้ความเห็นปม พ.ร.ก.กู้เงินเป็นเรื่องปกติ",
-          "url": "https://www.thaipbs.or.th/news/content/506716"
-        },
-        {
-          "title": "“อภิสิทธิ์” จี้รัฐบาลทบทวนตัดสิทธิ์ผู้ถือบัตรสวัสดิการแห่งรัฐ จ่อพบศาลเรื่องแก้รธน.",
-          "url": "https://www.thairath.co.th/news/politic/2937578"
-        },
-        {
-          "title": "“ธนกร” ชี้กู้ 4 แสนล้านเพื่อรักษาเสถียรภาพเศรษฐกิจ-ดูแลประชาชน-วางรากฐานอนาคตประเทศ",
-          "url": "https://mgronline.com/politics/detail/9690000052923"
-        }
-      ],
-      "updatedAt": "2026-06-05T16:30:00+07:00"
     },
     {
       "id": "2-3-vnl-2026-5aba9855ef",
@@ -1013,12 +1013,12 @@
           "url": "https://www.thaipbs.or.th/news/content/506720"
         },
         {
-          "title": "\"อนุทิน\" มอบ ”สีหศักดิ์“ ตั้งทีมประนอมภาคบังคับคุยกัมพูชา ยันไร้กังวล ไทยไม่เสียเปรียบ แจงไม่เลิก MOU43 เหตุคืบหน้าถึง 60%",
-          "url": "https://mgronline.com/politics/detail/9690000053302"
+          "title": "สัญญาณรอบ 3 “ฮุนเซน”นั่งไม่ติด เขย่าหนัก !?",
+          "url": "https://mgronline.com/politics/detail/9690000053056"
         },
         {
-          "title": "“สีหศักดิ์” หารือทีมกฎหมาย กำหนดท่าทีเชิงรุกปมพื้นที่ทับซ้อนไหล่ทวีปไทย-กัมพูชา",
-          "url": "https://www.thairath.co.th/news/politic/2937412"
+          "title": "พื้นที่ทับซ้อน สว.นพดล ยืนยันไทยไม่มีทางเสียเปรียบเขมร",
+          "url": "https://news.ch7.com/detail/877244"
         }
       ],
       "updatedAt": "2026-06-05T19:50:00+07:00"
@@ -1073,16 +1073,16 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "LIVE ดูบอลสด ไทย พบ คูเวต บอลไทยวันนี้ (5 มิ.ย.) ถ่ายทอดสด 19:30 น. ฟุตบอลอุ่นเครื่อง ฟีฟ่า เดย์",
-          "url": "https://www.thairath.co.th/sport/thaifootball/changsuek/2936768"
-        },
-        {
-          "title": "\"ทีมชาติไทย\" นำก่อน 2 ประตู ก่อนถูก \"คูเวต\" ไล่เจ๊า 2-2 เกมอุ่นเครื่องฟีฟ่า เดย์ | สวพ.FM91",
-          "url": "https://today.line.me/th/v3/article/9mvZ2xK"
-        },
-        {
           "title": "ดูบอลสดที่นี่! \"ไทย VS คูเวต\" ฟุตบอลอุ่นเครื่องฟีฟ่าเดย์ A แมตช์ วันนี้ เวลา 19:30 น.",
           "url": "https://www.sanook.com/sport/1636010/"
+        },
+        {
+          "title": "ฮัดสัน พูดตรงๆหลัง ทีมชาติไทย เจ๊า คูเวต อุ่นเครื่องฟีฟ่าเดย์",
+          "url": "https://www.thairath.co.th/sport/thaifootball/changsuek/2937707"
+        },
+        {
+          "title": "ทีมชาติไทยปิดประตูซ้อมเข้มมื้อสุดท้าย เตรียมฟัดคูเวตศึกฟีฟ่าเดย์ 5 มิ.ย.นี้",
+          "url": "https://www.siamsport.co.th/football-thailand/thai-national/104686/"
         }
       ],
       "updatedAt": "2026-06-05T19:10:00+07:00"
@@ -1115,12 +1115,12 @@
           "url": "https://www.thairath.co.th/news/society/2937526"
         },
         {
-          "title": "ตัดสิทธิ์ \"บัตรคนจน\" พ่อแม่ที่ลูกใช้สิทธิ์ลดหย่อนภาษี",
-          "url": "https://www.thaipbs.or.th/program/TalkToThink/episodes/115602"
+          "title": "มท. เปิดระบบตรวจสอบสิทธิกลุ่มตกหล่น รับสิทธิ บัตรคนจน 2569",
+          "url": "https://www.sanook.com/money/952199/"
         },
         {
-          "title": "คลัง ยันพ่อแม่มีสิทธิอุทธรณ์ทวงคืนบัตรคนจน ไม่ตรวจภาษีย้อนหลัง | การเงินธนาคาร",
-          "url": "https://today.line.me/th/v3/article/yzWVlXk"
+          "title": "ตัดสิทธิ์ \"บัตรคนจน\" พ่อแม่ที่ลูกใช้สิทธิ์ลดหย่อนภาษี",
+          "url": "https://www.thaipbs.or.th/program/TalkToThink/episodes/115602"
         }
       ],
       "updatedAt": "2026-06-05T19:20:00+07:00"
@@ -1164,32 +1164,6 @@
       "updatedAt": "2026-06-05T19:20:00+07:00"
     },
     {
-      "id": "3-47cabdb0af",
-      "title": "\"ณิชา\" เคลื่อนไหวแล้วปมดราม่า \"ปักปากกาลดน้ำหนัก\" แจงละเอียด 3 ข้อ",
-      "sourceType": "news",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "medium",
-      "summary": "ข่าวจาก Google News keyword: ดราม่า / source: Sanook.com - \"ณิชา\" เคลื่อนไหวแล้วปมดราม่า \"ปักปากกาลดน้ำหนัก\" แจงละเอียด 3 ข้อ    Sanook.com",
-      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#\"ณิชา\"เคลื่อนไหวแล้วปมดร"
-      ],
-      "riskNote": "Medium risk ควรเลี่ยงการพาดพิงบุคคลจริงและใช้คำถามเชิงสร้างสรรค์",
-      "sources": [
-        {
-          "title": "Sanook.com",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4zM1BTZ3ZNcU1oNGdVTVBObHRKT2JVRGRjanVrWkU3WEdFbHBvS2NGU0gtT3hLaGoxdTJabFBSM1RnZ2VtTG9WTEI3N2s?oc=5"
-        }
-      ],
-      "updatedAt": "2026-06-02T11:05:47+07:00"
-    },
-    {
       "id": "like-mv-4ba733c47e",
       "title": "ข่าว Like สาระ - สรุปมหากาพย์ดราม่า 'พั้นรักแมว' จากปมดรอปเรียนแพทย์ สู่เพื่อนสนิท ถูกเบลอหน้าใน MV",
       "sourceType": "news",
@@ -1214,6 +1188,32 @@
         }
       ],
       "updatedAt": "2026-06-04T14:46:00+07:00"
+    },
+    {
+      "id": "topic-995dc9c6f7",
+      "title": "ดรามา \"พ่อ-แม่ ลดหย่อนภาษี\" ถูกตัดสิทธิ์บัตรสวัสดิการแห่งรัฐ",
+      "sourceType": "news",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "medium",
+      "summary": "ข่าวจาก Google News keyword: ดราม่า / source: Thai PBS - ดรามา \"พ่อ-แม่ ลดหย่อนภาษี\" ถูกตัดสิทธิ์บัตรสวัสดิการแห่งรัฐ    Thai PBS",
+      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#ดรามา\"พ่อ-แม่ลดหย่อนภาษี"
+      ],
+      "riskNote": "Medium risk ควรเลี่ยงการพาดพิงบุคคลจริงและใช้คำถามเชิงสร้างสรรค์",
+      "sources": [
+        {
+          "title": "Thai PBS",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5PYkh1d0YxbGxBVlRXUmdKSVhZQU9XTHFXLWtWSXlpbkFkc3QzajQycm5YM1FnSTY4akdrU2FpMThUelZTdUtRZWViV2JRNlg2SEpPRGNBd2tNUzI0OWNiNE1sdDhJbUh6X1hGU05OWjdEREtY?oc=5"
+        }
+      ],
+      "updatedAt": "2026-06-04T11:39:42+07:00"
     },
     {
       "id": "topic-beb89017b0",
@@ -1291,20 +1291,20 @@
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9pMW53RzZocUlLSzUxbzU5VEpKYTdYbVIwS2VqdnlNRDJySjVGU2x5Rnp5ZUxTeVl6dmZzRnJiTjczTzFlN0xIWnRkemhZTWZFamQ2cQ?oc=5"
         },
         {
-          "title": "Sanook.com",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1WUVBBM3h1RDZIZWRVMFlKMFhBLVBCdlJoT0dKZ3R0eE9WcVVrb2s2YlliQ1VQQ3ZJbzZ1Q0tUSjFjT1Jtal9wQkFMaGk?oc=5"
-        },
-        {
           "title": "TrueID",
           "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1CRWJ2TTJLRjFHMjRBQloxSlNvX2p3R3lyZllPdWRla1dValRZMDI2azdVNTAzWXJHUmNSTjg4WTgzeHphUWNnRXc4UERuOTFfT3R2ekFzakY?oc=5"
+        },
+        {
+          "title": "Sanook.com",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1WUVBBM3h1RDZIZWRVMFlKMFhBLVBCdlJoT0dKZ3R0eE9WcVVrb2s2YlliQ1VQQ3ZJbzZ1Q0tUSjFjT1Jtal9wQkFMaGk?oc=5"
         },
         {
           "title": "LINE TODAY",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1fVm1GQlZLbUQzUzJUam1UckJfTWxKYnpIRWllTndwcmlXQ1c2Q01LYzUwM2FhR09Eams4YXlQTHVfWV8yLXBuZEdWd0V0TXI0b01tdGNB?oc=5"
         },
         {
-          "title": "kapook.com",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4tY1dkckpvMWlTazZhd3dZRFVpZ0ZTN3JIS2pULWpwMEZWNVlkZFdXdXFYdWVkTjZQemt6bE9lRjdJaWlJSlhVN1p6NmpyMUpMQmc?oc=5"
+          "title": "Thairath.co.th",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8zT0dSck8zSFFGVlRXNm1xRWgwcGkxLVR0TUk3VFZBQmF5V04xdE5xRndldkhQQ19GOFN3T0UzWjM5M0lIV3V3cExzU0J3eEJlM3VPSlNoSm93SWJYN3Nz?oc=5"
         }
       ],
       "updatedAt": "2026-06-01T05:00:05+07:00"
