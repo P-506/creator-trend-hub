@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-06T21:44:06.810569+07:00",
-  "dateRange": "2026-05-30 to 2026-06-06",
+  "generatedAt": "2026-06-07T00:18:06.487421+07:00",
+  "dateRange": "2026-05-31 to 2026-06-07",
   "sourceErrors": [],
   "topics": [
     {
@@ -212,6 +212,32 @@
       "updatedAt": "2026-06-02T10:12:34+07:00"
     },
     {
+      "id": "topic-85da15c44f",
+      "title": "การศึกษารับโจทย์แฟชั่นยั่งยืน เปลี่ยนผ้าส่วนเกินภาคธุรกิจ สู่สินค้าแห่งอนาคต",
+      "sourceType": "news",
+      "category": "food",
+      "contentPotential": "high",
+      "riskLevel": "low",
+      "summary": "ข่าวจาก Google News keyword: แฟชั่น / source: bangkokbiznews - การศึกษารับโจทย์แฟชั่นยั่งยืน เปลี่ยนผ้าส่วนเกินภาคธุรกิจ สู่สินค้าแห่งอนาคต    bangkokbiznews",
+      "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
+      "creatorAngle": "ให้ Creator เล่าประสบการณ์ร้าน/เมนูที่อยากลอง แล้วถามคนอื่นว่าคิดเหมือนกันไหม",
+      "promptIdea": "เห็นคนพูดถึงเมนูนี้เยอะมาก มีใครลองแล้วบ้าง?",
+      "hashtags": [
+        "#FoodTrend",
+        "#CafeTH",
+        "#รีวิวของกิน",
+        "#การศึกษารับโจทย์แฟชั่นยั"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "bangkokbiznews",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE44dHB0SnpYOEU0LW1DaTZoTGRWOG1OVk5sbUVaQllESnQwQ045UlJXZkhzOU9VY3FrR1ZFVDFfX3lVaWVQQ2I1cEd3eU1LWWxkc2UtSW9xTWR1QmExQUh5YVIxZw?oc=5"
+        }
+      ],
+      "updatedAt": "2026-06-05T07:19:00+07:00"
+    },
+    {
       "id": "caf-amazon-experience-flagship-store-ar-cccb203b59",
       "title": "คาเฟ่ อเมซอน เปิดตัว “Café Amazon Experience Flagship Store Ari” ปักหมุด แฟล็กชิปสโตร์แห่งแรกของโลก",
       "sourceType": "news",
@@ -394,13 +420,13 @@
       "updatedAt": "2026-06-05T17:01:18+07:00"
     },
     {
-      "id": "vetements-paris-fashion-week-ab173551be",
-      "title": "รอกรี๊ดละ! 'ตี๋ตี๋-ป๋อ' เตรียมบินลัดฟ้าสู่ปารีส ร่วมชมแฟชั่นโชว์ VETEMENTS ในช่วง Paris Fashion Week",
+      "id": "topic-85a45ae99a",
+      "title": "ราชพัสตราสู่สากล: แฟชั่น การทูต และความสัมพันธ์ไทย-ฝรั่งเศส บทใหม่",
       "sourceType": "news",
       "category": "beauty",
       "contentPotential": "high",
       "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: แฟชั่น / source: Mint Magazine Thailand - รอกรี๊ดละ! 'ตี๋ตี๋-ป๋อ' เตรียมบินลัดฟ้าสู่ปารีส ร่วมชมแฟชั่นโชว์ VETEMENTS ในช่วง Paris Fashion Week    Mint Magazine Thailand",
+      "summary": "ข่าวจาก Google News keyword: ความสัมพันธ์ / source: thestandard.co - ราชพัสตราสู่สากล: แฟชั่น การทูต และความสัมพันธ์ไทย-ฝรั่งเศส บทใหม่    thestandard.co",
       "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
       "creatorAngle": "ชวนแชร์สไตล์ ไอเท็ม หรือเทคนิคที่ใช้จริงโดยไม่ขายของแข็งเกินไป",
       "promptIdea": "สไตล์นี้ถ้าแต่งในชีวิตจริงจะรอดไหม?",
@@ -408,16 +434,16 @@
         "#BeautyTalk",
         "#FashionTH",
         "#ไอเดียแต่งตัว",
-        "#รอกรี๊ดละ!'ตี๋ตี๋-ป๋อ'เต"
+        "#ราชพัสตราสู่สากล:แฟชั่นก"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
         {
-          "title": "Mint Magazine Thailand",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUFFrSkVGS0hhR3dsZEFGQ3h5TVlJU0pCZWNvMEc0bkktN1ZXUEd6aWdTZjRtQU1oRDY2QnEzellkRTVYNE1IM01rdzRkS1RIREltM293Slh2dFJ6blVoNUsyUzJtUTdOaG1odTZNaG5RYWxiTUQ0V2NQTGRiQTRCUHdFeGMxbkxrRXFDZmxWWVlqM3UtN2JDSENn?oc=5"
+          "title": "thestandard.co",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9xeVR5bHB6ZkJ2d2ZVbk4wcWVVSDBNRjdEc3lPWkhwN1hqWFB5NDdzYnBZRW1ZMmJMUHFGWW5iTjZvUEl3bkg0YzVSWUJER1Znakk2WWdsVjZiWXpxbUw2X3c1ODg3c3Aw?oc=5"
         }
       ],
-      "updatedAt": "2026-06-05T15:38:47+07:00"
+      "updatedAt": "2026-06-05T10:27:18+07:00"
     },
     {
       "id": "26-cc2dc1484e",
@@ -576,32 +602,6 @@
       "updatedAt": "2026-06-04T11:42:17+07:00"
     },
     {
-      "id": "live-vnl-2026-14-00-b5756932b5",
-      "title": "LIVE : ดูวอลเลย์บอลสด ไทย พบ เบลเยียม VNL 2026 วันนี้ 14.00 น. ลิงก์ดูออนไลน์",
-      "sourceType": "news",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: วอลเลย์บอล / source: Siamsport - LIVE : ดูวอลเลย์บอลสด ไทย พบ เบลเยียม VNL 2026 วันนี้ 14.00 น. ลิงก์ดูออนไลน์    Siamsport",
-      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#LIVE:ดูวอลเลย์บอลสดไทยพบ"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Siamsport",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1MR2NTUWphVWZPYVpXdE91OVRJc3hWVnZkQ3hyUWVBcGxPdVdvMmV3UzdKUDRxa3kwVVVvVlk1SXg1eGtyN1ctQXhiUndUX0l3dkVHelBwVFpyajRqVE82T1ItOFY3aHM1NFRz?oc=5"
-        }
-      ],
-      "updatedAt": "2026-06-06T10:00:00+07:00"
-    },
-    {
       "id": "thailand-volleyball-association-aqua-bar-bb120c835c",
       "title": "Thailand Volleyball Association สมาคมกีฬาวอลเลย์บอลแห่งประเทศไทย. Aqua · Barbie Girl (Tiësto Remix). 🇹🇭🆚🇧🇪 On Court!!",
       "sourceType": "news",
@@ -628,13 +628,13 @@
       "updatedAt": "2026-06-06T13:40:22+07:00"
     },
     {
-      "id": "monomax-29756cc324",
-      "title": "monomax",
+      "id": "f1-c09bb890b0",
+      "title": "f1",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 2000+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 500+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -642,7 +642,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#monomax"
+        "#f1"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -651,19 +651,57 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "กีฬา - ลุ้น! JAS ต่อรอง ฟีฟ่า ลิขสิทธิ์ฟุตบอลโลก 15 ล้านเหรียญ ไม่ยอมก็ขอปล่อยผ่าน",
-          "url": "https://www.naewna.com/sport/968977"
+          "title": "Monaco Grand Prix: Kimi Antonelli pips Max Verstappen pole with Lewis Hamilton third",
+          "url": "https://www.bbc.com/sport/formula1/articles/ckgpkggrwzno"
         },
         {
-          "title": "แฟนบอลเตรียมเฮ! วงในเผย JAS ทุ่มหนักคว้า ลิขสิทธิ์บอลโลก 2026 รอเปิดตัวพรุ่งนี้",
-          "url": "https://thethaiger.com/th/news/1574256/"
+          "title": "Kimi Antonelli grabs pole for F1 Monaco GP as Charles Leclerc hits wall in qualifying – as it happened",
+          "url": "https://www.theguardian.com/sport/live/2026/jun/06/formula-one-monaco-grand-prix-qualifying-live"
         },
         {
-          "title": "JAS จุดพลุบอลโลก ADVANC -GULF เก็บแต้มธุรกิจเต็มสนาม",
-          "url": "https://www.mitihoon.com/2026/06/06/647712/"
+          "title": "Lewis Hamilton calls for Ferrari investigation after mysterious setback",
+          "url": "https://racingnews365.com/lewis-hamilton-calls-for-ferrari-investigation-after-mysterious-setback"
         }
       ],
-      "updatedAt": "2026-06-06T14:20:00+07:00"
+      "updatedAt": "2026-06-06T22:20:00+07:00"
+    },
+    {
+      "id": "portugal-vs-chile-0187f1804f",
+      "title": "portugal vs chile",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#portugalvschile"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "Portugal vs Chile: previa, predicciones y alineaciones",
+          "url": "https://www.si.com/es-us/futbol/portugal-vs-chile-previa-predicciones-y-alineaciones"
+        },
+        {
+          "title": "Actualidad del día en el fútbol chileno a 6 de junio de 2026",
+          "url": "https://es.besoccer.com/noticia/actualidad-dia-futbol-chileno-6-junio-2026-1413050"
+        },
+        {
+          "title": "Cristiano Ronaldo vs Chile: historial y antecedentes antes del amistoso entre Portugal y La Roja",
+          "url": "https://www.365scores.com/es/news/cristiano-ronaldo-vs-chile-historial-hoy/"
+        }
+      ],
+      "updatedAt": "2026-06-07T00:00:00+07:00"
     },
     {
       "id": "topic-037d4691e2",
@@ -697,8 +735,8 @@
           "url": "https://www.thairath.co.th/news/politic/2937773"
         },
         {
-          "title": "ลงทะเบียนบัตรสวัสดิการแห่งรัฐ 2569 ไม่สมบูรณ์ แก้ยังไง",
-          "url": "https://www.sanook.com/money/952255/"
+          "title": "ร้องไห้หนัก! ตาวัย 84 โคราชตาบอด 2 ข้าง ยังลงทะเบียนบัตรสวัสดิการไม่ได้ หวั่นพลาดความช่วยเหลือ วอนรัฐเห็นใจคนจนตัวจริง",
+          "url": "https://mgronline.com/local/detail/9690000053631"
         }
       ],
       "updatedAt": "2026-06-06T20:00:00+07:00"
@@ -736,7 +774,7 @@
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 1000+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 2000+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -753,12 +791,12 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "พระเอกหนุ่ม “จินเจ๋อ” เสียชีวิตคาบ้านพักในวัย 33 ปี",
-          "url": "https://mgronline.com/entertainment/detail/9690000053681"
-        },
-        {
           "title": "ช็อกวงการบันเทิง! \"จินเจ๋อ\" พระเอกมินิซีรีส์จีน เสียชีวิตกะทันหัน ในวัยเพียง 33 ปี",
           "url": "https://www.sanook.com/news/9892894/"
+        },
+        {
+          "title": "ช็อกวงการซีรีส์ พระเอกดาวรุ่งจีน \"จินเจ๋อ\" เสียชีวิตแล้วด้วยวัย 33 ปี ต้นสังกัดออกแถลงการณ์ยืนยัน",
+          "url": "https://www.khaosod.co.th/entertainment/news_10273107"
         },
         {
           "title": "แฟน ๆ ช็อก จินเจ๋อ พระเอกจีน เสียชีวิตกะทันหันในวัย 33 พบเพิ่งถ่ายซีรีส์สุดท้าย",
@@ -792,44 +830,6 @@
         }
       ],
       "updatedAt": "2026-06-04T14:20:00+07:00"
-    },
-    {
-      "id": "topic-ef94043af8",
-      "title": "ทิน โชค กมล กิจ",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 2000+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#ทินโชคกมลกิจ"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "ย้อนตำนานคู่ดัง \"ใหม่ เจริญปุระ\" เจอแฟนเก่า \"ทิน โชคกมลกิจ\" โมเมนต์นี้น่ารักมาก",
-          "url": "https://www.sanook.com/news/9892842/"
-        },
-        {
-          "title": "อดีตรักเก่า! ‘ใหม่ เจริญปุระ’ ร่วมเฟรม ‘ทิน โชคกมลกิจ’ เปิดใจพูดคุยกันอย่างเฮฮา",
-          "url": "https://www.dailynews.co.th/news/5922885/"
-        },
-        {
-          "title": "บันเทิง - ใครทันบ้าง? ย้อนวันวาน 'ใหม่ เจริญปุระ - ทิน โชคกมลกิจ' อดีตคู่รักปีลึกมาก เจอกันอีกทีมีแต่คำว่าน่ารัก",
-          "url": "https://www.naewna.com/entertain/969057"
-        }
-      ],
-      "updatedAt": "2026-06-06T12:20:00+07:00"
     },
     {
       "id": "topic-f371fb8314",
@@ -893,83 +893,19 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "ตร. จับตัวน้าชายพร้อมพี่สาวแท้ๆ คดี “น้ององุ่น” เสียชีวิต นำศพขึ้นสามล้อทิ้งอำพราง",
-          "url": "https://www.thairath.co.th/news/crime/2937752"
+          "title": "เปิดคำสารภาพ พี่สาวพลั้งมือทำร้าย “น้ององุ่น” เสียชีวิต หลังทะเลาะ เรียกน้าช่วยทิ้งศพ",
+          "url": "https://www.thairath.co.th/news/crime/2937762"
         },
         {
-          "title": "สลด! 2 เยาวชนรับเล่นหยอกล้อ \"น้ององุ่น\" เกิดเหตุไม่คาดคิดเสียชีวิต ก่อนนำร่างอำพรางสวนยาง",
-          "url": "https://mgronline.com/local/detail/9690000053583"
+          "title": "24 ชั่วโมงข่าว 91 ประจำวันที่ 5 มิถุนายน 2569 | สวพ.FM91",
+          "url": "https://today.line.me/th/v3/article/5yPBVyy"
         },
         {
-          "title": "เปิดปมคดีฆ่าทิ้งศพ \"น้ององุ่น\" เหตุจากตุ๊กตา? พี่สาววัย 13 สารภาพ ที่แท้ร่วมมือน้าชาย",
-          "url": "https://www.sanook.com/news/9892922/"
+          "title": "2 เยาวชนรับสารภาพ ก่อเหตุคดี \"น้ององุ่น\"",
+          "url": "https://www.thaipbs.or.th/program/Middaynews/watch/0xg8ddepvnrc"
         }
       ],
       "updatedAt": "2026-06-06T15:30:00+07:00"
-    },
-    {
-      "id": "topic-533502b37a",
-      "title": "น้ำมันเบนซิน",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 10000+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#น้ำมันเบนซิน"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "ข่าวดี! พรุ่งนี้ น้ำมันลดราคา | สวพ.FM91",
-          "url": "https://today.line.me/th/v3/article/oqKgO3p"
-        },
-        {
-          "title": "อัปเดตราคาน้ำมันพรุ่งนี้ 7 มิถุนายน 2569 น้ำมันเบนซิน ดีเซล แต่ละปั๊มลิตรละเท่าไร",
-          "url": "https://www.thairath.co.th/news/society/2937824"
-        },
-        {
-          "title": "ข่าวราคาน้ำมันวันนี้ ประกาศปรับลดราคาน้ำมันแต่ละชนิด",
-          "url": "https://news.ch7.com/detail/877392"
-        }
-      ],
-      "updatedAt": "2026-06-06T13:30:00+07:00"
-    },
-    {
-      "id": "27-29-three-connects-4271-7e50030e85",
-      "title": "ปธน. เวียดนามเยือนไทย 27-29 พ.ค. ความสัมพันธ์ทางการทูตสู่การยกระดับเศรษฐกิจผ่านยุทธศาสตร์ Three Connects (มองเศรษฐกิจ ฉบับที่ 4271)",
-      "sourceType": "news",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: ความสัมพันธ์ / source: kasikornresearch.com - ปธน. เวียดนามเยือนไทย 27-29 พ.ค. ความสัมพันธ์ทางการทูตสู่การยกระดับเศรษฐกิจผ่านยุทธศาสตร์ Three Connects (มองเศรษฐกิจ ฉบับที่ 4271)    kasikornresearch.com",
-      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#ปธน.เวียดนามเยือนไทย27-2"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "kasikornresearch.com",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdE1aSDB0alZGNUVXdFZKWjFzLVdaS0I0ZkNPV1JRSXBWaWV6dERsSDlVZVlzZzVIeEpGVXVLY1NPWGg3cTN4cDZDZ1JIQVo3bzgxLTdBeVpWQUtCR3ZRY2FOWDFsVkd0ckF6aGhZQVZWbzU1eGs2U2hMQWt0eXpoamVUeUFuLVdGeDRLd1lsRms4Ym8zS0o1emtjXzE4NjFLNWNSdW1JUUVZV1pMNWF0bzQwTnBuTWw0N3Fleg?oc=5"
-        }
-      ],
-      "updatedAt": "2026-06-02T16:28:06+07:00"
     },
     {
       "id": "0-3-vnl-2026-1-1-1289146413",
@@ -996,6 +932,44 @@
         }
       ],
       "updatedAt": "2026-06-03T15:25:46+07:00"
+    },
+    {
+      "id": "topic-01360ae1ec",
+      "title": "พลอยพรรณ ทวีรัตน์",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 2000+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#พลอยพรรณทวีรัตน์"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "เครียดมาก “พลอย” อดีตเมีย “ปีเตอร์” เผยอุทาหรณ์ ปล่อยลูกชายเล่นเกมโรบ็อก โดนแฮกสูญเงิน 1.5 หมื่น",
+          "url": "https://mgronline.com/entertainment/detail/9690000053573"
+        },
+        {
+          "title": "พลอย พชรา อดีตภรรยา ปีเตอร์ ควงลูกชายเตือนภัยเล่นเกมดัง โดนแฮ็กแอกเคาต์-รูดบัตรเครดิต",
+          "url": "https://www.thairath.co.th/entertain/news/2937827"
+        },
+        {
+          "title": "\"พลอย\" สั่งห้าม! ลูกเล่นเกม ROBLOX หลังถูกแฮ็กเงินสูญ 1.5 หมื่น",
+          "url": "https://www.amarintv.com/news/entertain/548003"
+        }
+      ],
+      "updatedAt": "2026-06-06T16:20:00+07:00"
     },
     {
       "id": "fm91-7cfe109fef",
@@ -1047,57 +1021,19 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "สมาคมโหร ตัดเกรด 12 นักษัตร เดือนมิถุนายน ใครชีวิตดีระดับ 5 ดาว",
-          "url": "https://www.matichon.co.th/lifestyle/horoscope-lifestyle/news_5749748"
-        },
-        {
           "title": "‘หมอช้าง’ เปิด 5 ราศีดวงดีที่สุดในเดือน มิ.ย. ใครปังสุด เช็กเลย!﻿ | The Bangkok Insight",
           "url": "https://today.line.me/th/v3/article/YaKZrEN?referral=dailyhoroscope"
         },
         {
-          "title": "ดวง7วันเกิด การเงินรายได้เด่น รับทรัพย์จากการพูด เตือนปีนักษัตรใด ระวังเงินไหลออก",
-          "url": "https://www.khaosod.co.th/horoscope/news_10269453"
+          "title": "สมาคมโหร ตัดเกรด 12 นักษัตร เดือนมิถุนายน ใครชีวิตดีระดับ 5 ดาว",
+          "url": "https://www.matichon.co.th/lifestyle/horoscope-lifestyle/news_5749748"
+        },
+        {
+          "title": "‘หมอดูดัง’ จัดอันดับ 7 ราศีดวงดีเดือน มิ.ย. 1 ราศีปังสุดในรอบ 12 ปี เช็กเลย!",
+          "url": "https://www.thebangkokinsight.com/news/lifestyle/horoscope/1658841/"
         }
       ],
       "updatedAt": "2026-06-06T18:50:00+07:00"
-    },
-    {
-      "id": "vnl-2026-8317d8ee04",
-      "title": "วอลเลย์บอล vnl 2026",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 20000+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#วอลเลย์บอลvnl2026"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "โปรแกรมถ่ายทอดสด วอลเลย์บอลหญิง เนชันส์ลีก 2026 ประจำวันที่ 6 มิ.ย. 69",
-          "url": "https://www.sanook.com/sport/1636023/"
-        },
-        {
-          "title": "\"โค้ชอ๊อต\" ชี้เป้าจุดที่ต้องแก้โดยด่วนหลังวอลเลย์บอลหญิงไทยแพ้ เบลเยียม VNL 2026",
-          "url": "https://www.siamsport.co.th/other-sports/volleyball/104779/"
-        },
-        {
-          "title": "\"ทีมสาวไทย\" พลิกพ่าย เบลเยียม 2-3 เซต ศึกเนชั่นส์ ลีก VNL 2026 นัดที่ 3 | สวพ.FM91",
-          "url": "https://today.line.me/th/v3/article/peKgPGG"
-        }
-      ],
-      "updatedAt": "2026-06-06T14:00:00+07:00"
     },
     {
       "id": "vnl-2026-54ca478950",
@@ -1124,6 +1060,70 @@
         }
       ],
       "updatedAt": "2026-05-31T14:00:00+07:00"
+    },
+    {
+      "id": "2-3-vnl-2026-5aba9855ef",
+      "title": "สาวไทยสู้ยิบตา! วอลเลย์บอลหญิงไทย พ่าย จีน 2-3 เซต VNL 2026 แมตช์สอง",
+      "sourceType": "news",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "ข่าวจาก Google News keyword: วอลเลย์บอล / source: Siamsport - สาวไทยสู้ยิบตา! วอลเลย์บอลหญิงไทย พ่าย จีน 2-3 เซต VNL 2026 แมตช์สอง    Siamsport",
+      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#สาวไทยสู้ยิบตา!วอลเลย์บอ"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Siamsport",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8tUzlLSUthM2ZRZmlmVGRJX1VYMmxkOFd5WUVVSXlMQVY5WGhTUFBJcnBFSm5RS3lYTjdqOTJvcmNIUnVNM1ROTnN3SFYwb0d2WTJSSWtaX0gtOW4xUmRYS0VkNXVsUkF4ZUhF?oc=5"
+        }
+      ],
+      "updatedAt": "2026-06-04T21:19:14+07:00"
+    },
+    {
+      "id": "topic-677abfd915",
+      "title": "โปรตุเกส พบ ชิลี",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 2000+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#โปรตุเกสพบชิลี"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "ชี้ 4 ตัวเต็งบอลน่าเชียร์ 6 มิ.ย. 69 : ทีเด็ดบอลวันนี้ โปรตุเกส เด็ดเลย, บราซิล แล่นฉิว!",
+          "url": "https://www.siamsport.co.th/football-international/104761/"
+        },
+        {
+          "title": "ทีเด็ดบอลวันนี้ 6 มิ.ย. 69 วิเคราะห์บอล 4 คู่เด็ด ลุ้น 7 ทีมฟุตบอลโลก 2026 โปรแกรมบอลวันนี้",
+          "url": "https://www.thairath.co.th/sport/worldcup/2937636"
+        },
+        {
+          "title": "นูเนส' สะดุ้ง! 'ฝอยทอง' ลุ้นฟิตก่อนบอลโลก | Soccersuck",
+          "url": "https://today.line.me/th/v3/article/RB5nKDj"
+        }
+      ],
+      "updatedAt": "2026-06-06T23:50:00+07:00"
     },
     {
       "id": "topic-92bf89004e",
@@ -1157,8 +1157,8 @@
           "url": "https://www.thairath.co.th/news/politic/2937661"
         },
         {
-          "title": "ลูกเทพผู้สืบสันดาน กับโครงการฝันอร่อย TH-AI Passport 1.6 พันล้าน",
-          "url": "https://mgronline.com/daily/detail/9690000053462"
+          "title": "‘ลูกนก’ ตกสวรรค์ สแกน ‘รมต.ลูกเทพ’ ใครรุ่งใครร่วง",
+          "url": "https://www.bangkokbiznews.com/blogs/politics/1237297"
         }
       ],
       "updatedAt": "2026-06-06T16:40:00+07:00"
@@ -1295,8 +1295,8 @@
           "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1CRWJ2TTJLRjFHMjRBQloxSlNvX2p3R3lyZllPdWRla1dValRZMDI2azdVNTAzWXJHUmNSTjg4WTgzeHphUWNnRXc4UERuOTFfT3R2ekFzakY?oc=5"
         },
         {
-          "title": "Thairath.co.th",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9zTWNHTWlpWlZWVXNPaTA0Zm5DcnhHMXJSYU1XTVgzVHNTOHhBNFVQbi01X1ZlLXJKc05hMmFqWElfd24wLThIRzRCLXBGcU5pcFNVOUwxYTRfOXc?oc=5"
+          "title": "LINE TODAY",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1fVm1GQlZLbUQzUzJUam1UckJfTWxKYnpIRWllTndwcmlXQ1c2Q01LYzUwM2FhR09Eams4YXlQTHVfWV8yLXBuZEdWd0V0TXI0b01tdGNB?oc=5"
         },
         {
           "title": "kapook.com",
