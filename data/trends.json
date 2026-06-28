@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-28T17:04:44.731614+07:00",
+  "generatedAt": "2026-06-28T21:49:33.256525+07:00",
   "dateRange": "2026-06-21 to 2026-06-28",
   "sourceErrors": [],
   "topics": [
@@ -54,32 +54,6 @@
         }
       ],
       "updatedAt": "2026-06-27T13:30:32+07:00"
-    },
-    {
-      "id": "beachy-cafe-218721ec14",
-      "title": "Beachy Cafe บางขุนเทียน ร้านอาหารและคาเฟ่กลางน้ำสไตล์มัลดีฟส์ น่าไปเช็กอินชิล ๆ",
-      "sourceType": "news",
-      "category": "food",
-      "contentPotential": "high",
-      "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: คาเฟ่ / source: kapook.com - Beachy Cafe บางขุนเทียน ร้านอาหารและคาเฟ่กลางน้ำสไตล์มัลดีฟส์ น่าไปเช็กอินชิล ๆ    kapook.com",
-      "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
-      "creatorAngle": "ให้ Creator เล่าประสบการณ์ร้าน/เมนูที่อยากลอง แล้วถามคนอื่นว่าคิดเหมือนกันไหม",
-      "promptIdea": "เห็นคนพูดถึงเมนูนี้เยอะมาก มีใครลองแล้วบ้าง?",
-      "hashtags": [
-        "#FoodTrend",
-        "#CafeTH",
-        "#รีวิวของกิน",
-        "#BeachyCafeบางขุนเทียนร้า"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "kapook.com",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9XaFAzUWlZMnUtcUN0MmVva3BtdV9HRDdKRTAxTTJkdHhNODY2MWdKT181TGh4WTVpcEtTZmlRRUlwWDN5RjFHWllmSnNrYjQ2RktR?oc=5"
-        }
-      ],
-      "updatedAt": "2026-06-23T14:00:00+07:00"
     },
     {
       "id": "classic12-cafe-hatyai-village-e83f9c10fd",
@@ -316,6 +290,44 @@
       "updatedAt": "2026-06-26T14:00:00+07:00"
     },
     {
+      "id": "topic-7e5a38ed0d",
+      "title": "กลุ่มคนทำงาน",
+      "sourceType": "trends",
+      "category": "lifestyle",
+      "contentPotential": "high",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 500+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "โยงกับชีวิตประจำวันของ Creator และถามประสบการณ์คนในคอมมูนิตี้",
+      "promptIdea": "ช่วงนี้มีใครเจอเรื่องแบบนี้เหมือนกันไหม?",
+      "hashtags": [
+        "#LifestyleTH",
+        "#ชีวิตประจำวัน",
+        "#แชร์ประสบการณ์",
+        "#กลุ่มคนทำงาน"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "ผลเลือกตั้ง สก. กรุงเทพฯ รายเขตลาดกระบัง อัปเดตคะแนนล่าสุด",
+          "url": "https://www.thairath.co.th/news/politic/2942637"
+        },
+        {
+          "title": "เช็กทั้ง 50 เขต ผลเลือกตั้ง ส.ก. เขตไหนใครได้ พรรคประชาชน นำตามโพล",
+          "url": "https://www.matichon.co.th/politics/bkk-election69/news_5783142"
+        },
+        {
+          "title": "เช็ก 258 รายชื่อผู้สมัคร ส.ก. 50 เขต เลือกตั้งผู้ว่าฯ กทม. - ส.ก. 2569",
+          "url": "https://www.pptvhd36.com/news/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87/278405"
+        }
+      ],
+      "updatedAt": "2026-06-28T19:50:00+07:00"
+    },
+    {
       "id": "topic-ec96323791",
       "title": "กินอาหารเสริมทุกวัน ดีต่อสุขภาพจริงหรือ",
       "sourceType": "news",
@@ -374,7 +386,7 @@
       "category": "entertainment",
       "contentPotential": "high",
       "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: ซีรีส์ / source: Sanook - ตกงานเพราะ AI \"พระเอกมินิซีรีส์\" ไร้งานจ้าง! ผันตัวขับสามล้อขายผักที่บ้านเกิด    Sanook",
+      "summary": "ข่าวจาก Google News keyword: ซีรีส์ / source: Sanook.com - ตกงานเพราะ AI \"พระเอกมินิซีรีส์\" ไร้งานจ้าง! ผันตัวขับสามล้อขายผักที่บ้านเกิด    Sanook.com",
       "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
       "creatorAngle": "เล่า reaction ส่วนตัวต่อกระแส แล้วเปิดคำถามให้คนคุยต่อ",
       "promptIdea": "กระแสนี้ทุกคนอยู่ทีมไหน?",
@@ -387,7 +399,7 @@
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
         {
-          "title": "Sanook",
+          "title": "Sanook.com",
           "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1ubDFfalZ6aFlCSDNPQXpJVDluRlJhOHd6SDk4Y09waE5kR1BCT0lyZjZSOUE0SDdZYnZLeUxXRjJwMTJCR2pRdXVSdVQ?oc=5"
         }
       ],
@@ -444,6 +456,32 @@
         }
       ],
       "updatedAt": "2026-06-23T11:11:57+07:00"
+    },
+    {
+      "id": "topic-06d125278f",
+      "title": "รวมคาเฟ่วิวภูเขา วิวสวย บรรยากาศดี จิบกาแฟพร้อมชมธรรมชาติ",
+      "sourceType": "news",
+      "category": "food",
+      "contentPotential": "high",
+      "riskLevel": "low",
+      "summary": "ข่าวจาก Google News keyword: คาเฟ่ / source: kapook.com - รวมคาเฟ่วิวภูเขา วิวสวย บรรยากาศดี จิบกาแฟพร้อมชมธรรมชาติ    kapook.com",
+      "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
+      "creatorAngle": "ให้ Creator เล่าประสบการณ์ร้าน/เมนูที่อยากลอง แล้วถามคนอื่นว่าคิดเหมือนกันไหม",
+      "promptIdea": "เห็นคนพูดถึงเมนูนี้เยอะมาก มีใครลองแล้วบ้าง?",
+      "hashtags": [
+        "#FoodTrend",
+        "#CafeTH",
+        "#รีวิวของกิน",
+        "#รวมคาเฟ่วิวภูเขาวิวสวยบร"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "kapook.com",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9kMEdCZlcwQXVSbFpZZ3RBUVRHU3lvQmprSmo4YTN3TE1xWW1DbzZ1UzNqZEg4MHBJNjJwREd5TFZUMXdKQXVMUGJzMGZPemJqVl9Z?oc=5"
+        }
+      ],
+      "updatedAt": "2026-06-26T11:18:39+07:00"
     },
     {
       "id": "milan-men-s-fashion-week-spring-summer-dc8edb1eca",
@@ -602,84 +640,8 @@
       "updatedAt": "2026-06-26T20:39:02+07:00"
     },
     {
-      "id": "algeria-national-football-team-vs-austri-1c5b554611",
-      "title": "algeria national football team vs austria national football team standings",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 2000+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#algerianationalfootballt"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "Austria grab 96th-minute equaliser against Algeria as both progress",
-          "url": "https://www.bbc.com/sport/football/live/c3ryv4xgd95t"
-        },
-        {
-          "title": "Algeria 3-3 Austria: World Cup 2026 – as it happened",
-          "url": "https://www.theguardian.com/football/live/2026/jun/28/fifa-world-cup-2026-live-algeria-v-austria-updates-alg-vs-aut-group-j-match-score-latest"
-        },
-        {
-          "title": "Austria draw with Algeria in World Cup thriller to progress and send Iran home",
-          "url": "https://www.bangkokpost.com/sports/3277859/austria-draw-with-algeria-in-world-cup-thriller-to-progress-and-send-iran-home"
-        }
-      ],
-      "updatedAt": "2026-06-28T11:10:00+07:00"
-    },
-    {
-      "id": "arrest-5450f3b34e",
-      "title": "arrest",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 500+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#arrest"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "Thai teenager's father 'deeply saddened' as Australian charged with murder",
-          "url": "https://www.abc.net.au/news/2026-06-28/australian-man-charged-with-thai-teens-murder-addresses-family/106852274"
-        },
-        {
-          "title": "Australian man arrested in Thailand after 17-year-old’s body found in suitcase",
-          "url": "https://www.theguardian.com/world/2026/jun/27/australian-man-arrested-in-thailand-after-17-year-olds-body-found-in-suitcase"
-        },
-        {
-          "title": "Australian held after teen girl’s body found in suitcase",
-          "url": "https://www.bangkokpost.com/thailand/general/3277445/australian-held-after-teen-girls-body-found-in-suitcase"
-        }
-      ],
-      "updatedAt": "2026-06-28T14:10:00+07:00"
-    },
-    {
-      "id": "cristiano-ronaldo-45c621590b",
-      "title": "cristiano ronaldo",
+      "id": "f1-live-551b4cf3c3",
+      "title": "f1 live",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
@@ -692,7 +654,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#cristianoronaldo"
+        "#f1live"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -701,23 +663,23 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "World Cup Daily: Messi scores for Argentina; Austria and Algeria qualify",
-          "url": "https://www.espn.com/soccer/story/_/id/49195139/world-cup-daily-live-cristiano-ronaldo-new-golden-boots-argentina-rest-messi-final-groups-decided"
+          "title": "Austrian Grand Prix: Formula One – live",
+          "url": "https://www.theguardian.com/sport/live/2026/jun/28/austrian-grand-prix-formula-one-live"
         },
         {
-          "title": "With 32 World Cup teams left, who has best route to the final and can Messi beat goals record? Day 17 recap",
-          "url": "https://www.nytimes.com/athletic/7403009/2026/06/28/world-cup-daily-recap-iran/"
+          "title": "Austrian Grand Prix F1 race results 2026",
+          "url": "https://www.the-race.com/formula-1/austrian-grand-prix-f1-race-results-2026/"
         },
         {
-          "title": "Bellingham, Kane Shine as England Advance; Colombia Hold Portugal to Win Group",
-          "url": "https://revsportz.in/bellingham-kane-shine-as-england-advance-colombia-hold-portugal-to-win-group/"
+          "title": "‘I can’t explain it’ – Max Verstappen left searching for answers after dramatic Q3 crash in Austria",
+          "url": "https://www.formula1.com/en/latest/article/i-cant-explain-it-verstappen-left-searching-for-answers-after-dramatic-q3-crash-in-austria.5am6ROxWUdF4M3FVEL52IN"
         }
       ],
-      "updatedAt": "2026-06-28T08:50:00+07:00"
+      "updatedAt": "2026-06-28T20:50:00+07:00"
     },
     {
-      "id": "jordan-vs-argentina-4108c709b1",
-      "title": "jordan vs argentina",
+      "id": "fifa-world-cup-2026-bracket-2c64393943",
+      "title": "fifa world cup 2026 bracket",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
@@ -730,7 +692,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#jordanvsargentina"
+        "#fifaworldcup2026bracket"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -739,23 +701,99 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "Messi retrata a Julián",
-          "url": "https://as.com/futbol/mundial/messi-retrata-a-julian-f202606-n/"
+          "title": "World Cup 2026 bracket and knockout fixtures - who's facing who in the last 32 and route to final",
+          "url": "https://www.skysports.com/football/news/12098/13556636/world-cup-2026-bracket-and-knockout-fixtures-whos-facing-who-in-the-last-32-and-route-to-final"
         },
         {
-          "title": "Messi, siempre Messi: Argentina ganó cómodo y va por su Mundial",
-          "url": "https://www.ole.com.ar/mundial/mundial-2026/seleccion-argentina-vs-jordania-mundial-2026-vivo-hoy-hora-horario-ver-tv-streaming-online-formaciones-minuto-minuto_0_MNQzfZLMXU.html"
+          "title": "World Cup 2026: third-place table, the last 32 lineup and who has gone home",
+          "url": "https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada"
         },
         {
-          "title": "EN VIVO Jordania vs Argentina: ¡Lo Celso anota un golazo! Argentina rompe el empate, Jordania se tambalea.",
-          "url": "https://www.vietnam.vn/es/truc-tiep-jordan-vs-argentina-lo-celso-khai-hoa-dang-cap-argentina-pha-vo-the-be-tac-jordan-chao-dao"
+          "title": "2026 World Cup Bracket: Full Round Of 32 Matchups",
+          "url": "https://www.foxsports.com/stories/soccer/world-cup-live-bracket-knockout-games-32"
         }
       ],
-      "updatedAt": "2026-06-28T08:10:00+07:00"
+      "updatedAt": "2026-06-28T20:10:00+07:00"
     },
     {
-      "id": "lionel-messi-8fce9ec07a",
-      "title": "lionel messi",
+      "id": "ireland-vs-india-9d027dd88e",
+      "title": "ireland vs india",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#irelandvsindia"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "Shedge and Prince debut as Iyer opts to field in Belfast must-win encounter",
+          "url": "https://telanganatoday.com/shedge-and-prince-debut-as-iyer-opts-to-field-in-belfast-must-win-encounter"
+        },
+        {
+          "title": "India win was fantastic for morale but cracks in Irish cricket remain",
+          "url": "https://www.thetimes.com/sport/irish/article/india-win-was-fantastic-for-morale-but-cracks-in-irish-cricket-remain-cxwg9c3vv"
+        },
+        {
+          "title": "IND vs IRE, Belfast Weather Forecast: Will Rain Play Spoilsport in the Series Decider?",
+          "url": "https://revsportz.in/ind-vs-ire-belfast-weather-forecast-will-rain-play-spoilsport-in-the-series-decider/"
+        }
+      ],
+      "updatedAt": "2026-06-28T19:50:00+07:00"
+    },
+    {
+      "id": "motogp-d4c5e42dfd",
+      "title": "motogp",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#motogp"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "MotoGP™ Tissot Sprint: Tissot Grand Prix of the Netherlands",
+          "url": "https://www.motogp.com/en/videos/2026/06/27/motogp-tissot-sprint-tissot-grand-prix-of-the-netherlands/1075333"
+        },
+        {
+          "title": "Winners and losers from MotoGP's surprising Assen sprint",
+          "url": "https://www.the-race.com/motogp/winners-and-losers-from-motogps-surprising-assen-sprint/"
+        },
+        {
+          "title": "MotoGP 2026 – Championship standings after the Dutch Grand Prix",
+          "url": "https://www.autohebdof1.com/news/MotoGP/MotoGP-2026-championship-standings-after-the-Dutch-Grand-Prix.html"
+        }
+      ],
+      "updatedAt": "2026-06-28T19:50:00+07:00"
+    },
+    {
+      "id": "topic-220c7641a3",
+      "title": "คำเตือนให้ระวังฝนตก",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
@@ -768,104 +806,16 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#lionelmessi"
+        "#คำเตือนให้ระวังฝนตก"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
         {
           "title": "Google Trends",
           "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "FIFA World Cup Group J LIVE: Jordan vs Argentina - build-up, team news, TV coverage & live text commentary",
-          "url": "https://www.bbc.com/sport/football/live/c20ye67xgykt"
-        },
-        {
-          "title": "World Cup 2026: Jordan 1-3 Argentina - Lionel Messi breaks World Cup record by scoring in seventh game in a row",
-          "url": "https://www.skysports.com/football/news/12098/13556713/world-cup-2026-jordan-1-3-argentina-lionel-messi-breaks-world-cup-record-by-scoring-in-seventh-game-in-a-row"
-        },
-        {
-          "title": "Jordan 1-3 Argentina: World Cup 2026 – as it happened",
-          "url": "https://www.theguardian.com/football/live/2026/jun/28/fifa-world-cup-2026-live-jordan-v-argentina-updates-jor-vs-arg-group-j-match-score-latest"
         }
       ],
-      "updatedAt": "2026-06-28T11:00:00+07:00"
-    },
-    {
-      "id": "topic-fcc65a54e9",
-      "title": "คริสเตียโน โรนัลโด",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 2000+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#คริสเตียโนโรนัลโด"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "มาร์ติเนซ ป้อง โรนัลโด มีส่วนร่วมกับเกมน้อย - ชี้เป็นสุดยอดกองหน้า",
-          "url": "https://www.khaosod.co.th/sports/news_10301486"
-        },
-        {
-          "title": "คอนไซเซา แจงดราม่าเมินส่งบอล โรนัลโด้ ยันแข้งโปรตุเกสเล่นตามจังหวะ",
-          "url": "https://www.siamsport.co.th/worldcup/105515/"
-        },
-        {
-          "title": "ความเศร้าที่ยากจะบรรยายของโรนัลโด้: ฟอร์มตก คะแนนต่ำ และถูกเยาะเย้ย",
-          "url": "https://www.vietnam.vn/th/noi-buon-kho-ta-cua-ronaldo-nhat-nhoa-diem-thap-va-bi-mia-mai"
-        }
-      ],
-      "updatedAt": "2026-06-28T08:50:00+07:00"
-    },
-    {
-      "id": "topic-4c3027afac",
-      "title": "จอร์แดน พบ อาร์เจนตินา",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 50000+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#จอร์แดนพบอาร์เจนตินา"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "ผลบอล จอร์แดน 1-3 อาร์เจนตินา เมสซี่ลงมาปิดจ๊อบ! ฟ้า-ขาวเก็บชัย 3 นัดรวดชนเคปเวิร์ดรอบ 32 ทีม",
-          "url": "https://www.siamsport.co.th/worldcup/105844/"
-        },
-        {
-          "title": "ผลบอลสด อาร์เจนตินา ชนะ จอร์แดน 3-1 \"ฟุตบอลโลก 2026\" รอบแบ่งกลุ่ม กลุ่ม J นัด 3",
-          "url": "https://www.thairath.co.th/sport/worldcup/2942432"
-        },
-        {
-          "title": "\"สกาโลนี\" ยันส่ง \"เมสซี\" เล่นสำรองเกมบู๊ \"จอร์แดน\"",
-          "url": "https://www.dailynews.co.th/news/5981923/"
-        }
-      ],
-      "updatedAt": "2026-06-28T08:10:00+07:00"
+      "updatedAt": "2026-06-28T17:50:00+07:00"
     },
     {
       "id": "18-23rd-princess-cup-est-cola-southeast-5fe7cc2365",
@@ -894,13 +844,13 @@
       "updatedAt": "2026-06-27T08:00:44+07:00"
     },
     {
-      "id": "topic-e97ddb72c8",
-      "title": "มาริษา ภมรมนตรี",
+      "id": "2026-51eb020904",
+      "title": "ผังการแข่งขันฟุตบอลโลกฟีฟ่าปี 2026",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 1000+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 20000+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -908,7 +858,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#มาริษาภมรมนตรี"
+        "#ผังการแข่งขันฟุตบอลโลกฟี"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -917,28 +867,28 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "แมมโบ้ ลูกชาย แซม ยุรนันท์ ควงแฟนสาวเข้าพิธีวิวาห์แล้ว บรรยากาศสุดอบอุ่น",
-          "url": "https://www.thairath.co.th/entertain/news/2942392"
+          "title": "สรุปทีมเข้ารอบฟุตบอลโลก 2026 ครบ 32 ทีมสุดท้าย เช็กรายชื่อทุกชาติลิ่วน็อกเอาต์",
+          "url": "https://www.siamsport.co.th/worldcup/105847/"
         },
         {
-          "title": "แกลเลอรีรูปภาพ งานแต่ง \"ยุรการ ภมรมนตรี\" ลูกชาย \"แซม ยุรนันท์\" บรรยากาศอบอุ่น ขันหมากครื้นเครง",
-          "url": "https://www.sanook.com/news/9896258/gallery/"
+          "title": "ได้แล้ว 9 คู่ เปิดโปรแกรมฟุตบอลโลก 2026 รอบ 32 ทีม ล่าสุด หลังมีอีก 9 ชาติเข้ารอบ",
+          "url": "https://www.thairath.co.th/sport/worldcup/2942353"
         },
         {
-          "title": "ฮาลั่น! เปิดคำพูด แซม ยุรนันท์ อวยพรลูกชาย ในวันเข้าพิธีวิวาห์ | News In Thailand",
-          "url": "https://today.line.me/th/v3/article/oqKYQ6q"
+          "title": "ฟุตบอลโลก 2026 เงินสะพัด / คอลัมน์ “Final Whistle\" โดย \"ผู้เล่นคนที่ 12\"",
+          "url": "https://mgronline.com/sport/detail/9690000061940"
         }
       ],
-      "updatedAt": "2026-06-28T10:50:00+07:00"
+      "updatedAt": "2026-06-28T20:00:00+07:00"
     },
     {
-      "id": "topic-6bf2b8f741",
-      "title": "รัสเซีย",
+      "id": "topic-40fb29c941",
+      "title": "มัลลิกา",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 1000+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 2000+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -946,7 +896,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#รัสเซีย"
+        "#มัลลิกา"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -955,28 +905,28 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "เบิกเนตร! รัสเซียหนุนกัมพูชาไม่ใช่ข่าวปั่น กต.-สถานทูตรัสเซียแถลงเอง",
-          "url": "https://mgronline.com/news1/detail/9690000061855"
+          "title": "\"ใครแพ้เป็นพลเมือง ใครชนะเป็นผู้นำ\" มัลลิกา เปิดใจหลังนับคะแนนไม่เป็นทางการ",
+          "url": "https://www.thaipbs.or.th/news/content/507616"
         },
         {
-          "title": "\"รัสเซีย\" พร้อมหนุน \"กัมพูชา\" ด้านการทหาร | เรื่องใหญ่ Live Talk | 26 มิ.ย. 69",
-          "url": "https://www.pptvhd36.com/video/news/221417"
+          "title": "ลุ้นผลนับคะแนน! ผ่าโหงวเฮ้ง 3 ตัวเต็งผู้ว่าฯ กทม. ใครดวงแข็งสุด?",
+          "url": "https://www.thairath.co.th/horoscope/belief/2942623"
         },
         {
-          "title": "รัสเซียประกาศหนุนกองทัพเขมร จริงหรือไม่ ...??",
-          "url": "https://www.amarintv.com/video/news/%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A7%E0%B8%AD%E0%B8%A3%E0%B8%B8%E0%B8%93%E0%B8%AD%E0%B8%A1%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C/547281"
+          "title": "มัลลิกาใช้สิทธิเลือกตั้ง บอกสบายใจ 30 วัน ทำทุกอย่างแล้ว รับไม่ชินเพราะขาดไลฟ์สดม",
+          "url": "https://thestandard.co/mallika-bkk-election-vote/"
         }
       ],
-      "updatedAt": "2026-06-28T16:50:00+07:00"
+      "updatedAt": "2026-06-28T17:50:00+07:00"
     },
     {
-      "id": "topic-2f232357c8",
-      "title": "ลำดับของ ทีมชาติแอลจีเรีย พบ ฟุตบอลทีมชาติออสเตรีย",
+      "id": "u18-2dd588ccaf",
+      "title": "วอลเลย์บอลหญิง u18",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 10000+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 2000+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -984,7 +934,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#ลำดับของทีมชาติแอลจีเรีย"
+        "#วอลเลย์บอลหญิงu18"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -993,19 +943,19 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "วิเคราะห์บอล แอลจีเรีย vs ออสเตรีย 28 มิ.ย. 69 : เดิมพันรองแชมป์กลุ่ม แย่งตั๋วเข้ารอบ",
-          "url": "https://www.siamsport.co.th/worldcup/105777/"
+          "title": "สาวไทย U18 ทะลุชิง เวียดนาม แย่งแชมป์ลูกยาง \"ปริ๊นเซสคัพ\"",
+          "url": "https://truevisions.co.th/sports/30138/"
         },
         {
-          "title": "ตารางคะแนน “ลูกหนังโลก 2026” รอบแบ่งกลุ่ม กลุ่ม J หลังแข่งขันจบ นัดที่ 3 ครบทุกคู่",
-          "url": "https://www.thairath.co.th/sport/worldcup/2942434"
+          "title": "วอลเลย์บอลหญิงไทย U18 ตบอัด ฟิลิปปินส์ 3 เซตรวด ป้องกันแชมป์ปริ๊นเซส คัพ",
+          "url": "https://www.siamsport.co.th/other-sports/volleyball/105825/"
         },
         {
-          "title": "รังนิค-ซาบิตเซอร์ รับสุดเหลือเชื่อ ออสเตรียเข้ารอบน็อกเอาต์",
-          "url": "https://www.matichon.co.th/sport/footballinter/news_5782054"
+          "title": "ผลวอลเลย์บอลสด วอลเลย์บอลหญิงไทย U18 ชนะ ฟิลิปปินส์ ลุ้นป้องกันแชมป์ ปริ๊นเซสคัพ",
+          "url": "https://www.thairath.co.th/sport/worldsport/volleyball/2942443"
         }
       ],
-      "updatedAt": "2026-06-28T11:10:00+07:00"
+      "updatedAt": "2026-06-28T18:50:00+07:00"
     },
     {
       "id": "5-2f783a80a3",
@@ -1058,6 +1008,44 @@
         }
       ],
       "updatedAt": "2026-06-22T00:48:51+07:00"
+    },
+    {
+      "id": "topic-120ac73593",
+      "title": "อรรษิษฐ์ สัมพันธรัตน์",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 500+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#อรรษิษฐ์สัมพันธรัตน์"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "เปิดประวัติ จิณณารัชช์ ผู้บริหารมีเดียระดับโลก สู่สปอตไลต์ฐานะ ภรรยาปลัดมหาดไทย",
+          "url": "https://www.matichon.co.th/politics/news_5782330"
+        },
+        {
+          "title": "สมมุติว่า - จับโกงสอบ ขรก.ท้องถิ่น ไม่ได้",
+          "url": "https://www.thaipbs.or.th/program/SomMotWa/episodes/116091"
+        },
+        {
+          "title": "ปลัด มท. เผย นายกฯ สั่งคุมเข้มห้องเก็บผลสอบท้องถิ่น ขอให้ไว้วางใจไม่ปล่อยปละละเลย",
+          "url": "https://www.thairath.co.th/news/politic/2942633"
+        }
+      ],
+      "updatedAt": "2026-06-28T19:10:00+07:00"
     },
     {
       "id": "vnl-2026-2-be2880db1c",
@@ -1269,7 +1257,7 @@
           "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBwRDFBUG1Ic3A5RFpTQVVSVGx1WnRNQnBDSUdrVmczNUVXSUFIQVgzNWYyXzBtU1ZyT1ZwSWUtdWs4a2lEWWdYZDRtM2J6WWQ2Q2FJWkdja1Q?oc=5"
         },
         {
-          "title": "Sanook",
+          "title": "Sanook.com",
           "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9RQmtOUzFjVEJGY1VQZXBKRGIzVWlCLUU2R0RLRGphZ3U1THhOaTR0SEVBeXhaYUd4ZEMtekF3V3FPTmZEM1Qzd1lKRmo?oc=5"
         },
         {
@@ -1333,7 +1321,7 @@
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1XTkNuUEpfLWZiUXo3Z19yMTR3dkp4U2UzQzlfc3QxN3FnaVdMR1Q3R2tiN3B6dmJpQWwxRUw1NUljX0ctU1RZZFNoRGE2QXNmZi1R?oc=5"
         }
       ],
-      "updatedAt": "2026-06-26T23:27:39+07:00"
+      "updatedAt": "2026-06-23T14:00:00+07:00"
     }
   ]
 }
