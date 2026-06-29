@@ -1,34 +1,8 @@
 {
-  "generatedAt": "2026-06-29T12:52:53.745470+07:00",
+  "generatedAt": "2026-06-29T19:01:33.226461+07:00",
   "dateRange": "2026-06-22 to 2026-06-29",
   "sourceErrors": [],
   "topics": [
-    {
-      "id": "rari-77eb1862c6",
-      "title": "\"rari\" ส่งเพลงใหม่ \"โชคดีนะ\" บทเพลงที่บอกจบทุกความสัมพันธ์อย่างสวยงาม",
-      "sourceType": "news",
-      "category": "beauty",
-      "contentPotential": "high",
-      "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: ความสัมพันธ์ / source: TrueID - \"rari\" ส่งเพลงใหม่ \"โชคดีนะ\" บทเพลงที่บอกจบทุกความสัมพันธ์อย่างสวยงาม    TrueID",
-      "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
-      "creatorAngle": "ชวนแชร์สไตล์ ไอเท็ม หรือเทคนิคที่ใช้จริงโดยไม่ขายของแข็งเกินไป",
-      "promptIdea": "สไตล์นี้ถ้าแต่งในชีวิตจริงจะรอดไหม?",
-      "hashtags": [
-        "#BeautyTalk",
-        "#FashionTH",
-        "#ไอเดียแต่งตัว",
-        "#\"rari\"ส่งเพลงใหม่\"โชคดีน"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "TrueID",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB6NnhCaXM3d1Roc05mVjE4Z1RlUVI1SUgyc0RsaENBTnZLek53RW10cnV5ZDhYRVpxUnZUejNuVjN4SG9TSF8wNGRsejdfUDE4SW9MRnBIRWRlQURjWi00?oc=5"
-        }
-      ],
-      "updatedAt": "2026-06-24T07:00:00+07:00"
-    },
     {
       "id": "2-kingdoms-1-destination-51c6672cf9",
       "title": "2 Kingdoms 1 Destination: ความสัมพันธ์การท่องเที่ยว ไทย-ภูฏาน ททท. ต้อนรับคณะรัฐมนตรีว่าการกระทรวงอุตสาหกรรม พานิชย์ และการจ้างงานราชอาณาจักรภูฏาน เสริมสร้างความสัมพัน...",
@@ -54,6 +28,32 @@
         }
       ],
       "updatedAt": "2026-06-24T12:39:50+07:00"
+    },
+    {
+      "id": "beachy-cafe-218721ec14",
+      "title": "Beachy Cafe บางขุนเทียน ร้านอาหารและคาเฟ่กลางน้ำสไตล์มัลดีฟส์ น่าไปเช็กอินชิล ๆ",
+      "sourceType": "news",
+      "category": "food",
+      "contentPotential": "high",
+      "riskLevel": "low",
+      "summary": "ข่าวจาก Google News keyword: คาเฟ่ / source: kapook.com - Beachy Cafe บางขุนเทียน ร้านอาหารและคาเฟ่กลางน้ำสไตล์มัลดีฟส์ น่าไปเช็กอินชิล ๆ    kapook.com",
+      "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
+      "creatorAngle": "ให้ Creator เล่าประสบการณ์ร้าน/เมนูที่อยากลอง แล้วถามคนอื่นว่าคิดเหมือนกันไหม",
+      "promptIdea": "เห็นคนพูดถึงเมนูนี้เยอะมาก มีใครลองแล้วบ้าง?",
+      "hashtags": [
+        "#FoodTrend",
+        "#CafeTH",
+        "#รีวิวของกิน",
+        "#BeachyCafeบางขุนเทียนร้า"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "kapook.com",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9XaFAzUWlZMnUtcUN0MmVva3BtdV9HRDdKRTAxTTJkdHhNODY2MWdKT181TGh4WTVpcEtTZmlRRUlwWDN5RjFHWllmSnNrYjQ2RktR?oc=5"
+        }
+      ],
+      "updatedAt": "2026-06-23T14:00:00+07:00"
     },
     {
       "id": "classic12-cafe-hatyai-village-e83f9c10fd",
@@ -108,30 +108,30 @@
       "updatedAt": "2026-06-25T12:54:19+07:00"
     },
     {
-      "id": "netflix-2026-627ab2b6b0",
-      "title": "Netflix เข้าใหม่ ซีรีส์-หนัง ประจำเดือนกรกฎาคม 2026",
+      "id": "fm91-trafficpro-96e018223b",
+      "title": "FM91 Trafficpro. . โอ้ป้า หาเรื่อง : คาเฟรถราง บ้านนายโพธิ์",
       "sourceType": "news",
-      "category": "entertainment",
+      "category": "food",
       "contentPotential": "high",
       "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: ซีรีส์ / source: Sanook - Netflix เข้าใหม่ ซีรีส์-หนัง ประจำเดือนกรกฎาคม 2026    Sanook",
-      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
-      "creatorAngle": "เล่า reaction ส่วนตัวต่อกระแส แล้วเปิดคำถามให้คนคุยต่อ",
-      "promptIdea": "กระแสนี้ทุกคนอยู่ทีมไหน?",
+      "summary": "ข่าวจาก Google News keyword: คาเฟ่ / source: facebook.com - FM91 Trafficpro. . โอ้ป้า หาเรื่อง : คาเฟรถราง บ้านนายโพธิ์ #โอ้ป้าหาเรื่อง #คาเฟรถราง #บ้านนายโพธิ์ #FM91    facebook.com",
+      "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
+      "creatorAngle": "ให้ Creator เล่าประสบการณ์ร้าน/เมนูที่อยากลอง แล้วถามคนอื่นว่าคิดเหมือนกันไหม",
+      "promptIdea": "เห็นคนพูดถึงเมนูนี้เยอะมาก มีใครลองแล้วบ้าง?",
       "hashtags": [
-        "#EntertainmentTH",
-        "#คุยเรื่องบันเทิง",
-        "#กระแสวันนี้",
-        "#Netflixเข้าใหม่ซีรีส์-หน"
+        "#FoodTrend",
+        "#CafeTH",
+        "#รีวิวของกิน",
+        "#FM91Trafficpro..โอ้ป้าหา"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
         {
-          "title": "Sanook",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA2VWNoTC1aWFdibFFTb281S2ZPNVd1ZHF0MHdWZlV3M293TkYyVGxJVG9BV0hDWWVUTFF0RlNzaVlKaDR1RE1mQXNNZWc?oc=5"
+          "title": "facebook.com",
+          "url": "https://news.google.com/rss/articles/CBMimwRBVV95cUxNWDFibmdBNFNMM0hSdDk1VnlxLWdzMUNxXzA0VXVfOVZYYmhWY1VPbVhzUEVxdHMyOUZ4YllsVUhPbWYtZ294cnBOempfQlFHQW5GVUk0NmUyT1VaTHp6WUdhWDNxWlVXeHFqWkN1SG05WFBsTDRFS1lWcFl0NXlKOUY2amxnQlNPUzhVUXFDdzk4M1ZyX2pXcW9JUy1ISVBWVmRIZmdwNk44cXgyd2VrT3dCYXFiZFRIdllRX0xkTnBNWmtVWnBUS0VNQ0Z1VmhVV1VaYkxXR3dCOG45Yld2bk5MYUJQZmxWcWQ5Y3NYdlY5RHFCcFVRUTVNc2tWMURsWjNQd1lzUUhfcU1wbHBCM0l0Z1E1UEtPc1NsOTRnSERobTZMaEZVM1M4cjJRRTRJTHBMMElLWWtRREtIWHVHa3hfVmNUYjFnZ1VMMmhKVTltZVI3R09sQXhLZ2pLUWZsS05yMl8xa1RMa3pBdU9RR1BQamc3Q25XdjlkWlRXeFNUc3RjZ2ZISk9LVmdfcGdtS05kRVNjR1ZCVVVBQy1CdUZkbVBBM1ZRZ01tclpuZWViVlNFLWlOSDdhamlnYUlMa0J2Yk9mZlFuSm1mVkZIZlRmNGZnSllKTGY5ckM2cGVHdVhiWms3TEJZdVR2bWV3OUxKbWt0ZDV4dE45TkZZOHJzWXk1MGRaRmpucVpWVkJiQlJGQ19BYTBBaw?oc=5"
         }
       ],
-      "updatedAt": "2026-06-26T13:30:27+07:00"
+      "updatedAt": "2026-06-28T19:05:16+07:00"
     },
     {
       "id": "netflix-scooby-doo-14361a85b8",
@@ -160,30 +160,30 @@
       "updatedAt": "2026-06-28T12:18:06+07:00"
     },
     {
-      "id": "the-66-cottage-66-0b1b1ce9a7",
-      "title": "The 66 Cottage คาเฟ่ในสวน บรรยากาศสงบร่มรื่น ที่ซ่อนตัวอยู่ใน ซ.สุขุมวิท 66",
+      "id": "squid-game-content-netflix-7beba097db",
+      "title": "Squid Game : ซีรีส์โดนดองยาว สู่ Content ดังอันดับหนึ่งใน Netflix",
       "sourceType": "news",
-      "category": "food",
+      "category": "entertainment",
       "contentPotential": "high",
       "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: คาเฟ่ / source: ข่าวสด - The 66 Cottage คาเฟ่ในสวน บรรยากาศสงบร่มรื่น ที่ซ่อนตัวอยู่ใน ซ.สุขุมวิท 66    ข่าวสด",
-      "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
-      "creatorAngle": "ให้ Creator เล่าประสบการณ์ร้าน/เมนูที่อยากลอง แล้วถามคนอื่นว่าคิดเหมือนกันไหม",
-      "promptIdea": "เห็นคนพูดถึงเมนูนี้เยอะมาก มีใครลองแล้วบ้าง?",
+      "summary": "ข่าวจาก Google News keyword: ซีรีส์ / source: Marketeer Online - Squid Game : ซีรีส์โดนดองยาว สู่ Content ดังอันดับหนึ่งใน Netflix    Marketeer Online",
+      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
+      "creatorAngle": "เล่า reaction ส่วนตัวต่อกระแส แล้วเปิดคำถามให้คนคุยต่อ",
+      "promptIdea": "กระแสนี้ทุกคนอยู่ทีมไหน?",
       "hashtags": [
-        "#FoodTrend",
-        "#CafeTH",
-        "#รีวิวของกิน",
-        "#The66Cottageคาเฟ่ในสวนบร"
+        "#EntertainmentTH",
+        "#คุยเรื่องบันเทิง",
+        "#กระแสวันนี้",
+        "#SquidGame:ซีรีส์โดนดองยา"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
         {
-          "title": "ข่าวสด",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4xSlFYZzdzS21hQ0tZSExGVjFIb0d3cWlHRW1RN3RFTjB6alpNT1JmWm50bTFjZ0FUcEhFWnZmVWhNVWxJcy15Qjk0OU1qRmNTLWVjRWFMT3NrVzdudEE?oc=5"
+          "title": "Marketeer Online",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE15LUl1SkozRXBQZXBCQ1YwRkdNYV92UGMxRDZCRGxRczAtT2YwMWg3bkJZSjNLbjRFZkFjZTV6ZHA1WF9LWExUaXJEcWZIdURQNUs5Uw?oc=5"
         }
       ],
-      "updatedAt": "2026-06-24T15:39:00+07:00"
+      "updatedAt": "2026-06-26T14:00:00+07:00"
     },
     {
       "id": "vogue-scoop-5-2027-1c6f3de1f9",
@@ -264,44 +264,6 @@
       "updatedAt": "2026-06-24T19:27:06+07:00"
     },
     {
-      "id": "topic-7e5a38ed0d",
-      "title": "กลุ่มคนทำงาน",
-      "sourceType": "trends",
-      "category": "lifestyle",
-      "contentPotential": "high",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 1000+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "โยงกับชีวิตประจำวันของ Creator และถามประสบการณ์คนในคอมมูนิตี้",
-      "promptIdea": "ช่วงนี้มีใครเจอเรื่องแบบนี้เหมือนกันไหม?",
-      "hashtags": [
-        "#LifestyleTH",
-        "#ชีวิตประจำวัน",
-        "#แชร์ประสบการณ์",
-        "#กลุ่มคนทำงาน"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "ผลเลือกตั้ง ส.ก. อย่างไม่เป็นทางการ กลุ่มไหนได้กี่ที่นั่ง",
-          "url": "https://thestandard.co/bkk-election-2026-unofficial-results/"
-        },
-        {
-          "title": "สมชัย วิเคราะห์ผลเลือกตั้งส.ก. คนมองตัวบุคคลใหญ่กว่าพรรค ชี้ชัด การเมืองบ้านใหญ่ในเมืองหลวงยังอยู่",
-          "url": "https://www.matichon.co.th/politics/bkk-election69/news_5783500"
-        },
-        {
-          "title": "ผลเลือกตั้ง สก. 2569 นับแล้ว 95% สรุปทั้ง 50 เขต พรรคประชาชนได้มากสุด 22 เขต",
-          "url": "https://www.thairath.co.th/news/politic/2942647"
-        }
-      ],
-      "updatedAt": "2026-06-28T19:50:00+07:00"
-    },
-    {
       "id": "topic-d77609f16b",
       "title": "ซีรีส์จีน",
       "sourceType": "news",
@@ -328,6 +290,58 @@
       "updatedAt": "2026-06-23T01:15:29+07:00"
     },
     {
+      "id": "north-west-vetements-30092d57e2",
+      "title": "ตี๋ตี๋-ป๋อ และ North West ไปร่วมชมแฟชั่นโชว์ Vetements ที่ปารีสแฟชั่นวีค",
+      "sourceType": "news",
+      "category": "beauty",
+      "contentPotential": "high",
+      "riskLevel": "low",
+      "summary": "ข่าวจาก Google News keyword: แฟชั่น / source: thestandard.co - ตี๋ตี๋-ป๋อ และ North West ไปร่วมชมแฟชั่นโชว์ Vetements ที่ปารีสแฟชั่นวีค    thestandard.co",
+      "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
+      "creatorAngle": "ชวนแชร์สไตล์ ไอเท็ม หรือเทคนิคที่ใช้จริงโดยไม่ขายของแข็งเกินไป",
+      "promptIdea": "สไตล์นี้ถ้าแต่งในชีวิตจริงจะรอดไหม?",
+      "hashtags": [
+        "#BeautyTalk",
+        "#FashionTH",
+        "#ไอเดียแต่งตัว",
+        "#ตี๋ตี๋-ป๋อและNorthWestไป"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "thestandard.co",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1sdHp0QWZDdkVhejAtUExadWFndXB2NjNrY2FSeVJBX0dpWWRFR25OTTFmNkFfYm9pTzBrTlNKSVRQcHVSWkdzSjB1c3owbGFMa2hxaVQwa2NCMnUxY3VsOXkwR3c5TDBwYnJrUGRn?oc=5"
+        }
+      ],
+      "updatedAt": "2026-06-27T10:47:38+07:00"
+    },
+    {
+      "id": "food-financing-ecosystem-smes-1c709e4563",
+      "title": "บสย. จับมือ สถาบันอาหาร สร้าง “Food Financing Ecosystem” ปลดล็อก SMEs กลุ่มอาหารเข้าถึงสินเชื่อ ต่อยอดธุรกิจ",
+      "sourceType": "news",
+      "category": "food",
+      "contentPotential": "high",
+      "riskLevel": "low",
+      "summary": "ข่าวจาก Google News keyword: อาหาร / source: eFinanceThai - บสย. จับมือ สถาบันอาหาร สร้าง “Food Financing Ecosystem” ปลดล็อก SMEs กลุ่มอาหารเข้าถึงสินเชื่อ ต่อยอดธุรกิจ    eFinanceThai",
+      "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
+      "creatorAngle": "ให้ Creator เล่าประสบการณ์ร้าน/เมนูที่อยากลอง แล้วถามคนอื่นว่าคิดเหมือนกันไหม",
+      "promptIdea": "เห็นคนพูดถึงเมนูนี้เยอะมาก มีใครลองแล้วบ้าง?",
+      "hashtags": [
+        "#FoodTrend",
+        "#CafeTH",
+        "#รีวิวของกิน",
+        "#บสย.จับมือสถาบันอาหารสร้"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "eFinanceThai",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbTZXUmkyQXBxQnlMRDJzS3JqRXM2RDc5dnpjUlc4amRRYWRxMjc1MV9FTmFnYUIwV1A0WVc0ZkJZQWk3TXl0NGNRRW1hSFpiY0hCVDF4b2NoREVGbFhCNGQtdWYtdm16Y0lrekd2bXFfWE1yVnRTTjJNN2h0MGRLN1VRUERQdE0?oc=5"
+        }
+      ],
+      "updatedAt": "2026-06-26T14:00:00+07:00"
+    },
+    {
       "id": "the-killing-of-begonia-2026-e2051f3f88",
       "title": "ประวัติ \"แพทริค ณัฐวรรธ์\" นักแสดงดาวรุ่ง สู่พระเอกซีรีส์จีนเรื่อง The Killing Of Begonia (2026)",
       "sourceType": "news",
@@ -352,58 +366,6 @@
         }
       ],
       "updatedAt": "2026-06-23T11:11:57+07:00"
-    },
-    {
-      "id": "topic-06d125278f",
-      "title": "รวมคาเฟ่วิวภูเขา วิวสวย บรรยากาศดี จิบกาแฟพร้อมชมธรรมชาติ",
-      "sourceType": "news",
-      "category": "food",
-      "contentPotential": "high",
-      "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: คาเฟ่ / source: kapook.com - รวมคาเฟ่วิวภูเขา วิวสวย บรรยากาศดี จิบกาแฟพร้อมชมธรรมชาติ    kapook.com",
-      "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
-      "creatorAngle": "ให้ Creator เล่าประสบการณ์ร้าน/เมนูที่อยากลอง แล้วถามคนอื่นว่าคิดเหมือนกันไหม",
-      "promptIdea": "เห็นคนพูดถึงเมนูนี้เยอะมาก มีใครลองแล้วบ้าง?",
-      "hashtags": [
-        "#FoodTrend",
-        "#CafeTH",
-        "#รีวิวของกิน",
-        "#รวมคาเฟ่วิวภูเขาวิวสวยบร"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "kapook.com",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9kMEdCZlcwQXVSbFpZZ3RBUVRHU3lvQmprSmo4YTN3TE1xWW1DbzZ1UzNqZEg4MHBJNjJwREd5TFZUMXdKQXVMUGJzMGZPemJqVl9Z?oc=5"
-        }
-      ],
-      "updatedAt": "2026-06-26T11:18:39+07:00"
-    },
-    {
-      "id": "milan-men-s-fashion-week-spring-summer-dc8edb1eca",
-      "title": "รวมลุคและโมเมนต์ของเหล่านักแสดงไทยใน Milan Men’s Fashion Week Spring/Summer 2027",
-      "sourceType": "news",
-      "category": "beauty",
-      "contentPotential": "high",
-      "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: แฟชั่น / source: L'Officiel Thailand - รวมลุคและโมเมนต์ของเหล่านักแสดงไทยใน Milan Men’s Fashion Week Spring/Summer 2027    L'Officiel Thailand",
-      "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
-      "creatorAngle": "ชวนแชร์สไตล์ ไอเท็ม หรือเทคนิคที่ใช้จริงโดยไม่ขายของแข็งเกินไป",
-      "promptIdea": "สไตล์นี้ถ้าแต่งในชีวิตจริงจะรอดไหม?",
-      "hashtags": [
-        "#BeautyTalk",
-        "#FashionTH",
-        "#ไอเดียแต่งตัว",
-        "#รวมลุคและโมเมนต์ของเหล่า"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "L'Officiel Thailand",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUFY0SGtKWUMtV21OT0xRNTMteDIzdW1zb1gzZFEwOXZJZXJ5WjAtMGpkeTZVMEE4SENvMFJwaHFvUl9tVVRUVU9lNjBpdUtRaXN5ZUsyLW9GWGRaY2NaWXdLNldQQmxvWXBFbk5ldHFlUm16MzdUTWpBc1FrOVN5X3Q1bVRFV3Z1?oc=5"
-        }
-      ],
-      "updatedAt": "2026-06-25T17:24:02+07:00"
     },
     {
       "id": "10-09-31-28-2569-199-d8e4e394e1",
@@ -484,32 +446,6 @@
       "updatedAt": "2026-06-27T11:44:15+07:00"
     },
     {
-      "id": "2025-89cd495b50",
-      "title": "เปิดเทรนด์แฟชั่นปี 2025 ที่ต้องมีติดตู้ถ้าไม่ยากเอาต์",
-      "sourceType": "news",
-      "category": "beauty",
-      "contentPotential": "high",
-      "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: แฟชั่น / source: Marketeer Online - เปิดเทรนด์แฟชั่นปี 2025 ที่ต้องมีติดตู้ถ้าไม่ยากเอาต์    Marketeer Online",
-      "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
-      "creatorAngle": "ชวนแชร์สไตล์ ไอเท็ม หรือเทคนิคที่ใช้จริงโดยไม่ขายของแข็งเกินไป",
-      "promptIdea": "สไตล์นี้ถ้าแต่งในชีวิตจริงจะรอดไหม?",
-      "hashtags": [
-        "#BeautyTalk",
-        "#FashionTH",
-        "#ไอเดียแต่งตัว",
-        "#เปิดเทรนด์แฟชั่นปี2025ที"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Marketeer Online",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5nZEQ4Q2d3R0FHNDkyeDkxZHRDdkpTTUZoNk9yUVFFM3o1WVhid05hOHlMc2Q2dDdHWndoQWs2ZUZ4UGN4MVdZT0VTUUF6UFZYbFpNTg?oc=5"
-        }
-      ],
-      "updatedAt": "2026-06-26T14:00:00+07:00"
-    },
-    {
       "id": "topic-d8fa85e752",
       "title": "เวียดนามเร่งเครื่องเศรษฐกิจดิจิทัล ดันแฟชั่นขึ้นแท่นอุตสาหกรรมยุทธศาสตร์ หลังอีคอมเมิร์ซโตต่อเนื่อง",
       "sourceType": "news",
@@ -542,7 +478,7 @@
       "category": "entertainment",
       "contentPotential": "high",
       "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: ความสัมพันธ์ / source: Thaiticketmajor - แจน-จิงจิง ชวนลุ้นความสัมพันธ์ลับๆ สงท้ายซีรีส์ “ลัลล์ไม่ชอบไวน์” กดบัตร 27 มิถุนายนนี้    Thaiticketmajor",
+      "summary": "ข่าวจาก Google News keyword: ความสัมพันธ์ / source: thaiticketmajor - แจน-จิงจิง ชวนลุ้นความสัมพันธ์ลับๆ สงท้ายซีรีส์ “ลัลล์ไม่ชอบไวน์” กดบัตร 27 มิถุนายนนี้    thaiticketmajor",
       "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
       "creatorAngle": "เล่า reaction ส่วนตัวต่อกระแส แล้วเปิดคำถามให้คนคุยต่อ",
       "promptIdea": "กระแสนี้ทุกคนอยู่ทีมไหน?",
@@ -555,11 +491,37 @@
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
         {
-          "title": "Thaiticketmajor",
+          "title": "thaiticketmajor",
           "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5IUUVuVVBOQ1VuOTBQNEgzaWlNZXBDb1dmblZUNW9wTjAydXN6Z3FiTTNWcHBjdE1TQzJFUlpTV1laZVVzTDkySE1qX1hCcE16alNZaFV2NmNBZG5hcjhr?oc=5"
         }
       ],
       "updatedAt": "2026-06-25T15:28:54+07:00"
+    },
+    {
+      "id": "shein-561700f2b8",
+      "title": "แดนสนธยาของ SHEIN แบรนด์ฟาสต์แฟชั่นสัญชาติจีนที่ครองใจสาว ๆ ทั่วโลกได้อย่างรวดเร็ว",
+      "sourceType": "news",
+      "category": "beauty",
+      "contentPotential": "high",
+      "riskLevel": "low",
+      "summary": "ข่าวจาก Google News keyword: แฟชั่น / source: Marketeer Online - แดนสนธยาของ SHEIN แบรนด์ฟาสต์แฟชั่นสัญชาติจีนที่ครองใจสาว ๆ ทั่วโลกได้อย่างรวดเร็ว    Marketeer Online",
+      "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
+      "creatorAngle": "ชวนแชร์สไตล์ ไอเท็ม หรือเทคนิคที่ใช้จริงโดยไม่ขายของแข็งเกินไป",
+      "promptIdea": "สไตล์นี้ถ้าแต่งในชีวิตจริงจะรอดไหม?",
+      "hashtags": [
+        "#BeautyTalk",
+        "#FashionTH",
+        "#ไอเดียแต่งตัว",
+        "#แดนสนธยาของSHEINแบรนด์ฟา"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Marketeer Online",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBBUjluc1d6aURkV1UwN01lX1B0YjRDN0hYcEVkMXB3QzF1d2VRQkd4Z2FNVF95a1RsQ1J2RjFzbDV0dWRITXJnb0ZXNFF5V3JpR2QyWQ?oc=5"
+        }
+      ],
+      "updatedAt": "2026-06-26T14:00:00+07:00"
     },
     {
       "id": "17-19-18-15-dc46c01cd9",
@@ -588,32 +550,6 @@
       "updatedAt": "2026-06-28T18:28:59+07:00"
     },
     {
-      "id": "3-dd75f4b44d",
-      "title": "“เดลิเวอรี่จีน” ระบาด พาณิชย์ลุยตรวจ 3 แพลตฟอร์ม เปิดให้บริการรับส่งอาหาร",
-      "sourceType": "news",
-      "category": "food",
-      "contentPotential": "high",
-      "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: อาหาร / source: thaipbs.or.th - “เดลิเวอรี่จีน” ระบาด พาณิชย์ลุยตรวจ 3 แพลตฟอร์ม เปิดให้บริการรับส่งอาหาร    thaipbs.or.th",
-      "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
-      "creatorAngle": "ให้ Creator เล่าประสบการณ์ร้าน/เมนูที่อยากลอง แล้วถามคนอื่นว่าคิดเหมือนกันไหม",
-      "promptIdea": "เห็นคนพูดถึงเมนูนี้เยอะมาก มีใครลองแล้วบ้าง?",
-      "hashtags": [
-        "#FoodTrend",
-        "#CafeTH",
-        "#รีวิวของกิน",
-        "#“เดลิเวอรี่จีน”ระบาดพาณิ"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "thaipbs.or.th",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1pSWRrMThoOXhyakNkTlNVbGlFWEtTd0FxYXJId2lNTUEtckNacC1wNHA3QWhULVFQcElHcXJkbUFyMkp3ZXA4NUNXVHhiWkNZbVhHcXBYSFc?oc=5"
-        }
-      ],
-      "updatedAt": "2026-06-23T15:03:08+07:00"
-    },
-    {
       "id": "community-marketing-e15ecb7819",
       "title": "Community Marketing กลยุทธ์สร้างการเติบโตผ่าน “ความสัมพันธ์” ที่แบรนด์ยุคใหม่ต้องเข้าใจ",
       "sourceType": "news",
@@ -640,120 +576,6 @@
       "updatedAt": "2026-06-26T20:39:02+07:00"
     },
     {
-      "id": "f1-live-551b4cf3c3",
-      "title": "f1 live",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#f1live"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "Austrian Grand Prix: George Russell holds off dicey Max Verstappen to take victory",
-          "url": "https://www.espn.com/f1/story/_/id/49173953/austrian-grand-prix-formula-1-george-russell-holds-dicey-max-verstappen-take-victory"
-        },
-        {
-          "title": "All the key moments from the 2026 Austrian Grand Prix",
-          "url": "https://www.formula1.com/en/latest/article/austria-lowdown-all-the-key-moments-as-russell-triumphs-verstappen-impresses-and-ferrari-struggle.kYlJP2ZACF4ulZVACtFQg"
-        },
-        {
-          "title": "George Russell wins F1 Austrian GP ahead of Verstappen and Antonelli – as it happened",
-          "url": "https://www.theguardian.com/sport/live/2026/jun/28/austrian-grand-prix-formula-one-live"
-        }
-      ],
-      "updatedAt": "2026-06-28T20:50:00+07:00"
-    },
-    {
-      "id": "fifa-world-cup-2026-bracket-2c64393943",
-      "title": "fifa world cup 2026 bracket",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 20000+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#fifaworldcup2026bracket"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "World Cup 2026 bracket and knockout fixtures - who's facing who in the last 32 and route to final",
-          "url": "https://www.skysports.com/football/news/12098/13556636/world-cup-2026-bracket-and-knockout-fixtures-whos-facing-who-in-the-last-32-and-route-to-final"
-        },
-        {
-          "title": "Which teams are in World Cup Round of 32, and what’s the knockout schedule?",
-          "url": "https://www.aljazeera.com/sports/2026/6/28/which-teams-are-in-world-cup-last-32-knockouts-and-what-is-the-schedule"
-        },
-        {
-          "title": "World Cup 2026: third-place table, the last 32 lineup and who has gone home",
-          "url": "https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada"
-        }
-      ],
-      "updatedAt": "2026-06-28T20:10:00+07:00"
-    },
-    {
-      "id": "south-africa-vs-canada-1f34355719",
-      "title": "south africa vs canada",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 2000+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#southafricavscanada"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "Is this World Cup now Europe v South America? Which giants fall today? Day 18 recap",
-          "url": "https://www.nytimes.com/athletic/7404446/2026/06/29/world-cup-europe-south-america-recap/"
-        },
-        {
-          "title": "Co-hosts Canada beat South Africa to book 1st last-16 spot",
-          "url": "https://www.espn.com/soccer/story/_/id/49208122/co-hosts-canada-beat-south-africa-book-last-16-spot"
-        },
-        {
-          "title": "A moment Canadian soccer will never forget.🇨🇦",
-          "url": "https://www.foxsports.com/watch-vertical/fmc-xirjhl9l58io6ski"
-        }
-      ],
-      "updatedAt": "2026-06-29T01:50:00+07:00"
-    },
-    {
       "id": "topic-a80430e75b",
       "title": "กรกฎาคม",
       "sourceType": "trends",
@@ -777,19 +599,135 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "US Economic Calendar รายสัปดาห์ ระหว่างวันที่ 29 มิถุนายน - 3 กรกฎาคม 2569 : อินโฟเควสท์",
-          "url": "https://www.infoquest.co.th/2026/606289"
-        },
-        {
-          "title": "บัตรสวัสดิการแห่งรัฐ อัปเดตเดือนกรกฎาคม 2569 ได้รับสิทธิค่าอะไรบ้าง",
-          "url": "https://www.thairath.co.th/news/society/2942737"
-        },
-        {
           "title": "ข่าวอัปเดตเงินเข้าก.ค.69 แจ้งกลุ่มได้สิทธิ มีกลุ่มได้รับย้อนหลัง",
           "url": "https://news.ch7.com/detail/881843"
+        },
+        {
+          "title": "บัตรสวัสดิการแห่งรัฐ เดือนกรกฎาคม 2569 รัฐแจกวงเงินกี่บาท เช็กด่วน",
+          "url": "https://www.sanook.com/money/953319/"
+        },
+        {
+          "title": "เงินเข้า 1 ก.ค. บัตรสวัสดิการแห่งรัฐ กรมบัญชีกลางอัพเดตแล้ว ก.ค.69 ใช้จ่ายอะไรได้บ้าง",
+          "url": "https://www.matichon.co.th/economy/news_5782240"
         }
       ],
       "updatedAt": "2026-06-29T08:50:00+07:00"
+    },
+    {
+      "id": "topic-d09ce9aaa4",
+      "title": "กระทรวงกลาโหม",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 2000+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#กระทรวงกลาโหม"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        }
+      ],
+      "updatedAt": "2026-06-29T14:50:00+07:00"
+    },
+    {
+      "id": "chapel-gold-2026-chapel-gold-585be3a7ee",
+      "title": "กองทัพบกไทย – ออสเตรเลีย เดินหน้าฝึกผสม รหัส Chapel Gold 2026 เสริมความพร้อมรบและกระชับความสัมพันธ์ทางทหาร การฝึกผสม รหัส Chapel Gold เป็นการฝึกของหน่วยดำเนินกลยุทธ์ทา...",
+      "sourceType": "news",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "ข่าวจาก Google News keyword: ความสัมพันธ์ / source: facebook.com - กองทัพบกไทย – ออสเตรเลีย เดินหน้าฝึกผสม รหัส Chapel Gold 2026 เสริมความพร้อมรบและกระชับความสัมพันธ์ทางทหาร การฝึกผสม รหัส Chapel Gold เป็นการฝึกของหน่วยดำเนินกลยุทธ์ทางยุทธวิธีของก",
+      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#กองทัพบกไทย–ออสเตรเลียเด"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "facebook.com",
+          "url": "https://news.google.com/rss/articles/CBMi1AZBVV95cUxPTkhfTGZvdmVEaG9jMTIwc1QyYmFUU0g1T1luaHZwV2NfRXM1cjYtQmQxLUF2NkQ1M2pnOXo2RWZBUC1oWWh6ZGpOaTk4TlFNTDVQMl9CODFfcU1sVXl3RHZVN2EzTURHWnlkTlBNT0lXTGJoZF9QMHBfNDJGQnZRMm9mQnI0Z3dDYWJxcVM4eXVveVplVGF0OE1uUDl4R3NMU3FwekdhaURHd21LZ0dsOFZtRFRiY2pGdzdrbk1md2tzSXFOUU54UGVSMnVpQm8xWjJMRXFQcGU2V1ZnN2ptTmcyZXNFclBKTG4za282SVFnRUNJV0I2Yy1EU2ZWbFBQekdKTFNNcy1BamQwWUVCUGkyeDBYek1vS240OVRSR0pFdXplVXM1WER0YlVPUXNtZjg2OVZDbU9TRlBlQnpEVV9KOG1XXzdnb3o3RHo3Qk5DLVo1MEo2V1RYVTNWdTFZLXFDRE9DNGU4ZjNGczZhbERQYzZ2QVJWQWNzMkd5RmhQQ0ZWSHVDZnJINjdXTEdxWnFxNDZwTURTNXl2QlI4RXl2UEpQTi1wbWxLM20yRU1STlRhcDV0cHNnQWFiTjRLbDZPTGV4aU5WaVlGamZzWVRiUmdyRThrVU9kNFgxR2tQZ0d0RjRkUlhEWTlxcThoR0hvR0pOMjNaaWlQUzFhM3FKOGFkN21kc1BLUHIxd3dpeDVNMXVDQ3dIUjUzc2FFSlNhUUxTVFFiRko5YTcxWExzZVh2blNGM1UwX0JidTdwSlh0cUJaOEpuSlpyZWQtTVV3MkM0UVFKVFBWSzJ6RDRMS01oTWhRVWlELVNaN2ZlMmVWQjZTamNvX0R4N05rYUNmTHNFeEtOdjJqb3drc1RGbWdXUUVNVC00LW13M1pFUE81WXQySjBKWDM1cnFFSy0wS1MtM1FHRy1YSF9fSE1MSm1NZUx0eGVfT2tWaThGMFZCbHQxRjFYYjR5cGd3LXk2Wm96RU9HQmF3YXFqdlJnYXZzUDJzNTA0UHduWHQ3YnBIcHdPQnpkQlNoNzY0UGtrVDhzai1hQ2VxbVliVjlhQjMxN2lWS2FfZlQ2aU9LelpHRlJXVkk2NjE0Zi05Ni1sdUlJQmNNcHpLOGN3QktGaDg?oc=5"
+        }
+      ],
+      "updatedAt": "2026-06-23T16:57:35+07:00"
+    },
+    {
+      "id": "topic-db80684a00",
+      "title": "การเงิน",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#การเงิน"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "ทีทีบี ชวนคนไทย “เปลี่ยนความเชื่อ” เรื่องการเงินเดิม ๆ | The Better",
+          "url": "https://today.line.me/th/v3/article/QwBBZ7G"
+        },
+        {
+          "title": "ทีทีบีย้ำแนวคิด'สินเชื่อคนผ่อนดี' เผยยอดอนุมัติ4.1พันล.ขยายต่อจำนำทะเบียนรถ",
+          "url": "https://mgronline.com/stockmarket/detail/9690000062411"
+        },
+        {
+          "title": "NCB ชี้หนี้เสียลด แต่ยังน่าห่วง ขณะที่วัยทำงาน 40% ยังไม่มีข้อมูลเครดิต แนะรัฐปรับกฎหมายเปิดทางดึงคนเข้าระบบ",
+          "url": "https://www.khaosod.co.th/economics/news_10303317"
+        }
+      ],
+      "updatedAt": "2026-06-29T17:50:00+07:00"
+    },
+    {
+      "id": "35-11-ed33ac7f7f",
+      "title": "ฉลอง 35 ปีความสัมพันธ์ “สีหศักดิ์” เยือนคาซัคสถาน นำนักธุรกิจ 11 บริษัทบุกตลาด",
+      "sourceType": "news",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "ข่าวจาก Google News keyword: ความสัมพันธ์ / source: Thairath.co.th - ฉลอง 35 ปีความสัมพันธ์ “สีหศักดิ์” เยือนคาซัคสถาน นำนักธุรกิจ 11 บริษัทบุกตลาด    Thairath.co.th",
+      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#ฉลอง35ปีความสัมพันธ์“สีห"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Thairath.co.th",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1RQUh1Y0pNUXRVZlM2UjYzVG13VnlOQ1VUVnJyV3RuN1BwNjNubnZNaC1CY1JKY3dYTnZCMWFoc1VhcjRLM1J0RzMzNUwtWXQwbU5zd0VyMnU1azg?oc=5"
+        }
+      ],
+      "updatedAt": "2026-06-24T09:16:42+07:00"
     },
     {
       "id": "18-23rd-princess-cup-est-cola-southeast-5fe7cc2365",
@@ -822,13 +760,13 @@
       "updatedAt": "2026-06-27T08:00:44+07:00"
     },
     {
-      "id": "2026-51eb020904",
-      "title": "ผังการแข่งขันฟุตบอลโลกฟีฟ่าปี 2026",
+      "id": "topic-8edad3c0ae",
+      "title": "นักแสดง",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 100000+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 500+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -836,7 +774,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#ผังการแข่งขันฟุตบอลโลกฟี"
+        "#นักแสดง"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -845,19 +783,57 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "โปรแกรมฟุตบอลโลก 2026 รอบ 32 ทีมสุดท้าย เช็กครบ 16 คู่ พร้อมวัน-เวลาแข่งขันทุกนัด",
-          "url": "https://www.siamsport.co.th/worldcup/105848/"
+          "title": "โค้งสุดท้ายสุดพีค แฟชั่นโชว์วุ่นวาย \"ฟลุ๊ค ภูสิษฐ์\" ลุ้นเคลียร์ปมธุรกิจและรักแท้ของ \"แสงเหนือ\" ใน \"เรียกแด๊ดสิธาร\"",
+          "url": "https://www.newswit.com/th/ieqgr5oggz52u8tmb9jmhejyzah8ijv2"
         },
         {
-          "title": "โปรแกรมถ่ายทอดสดฟุตบอลโลก 2026 ดูบอลสดวันนี้ 29 มิ.ย. 69 (เช้า 30 มิ.ย.) ช่องดูบอลสดฟรี",
-          "url": "https://www.thairath.co.th/sport/worldcup/2942708"
+          "title": "บันเทิง - สนุกครบรส นักแสดงสมทบสร้างสีสัน ในซีรีส์ ‘เรียกแด๊ดสิธาร Your Dear Daddy’",
+          "url": "https://www.naewna.com/entertain/974004"
         },
         {
-          "title": "โมโนแม็กปรับผังบอลโลก ถอดบิ๊กแมตช์ญี่ปุ่น-บราซิลจากฟรีทีวี แต่ถ่ายสดทีมใหญ่ฝอยทอง-ตราไก่-อินทรีเหล็ก",
-          "url": "https://mgronline.com/sport/detail/9690000062126"
+          "title": "รู้จัก 'ฟลุ๊ค ภูสิษฐ์' หรือ พ่อเลี้ยงศิลา แด๊ดดี้ที่จริงใจ บทพิสูจน์นับ 10 ปี",
+          "url": "https://www.komchadluek.net/entertainment/drama-series/618721"
         }
       ],
-      "updatedAt": "2026-06-28T20:00:00+07:00"
+      "updatedAt": "2026-06-29T15:50:00+07:00"
+    },
+    {
+      "id": "topic-9ebf4d22ac",
+      "title": "น้ำ",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 2000+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#น้ำ"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "เคลียร์สุดทาง! กรมชลฯ เร่งกำจัดวัชพืชหลายพื้นที่ เปิดทางน้ำรับหน้าฝน",
+          "url": "https://www.amarintv.com/news/agriculture/549996"
+        },
+        {
+          "title": "ชลประทานยันน้ำต้นทุน 4 จังหวัดเหนือยังเพียงพอ เดินหน้า 5 มาตรการรับฤดูฝน 2569",
+          "url": "https://siamrath.co.th/regional/news/157196"
+        },
+        {
+          "title": "ฝนน้อย-เสี่ยงท่วมเฉพาะจุด กรมชลฯ คุมเข้มพื้นที่เศรษฐกิจ-เกษตรตลอดฤดูฝน",
+          "url": "https://www.thansettakij.com/social-biz/662647"
+        }
+      ],
+      "updatedAt": "2026-06-29T05:10:00+07:00"
     },
     {
       "id": "topic-2daea7df3e",
@@ -866,7 +842,7 @@
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 1000+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 2000+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -883,16 +859,16 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "หวานเจี๊ยบ! \"ลำไย ไหทองคำ\" บุกเชียร์ \"กัปตันช้าง\" ข้างสนาม ช็อตหอมแก้มฟินมาก",
-          "url": "https://www.sanook.com/news/9896406/"
+          "title": "\"ลำไย ไหทองคำ\" บุกไปเชียร์ \"กัปตันช้าง\" ข้างสนามฟุตซอล เจอหอมแก้มฟอดใหญ่ช็อตนี้ฟินมาก",
+          "url": "https://www.thairath.co.th/entertain/news/2942615"
         },
         {
           "title": "ลำไย ไหทองคำ กับโมเมนต์หวานชื่น ทำชาวเน็ตอิจฉาเป็นแถว",
           "url": "https://women.kapook.com/view302105.html"
         },
         {
-          "title": "\"ลำไย ไหทองคำ\" บุกไปเชียร์ \"กัปตันช้าง\" ข้างสนามฟุตซอล เจอหอมแก้มฟอดใหญ่ช็อตนี้ฟินมาก",
-          "url": "https://www.thairath.co.th/entertain/news/2942615"
+          "title": "หวานเจี๊ยบ! \"ลำไย ไหทองคำ\" บุกเชียร์ \"กัปตันช้าง\" ข้างสนาม ช็อตหอมแก้มฟินมาก",
+          "url": "https://www.sanook.com/news/9896406/"
         }
       ],
       "updatedAt": "2026-06-29T05:10:00+07:00"
@@ -956,7 +932,7 @@
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 2000+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 5000+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -977,12 +953,12 @@
           "url": "https://www.thairath.co.th/lottery/news/2942454"
         },
         {
-          "title": "ส่องเลขเด็ดปฏิทินคำชะโนด งวด 1/7/69 จัดเต็มไม่มีกั๊ก! แนวทางหวย 1 ก.ค. 69",
-          "url": "https://www.sanook.com/news/9895278/"
+          "title": "รวมเลขเด็ด 1/7/69 เลขดังทุกสำนัก เลขเด็ดปฏิทินจีน ปฏิทินคำชะโนด",
+          "url": "https://www.sanook.com/news/9896626/"
         },
         {
-          "title": "หวยออกงวด 1 ก.ค.69 เลขเด็ดงวดนี้ มีเลขอะไรบ้าง หวยเด่น-หวยดังอื้อ",
-          "url": "https://www.khaosod.co.th/lottery/news_10302443"
+          "title": "รีบส่องด่วน 10 เลขเด็ดขายดีสุดปัง งวด 1 ก.ค.69 คอหวยลุ้นรวยไม่รู้เนื้อรู้ตัว",
+          "url": "https://www.dailynews.co.th/news/5985657/"
         }
       ],
       "updatedAt": "2026-06-29T02:50:00+07:00"
@@ -1011,12 +987,12 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "กรมอุตุฯ เตือนฉบับ 6 ฝนตกหนักถึงหนักมากบริเวณประเทศไทย มีผลกระทบวันที่ 29 มิถุนายน - 3 กรกฎาคม 2569",
-          "url": "https://today.line.me/th/v3/article/gzKKQXm"
+          "title": "กรมอุตุฯ เตือนฉบับ 6 ฝนตกหนักถึงหนักมากบริเวณประเทศไทย มีผลกระทบ 29 มิถุนายน - 3 กรกฎาคม 2569",
+          "url": "https://today.line.me/th/v3/article/x2WWqaP"
         },
         {
-          "title": "ปภ. แจ้งเตือน 43 จังหวัด เฝ้าระวังน้ำป่าหลาก-น้ำท่วมฉับพลัน 28 มิ.ย. - 3 ก.ค. 69",
-          "url": "https://www.thairath.co.th/news/local/2942684"
+          "title": "อุตุฯ ฉบับ 7 เตือนฝนตกหนักมากบางพื้นที่ จนถึง 3 ก.ค. 69 อันดามันตอนบนคลื่นสูง",
+          "url": "https://www.thairath.co.th/news/local/2942894"
         },
         {
           "title": "ฝนฟ้าอากาศเช้านี้ 29 มิ.ย.69 | เหนือระวังน้ำท่วม-ดินถล่ม อีสานวิกฤตฝนทิ้งช่วงวอนเร่งช่วยเหลือ",
@@ -1026,30 +1002,42 @@
       "updatedAt": "2026-06-29T06:40:00+07:00"
     },
     {
-      "id": "topic-bcb4264421",
-      "title": "ฮัดจาร์ เผยความสัมพันธ์ เวอร์สเตปเปน ใจดี",
-      "sourceType": "news",
+      "id": "topic-bb24def072",
+      "title": "เอกนิติ นิติทัณฑ์ประภาศ",
+      "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: ความสัมพันธ์ / source: TrueVisions - ฮัดจาร์ เผยความสัมพันธ์ เวอร์สเตปเปน ใจดี    TrueVisions",
-      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 500+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
       "hashtags": [
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#ฮัดจาร์เผยความสัมพันธ์เว"
+        "#เอกนิตินิติทัณฑ์ประภาศ"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
         {
-          "title": "TrueVisions",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9DakE0VFpVNmNfaDRWTmlnZHkyWkZOMG13cDFKMXlmcmhCQVQ3N3JkbF80VmVOTXpEVHl0WFAwT2dwZmhuZ0h5czlBd3pGUHly?oc=5"
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "งบ 2570: ฝ่ายค้านวิจารณ์รัฐบาลจัดงบ \"ฝีแตก\" และเอไอ \"กลายเป็นรหัสกดเอทีเอ็มใหม่\"",
+          "url": "https://www.bbc.com/thai/articles/c4gyrj7gewjo"
+        },
+        {
+          "title": "\"เอกนิติ\" แถลงงบฯ ปี 70 วงเงิน 3.788 ล้านล้านบาท ใช้งบคุ้มค่า โปร่งใส เน้น 6 ยุทธศาสตร์ สร้างการเติบโตยั่งยืน",
+          "url": "https://today.line.me/th/v3/article/kEKK0pq"
+        },
+        {
+          "title": "วีระยุทธชี้รัฐบาล FOMO โดดเกาะกระแสกลัวตกขบวน แต่ทิ้งอุตสาหกรรมยานยนต์ไทย",
+          "url": "https://thestandard.co/veerayuth-fomo-abandons-thai-auto/"
         }
       ],
-      "updatedAt": "2026-06-23T19:00:19+07:00"
+      "updatedAt": "2026-06-29T15:50:00+07:00"
     },
     {
       "id": "topic-6db4c86065",
@@ -1075,16 +1063,16 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "ผลบอล แอฟริกาใต้ 0-1 แคนาดา : ยูสตากีโอซัดชัย! เมเปิ้ลแดงทะลุ 16 ทีมฟุตบอลโลก 2026",
-          "url": "https://www.siamsport.co.th/worldcup/105878/"
+          "title": "แอฟริกาใต้ vs แคนาดา 0-1 รอบ 32 ทีม ฟีฟ่าเวิลด์คัพ 2026 แคนาดา คว้าชัยเข้ารอบ 16 ทีม ครั้งแรกในประวัติศาสตร์แคนาดา",
+          "url": "https://readthecloud.co/%E0%B9%81%E0%B8%AD%E0%B8%9F%E0%B8%A3%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B9%83%E0%B8%95%E0%B9%89-vs-%E0%B9%81%E0%B8%84%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B8%B2/"
+        },
+        {
+          "title": "ชี้ 4 ตัวเต็งบอลน่าเชียร์ 28 มิ.ย. 69 : ทีเด็ดบอลวันนี้ แคนาดา ลุ้นคว้าตั๋ว, โจนาธาน เดวิด ทีเด็ดเจ้าภาพร่วม!",
+          "url": "https://www.siamsport.co.th/football-international/national-team/105841/"
         },
         {
           "title": "แอฟริกา พุ่งแรง 17.96% ททท. เล็งดึงกลุ่ม FIT กำลังซื้อสูง เปย์หนัก 60,000 บาท/คน | การเงินธนาคาร",
           "url": "https://today.line.me/th/v3/article/rmKKGww"
-        },
-        {
-          "title": "สรุปผลฟุตบอลโลก 2026 เมื่อคืน ประจำวันที่ 29 มิ.ย. 69 เช็กผลได้ที่นี่",
-          "url": "https://www.sanook.com/sport/1651780/"
         }
       ],
       "updatedAt": "2026-06-29T02:00:00+07:00"
@@ -1113,7 +1101,7 @@
           "url": "https://news.google.com/rss/articles/CBMipgdBVV95cUxNbFB0d3h2ZXV6T3JqNi1IVmFDaVh6ZjA3QndOTVFKeEVPc1NYVXFtR1FpVjN5VWUyTXY4bjBfekNHX0hETkNfZjQzMThtV0NMcGVtR3NMN0MwWHpKZzhkNWluVEpLR2o3Y01oajdoT2t3WTRiN3hhS1lWdDhWWEMzMmxIX25VbmJ5amRMV2o1U1RaT3VGRk5acUdHb0NHdjFYZExCbS14UENSYnhWd1hxNTZtWVk3SE5JZFpPNGl5dEFIampBY1Uwb0ZPbEVZX0lya1E0c3lLRFd2bGRPejZqNDBGU1ktd2ZWUVBXOXI3SDNaY21qZmJUTkU5SXR3d3lZTnRsa1I5bEltMWxuS0xjUk1hNlcwcXJGSkEyTC1UdXhIR3Y5bVlKSGpqUGkxdnpxZ0doTFQtV0xDNmZQcEUwTEFRMVNQN09VTGxENF92ajBVWnJtVEpOMEg4QnFlbF80bVJBT2RPMkZDT3g3eFhBcHNrc3VYa20xNl93WVdHSkgxVjl4Njh0dm5WMDNkUzRHenRmSG1JQ1hyYXFPZDlENkxqSjBNRjlzSEliQzc3N1JVNXVNc2pabmJmLXdzblNPcEZ2N0tEdHpOVWViTWFidVo5QV9RYnF2MGpycFRNVGFHWVh1YnFHa1BEVlNJclJLUHNUSGdXMEdhRTNTRXQ5Vl9OX0s4YlRwSWN1bUJWbHM4bk1lRmRKVjEzYmMxR2xVMURXVVd6WHpCdUtTUzZXN3UwYkNDYkVYU2VkeTVwOGhRRG1oaDhmMGlvdmgyc045ZDZaaUhKb29aTHFZSF9wbEhtZWFjT1pqaEVOMzVHWTRfUkNpWGVWYWN0NUR0QTUzQkNsN0FqUF8xOElKRm9EUU42MW5JQzlrdUYtcHdraWRQZ20yVVdGdzhldGlycWFzNExfMzNlU2llTzhvVHY1dUoxN0NCbXVNVk9Zby0zemlDYkJpaVYwSi0yQ1JMMURaMV9CdnlCTF9lVDBRYlZKalBldmp0TVJCMWRYbTdBQTlYYnN0WE8wRFpEVTVhRHZIUnotSzBkTjhUUUJuVDVjUUhib3QwbWlneVhWUGJBVDJrRW9iX3lrZTVLZHZtaWlwNnpSRXNjU3g1bU0zWTJ6blJDWmtjQWM3UEFfTnFsd3VIMk1NVTRhb2RRakJmeURSbEFCVFZDdllnQi1FUWMybVZpZy1mVXYwal90TjJFVkZLajk4Um1oeU5pODlQWVJLNkFxUjNB?oc=5"
         }
       ],
-      "updatedAt": "2026-06-29T07:43:12+07:00"
+      "updatedAt": "2026-06-29T13:29:17+07:00"
     },
     {
       "id": "topic-2b3e582c51",
@@ -1269,20 +1257,20 @@
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9IQnV2dGJRZXFsbHpycDBPbGt5SS1sdTBxc0dMSEJJVl91M0tsb0otV1l1aUZzLWlfS1hCMVZvQlhJZy0xTnlmRjNUMHVQb3NRZWQweg?oc=5"
         },
         {
-          "title": "Thairath.co.th",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1jYTVtaGdWaVNKLVpuTmJuMDhtSmdzSHprbWhZYU04RmMyOVU4eTZDLV9ZaE0xSWNxM1c4YXd1WVVrOUJEcHBRWXFzN3RtWGdmQ1FrTzA1eHNDLTA?oc=5"
+          "title": "Sanook",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9RQmtOUzFjVEJGY1VQZXBKRGIzVWlCLUU2R0RLRGphZ3U1THhOaTR0SEVBeXhaYUd4ZEMtekF3V3FPTmZEM1Qzd1lKRmo?oc=5"
         },
         {
           "title": "thaipbs.or.th",
           "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBwRDFBUG1Ic3A5RFpTQVVSVGx1WnRNQnBDSUdrVmczNUVXSUFIQVgzNWYyXzBtU1ZyT1ZwSWUtdWs4a2lEWWdYZDRtM2J6WWQ2Q2FJWkdja1Q?oc=5"
         },
         {
-          "title": "Sanook",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9RQmtOUzFjVEJGY1VQZXBKRGIzVWlCLUU2R0RLRGphZ3U1THhOaTR0SEVBeXhaYUd4ZEMtekF3V3FPTmZEM1Qzd1lKRmo?oc=5"
-        },
-        {
           "title": "bangkokbiznews",
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBSY2t1aG8yeUEtRUxneFZmSDNpWlo3N2tLaDJlOVU0NS1qcVY3eHhwNnJ4Wll0Q18zcnZuSDhrTnAxWnh5VlBXLU1HSkpLZEY2V1dpeFdjVFM3bUYzZmNYbGpvaDhYdw?oc=5"
+        },
+        {
+          "title": "The Bangkok Insight",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1vTUxpX1lSMjlJX2xKSzQ1eUNNeVlnc2w5dzh0N0NQa3RTdGVSOUFuSldvdG1NX0tvbngxdDRsa3ZOekZZWG1pSVZBc2k5dDJXT2hVQmNvNzhPaWtNdzJEeUt5MFZicXVzcDBuMFpzWTBQRk0x?oc=5"
         }
       ],
       "updatedAt": "2026-06-26T14:00:00+07:00"
