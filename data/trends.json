@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-01T22:45:13.408863+07:00",
-  "dateRange": "2026-06-24 to 2026-07-01",
+  "generatedAt": "2026-07-02T00:59:48.036935+07:00",
+  "dateRange": "2026-06-25 to 2026-07-02",
   "sourceErrors": [],
   "topics": [
     {
@@ -530,7 +530,7 @@
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 1000+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 2000+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -547,19 +547,57 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "England vs DR Congo LIVE: Watch FIFA World Cup Round of 32 TV stream, score, team news, commentary & updates",
-          "url": "https://www.bbc.com/sport/football/live/c4gyvx6xvevt"
-        },
-        {
-          "title": "England v DR Congo: World Cup 2026 last 32 – live",
-          "url": "https://www.theguardian.com/football/live/2026/jul/01/england-v-dr-congo-world-cup-2026-last-32-live"
-        },
-        {
           "title": "England - D.R. Congo",
           "url": "https://www.flashscore.com/match/football/d-r-congo-phn9mm8H/england-j9N9ZNFA/"
+        },
+        {
+          "title": "World Cup 2026: Rate the players in England v DR Congo",
+          "url": "https://www.bbc.com/sport/football/articles/ckg5x35zx04o"
+        },
+        {
+          "title": "LIVE: England vs DR Congo – FIFA World Cup 2026",
+          "url": "https://www.aljazeera.com/sports/liveblog/2026/7/1/england-vs-dr-congo-live-fifa-world-cup-2026"
         }
       ],
       "updatedAt": "2026-07-01T22:10:00+07:00"
+    },
+    {
+      "id": "india-vs-england-7921b7e2b6",
+      "title": "india vs england",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 100+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#indiavsengland"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "England vs India LIVE: First T20, Chester-le-Street - cricket score, commentary & video highlights",
+          "url": "https://www.bbc.com/sport/cricket/live/cg40vll5x1wt"
+        },
+        {
+          "title": "No time to analyse for India, England as T20I series awaits",
+          "url": "https://www.cricinfo.com/series/india-in-england-2026-1496488/england-vs-india-1st-t20i-1496574/match-preview"
+        },
+        {
+          "title": "Five bowlers who took the most wickets in ENG vs IND T20Is",
+          "url": "https://bdcrictime.com/five-bowlers-who-took-the-most-wickets-in-eng-vs-ind-t20is"
+        }
+      ],
+      "updatedAt": "2026-07-02T00:00:00+07:00"
     },
     {
       "id": "jeremy-jacquet-ecdf8f7e77",
@@ -600,44 +638,6 @@
       "updatedAt": "2026-07-01T16:50:00+07:00"
     },
     {
-      "id": "kapook-c1c7bc05f5",
-      "title": "kapook",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 1000+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#kapook"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "บิ๊กซี โคราช 1 ปิดสาขาอย่างเป็นทางการ ปิดตำนาน 30 ปี ด้วยเหตุผลเดียว คนอาลัย",
-          "url": "https://hilight.kapook.com/view/253956"
-        },
-        {
-          "title": "ปิดตำนาน 30 ปี บิ๊กซีโคราช 1 ห้างคู่เมือง-ความทรงจำยุค 90 หลังหมดสัญญาเช่าที่ดิน",
-          "url": "https://www.matichon.co.th/region/news_5785753"
-        },
-        {
-          "title": "ปิดตำนาน 3 ทศวรรษ! บิ๊กซีโคราช 1 ปิดสาขาอย่างเป็นทางการด้วยเหตุผลเดียว",
-          "url": "https://www.siamnews.com/news/economy/47876"
-        }
-      ],
-      "updatedAt": "2026-07-01T15:50:00+07:00"
-    },
-    {
       "id": "topic-1d804102f0",
       "title": "คพ. จับมือกรมทรัพยากรน้ำบาดาล ศึกษาความสัมพันธ์น้ำผิวดิน–น้ำบาดาลในพื้นที่เสี่ยงปนเปื้อน ยกระดับการคุ้มครองแหล่งน้ำใต้ดินของประเทศ",
       "sourceType": "news",
@@ -664,13 +664,13 @@
       "updatedAt": "2026-06-25T22:17:29+07:00"
     },
     {
-      "id": "topic-f7fe2d818d",
-      "title": "ตรวจหวย",
+      "id": "topic-18adb3a96e",
+      "title": "ดูบอลสด ดูบอลออนไลน์",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 2000000+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 2000+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -678,7 +678,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#ตรวจหวย"
+        "#ดูบอลสดดูบอลออนไลน์"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -687,19 +687,57 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "ตรวจหวย 1/7/69 ผลสลากกินแบ่งรัฐบาล ตรวจลอตเตอรี่ 1 ก.ค. 69",
-          "url": "https://www.sanook.com/news/9896938/"
+          "title": "เดือดแน่ ไทยรัฐทีวี ยิงสดฟุตบอลโลก 2026 รอบ 32 ทีม นอร์เวย์ ปะทะ ไอวอรีโคสต์",
+          "url": "https://www.thairath.co.th/sport/worldcup/2942703"
         },
         {
-          "title": "LIVE ชมถ่ายทอดสด ผลการออกสลากกินแบ่งรัฐบาล 1 กรกฎาคม 2569",
-          "url": "https://www.thairath.co.th/lottery/news/2943155"
+          "title": "เออร์ลิง เบราต์ ฮาลันด์ กองหน้าที่นอร์เวย์ขาดไม่ได้ และทุกทีมบนโลกอยากมี",
+          "url": "https://thestandard.co/erling-haaland-norway-world-cup-history/"
         },
         {
-          "title": "ในประเทศ - ผลสลากกินแบ่งรัฐบาล งวดประจำวันที่ 1 กรกฎาคม 2569",
-          "url": "https://www.naewna.com/local/974457"
+          "title": "ฮาลันด์ ซัดชัย! นอร์เวย์ เฉือน ไอวอรีโคสต์ 1-2 ลิ่ว 16 ทีมชน บราซิล จี้ เมสซี่ 1 ลูก ลุ้นดาวซัลโว | สนามข่าวกีฬาฟุตบอลโลก",
+          "url": "https://www.ch7.com/sports/882319"
         }
       ],
-      "updatedAt": "2026-07-01T15:10:00+07:00"
+      "updatedAt": "2026-07-02T00:00:00+07:00"
+    },
+    {
+      "id": "topic-44663f0e1a",
+      "title": "ดูบอลโลกฟรี",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 2000+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#ดูบอลโลกฟรี"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "โปรแกรมถ่ายทอดสดฟุตบอลโลก 2026 รอบ 32 ทีม ดูบอลสดฟรี เช็กครบ 10 คู่",
+          "url": "https://www.siamsport.co.th/worldcup/105912/"
+        },
+        {
+          "title": "โปรแกรมถ่ายทอดสดฟุตบอลโลก 2026 ดูบอลสดวันนี้ 1 ก.ค. 69 (เช้า 2 ก.ค.) ช่องดูบอลสดฟรี",
+          "url": "https://www.thairath.co.th/sport/worldcup/2943275"
+        },
+        {
+          "title": "บอลวันนี้ โปรแกรมบอล ดูบอลสด ถ่ายทอดสด วันพุธที่ 1 ก.ค. 69",
+          "url": "https://www.posttoday.com/lifestyle/744746"
+        }
+      ],
+      "updatedAt": "2026-07-01T23:50:00+07:00"
     },
     {
       "id": "18-23rd-princess-cup-est-cola-southeast-5fe7cc2365",
@@ -755,57 +793,19 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "ส่อง ‘สกุลเงินเอเชีย’ ครึ่งแรกปี 2026 ‘เงินบาท’ อ่อนค่าเป็นอันดับต้นภูมิภาค แนวโน้มระยะข้างหน้าจะเป็นอย่างไร?",
-          "url": "https://thestandard.co/thai-baht-asian-currency-outlook/"
+          "title": "Night Recap Gold Spot 01-07-2569",
+          "url": "https://www.huasengheng.com/news/night-recap-gold-spot-01-07-2569/"
         },
         {
-          "title": "บาทเปิดเช้านี้ 33.28 บาท/ดอลลาร์ | การเงินธนาคาร",
-          "url": "https://today.line.me/th/v3/article/1DelON2"
+          "title": "ราคาทองคําทรงตัวหลังร่วงหนักที่สุดในรอบ 13 ปี",
+          "url": "https://th.investing.com/news/commodities-news/article-714294"
         },
         {
-          "title": "ภาวะตลาดเงินบาท: ปิด 33.37/38 อ่อนค่ารับดอลลาร์แข็งค่า ตลาดจับตาปธ.เฟดส่งสัญญาณดอกเบี้ย",
-          "url": "https://www.ryt9.com/s/iq/12827072"
+          "title": "แนวโน้มราคาทองคำลดลง ราคาทองวันนี้ 1 ก.ค.69 ปรับลดลง 450 บาท ส่งผลทองรูปพรรณ ขายออกบาทละ 63,650 บาท",
+          "url": "https://today.line.me/th/v3/article/YaKR2PB"
         }
       ],
       "updatedAt": "2026-07-01T18:00:00+07:00"
-    },
-    {
-      "id": "1-7-69-69faac493d",
-      "title": "ผลสลากออมสิน 1 7 69",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 2000+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#ผลสลากออมสิน1769"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "ตรวจสลากออมสิน 1/7/69 สลากออมสินพิเศษ 2 ปี งวด 1 กรกฎาคม 2569",
-          "url": "https://www.sanook.com/money/953419/"
-        },
-        {
-          "title": "ผลสลากออมสิน หวยออมสิน ตรวจหวยออมสินพิเศษ 2 ปี งวด 1 ก.ค.69",
-          "url": "https://www.khaosod.co.th/lottery/news_10305742"
-        },
-        {
-          "title": "ตรวจผลรางวัลสลากออมสินพิเศษ 2 ปี งวดที่ 254-271,273-276 วันที่ 1 กรกฎาคม 2569",
-          "url": "https://www.pptvhd36.com/news/%E0%B8%A5%E0%B8%AD%E0%B8%95%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B8%B5%E0%B9%88/278704"
-        }
-      ],
-      "updatedAt": "2026-07-01T15:50:00+07:00"
     },
     {
       "id": "topic-510e019611",
@@ -839,8 +839,8 @@
           "url": "https://today.line.me/th/v3/article/3N5PMnZ"
         },
         {
-          "title": "อดีตลูกเรือแนะ \"อ้างไม่รู้ ฟังไม่ขึ้น\" ปมแอร์ฯ ลอบขนเฮโรอีนเข้าออสเตรเลีย ชี้ “เสี่ยงสูงผลตอบแทนสูง”",
-          "url": "https://mgronline.com/onlinesection/detail/9690000063315"
+          "title": "“ไก่ ภาษิต-ตูน ปรินดา” อดีตลูกเรือ เผยสายการบินย้ำจนปากเปียกปากแฉะ ห้ามรับหิ้วของ",
+          "url": "https://www.thairath.co.th/entertain/news/2943362"
         }
       ],
       "updatedAt": "2026-07-01T17:50:00+07:00"
@@ -878,7 +878,7 @@
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 1000+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 2000+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -1006,7 +1006,7 @@
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 5000+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 20000+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -1023,16 +1023,16 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "วิเคราะห์บอล อังกฤษ vs ดีอาร์ คองโก 1 ก.ค. 69 : ทูเคิ่ลนำทัพสิงโตคำราม ล่าชัยรอบน็อกเอาต์",
-          "url": "https://www.siamsport.co.th/worldcup/105997/"
+          "title": "LIVE ดูบอลสด อังกฤษ พบ ดีอาร์ คองโก (1 ก.ค.) วันนี้ 23.00 น. บอลโลก 2026 รอบ 32 ทีมสุดท้าย",
+          "url": "https://www.thairath.co.th/sport/worldcup/2942571"
         },
         {
-          "title": "ทีเด็ดบอลวันนี้ 1 ก.ค. 69 วิเคราะห์บอล 3 คู่เด็ด ฟุตบอลโลก 2026 รอบ 32 ทีม โปรแกรมบอลวันนี้",
-          "url": "https://www.thairath.co.th/sport/worldcup/2943101"
+          "title": "ชี้ 4 ตัวเต็งบอลน่าเชียร์ 1 ก.ค. 69 : ทีเด็ดบอลวันนี้ อังกฤษลุ้นตีตั๋ว, เซเนกัล ไม่แพ้!",
+          "url": "https://www.siamsport.co.th/football-international/national-team/105987/"
         },
         {
-          "title": "ดูบอลสด อังกฤษ พบ ดีอาร์คองโก ฟุตบอลโลก รอบ 32 ทีมสุดท้าย คืนนี้ เวลา 23:00 น.",
-          "url": "https://www.sanook.com/sport/1651637/"
+          "title": "ดูบอลสด อังกฤษ พบ คองโก ฟุตบอลโลก 2026 พรีวิวรอบ 32 ทีมสุดท้าย",
+          "url": "https://thethaiger.com/th/news/1583331/"
         }
       ],
       "updatedAt": "2026-07-01T22:10:00+07:00"
@@ -1090,30 +1090,30 @@
       "updatedAt": "2026-06-29T01:29:53+07:00"
     },
     {
-      "id": "topic-bbb8f82a94",
-      "title": "หลิง-ออม เคลียร์ดราม่าโปรโมตซีรีส์น้อย เข้าใจทุกฝ่าย เผยช่องรับฟัง-เพิ่มรายการแล้ว",
+      "id": "topic-a8751d3a36",
+      "title": "ขอโทษทุกฝ่าย \"เป๊ก\" จบดราม่า \"ธัญญ่า-หนิง\" สรุปให้ฟังเอาแบบง่าย ๆ แล้วแยกย้ายได้เลย!",
       "sourceType": "news",
-      "category": "entertainment",
-      "contentPotential": "high",
+      "category": "social_topic",
+      "contentPotential": "medium",
       "riskLevel": "medium",
-      "summary": "ข่าวจาก Google News keyword: ดราม่า / source: Matichon Online - หลิง-ออม เคลียร์ดราม่าโปรโมตซีรีส์น้อย เข้าใจทุกฝ่าย เผยช่องรับฟัง-เพิ่มรายการแล้ว    Matichon Online",
+      "summary": "ข่าวจาก Google News keyword: ดราม่า / source: TrueID - ขอโทษทุกฝ่าย \"เป๊ก\" จบดราม่า \"ธัญญ่า-หนิง\" สรุปให้ฟังเอาแบบง่าย ๆ แล้วแยกย้ายได้เลย!    TrueID",
       "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
-      "creatorAngle": "เล่า reaction ส่วนตัวต่อกระแส แล้วเปิดคำถามให้คนคุยต่อ",
-      "promptIdea": "กระแสนี้ทุกคนอยู่ทีมไหน?",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
       "hashtags": [
-        "#EntertainmentTH",
-        "#คุยเรื่องบันเทิง",
-        "#กระแสวันนี้",
-        "#หลิง-ออมเคลียร์ดราม่าโปร"
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#ขอโทษทุกฝ่าย\"เป๊ก\"จบดราม"
       ],
       "riskNote": "Medium risk ควรเลี่ยงการพาดพิงบุคคลจริงและใช้คำถามเชิงสร้างสรรค์",
       "sources": [
         {
-          "title": "Matichon Online",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBZOEc4SDBCa0x4VmlmamFKY043bFNEb0N3LWRibnRzSkJWaW9ZdmpadXlpZEQyc3VzVWEyTzdHazVxZXJZc0J6ZmRmajA4WlRrODhkQnpmTnlBNUNQZTBGZG53eGd4UXNfVnhvcFY4cTc0Y2cwR3hTdnJEWnY?oc=5"
+          "title": "TrueID",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9pWnBHbXZKS3VrWlhhX0tmSXFyR1JjYU9DRElYaGJvQ1JNOHJHbVk4LW1id3k2N25JOXFNMUdGc1ZnR2xReTNxWk5Ya0dPbmpVc29Yc21iNEg0Mi04RTdoampn?oc=5"
         }
       ],
-      "updatedAt": "2026-06-30T22:29:46+07:00"
+      "updatedAt": "2026-06-25T13:09:28+07:00"
     },
     {
       "id": "10-45ed065927",
