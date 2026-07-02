@@ -1,7 +1,9 @@
 {
-  "generatedAt": "2026-07-02T12:00:03.088275+07:00",
+  "generatedAt": "2026-07-02T17:11:33.287114+07:00",
   "dateRange": "2026-06-25 to 2026-07-02",
-  "sourceErrors": [],
+  "sourceErrors": [
+    "google_news: HTTP Error 503: Service Unavailable"
+  ],
   "topics": [
     {
       "id": "2-work-cafe-33ebf1b599",
@@ -524,44 +526,6 @@
       "updatedAt": "2026-06-26T20:39:02+07:00"
     },
     {
-      "id": "belgium-vs-senegal-3435bf8d50",
-      "title": "belgium vs senegal",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 2000+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#belgiumvssenegal"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "World Cup 2026: Senegal's remarkable exit after comeback and controversy",
-          "url": "https://www.bbc.com/sport/football/articles/ckg8e2ezvzyo"
-        },
-        {
-          "title": "Veteran Belgium rally to beat Senegal and show aging squad isn't finished",
-          "url": "https://www.espn.com/soccer/story/_/id/49243140/belgium-defeat-senegal-world-cup-round-32-youri-tielemans-ismaila-sarr"
-        },
-        {
-          "title": "The anatomy of a World Cup implosion: 40 minutes that broke Senegal and revived Belgium",
-          "url": "https://www.nytimes.com/athletic/7413662/2026/07/01/belgium-senegal-world-cup-implosion/"
-        }
-      ],
-      "updatedAt": "2026-07-02T03:50:00+07:00"
-    },
-    {
       "id": "scratch-ffdf8c66d3",
       "title": "scratch",
       "sourceType": "trends",
@@ -585,16 +549,16 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "Scientists say they have built a cell from scratch for the first time",
-          "url": "https://www.cnn.com/2026/07/01/science/synthetic-cell-research"
+          "title": "Scientists have built a cell in a lab from the ground up",
+          "url": "https://www.economist.com/science-and-technology/2026/07/01/scientists-have-built-a-cell-in-a-lab-from-the-ground-up"
         },
         {
-          "title": "For The First Time, Scientists Say They've Built a Synthetic Cell From Scratch",
-          "url": "https://www.sciencealert.com/for-the-first-time-scientists-say-theyve-built-a-synthetic-cell-from-scratch"
+          "title": "What is 'SpudCell'? Arguably the greatest bioengineering feat yet",
+          "url": "https://www.newscientist.com/article/2532689-what-is-spudcell-arguably-the-greatest-bioengineering-feat-yet/"
         },
         {
-          "title": "This Cell Feeds, Grows and Reproduces. And It’s Manmade.",
-          "url": "https://www.nytimes.com/interactive/2026/07/01/science/spudcells-synthetic-cell.html"
+          "title": "World’s first synthetic cell with a complete life cycle could revolutionize biological engineering",
+          "url": "https://twin-cities.umn.edu/news-events/worlds-first-synthetic-cell-complete-life-cycle-could-revolutionize-biological"
         }
       ],
       "updatedAt": "2026-07-02T08:50:00+07:00"
@@ -623,19 +587,57 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "USA march on but will Balogun red card prove costly?",
+          "title": "World Cup 2026: USA march on but will Folarin Balogun red card prove costly?",
           "url": "https://www.bbc.com/sport/football/articles/cgjx07ql6v0o"
         },
         {
-          "title": "USA 2-0 Bosnia and Herzegovina: World Cup 2026 last 32 – as it happened",
-          "url": "https://www.theguardian.com/football/live/2026/jul/01/usa-v-bosnia-and-herzegovina-world-cup-2026-last-32-live"
+          "title": "Steely USA overcome Bosnia and Herzegovina and controversial red to reach World Cup last 16",
+          "url": "https://www.theguardian.com/football/2026/jul/01/usa-bosnia-and-herzegovina-game-report-world-cup"
         },
         {
-          "title": "US keep World Cup dream alive with gutsy win over Bosnia",
-          "url": "https://www.bangkokpost.com/sports/3279970/us-keep-world-cup-dream-alive-with-gutsy-win-over-bosnia"
+          "title": "Folarin Balogun’s red card will be hotly debated, but it revealed something about the USA that can’t be taken away",
+          "url": "https://www.cnn.com/2026/07/01/sport/usa-round-of-32-win-analysis"
         }
       ],
       "updatedAt": "2026-07-02T06:50:00+07:00"
+    },
+    {
+      "id": "topic-82a8f566fd",
+      "title": "กัมพูชา",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 2000+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#กัมพูชา"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "กวาดล้างขอทานกัมพูชา อุ้มลูกหาเงิน กลางเมืองพัทยา เคยถูกจับผลักดัน แต่ก็กลับเข้ามาใหม่",
+          "url": "https://today.line.me/th/v3/article/PGez6a5?referral=viralnewshub"
+        },
+        {
+          "title": "จับชาวกัมพูชา เร่ขอทานเมืองพัทยา",
+          "url": "https://news.ch7.com/detail/882538"
+        },
+        {
+          "title": "ในประเทศ - พัทยากวาดล้างใหญ่! รวบ 'ต๊อก กัมพูชา' ขาใหญ่เข็นวีลแชร์อุ้มลูกเรี่ยไรเงิน",
+          "url": "https://www.naewna.com/local/974670"
+        }
+      ],
+      "updatedAt": "2026-07-02T12:50:00+07:00"
     },
     {
       "id": "topic-1d804102f0",
@@ -725,16 +727,16 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "\"ภิรมย์ภักดี\" ออกแถลงการณ์ นัดเคลียร์ \"ทราย สก๊อต\" 8 ก.ค.นี้",
-          "url": "https://www.amarintv.com/news/entertain/550428"
-        },
-        {
           "title": "มาช้า...ยังดีกว่าไม่มา ภิรมย์ภักดี ตั้งสภาครอบครัว ให้ความเป็นธรรมกับ \"ทราย\"",
           "url": "https://mgronline.com/news1/detail/9690000063336"
         },
         {
-          "title": "ตั้งสภาครอบครัว ให้ความเป็นธรรม ทราย สก๊อต (01/07/69)#news1 #ทราย สก๊อต #สภาครอบครัว",
-          "url": "https://news1live.com/watch/TIP_GoKrB6I"
+          "title": "\"ภิรมย์ภักดี\" ออกแถลงการณ์ นัดเคลียร์ \"ทราย สก๊อต\" 8 ก.ค.นี้",
+          "url": "https://www.amarintv.com/news/entertain/550428"
+        },
+        {
+          "title": "เปิดผังตระกูล “ภิรมย์ภักดี” และทำความรู้จัก 'สายสกุลหลัก'",
+          "url": "https://www.bangkokbiznews.com/business/1241226"
         }
       ],
       "updatedAt": "2026-07-02T05:50:00+07:00"
@@ -770,44 +772,6 @@
       "updatedAt": "2026-06-27T08:00:44+07:00"
     },
     {
-      "id": "topic-ec226d2e50",
-      "title": "ผลบอลอังกฤษ",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#ผลบอลอังกฤษ"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "สเปอร์สปาดผีอีก! ทุบสถิติซิว โตนาลี, ลิเวอร์พูลเหล่ ซาโนะ อัปเดตตลาดนักเตะ 2 ก.ค.",
-          "url": "https://www.siamsport.co.th/football-international/premierleague/106047/"
-        },
-        {
-          "title": "โตนาลี่ ได้ทีมใหม่แล้ว หลังมีข่าวกับ สเปอร์ส แมนยู",
-          "url": "https://www.thairath.co.th/sport/eurofootball/premierleague/2943453"
-        },
-        {
-          "title": "\"สเปอร์ส\" ทุบสถิติซ้ำสอง คว้า \"โตนาลี\" 100 ล้านปอนด์",
-          "url": "https://mgronline.com/sport/detail/9690000063558"
-        }
-      ],
-      "updatedAt": "2026-07-02T01:00:00+07:00"
-    },
-    {
       "id": "mr-emmanuel-00bc13d505",
       "title": "พระบาทสมเด็จพระเจ้าอยู่หัว และสมเด็จพระนางเจ้า ฯ พระบรมราชินี เสด็จพระราชดำเนินเยือนสาธารณรัฐฝรั่งเศสอย่างเป็นทางการ ตามคำทูลเชิญของนายเอมานูว์แอล มาครง (Mr. Emmanuel...",
       "sourceType": "news",
@@ -832,44 +796,6 @@
         }
       ],
       "updatedAt": "2026-06-29T14:24:56+07:00"
-    },
-    {
-      "id": "1-ff7fff5d41",
-      "title": "ราคาทองวันนี้ รูปพรรณ 1 บาท วันนี้ล่าสุดวันนี้",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 2000+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#ราคาทองวันนี้รูปพรรณ1บาท"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "บทวิเคราะห์ราคาทองคำประจำวันที่ 2 กรกฎาคม 2569",
-          "url": "https://www.intergold.co.th/investor_core/analyz-2-7-2026/"
-        },
-        {
-          "title": "ราคาทอง 1 บาทวันนี้ 1 กรกฎาคม 2569 อัปเดตล่าสุด ราคาทองรูปพรรณขยับกี่บาทแล้ว",
-          "url": "https://www.thairath.co.th/news/society/2943258"
-        },
-        {
-          "title": "ราคาทองคำทรงตัว จับตาตัวเลขการจ้างงานนอกภาคเกษตร",
-          "url": "https://th.investing.com/news/commodities-news/article-715489"
-        }
-      ],
-      "updatedAt": "2026-07-02T05:00:00+07:00"
     },
     {
       "id": "topic-839fafd51d",
@@ -924,44 +850,6 @@
       "updatedAt": "2026-06-26T04:55:56+07:00"
     },
     {
-      "id": "topic-eeeef47e10",
-      "title": "สถิติสำหรับ ฟุตบอลโลก",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#สถิติสำหรับฟุตบอลโลก"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "แม่ชีบราซิลเป็นไวรัล หลังฉลองชัยชนะเหนือญี่ปุ่นในฟุตบอลโลก",
-          "url": "https://www.bbc.com/thai/articles/cqx1dp5x4y9o"
-        },
-        {
-          "title": "หนุ่มญี่ปุ่น กลายเป็นไวรัล ยืนงงในดงแฟนบราซิล ท้ายแมตช์ได้รับความเอ็นดูไปเต็ม ๆ",
-          "url": "https://hilight.kapook.com/view/253965"
-        },
-        {
-          "title": "หนนี้ยังดีไม่พอ! \"โมริยาสุ\" กุนซือญี่ปุ่นลั่นหลังแพ้ บราซิล ตกรอบฟุตบอลโลก 2026",
-          "url": "https://www.sanook.com/sport/1651817/"
-        }
-      ],
-      "updatedAt": "2026-07-02T01:50:00+07:00"
-    },
-    {
       "id": "topic-19379eb8ea",
       "title": "สหรัฐอเมริกา พบ บอสเนียและเฮอร์เซโกวีนา",
       "sourceType": "trends",
@@ -985,28 +873,28 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
+          "title": "ฟุตบอลโลกรอบ 32 ทีม สหรัฐอเมริกา เอาชนะ บอสเนียและเฮอร์เซโกวีนา 2-0 เข้ารอบ 16 ทีม พบ เบลเยียม | สวพ.FM91",
+          "url": "https://today.line.me/th/v3/article/ZaKpOkX"
+        },
+        {
+          "title": "จากฮีโร่สู่คราบน้ำตา!อองรีเห็นใจ บาโลกัน โดนใบแดงแนะอย่าปล่อยให้คืนเดียวตัดสินทั้งชีวิต",
+          "url": "https://www.siamsport.co.th/worldcup/106058/"
+        },
+        {
           "title": "สหรัฐอเมริกา พบ บอสเนีย รอบ 32 ทีม ฟุตบอลโลก 2026",
           "url": "https://readthecloud.co/%E0%B8%AA%E0%B8%AB%E0%B8%A3%E0%B8%B1%E0%B8%90%E0%B8%AD%E0%B9%80%E0%B8%A1%E0%B8%A3%E0%B8%B4%E0%B8%81%E0%B8%B2-%E0%B8%9E%E0%B8%9A-%E0%B8%9A%E0%B8%AD%E0%B8%AA%E0%B9%80%E0%B8%99%E0%B8%B5%E0%B8%A2/"
-        },
-        {
-          "title": "ผลบอล อเมริกา 2-0 บอสเนีย \"พญาอินทรี\" 10 คนยังดุตีตั๋วลิ่ว 16 ทีมชนเบลเยียม",
-          "url": "https://www.siamsport.co.th/worldcup/106049/"
-        },
-        {
-          "title": "\"โปเช็ตติโน\" ผิดหวัง \"บาโลกัน\" ไม่ควรโดนใบแดง",
-          "url": "https://www.dailynews.co.th/news/5993639/"
         }
       ],
       "updatedAt": "2026-07-02T06:10:00+07:00"
     },
     {
-      "id": "topic-9bbfacbf94",
-      "title": "เบลเยียม พบ เซเนกัล",
+      "id": "topic-28ea9deb28",
+      "title": "ออย แสงศิลป์",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 20000+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 5000+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -1014,7 +902,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#เบลเยียมพบเซเนกัล"
+        "#ออยแสงศิลป์"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -1023,19 +911,19 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "วิเคราะห์บอล เบลเยียม vs เซเนกัล 1 ก.ค. 69 : เดอ บรอยน์ ท้าชน มาเน่ ศึกเดือดรอบ 32 ทีม",
-          "url": "https://www.siamsport.co.th/worldcup/105998/"
+          "title": "เปิดคลิป เด็กชายวัย 11 ปี ขโมยกระบะมาขับ พุ่งชน \"คณะพระธุดงค์\" มรณภาพอื้อ",
+          "url": "https://www.sanook.com/news/9897186/"
         },
         {
-          "title": "การ์เซีย ชี้คู่แข่งหันมาอุดทำให้เบลเยียมเฮ - ปาป เจา รับเซเนกัลทิ้งความได้เปรียบ | Khaosod",
-          "url": "https://today.line.me/th/v3/article/PGezWEj"
+          "title": "รพ.มุกดาหาร ขอบคุณผู้ใจบุญบริจาคโลหิตช่วย \"พระธุดงค์\" เพียงพอต่อความต้องการแล้ว",
+          "url": "https://www.thairath.co.th/news/local/2943622"
         },
         {
-          "title": "ดูบอลสด เบลเยียม พบ เซเนกัล ฟุตบอลโลก 2026 วันนี้ เวลา 03.00 น.",
-          "url": "https://www.sanook.com/sport/1653331/"
+          "title": "รถชนพระ: เด็ก 11 ชนพระธุดงค์ จ.มุกดาหาร มรณภาพแล้ว 8 รูป เรารู้อะไรแล้วบ้าง",
+          "url": "https://www.bbc.com/thai/articles/cn8qdvjed33o"
         }
       ],
-      "updatedAt": "2026-07-02T02:10:00+07:00"
+      "updatedAt": "2026-07-02T14:50:00+07:00"
     },
     {
       "id": "24-2569-23-5b10fd103f",
@@ -1062,6 +950,108 @@
         }
       ],
       "updatedAt": "2026-06-30T02:24:52+07:00"
+    },
+    {
+      "id": "ig-bc8be8615c",
+      "title": "เอริคเซี่ย ig",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 1000+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#เอริคเซี่ยig"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "เปิดภาพหวาน \"ดิว อริสรา\" กับแฟนหนุ่ม เฟรมชัดมากไม่ต้องสืบแล้ว",
+          "url": "https://www.sanook.com/news/9897146/"
+        },
+        {
+          "title": "สืบจากมือ!? รู้จัก “เอริค เซี่ย” ทายาทแสนล้านเครือซีพี ถูกจับตาแฟนใหม่ “ดิว อริสรา”",
+          "url": "https://mgronline.com/entertainment/detail/9690000063637"
+        },
+        {
+          "title": "เปิดวาร์ป เอริค เซี่ย หลานเจ้าสัวซีพี หลังถูกโยงเป็นแฟนใหม่ ดิว อริสรา ชาวเน็ตจับตาหนักมาก !",
+          "url": "https://women.kapook.com/view302202.html"
+        }
+      ],
+      "updatedAt": "2026-07-02T13:00:00+07:00"
+    },
+    {
+      "id": "topic-f62887f119",
+      "title": "เอริคเซี่ยอายุ",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 100+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#เอริคเซี่ยอายุ"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "ส่องทรัพย์สิน \"เอริค เซี่ย\" มหาเศรษฐีหนุ่มตระกูลดัง รวยระดับเวิร์ลคลาส",
+          "url": "https://www.sanook.com/money/953555/"
+        },
+        {
+          "title": "คุยกับ Eric Tse ผู้สืบทอดบริษัทยาเบอร์ต้นจีน เจาะสูตรบทเรียน 20 ปี SBP Group สู่ความสำเร็จในตลาดโลก",
+          "url": "https://techsauce.co/news/eric-tse-cttq-ai-medical-innovation"
+        },
+        {
+          "title": "ประวัติ เอริค เซี่ย นักธุรกิจหมื่นล้าน หลานชายเจ้าสัวซีพี หล่อเก่งครบเครื่อง",
+          "url": "https://thethaiger.com/th/news/1583484/"
+        }
+      ],
+      "updatedAt": "2026-07-02T16:00:00+07:00"
+    },
+    {
+      "id": "topic-938dbfbde6",
+      "title": "แบม ไพริน",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 500+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#แบมไพริน"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        }
+      ],
+      "updatedAt": "2026-07-02T05:00:00+07:00"
     },
     {
       "id": "dream-team-18-23rd-princess-cup-est-col-b511986ad1",
