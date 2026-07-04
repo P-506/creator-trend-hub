@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-04T18:34:38.447725+07:00",
+  "generatedAt": "2026-07-04T21:39:52.455614+07:00",
   "dateRange": "2026-06-27 to 2026-07-04",
   "sourceErrors": [],
   "topics": [
@@ -28,6 +28,32 @@
         }
       ],
       "updatedAt": "2026-07-03T22:05:00+07:00"
+    },
+    {
+      "id": "6-5f3a86ae11",
+      "title": "6 ร้านอาหารที่สายเนื้อไม่ควรพลาด",
+      "sourceType": "news",
+      "category": "food",
+      "contentPotential": "high",
+      "riskLevel": "low",
+      "summary": "ข่าวจาก Google News keyword: อาหาร / source: Vogue Thailand - 6 ร้านอาหารที่สายเนื้อไม่ควรพลาด    Vogue Thailand",
+      "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
+      "creatorAngle": "ให้ Creator เล่าประสบการณ์ร้าน/เมนูที่อยากลอง แล้วถามคนอื่นว่าคิดเหมือนกันไหม",
+      "promptIdea": "เห็นคนพูดถึงเมนูนี้เยอะมาก มีใครลองแล้วบ้าง?",
+      "hashtags": [
+        "#FoodTrend",
+        "#CafeTH",
+        "#รีวิวของกิน",
+        "#6ร้านอาหารที่สายเนื้อไม่"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Vogue Thailand",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5UQngzUHBPMUxTd1BzcnctLXI1ZUdRSWZzejU2dmdRSmU3dm84SFBrb1lEMXJJY0I4NWQ5WWN5N3MzTW5Qd3RXc3ZHNHBFaFBOLThIMzFfV2tzaVNxeVRz?oc=5"
+        }
+      ],
+      "updatedAt": "2026-06-30T11:34:41+07:00"
     },
     {
       "id": "agent-kim-reactivated-15-7-2-2026-942bf6ded7",
@@ -316,13 +342,13 @@
       "updatedAt": "2026-07-03T18:27:47+07:00"
     },
     {
-      "id": "fashion-island-opposite-361ee1d236",
-      "title": "ตรงข้ามแฟชั่นไอส์แลนด์;Fashion Island (Opposite)ไปยังมหาวิทยาลัยรามคำแหงด้วยขนส่งสาธารณะ",
+      "id": "paris-men-s-fashion-week-spring-summer-a6b10dcf14",
+      "title": "รวมลุคและโมเมนต์ของเหล่าเซเลบริตี้ไทย ณ Paris Men’s Fashion Week Spring/Summer 2027",
       "sourceType": "news",
       "category": "beauty",
       "contentPotential": "high",
       "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: แฟชั่น / source: Moovit - ตรงข้ามแฟชั่นไอส์แลนด์;Fashion Island (Opposite)ไปยังมหาวิทยาลัยรามคำแหงด้วยขนส่งสาธารณะ    Moovit",
+      "summary": "ข่าวจาก Google News keyword: แฟชั่น / source: L'Officiel Thailand - รวมลุคและโมเมนต์ของเหล่าเซเลบริตี้ไทย ณ Paris Men’s Fashion Week Spring/Summer 2027    L'Officiel Thailand",
       "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
       "creatorAngle": "ชวนแชร์สไตล์ ไอเท็ม หรือเทคนิคที่ใช้จริงโดยไม่ขายของแข็งเกินไป",
       "promptIdea": "สไตล์นี้ถ้าแต่งในชีวิตจริงจะรอดไหม?",
@@ -330,42 +356,16 @@
         "#BeautyTalk",
         "#FashionTH",
         "#ไอเดียแต่งตัว",
-        "#ตรงข้ามแฟชั่นไอส์แลนด์;F"
+        "#รวมลุคและโมเมนต์ของเหล่า"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
         {
-          "title": "Moovit",
-          "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxQTzlCbHcwZ0NIM0JKOTdValBqNzBkZExza0htTVlZUHpkeEpGSUZLVko1ci1pRGl4NmRrWGdiV0RUdmpxWTR5VGF3N0hCUHFVZzdGWlJuNG95MGhvTy1SendudlhNSjR0WXZTOWhCZ09DTjduaTN4cl84d1ZUaGd6ZmJwcmdJQ1pKa2poWUZPZm1ub1hERUs1ZktaTG0taWU5dEJ3U3NxdVBIbEZWSzFpYW8yQUN4TGhYRTdRQUxUMjdBTUtWOVN3Wkh5eG9BWThvaDRzdE5URXFkT2h1VVVyX1U0VlNZN1d6blRpTUxFbXZPU1QyQzBocFRMQ3FCU0VZSXp6NUxHb0VfOUJFSFU4VkFsSEhFdTBkYjhxN1FWVkpHalJJdWhJWFV0RnRFYXNVMjNuNzhMRTlLTnZFcEk5SVl5bElsUHQtbDRkakdkWU83a1NGYW5MRlBqaw?oc=5"
+          "title": "L'Officiel Thailand",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPLXVWRS14SUpNTHg3bTgtTEVkYXRmMG1RSmtIalotTXlNdkFIMlFsT3VxNTFVRHlnN3V5bVFmckFRbU9vemo3XzMyM1BYRzU4eWdHT0pfYmViblE4QThlc25venRfYkVOb1VZQ0xRWldiU1ZxQWVabFp5dEhwNTFjRm5HX1ZJOTR1aUJNN1lIOTU5TVRVSWo4SHpVRFRiVjczQzRF?oc=5"
         }
       ],
-      "updatedAt": "2026-06-27T19:00:00+07:00"
-    },
-    {
-      "id": "10-09-31-28-2569-199-d8e4e394e1",
-      "title": "ระทึก! ไฟไหม้ร้านอาหารกำลังต่อเติม ซอยแจ้งวัฒนะ 10 เมื่อเวลา 09.31 น. วันที่ 28 มิถุนายน 2569 รับแจ้งจากสายด่วน 199 เหตุเพลิงไหม้ร้านอาหาร (อยู่ระหว่างปรับปรุง) ซอยแจ้...",
-      "sourceType": "news",
-      "category": "food",
-      "contentPotential": "high",
-      "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: อาหาร / source: facebook.com - ระทึก! ไฟไหม้ร้านอาหารกำลังต่อเติม ซอยแจ้งวัฒนะ 10 เมื่อเวลา 09.31 น. วันที่ 28 มิถุนายน 2569 รับแจ้งจากสายด่วน 199 เหตุเพลิงไหม้ร้านอาหาร (อยู่ระหว่างปรับปรุง) ซอยแจ้งวัฒนะ 10 แยก",
-      "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
-      "creatorAngle": "ให้ Creator เล่าประสบการณ์ร้าน/เมนูที่อยากลอง แล้วถามคนอื่นว่าคิดเหมือนกันไหม",
-      "promptIdea": "เห็นคนพูดถึงเมนูนี้เยอะมาก มีใครลองแล้วบ้าง?",
-      "hashtags": [
-        "#FoodTrend",
-        "#CafeTH",
-        "#รีวิวของกิน",
-        "#ระทึก!ไฟไหม้ร้านอาหารกำล"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "facebook.com",
-          "url": "https://news.google.com/rss/articles/CBMi_gZBVV95cUxNbldPUVYtMkFSaHdObW4zOTFwUzltQ3dzd25TQm1kYVZuN1lwM0ptWVZRRDBVZnFiV2Nrb0xsVHQ4OFJ3OFBwbDBraUtqNThDem9NZExrbXZURk5JN2Z0eGRSMWRXNVNuTzhGZW82aFRWTXNMbjVUWTkwdzFKTXk3SnNXYllXY1pMUldaZHZSdk9kTmxpOVpyNUYzdm9zTlJSeHlUTlF6c3YxZEo2WGh1RmxzS242ZTlTSjRlNXlfUE8wUGJrMEN3QkZKSkpiN3EwWGNRWFJVT18yT3BvVlF4Tjg2QUV6dGtkSmxaVllyN2hvWndLMWdRanVsUXlydC1aRzlMRWhuV1l0SE5jVGVUdktwM0xibUFzOWVWQ29uUmI3clQ1Y1VadzktV0psQzFiazd0dzBKSzVKTUJWanZoRk5CWk1GNk0zb1MtSjZXcW1QTFVlem9qU2phVUxZZUpfc2FWd0J3dkpUeFlNdFgxVmNBZ1VveGc5VnprNDRDUFNzQUhUYl9Mc3Z6MzhBTmJic1dubEluUUZnQWpFdVBSWENocnRqVFZYUHQyMjRFTG81YW82Nkl4VGl5YjNfbFhOa1Y4T1BZUGN0TTJQNTVjNzRlMEFYX0ppLXhJS0NqME1mNmJMRjI5QWFpY0YwcWdPd01GT0psSi1ObnRUbXZ6dGY3Q1EyZkpkc0stU05fUzVMVjhYdWJDcEN2NXFDZW51Sy16SFJuQmJPbnZkaVR1ekJlRk14YXFyUktvNnlJYUpVNXNXcHIzdVRhT2RGWmhLNGY2Zko1NGRENGExRXdlRjdORmxsVS1OMjA3c2I1MnoxckpEdkxJWjM1eHdlZnIteHVqQ1JwcGxSdGRfQXV0V2RsWnZzQW0xc1I5ZXhZOGNkQ1F4ZjBoMkNXRWRCemhfZDlvZFBTS0o2dFFrY2NNRm5Fem5IWDR3TkJKWGtLQWJiekpSV0Y0M0J1UFNKLWo5OWFqZE5UOFFFbldlejRIQWM1YjViRUJIOVRob2pfRjNicktScVBhbll1UVJZVmdzS0V0VE1XOUEwcDRJbFl4TDNjLWVJMUxpWHFwSG85YkFhWlp3dUJMME1TNjlybDVDWko1d0I0eFpNMGpyZmdIZVdhRl9HV2JjYnpKWFNxYXpuV0FyQ1laR1VESG9WMXNOUEZteTRTMkpKRTlONGc?oc=5"
-        }
-      ],
-      "updatedAt": "2026-06-28T15:56:23+07:00"
+      "updatedAt": "2026-06-29T17:22:09+07:00"
     },
     {
       "id": "9-20-dc34d9e7fd",
@@ -400,7 +400,7 @@
       "category": "food",
       "contentPotential": "high",
       "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: คาเฟ่ / source: TrueID Food - รีวิว Brouke คาเฟ่ริมหาดจอมเทียน วิวสวยปัง ไฮไลต์ทะเลหมอก    TrueID Food",
+      "summary": "ข่าวจาก Google News keyword: คาเฟ่ / source: TrueID InTrend - รีวิว Brouke คาเฟ่ริมหาดจอมเทียน วิวสวยปัง ไฮไลต์ทะเลหมอก    TrueID InTrend",
       "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
       "creatorAngle": "ให้ Creator เล่าประสบการณ์ร้าน/เมนูที่อยากลอง แล้วถามคนอื่นว่าคิดเหมือนกันไหม",
       "promptIdea": "เห็นคนพูดถึงเมนูนี้เยอะมาก มีใครลองแล้วบ้าง?",
@@ -413,11 +413,11 @@
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
         {
-          "title": "TrueID Food",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QSzItVzkwTEVvZV9LSFl5YzBrQXdlWTVibE5NUVptaThZSE9ZRmNrRnFSeWFIU3FobG5EMEh0LURUNTkya014U0Y5V2oxRVJOQmdwWGd3?oc=5"
+          "title": "TrueID InTrend",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8tRjJMbjljdGZzWGUtMGZscEJwSFhGNnlucUJEQWx6YUtSTTNiVnhfTDljaGhOLXpfSWtLTkxPdTVZcklqT2dQWU82VjgzSWc?oc=5"
         }
       ],
-      "updatedAt": "2026-07-04T14:29:34+07:00"
+      "updatedAt": "2026-07-04T13:26:33+07:00"
     },
     {
       "id": "topic-36b5dbac84",
@@ -602,32 +602,6 @@
       "updatedAt": "2026-06-30T14:00:00+07:00"
     },
     {
-      "id": "thailand-volleyball-association-pitbull-347639b837",
-      "title": "Thailand Volleyball Association สมาคมกีฬาวอลเลย์บอลแห่งประเทศไทย. Pitbull feat. John Ryan · Fireball. 🇹🇭vs🇵🇭 วอลเลย์บอลหญิง รุ่นอายุต่ำกว่า 18 ปี ลุยศึก 23rd “Princess...",
-      "sourceType": "news",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: วอลเลย์บอล / source: facebook.com - Thailand Volleyball Association สมาคมกีฬาวอลเลย์บอลแห่งประเทศไทย. Pitbull feat. John Ryan · Fireball. 🇹🇭vs🇵🇭 วอลเลย์บอลหญิง รุ่นอายุต่ำกว่า 18 ปี ลุยศึก 23rd “Princess Cup” Est Col",
-      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#ThailandVolleyballAssoci"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "facebook.com",
-          "url": "https://news.google.com/rss/articles/CBMi_ARBVV95cUxOU0xBWUljcWJPNk56OGFQTlp0amtTSFgwS1NKQmlHNTFaaXVBdkloQWF0b09Bay02Mnl3eVZGb0d6eGVFcUU2Tl95TFpCa0VvNi0zejh6RGpNd21lSHBJQzhwVHBwbS1JRlA4SWdWdVRIaGo2OWUzYUtPQXZwZTRaWk9JdWswX2thamJwYnlBak1YY0NJNnkwZDl4d2tJWDZRMVdNYlNEeXE0SnJSc3hiSnJma1lkdG1JY3pfQzl5TE0yYnBZUGt6cGU0dVdLU1J4LTYySnd0R1ZOdkhBVWhfSFpTNHktdnFhRTJteFQ4aHdLNkhKRkl5RTB1dnRCSk96NmNnQXE1bE50ZHM3bVcxcWV3MVE5eVl1ellTRlZEd0VLQzFrblQwb25XanhLbVcxQUxJLXJ4WVdxVUNWN1JPcGRFRnVqdFFxS1VCVUtWZ3NlTXJuQW83aWZrSjhDUEZmLWZQdElqSXl1MzBNWXBYc1FwRTh4MTlENl9XeURwSEVMSHpYSEVSdk1XbHpjaTZNbmg0UU5Sbl9aV01WZkJVRFJhQmFGNTZ5cEhOSmtSQjVLWGMyaW1fVzZNdkJEbzVuRDhvU09QMzRPbGw2djNaTVE2R25WRnd2RGtFX3RtSDRZVm5xejQzQkFlazd1OTE0RXJhWWp6bFJXS1BBUlN4RnI5ZmdXMnItbEFxYXp5Q0lvMUJiUzZWYjJDYXB4d3hleVRCakJUWDJQcm9kUC1tdXlMUVhMdkFCYmZsbXZMWWNtZW9UZUdiZ0tWeG03Znc2Uy1pb05fZUJUbVRKNFBGMTB4MXFIVjdmMmd3WXNLbng0Yy16VURNdEJuRUM?oc=5"
-        }
-      ],
-      "updatedAt": "2026-06-27T19:02:23+07:00"
-    },
-    {
       "id": "u18-princess-cup-2026-18-23rd-princess-c-cdb6fb01c3",
       "title": "U18 🇦🇺 ออสเตรเลีย Princess Cup 2026 ที่โคราช! วอลเลย์บอลหญิง รุ่นอายุต่ำกว่า 18 ปี ลุยศึก 23rd “Princess Cup” Est Cola Southeast Asian Girls’ U18 Volleyball Championsh...",
       "sourceType": "news",
@@ -654,8 +628,8 @@
       "updatedAt": "2026-06-28T15:14:20+07:00"
     },
     {
-      "id": "fifa-world-cup-2026-8dc6e0a8b1",
-      "title": "fifa world cup 2026™",
+      "id": "ind-vs-eng-e6289110fb",
+      "title": "ind vs eng",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
@@ -668,7 +642,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#fifaworldcup2026™"
+        "#indvseng"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -677,28 +651,28 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "Weston McKennie is USA's VIBES GUY 🇺🇸 Keeping Good Energy Despite Balogun’s Red Card",
-          "url": "https://www.foxsports.com/watch/fmc-qnwq4mzjimsb3m19"
+          "title": "Archer back in the XI, Tongue to debut; India eye runs at Old Trafford",
+          "url": "https://www.cricinfo.com/series/india-in-england-2026-1496488/england-vs-india-2nd-t20i-1496575/match-preview"
         },
         {
-          "title": "Weston McKennie the motor of high-flying USA",
-          "url": "https://www.fifa.com/en/articles/weston-mckennie-usa-feature"
+          "title": "England v India: second T20 international sees Vaibhav Sooryavanshi make debut – live",
+          "url": "https://www.theguardian.com/sport/live/2026/jul/04/england-v-india-second-t20-cricket-international-live"
         },
         {
-          "title": "Weston McKennie meets the moment as USMNT come of age at 2026 FIFA World Cup",
-          "url": "https://www.cbssports.com/soccer/news/weston-mckennie-meets-the-moment-usmnt-world-cup-2026/"
+          "title": "Manchester cricket ground buzzes as cricket fans gather for India-England 2nd T20",
+          "url": "https://www.msn.com/en-in/sports/cricket/manchester-cricket-ground-buzzes-as-cricket-fans-gather-for-india-england-2nd-t20/vi-AA27cSXt"
         }
       ],
-      "updatedAt": "2026-07-04T07:50:00+07:00"
+      "updatedAt": "2026-07-04T20:50:00+07:00"
     },
     {
-      "id": "vozinha-eb77771315",
-      "title": "vozinha",
+      "id": "outlook-0d5591d63e",
+      "title": "outlook",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 1000+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -706,7 +680,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#vozinha"
+        "#outlook"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -715,57 +689,19 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "Copa do Mundo 2026: os 'astros virais' conseguirão transformar sucesso nas redes sociais em fortuna?",
-          "url": "https://g1.globo.com/economia/noticia/2026/07/04/copa-do-mundo-2026-os-astros-virais-conseguirao-transformar-sucesso-nas-redes-sociais-em-fortuna.ghtml"
+          "title": "Q3 Stock Market Outlook: What’s In and What’s Out",
+          "url": "https://www.morningstar.com/markets/q3-stock-market-outlook-whats-whats-out"
         },
         {
-          "title": "O especialista em transferências Fabrizio Romano surpreende ao mostrar o goleiro Vozinha na tela: Agente livre!",
-          "url": "https://www.vietnam.vn/pt/thanh-chuyen-nhuong-fabrizio-romano-bat-ngo-cho-thu-mon-vozinha-len-song-cau-thu-tu-do"
+          "title": "Meta quietly launches vibe-coded gaming app Pocket",
+          "url": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/"
         },
         {
-          "title": "Herói de Cabo Verde, Vozinha tem mais seguidores que a Argentina",
-          "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/heroi-de-cabo-verde-vozinha-tem-mais-seguidores-que-a-argentina/"
+          "title": "Meta's new app 'Pocket' is a social feed of vibe-coded mini games",
+          "url": "https://www.businessinsider.com/meet-meta-new-vibe-coding-app-pocket-gizmo-ai-games-2026-7"
         }
       ],
-      "updatedAt": "2026-07-04T07:00:00+07:00"
-    },
-    {
-      "id": "topic-b76a32a88b",
-      "title": "กยศ",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 1000+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#กยศ"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "กยศ. ชวนผู้กู้ 3.6 ล้านบัญชี ส่งมอบอนาคตให้ รุ่นน้อง",
-          "url": "https://today.line.me/th/v3/article/rmKYqrP"
-        },
-        {
-          "title": "กยศ.เตือนผู้กู้ยืมเงินรุ่นพี่ เดทไลน์ชำระหนี้ 5 ก.ค. : รอบวันทันเหตุการณ์ 12.00 น./วันที่ 04 ก.ค.69",
-          "url": "https://news1live.com/watch/v2Dua_gxfF0"
-        },
-        {
-          "title": "ลุยบี้หนี้!แจ้งนายจ้างใหม่เริ่มหักเงินเดือนผ่าน e-PaySLF | The Better",
-          "url": "https://today.line.me/th/v3/article/mWKv06W"
-        }
-      ],
-      "updatedAt": "2026-07-04T09:50:00+07:00"
+      "updatedAt": "2026-07-04T18:10:00+07:00"
     },
     {
       "id": "105-c6f784d46e",
@@ -794,13 +730,13 @@
       "updatedAt": "2026-07-03T17:10:32+07:00"
     },
     {
-      "id": "topic-21b6ab7c3e",
-      "title": "ตารางบอลโลก",
+      "id": "7-74ba5b0f9f",
+      "title": "ช่อง7",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 2000+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -808,7 +744,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#ตารางบอลโลก"
+        "#ช่อง7"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -817,19 +753,19 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "โปรแกรมฟุตบอลโลก 2026 คืนนี้ รอบ 32 ทีมสุดท้าย ประจำวันที่ 3 กรกฎาคม 2026",
-          "url": "https://www.sanook.com/sport/1651682/"
+          "title": "“เที่ยงบันเทิง ทอล์ก” เปิดใจ “ฝ้าย พีรญา” ฮอตแรงระดับโลก “แชมป์-แป๋ว” เซอร์ไพรส์ดึง “อะตอม” ร่วมทอล์ก",
+          "url": "https://www.ch7.com/activities/882908"
         },
         {
-          "title": "แข้ง ทีมชาติสเปน สาดวาทะเด็ดก่อนดวล ทีมชาติโปรตุเกส ฟุตบอลโลก 2026 รอบ 16 ทีม",
-          "url": "https://www.thairath.co.th/sport/worldcup/2943926"
+          "title": "Ch7HD. . 🌹❤️ #ฝ้ายพีรญา ในบท “ท่านหญิงขวัญ” จะถูกจะแพง…ขอแดงไว้ก่อน❤️✨ ถึงในละครจะร้ายจนแฟน ๆ หมั่นไส้ แต่ตัวจริงนอกจอทั้งสวย น่ารัก และจิตใจดีสุด ๆ🫶🥰 ▶️ฝากแฟน ๆ ติดตามชมละคร #ทุกอณูฤทัย ทุกวันจันทร์ - อังคาร ⏰เวลา 20.30 น. 📺ทางช่อง 7HD กด 35 ด้วยนะคะ",
+          "url": "https://www.facebook.com/Ch7HD/videos/%EF%B8%8F-%E0%B8%9D%E0%B9%89%E0%B8%B2%E0%B8%A2%E0%B8%9E%E0%B8%B5%E0%B8%A3%E0%B8%8D%E0%B8%B2-%E0%B9%83%E0%B8%99%E0%B8%9A%E0%B8%97-%E0%B8%97%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B8%AB%E0%B8%8D%E0%B8%B4%E0%B8%87%E0%B8%82%E0%B8%A7%E0%B8%B1%E0%B8%8D-%E0%B8%88%E0%B8%B0%E0%B8%96%E0%B8%B9%E0%B8%81%E0%B8%88%E0%B8%B0%E0%B9%81%E0%B8%9E%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B9%81%E0%B8%94%E0%B8%87%E0%B9%84%E0%B8%A7%E0%B9%89%E0%B8%81%E0%B9%88%E0%B8%AD%E0%B8%99%EF%B8%8F-%E0%B8%96%E0%B8%B6%E0%B8%87%E0%B9%83%E0%B8%99%E0%B8%A5%E0%B8%B0%E0%B8%84%E0%B8%A3%E0%B8%88%E0%B8%B0%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%A2%E0%B8%88%E0%B8%99%E0%B9%81%E0%B8%9F%E0%B8%99-%E0%B9%86-%E0%B8%AB%E0%B8%A1%E0%B8%B1/2080409889492540/"
         },
         {
-          "title": "โปรแกรมบอลโลก 2026 รอบ 16 ทีม 5 ก.ค.69 ฝรั่งเศส โมร็อกโก มีคิวเตะ",
-          "url": "https://www.pptvhd36.com/sport/news/278776"
+          "title": "เคลื่อนไปข้างหน้า แม้แต่สักนิดหนึ่ง ก็ยังเป็นการดี กว่าการย่ำเท้าตาย อย่างหมดอาลัยตายอยาก #พุทธทาสภิกขุ 🙏🏻✨ขอขอบคุณ มูลนิธิหอจดหมายเหตุพุทธทาส อินทปัญโญ #ธรรมะในชีวิต #คติธรรม #Ch7HD",
+          "url": "https://www.facebook.com/Ch7HD/posts/%E0%B9%80%E0%B8%84%E0%B8%A5%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2-%E0%B9%81%E0%B8%A1%E0%B9%89%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%AA%E0%B8%B1%E0%B8%81%E0%B8%99%E0%B8%B4%E0%B8%94%E0%B8%AB%E0%B8%99%E0%B8%B6%E0%B9%88%E0%B8%87-%E0%B8%81%E0%B9%87%E0%B8%A2%E0%B8%B1%E0%B8%87%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%94%E0%B8%B5-%E0%B8%81%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A2%E0%B9%88%E0%B8%B3%E0%B9%80%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%95%E0%B8%B2%E0%B8%A2-%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%AB%E0%B8%A1%E0%B8%94%E0%B8%AD%E0%B8%B2%E0%B8%A5/1612188706940652/"
         }
       ],
-      "updatedAt": "2026-07-04T07:50:00+07:00"
+      "updatedAt": "2026-07-04T18:50:00+07:00"
     },
     {
       "id": "topic-9270e42c26",
@@ -855,16 +791,16 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "พยากรณ์อากาศประจำวันที่ 4 กรกฎาคม 2569 กรุงเทพและปริมณฑล มีฝนฟ้าคะนอง ร้อยละ 70 ของพื้นที่ | สวพ.FM91",
-          "url": "https://today.line.me/th/v3/article/3N5X7oM?referral=Newscentral"
+          "title": "แจ้งเตือนสถานการณ์น้ำท่วมขัง อ.บ่อไร่ จ.ตราด | สวพ.FM91",
+          "url": "https://today.line.me/th/v3/article/MLVG78j"
         },
         {
-          "title": "ตราดอ่วม ฝนตกหนักต่อเนื่อง ทำน้ำป่าหลากท่วมหลายพื้นที่ใน อ.เขาสมิง - อ.บ่อไร่",
-          "url": "https://www.thairath.co.th/news/local/east/2944016"
+          "title": "กรมอุตุฯ เตือนฉบับ 7 อิทธิพล \"พายุไมสัก\" ทำไทยมีฝนตกหนักถึงหนักมากบางพื้นที่",
+          "url": "https://www.thairath.co.th/news/local/2944076"
         },
         {
-          "title": "'เตือนพายุไมสัก' 55 จังหวัด ระวังน้ำท่วมฉับพลัน - น้ำป่าไหลหลาก 4 - 6 ก.ค. 69",
-          "url": "https://www.tnnthailand.com/social/239963/"
+          "title": "ข่าวทั่วไทยยังชุ่มฉ่ำ น้ำฝน",
+          "url": "https://news.ch7.com/detail/882967"
         }
       ],
       "updatedAt": "2026-07-04T16:50:00+07:00"
@@ -893,19 +829,57 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "พบชาย-หญิงดับปริศนาคาเก๋ง ซ.บางแวก 15 ฝ่ายชายยังสวมถุงยางอนามัย-น้ำลายฟูมปาก",
-          "url": "https://mgronline.com/crime/detail/9690000064628"
+          "title": "พบศพชายหญิงเสียชีวิตปริศนา ในรถเจอถุงยางอนามัย เจ้าหน้าที่เร่งสืบสวนหาสาเหตุ",
+          "url": "https://www.thairath.co.th/news/crime/2944051"
         },
         {
-          "title": "ช็อก! ชาวบ้านเล่าเองนาทีเจอเก๋ง ก่อนพบร่างชายหญิงดับสลด | มุมข่าว",
-          "url": "https://today.line.me/th/v3/article/0M729y3"
+          "title": "ดับสลดคาเก๋ง! ชาย-หญิงสิ้นใจสภาพกึ่งเปลือย คาดเสร็จกิจแล้วเผลอหลับ เครื่องน็อกขาดอากาศหายใจ",
+          "url": "https://www.dailynews.co.th/news/6000927/"
         },
         {
-          "title": "คู่ชายหญิง ดับปริศนาในรถ มีถุงยาง-ยาบำรุง ตกอยู่ น้องชายเผย กิจกรรมสุดท้ายพี่สาว",
-          "url": "https://www.matichon.co.th/local/news_5791857"
+          "title": "เห็นจอดติดเครื่อง ตั้งแต่ 5 ทุ่มยันเช้า ก่อนเจอศพชายหญิงในรถ เสียชีวิตคาถุงยาง พบเป็นรถติดแก๊ส",
+          "url": "https://www.khaosod.co.th/breaking-news/news_10310312"
         }
       ],
       "updatedAt": "2026-07-04T15:00:00+07:00"
+    },
+    {
+      "id": "topic-862f10aa04",
+      "title": "ประเทศ",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#ประเทศ"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "ข่าวหลายประเทศยุโรปกำลังเผชิญไฟป่ารุนแรง",
+          "url": "https://news.ch7.com/detail/883018"
+        },
+        {
+          "title": "สเปนเข้าสู่ช่วงฤดูไฟป่าที่รุนแรงที่สุดแล้ว",
+          "url": "https://www.vietnam.vn/th/tay-ban-nha-buoc-vao-cao-diem-chay-rung"
+        },
+        {
+          "title": "ข่าวสเปนเดินหน้าควบคุมไฟป่า เผาผลาญพื้นที่นับหมื่นไร่",
+          "url": "https://news.ch7.com/detail/882687"
+        }
+      ],
+      "updatedAt": "2026-07-04T20:00:00+07:00"
     },
     {
       "id": "mr-emmanuel-00bc13d505",
@@ -965,20 +939,20 @@
           "url": "https://hilight.kapook.com/view/253996"
         },
         {
-          "title": "สภากาชาดไทย ประกาศตามหาทายาท คุณยายพัชรา มารับมรดกเป็นสมุดบัญชีเงินฝาก-ทรัพย์สินคล้ายทอง",
-          "url": "https://www.khaosod.co.th/special-stories/news_10309979"
+          "title": "สภากาชาดไทย ประกาศตามหาทายาทของนางสาวพัชรา อินทรสุข เพื่อส่งมอบคืนทรัพย์สิน อ่านข่าวต่อในคอมเมนต์ #สภากาชาดไทย #ตามหาทายาท #สวพ91 #FM91",
+          "url": "https://www.facebook.com/fm91trafficpro/posts/%E0%B8%AA%E0%B8%A0%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%8A%E0%B8%B2%E0%B8%94%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A8%E0%B8%95%E0%B8%B2%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%97%E0%B8%B2%E0%B8%A2%E0%B8%B2%E0%B8%97%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%99%E0%B8%B2%E0%B8%87%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%9E%E0%B8%B1%E0%B8%8A%E0%B8%A3%E0%B8%B2-%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B8%AA%E0%B8%B8%E0%B8%82-%E0%B9%80%E0%B8%9E%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%AA%E0%B9%88%E0%B8%87%E0%B8%A1%E0%B8%AD%E0%B8%9A%E0%B8%84%E0%B8%B7%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B8%B1%E0%B8%9E%E0%B8%A2%E0%B9%8C%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B8%AD%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B8%82/1484662337026707/"
         }
       ],
       "updatedAt": "2026-07-04T13:50:00+07:00"
     },
     {
-      "id": "topic-032b4f184b",
-      "title": "ลิโอเนล เมสซิ",
+      "id": "topic-7334b660c2",
+      "title": "มัลโม่",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 2000+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 5000+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -986,7 +960,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#ลิโอเนลเมสซิ"
+        "#มัลโม่"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -995,19 +969,19 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "โวซินญ่า เผยบทสนทนากับ เมสซี่ หลัง เคปเวิร์ด ทำเอา อาร์เจนตินา แทบกระอัก",
-          "url": "https://www.siamsport.co.th/worldcup/106163/"
+          "title": "วิเคราะห์บอล แคนาดา vs โมร็อกโก 4 ก.ค. 69 : ล้างแค้นบอลโลก-ลุ้นสร้างประวัติศาสตร์เข้ารอบ",
+          "url": "https://www.siamsport.co.th/worldcup/106155/"
         },
         {
-          "title": "\"แข้งเคปเวิร์ด\" ยืนต่อแถว รอถ่ายรูปกับ \"เมสซี่\" แม้ตกรอบ ฟุตบอลโลก (คลิป)",
-          "url": "https://www.thairath.co.th/sport/worldcup/2944034"
+          "title": "ทีเด็ดบอลวันนี้ 4 ก.ค. 69 วิเคราะห์บอล 2 คู่เด็ด ฟุตบอลโลก 2026 รอบ 16 ทีม โปรแกรมบอลวันนี้",
+          "url": "https://www.thairath.co.th/sport/worldcup/2943880"
         },
         {
-          "title": "โวซินญ่า นายทวารวัย 40 ปีกับเส้นทางสู่กำแพงเหล็กทีมชาติเคปเวิร์ด ผู้ใช้ความทรหดสยบเสียงหัวเราะ",
-          "url": "https://www.tnnthailand.com/sports/239943/"
+          "title": "โปรแกรมศึกฟุตบอลโลก 2026 รอบ 16 ทีมสุดท้าย \"แคนาดา ฉะ โมร็อกโก\"-\"ปารากวัย ดวล ฝรั่งเศส\"",
+          "url": "https://www.dailynews.co.th/news/6000934/"
         }
       ],
-      "updatedAt": "2026-07-04T07:50:00+07:00"
+      "updatedAt": "2026-07-04T19:50:00+07:00"
     },
     {
       "id": "topic-839fafd51d",
@@ -1062,13 +1036,39 @@
       "updatedAt": "2026-06-28T09:45:50+07:00"
     },
     {
-      "id": "topic-bc2753dfff",
-      "title": "โคลอมเบียบอล",
+      "id": "topic-b007fe8394",
+      "title": "วอลเลย์บอลหญิงทีมชาติบราซิล 🪁ด้วยอินเทอร์เฟซที่ออกแบบมาอย่างดี คาสิโนออนไลน์ที่ได้รับความไว้วางใจมากที่สุดของประเทศไทยจึงมีกีฬาออนไลน์และคาสิโนออนไลน์ที่เหมาะกับทุกควา...",
+      "sourceType": "news",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "ข่าวจาก Google News keyword: วอลเลย์บอล / source: Northern California Public Media - วอลเลย์บอลหญิงทีมชาติบราซิล 🪁ด้วยอินเทอร์เฟซที่ออกแบบมาอย่างดี คาสิโนออนไลน์ที่ได้รับความไว้วางใจมากที่สุดของประเทศไทยจึงมีกีฬาออนไลน์และคาสิโนออนไลน์ที่เหมาะกับทุกความต้องการรับชั",
+      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#วอลเลย์บอลหญิงทีมชาติบรา"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Northern California Public Media",
+          "url": "https://news.google.com/rss/articles/CBMirwNBVV95cUxOU1JzRGt2enFLazhDY2hralRZcmxMbEF6djlnbjBNZXR1LWhfRHVvaENicW8zZFZ3TGtrYjdOelR2ZTV2VW5XOEZETjV4dkFfU1c4VURPd2JJbzZzdEhYRk1YMlNhY0NoUGRCY1ZTQ1JHcGtMQjF6dzVWVGZPcGtpVjRKVmMzTS1zclBleGFiM2RxcEFfek9fV05tOFhLeUZ0V3R1V3BGZ05mT1dzMVk5d3h0MUZWM28xRjFFcDVIdzhxMndreVVYU3RCT3NXS0h5bVpvVW9hcDFDMWN0R01jZ3RncGVhbXBLTFVsc0NJLU9QVlVIQ0d1MDhQN3phVGRWVDR6R3pQcFRETEM3YUpiZE1SLWFZcVp4XzdqSU0tUnVjTm54YzBFMklIc3NUQzdJZFRzbDNxaGthU05pQ0RoM2l4X2RTMnJOYnFBWWFPanNidDhhRWxKRGtrRXJNdjItRzEtSlZjRTYxVEd0N1RST0FsNWhzX0NPMWYzT0xmNDEtT3Btam9yNFZOQnpWWGZiaXczWDIxak03aXVOWHA3ZFMxR2ZEUWNlbFVJc21xSQ?oc=5"
+        }
+      ],
+      "updatedAt": "2026-06-28T08:02:30+07:00"
+    },
+    {
+      "id": "topic-f230fe4b1f",
+      "title": "สอบกพ",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 1000+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 2000+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -1076,7 +1076,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#โคลอมเบียบอล"
+        "#สอบกพ"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -1085,19 +1085,57 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "โคลอมเบีย พบ กานา ศึกเดือดรอบ 32 ทีม ฟุตบอลโลก 2026",
-          "url": "https://readthecloud.co/%E0%B9%82%E0%B8%84%E0%B8%A5%E0%B8%AD%E0%B8%A1%E0%B9%80%E0%B8%9A%E0%B8%B5%E0%B8%A2-%E0%B8%9E%E0%B8%9A-%E0%B8%81%E0%B8%B2%E0%B8%99%E0%B8%B2/"
+          "title": "5 กรกฎาคม จัดสอบ \"ก.พ. 2569\" ภาค ก. เช็กศูนย์สอบ 14 จังหวัด อาจมีการจราจรหนาแน่น",
+          "url": "https://www.thairath.co.th/news/society/2944063"
         },
         {
-          "title": "วิเคราะห์บอล โคลอมเบีย vs กานา 4 ก.ค. 69 : ดาวดำท้าชนกาแฟ ส่งท้ายรอบ 32 ทีม",
-          "url": "https://www.siamsport.co.th/worldcup/106102/"
+          "title": "โปรดวางแผนการเดินทาง หลีกเลี่ยงสนามสอบ ก.พ.",
+          "url": "https://www.chiangmainews.co.th/news/3962772/"
         },
         {
-          "title": "โคลัมเบีย เด็ดขาดกว่าเฉือนหวิว กานา ลิ่ว 16 ทีมสุดท้ายดวล สวิตเซอร์แลนด์ ฟุตบอลโลก | Khaosod",
-          "url": "https://today.line.me/th/v3/article/PGeYDB0"
+          "title": "ก.พ. แจงปมจ้าง มศว จัดสอบ ยันคุมเข้มออกข้อสอบ-ประมวลผลเอง",
+          "url": "https://thaitv5hd.com/content/68156/%E0%B8%81-%E0%B8%9E-%E0%B9%81%E0%B8%88%E0%B8%87%E0%B8%9B%E0%B8%A1%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%87-%E0%B8%A1%E0%B8%A8%E0%B8%A7-%E0%B8%88%E0%B8%B1%E0%B8%94%E0%B8%AA%E0%B8%AD%E0%B8%9A-%E0%B8%A2%E0%B8%B1%E0%B8%99%E0%B8%84%E0%B8%B8%E0%B8%A1%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%A1%E0%B8%AD%E0%B8%AD%E0%B8%81%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%AA%E0%B8%AD%E0%B8%9A-%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%A1%E0%B8%A7%E0%B8%A5%E0%B8%9C%E0%B8%A5%E0%B9%80%E0%B8%AD%E0%B8%87"
         }
       ],
-      "updatedAt": "2026-07-04T08:50:00+07:00"
+      "updatedAt": "2026-07-04T16:10:00+07:00"
+    },
+    {
+      "id": "topic-72fa650470",
+      "title": "ฮานอยวันนี้",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 100+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#ฮานอยวันนี้"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "หวย \"ฮานอย\" ประจำวันที่ 04/07/69",
+          "url": "https://siamrath.co.th/lottery/hanoi/158402"
+        },
+        {
+          "title": "\"สถิติหวยฮานอย\" 3 ก.ค. 69 หวยฮานอยวันนี้ ฮานอยย้อนหลัง 03/07/69",
+          "url": "https://www.komchadluek.net/lottery/check-lottery/619093"
+        },
+        {
+          "title": "หวย \"ฮานอย\" ประจำวันที่ 03/07/69",
+          "url": "https://siamrath.co.th/lottery/hanoi/158192"
+        }
+      ],
+      "updatedAt": "2026-07-04T18:00:00+07:00"
     },
     {
       "id": "dream-team-18-23rd-princess-cup-est-col-b511986ad1",
@@ -1291,7 +1329,7 @@
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5jNk5hOHJfOUlNSWNWZ1hjbkNvQmIxLUs4cml5RWZ0YXNjajRfMFl3elFvQnRZMjhWVFBMSlVpTERpSk42cHFiU01iZDVjMFdkcTV0ejJUbGNDb29oemlva1l3R3hvbE9IWHJETkhUaEplZzFU?oc=5"
         },
         {
-          "title": "thansettakij",
+          "title": "ฐานเศรษฐกิจ",
           "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9xNkw3dDYtQm9DSWJBdWJFZ0xOM1NOYXdVMThsb1I3Z1gzRms1U0JXMkUwRXFHUlhMX0hJazBpRnd3NW1wNjRGTE9ibFRVQjRzT2FGSkx3T1I0OTRQ?oc=5"
         }
       ],
