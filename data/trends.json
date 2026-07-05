@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T00:09:06.205387+07:00",
+  "generatedAt": "2026-07-05T11:58:59.322039+07:00",
   "dateRange": "2026-06-28 to 2026-07-05",
   "sourceErrors": [],
   "topics": [
@@ -134,13 +134,13 @@
       "updatedAt": "2026-07-01T15:00:37+07:00"
     },
     {
-      "id": "runner-s-cafe-guide-18-1786e7fcb1",
-      "title": "Runner’s Cafe Guide 18 คาเฟ่ใต้ร่มไม้ พิกัดรีชาร์จสำหรับพี่นักวิ่งรอบกรุงเทพฯ",
+      "id": "mad-math-0fa27ad63f",
+      "title": "Mad Math คณิตติดมันส์ - คณิตในคาเฟ่",
       "sourceType": "news",
       "category": "food",
       "contentPotential": "high",
       "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: คาเฟ่ / source: thestandard.co - Runner’s Cafe Guide 18 คาเฟ่ใต้ร่มไม้ พิกัดรีชาร์จสำหรับพี่นักวิ่งรอบกรุงเทพฯ    thestandard.co",
+      "summary": "ข่าวจาก Google News keyword: คาเฟ่ / source: Thai PBS - Mad Math คณิตติดมันส์ - คณิตในคาเฟ่    Thai PBS",
       "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
       "creatorAngle": "ให้ Creator เล่าประสบการณ์ร้าน/เมนูที่อยากลอง แล้วถามคนอื่นว่าคิดเหมือนกันไหม",
       "promptIdea": "เห็นคนพูดถึงเมนูนี้เยอะมาก มีใครลองแล้วบ้าง?",
@@ -148,16 +148,42 @@
         "#FoodTrend",
         "#CafeTH",
         "#รีวิวของกิน",
-        "#Runner’sCafeGuide18คาเฟ่"
+        "#MadMathคณิตติดมันส์-คณิต"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Thai PBS",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ONWRWUTZHaEdGV3ozenY1eXRoTlo2elRlYVBTbVpfbXZpXzJIa1AxZG9fQzBZZklMTmVxR3JxVmE3VU9XWUFuOVk5VDJhV1pZZXF3MlNNcGVkbFhPOE15a1Q5MThtUm5N?oc=5"
+        }
+      ],
+      "updatedAt": "2026-07-05T07:30:00+07:00"
+    },
+    {
+      "id": "netflix-scooby-doo-14361a85b8",
+      "title": "Netflix เผยตัวอย่างแรกของซีรีส์ Scooby-Doo ฉบับไลฟ์แอ็คชัน",
+      "sourceType": "news",
+      "category": "entertainment",
+      "contentPotential": "high",
+      "riskLevel": "low",
+      "summary": "ข่าวจาก Google News keyword: ซีรีส์ / source: thestandard.co - Netflix เผยตัวอย่างแรกของซีรีส์ Scooby-Doo ฉบับไลฟ์แอ็คชัน    thestandard.co",
+      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
+      "creatorAngle": "เล่า reaction ส่วนตัวต่อกระแส แล้วเปิดคำถามให้คนคุยต่อ",
+      "promptIdea": "กระแสนี้ทุกคนอยู่ทีมไหน?",
+      "hashtags": [
+        "#EntertainmentTH",
+        "#คุยเรื่องบันเทิง",
+        "#กระแสวันนี้",
+        "#Netflixเผยตัวอย่างแรกของ"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
         {
           "title": "thestandard.co",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9iSGc0dU44TE9tS01hOGJPT0U0a0cyTEtSS2hRUTBjTkp5UEFrWmhQRFpOcFJCV003YktJN3ZkTW42VV9IWkdrTEpFVW1MdzRCSE9ETU1JbUUwZ2JMZUwtV0JIakp2ellMM2c?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4tWm1fUllCMlVCLWJOcThGaTFrYmV0NE1sbjhpLVVYQU1fWnlZR1RfRDg2Z0wxT3pybG92VVVCQWlNeVhVSVpGS1JCeHhsYU9VbXBmZGJpSVJ6WnBkTjRHZUR4V19KM1QxbjJzaVdfQQ?oc=5"
         }
       ],
-      "updatedAt": "2026-06-28T03:28:59+07:00"
+      "updatedAt": "2026-07-03T09:51:18+07:00"
     },
     {
       "id": "vogue-scoop-men-s-ss27-f8914e5d9f",
@@ -184,6 +210,32 @@
         }
       ],
       "updatedAt": "2026-06-30T12:48:59+07:00"
+    },
+    {
+      "id": "pptv-c7a710e568",
+      "title": "pptv ถ่ายทอดสดวอลเลย์บอล วันนี้ 👪ทำให้ทุกการทดลองสนุกสนานและรับคะแนนฟรีด้วยการทดลองใช้ฟรีทำให้ทุกการทดลองเต็มไปด้วยความสนุกสนานและสัมผัสประสบการณ์ที่น่าตื่นเต้นที่บ้าน",
+      "sourceType": "news",
+      "category": "lifestyle",
+      "contentPotential": "high",
+      "riskLevel": "low",
+      "summary": "ข่าวจาก Google News keyword: วอลเลย์บอล / source: Northern California Public Media - pptv ถ่ายทอดสดวอลเลย์บอล วันนี้ 👪ทำให้ทุกการทดลองสนุกสนานและรับคะแนนฟรีด้วยการทดลองใช้ฟรีทำให้ทุกการทดลองเต็มไปด้วยความสนุกสนานและสัมผัสประสบการณ์ที่น่าตื่นเต้นที่บ้าน    Northern ",
+      "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
+      "creatorAngle": "โยงกับชีวิตประจำวันของ Creator และถามประสบการณ์คนในคอมมูนิตี้",
+      "promptIdea": "ช่วงนี้มีใครเจอเรื่องแบบนี้เหมือนกันไหม?",
+      "hashtags": [
+        "#LifestyleTH",
+        "#ชีวิตประจำวัน",
+        "#แชร์ประสบการณ์",
+        "#pptvถ่ายทอดสดวอลเลย์บอลว"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Northern California Public Media",
+          "url": "https://news.google.com/rss/articles/CBMingNBVV95cUxObl9GYnFWcDYxSDVfWGhza0hCejRlbkxtQk52S2lJaUFSMEk4WW9UZEN2T21LcDZmaGdYZHB2UGRmTkxZTXo5OTk3aHk2R2UxLVFzRXdQTzVsMlVXa1k3aTNIb2kxdzhUYU9BOVUxb3BFam1VVHp3bmhlc3phZkNzZGhBRmEyVmNBVXZ4ZHllQlpLSWhwbmlaV3hNOEdqaGpwQ0E2bUFZZVBBZDhvcmVtSENKUzRlREZzd25iOWx1bi1SdDBlWlc5TmVjcUtQUDlFdHVPT2lnRkJDUjkwRzczTGZONWstTmR2NHFuZHRYWjMtM3RwN0dhaVpYZVhFd0xrekpwUWVVLUpJSXBhQm11V045NnNJaGk5WUlHNmx1WnJtZTNTMG5rd1U2WkRfbzlneFAzQUxmbzh3b0V2Q25BejFwSGlnSDdmdmhleW9la2dteGZ4TkFoWVJjcmx5ckdwLUFJakRzUTdxRU1DNVhqb1FUaGlOeEdkUUkxbTR4MjNwTEUyNENJYXJaYnp0LVg2ekVwc1RiMGVkYmg1LXc?oc=5"
+        }
+      ],
+      "updatedAt": "2026-06-29T19:25:55+07:00"
     },
     {
       "id": "ro-mobile-3d-1a7f2b31fe",
@@ -236,32 +288,6 @@
         }
       ],
       "updatedAt": "2026-06-29T06:43:53+07:00"
-    },
-    {
-      "id": "netflix-69-7-68-767dc6b4f2",
-      "title": "กองถ่าย ‘Netflix - ซีรีส์แนวตั้ง’ ดึงเงินลงทุนต่างชาติไหลเข้าไทย ลุ้นปี 69 ทุบสถิติแซง 7 พันล้านปี 68",
-      "sourceType": "news",
-      "category": "entertainment",
-      "contentPotential": "high",
-      "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: ซีรีส์ / source: bangkokbiznews - กองถ่าย ‘Netflix - ซีรีส์แนวตั้ง’ ดึงเงินลงทุนต่างชาติไหลเข้าไทย ลุ้นปี 69 ทุบสถิติแซง 7 พันล้านปี 68    bangkokbiznews",
-      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
-      "creatorAngle": "เล่า reaction ส่วนตัวต่อกระแส แล้วเปิดคำถามให้คนคุยต่อ",
-      "promptIdea": "กระแสนี้ทุกคนอยู่ทีมไหน?",
-      "hashtags": [
-        "#EntertainmentTH",
-        "#คุยเรื่องบันเทิง",
-        "#กระแสวันนี้",
-        "#กองถ่าย‘Netflix-ซีรีส์แน"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "bangkokbiznews",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9XWXNhbnFDQ0lscV9yWTJWWUgwaTl3bEdxTFg2eURqdm4yRWFyZmxVU2pMenMzTTNhbjJqUG96VjA5YnpvQjZhXy0tS3dYdnZRbjBmcnpJRnZaa2M?oc=5"
-        }
-      ],
-      "updatedAt": "2026-07-03T00:20:00+07:00"
     },
     {
       "id": "topic-b4a7e52352",
@@ -322,7 +348,7 @@
       "category": "entertainment",
       "contentPotential": "high",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 500+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 1000+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่า reaction ส่วนตัวต่อกระแส แล้วเปิดคำถามให้คนคุยต่อ",
       "promptIdea": "กระแสนี้ทุกคนอยู่ทีมไหน?",
@@ -339,12 +365,12 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "30 ร้านอาหาร Central Northville ร้านอร่อยมาเต็ม เอาใจชาวนนทบุเรี่ยน",
-          "url": "https://food.trueid.net/detail/p814MVgE1v5n"
+          "title": "‘เซ็นทรัล นอร์ทวิลล์’ ต้นแบบ Longevity Destination เชื่อมธรรมชาติยกระดับชีวิตคนเมือง | The Better",
+          "url": "https://today.line.me/th/v3/article/ZaKjMJO"
         },
         {
-          "title": "รวมวิธีเดินทางไป \"เซ็นทรัลนอร์ทวิลล์\" นั่ง MRT รถเมล์ และรถยนต์ส่วนตัว สรุปครบทุกเส้นทาง",
-          "url": "https://www.thairath.co.th/lifestyle/life/2943649"
+          "title": "30 ร้านอาหาร Central Northville ร้านอร่อยมาเต็ม เอาใจชาวนนทบุเรี่ยน",
+          "url": "https://food.trueid.net/detail/p814MVgE1v5n"
         },
         {
           "title": "ดูหนังที่ เอส เอฟ !!! เปิดแล้ววันนี้พร้อมโปรโมชั่นสุดพิเศษ ที่ \"โรงภาพยนตร์ เอส เอฟ ซีเนม่า เซ็นทรัล นอร์ทวิลล์\"",
@@ -380,32 +406,6 @@
       "updatedAt": "2026-07-04T10:58:41+07:00"
     },
     {
-      "id": "10-09-31-28-2569-199-d8e4e394e1",
-      "title": "ระทึก! ไฟไหม้ร้านอาหารกำลังต่อเติม ซอยแจ้งวัฒนะ 10 เมื่อเวลา 09.31 น. วันที่ 28 มิถุนายน 2569 รับแจ้งจากสายด่วน 199 เหตุเพลิงไหม้ร้านอาหาร (อยู่ระหว่างปรับปรุง) ซอยแจ้...",
-      "sourceType": "news",
-      "category": "food",
-      "contentPotential": "high",
-      "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: อาหาร / source: facebook.com - ระทึก! ไฟไหม้ร้านอาหารกำลังต่อเติม ซอยแจ้งวัฒนะ 10 เมื่อเวลา 09.31 น. วันที่ 28 มิถุนายน 2569 รับแจ้งจากสายด่วน 199 เหตุเพลิงไหม้ร้านอาหาร (อยู่ระหว่างปรับปรุง) ซอยแจ้งวัฒนะ 10 แยก",
-      "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
-      "creatorAngle": "ให้ Creator เล่าประสบการณ์ร้าน/เมนูที่อยากลอง แล้วถามคนอื่นว่าคิดเหมือนกันไหม",
-      "promptIdea": "เห็นคนพูดถึงเมนูนี้เยอะมาก มีใครลองแล้วบ้าง?",
-      "hashtags": [
-        "#FoodTrend",
-        "#CafeTH",
-        "#รีวิวของกิน",
-        "#ระทึก!ไฟไหม้ร้านอาหารกำล"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "facebook.com",
-          "url": "https://news.google.com/rss/articles/CBMi_gZBVV95cUxNbldPUVYtMkFSaHdObW4zOTFwUzltQ3dzd25TQm1kYVZuN1lwM0ptWVZRRDBVZnFiV2Nrb0xsVHQ4OFJ3OFBwbDBraUtqNThDem9NZExrbXZURk5JN2Z0eGRSMWRXNVNuTzhGZW82aFRWTXNMbjVUWTkwdzFKTXk3SnNXYllXY1pMUldaZHZSdk9kTmxpOVpyNUYzdm9zTlJSeHlUTlF6c3YxZEo2WGh1RmxzS242ZTlTSjRlNXlfUE8wUGJrMEN3QkZKSkpiN3EwWGNRWFJVT18yT3BvVlF4Tjg2QUV6dGtkSmxaVllyN2hvWndLMWdRanVsUXlydC1aRzlMRWhuV1l0SE5jVGVUdktwM0xibUFzOWVWQ29uUmI3clQ1Y1VadzktV0psQzFiazd0dzBKSzVKTUJWanZoRk5CWk1GNk0zb1MtSjZXcW1QTFVlem9qU2phVUxZZUpfc2FWd0J3dkpUeFlNdFgxVmNBZ1VveGc5VnprNDRDUFNzQUhUYl9Mc3Z6MzhBTmJic1dubEluUUZnQWpFdVBSWENocnRqVFZYUHQyMjRFTG81YW82Nkl4VGl5YjNfbFhOa1Y4T1BZUGN0TTJQNTVjNzRlMEFYX0ppLXhJS0NqME1mNmJMRjI5QWFpY0YwcWdPd01GT0psSi1ObnRUbXZ6dGY3Q1EyZkpkc0stU05fUzVMVjhYdWJDcEN2NXFDZW51Sy16SFJuQmJPbnZkaVR1ekJlRk14YXFyUktvNnlJYUpVNXNXcHIzdVRhT2RGWmhLNGY2Zko1NGRENGExRXdlRjdORmxsVS1OMjA3c2I1MnoxckpEdkxJWjM1eHdlZnIteHVqQ1JwcGxSdGRfQXV0V2RsWnZzQW0xc1I5ZXhZOGNkQ1F4ZjBoMkNXRWRCemhfZDlvZFBTS0o2dFFrY2NNRm5Fem5IWDR3TkJKWGtLQWJiekpSV0Y0M0J1UFNKLWo5OWFqZE5UOFFFbldlejRIQWM1YjViRUJIOVRob2pfRjNicktScVBhbll1UVJZVmdzS0V0VE1XOUEwcDRJbFl4TDNjLWVJMUxpWHFwSG85YkFhWlp3dUJMME1TNjlybDVDWko1d0I0eFpNMGpyZmdIZVdhRl9HV2JjYnpKWFNxYXpuV0FyQ1laR1VESG9WMXNOUEZteTRTMkpKRTlONGc?oc=5"
-        }
-      ],
-      "updatedAt": "2026-06-28T15:56:23+07:00"
-    },
-    {
       "id": "9-20-dc34d9e7fd",
       "title": "ระเบิดที่คาเฟ่ในเมืองหลวงของซีเรีย ดับแล้ว 9 ศพ เจ็บอีก 20",
       "sourceType": "news",
@@ -438,7 +438,7 @@
       "category": "food",
       "contentPotential": "high",
       "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: คาเฟ่ / source: TrueID InTrend - รีวิว Brouke คาเฟ่ริมหาดจอมเทียน วิวสวยปัง ไฮไลต์ทะเลหมอก    TrueID InTrend",
+      "summary": "ข่าวจาก Google News keyword: คาเฟ่ / source: TrueID Food - รีวิว Brouke คาเฟ่ริมหาดจอมเทียน วิวสวยปัง ไฮไลต์ทะเลหมอก    TrueID Food",
       "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
       "creatorAngle": "ให้ Creator เล่าประสบการณ์ร้าน/เมนูที่อยากลอง แล้วถามคนอื่นว่าคิดเหมือนกันไหม",
       "promptIdea": "เห็นคนพูดถึงเมนูนี้เยอะมาก มีใครลองแล้วบ้าง?",
@@ -451,11 +451,37 @@
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
         {
-          "title": "TrueID InTrend",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8tRjJMbjljdGZzWGUtMGZscEJwSFhGNnlucUJEQWx6YUtSTTNiVnhfTDljaGhOLXpfSWtLTkxPdTVZcklqT2dQWU82VjgzSWc?oc=5"
+          "title": "TrueID Food",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QSzItVzkwTEVvZV9LSFl5YzBrQXdlWTVibE5NUVptaThZSE9ZRmNrRnFSeWFIU3FobG5EMEh0LURUNTkya014U0Y5V2oxRVJOQmdwWGd3?oc=5"
         }
       ],
-      "updatedAt": "2026-07-04T13:26:33+07:00"
+      "updatedAt": "2026-07-04T14:29:34+07:00"
+    },
+    {
+      "id": "5-5-5-dac852772b",
+      "title": "อาหารตกพื้น 5 วินาทียังกินได้จริงหรือ? นักวิทยาศาสตร์มีคำตอบ . หลายคนคงเคยปลอบใจตัวเองว่า ‘ยังไม่ถึง 5 วินาที กินได้อยู่’ จนเกิดเป็นความเชื่อที่เรียกว่า ‘กฎ 5 วินาที’...",
+      "sourceType": "news",
+      "category": "food",
+      "contentPotential": "high",
+      "riskLevel": "low",
+      "summary": "ข่าวจาก Google News keyword: อาหาร / source: facebook.com - อาหารตกพื้น 5 วินาทียังกินได้จริงหรือ? นักวิทยาศาสตร์มีคำตอบ . หลายคนคงเคยปลอบใจตัวเองว่า ‘ยังไม่ถึง 5 วินาที กินได้อยู่’ จนเกิดเป็นความเชื่อที่เรียกว่า ‘กฎ 5 วินาที’ (Five-second ",
+      "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
+      "creatorAngle": "ให้ Creator เล่าประสบการณ์ร้าน/เมนูที่อยากลอง แล้วถามคนอื่นว่าคิดเหมือนกันไหม",
+      "promptIdea": "เห็นคนพูดถึงเมนูนี้เยอะมาก มีใครลองแล้วบ้าง?",
+      "hashtags": [
+        "#FoodTrend",
+        "#CafeTH",
+        "#รีวิวของกิน",
+        "#อาหารตกพื้น5วินาทียังกิน"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "facebook.com",
+          "url": "https://news.google.com/rss/articles/CBMihwhBVV95cUxQbXpfSFVUaFNycG9lVDg3RG02VTNWMW92TVBtbUNHSmU2R0JoRHdRd29GVmJOZ3ZWLWRaaExXTmxsYTN3MTNzYTVhdHNtVV9xcUpRYjM4QTcyWENrcGl6SU9mMEYzVmVvZXF1N2dpamFMU2JlTHVSSFZ0OGljdktIa1dQWWk2d09aalpXLVNEOU1jdGJ6Y3Z0SV9mWWpnNEJaQlBhd09IZnpUbjIxWjkyVEl6cnMzU1pGcDlicVBpVjc3QnM4S2xKTnl1M1lkdVpSaElXY2NuQzNaelJ4eEFWVzY1VUxiSUhzSE4zYm1YOGI0NHoxSzQ0Wm1YSVgwMmZIdnZXTlhQSC1rTU91N3I3VjV4WTR4cnVVaFZBRjlmc0RDMzRzODJ1YmZUS1JrRFdxT1R4Z3B1UnRrSjJDQjI4aWlDUE1MZFdSZ19kczQxOTFPZEV6TGdJa19RWm5BSF9uQlFMRmlYaXNSV0JyVDN5Wm1EMXAxNEt4ZGFfVzRwc3QyVk9YMzB3NHg5RVQzeXpYYU92VXlXbFMtSngxZnBVYlVoRTd0cG1wN0tlTEFCMmtkYWRrd3RrM2loRVRMYklYUWRiSllRcGd3VjladWVkb0Nuc1A2T25OTHdaajB6NmpuTVdJQ3ZDV1F3bnk3aDJMNUk4MDlwQmZlOW1GV1FkcUx1VHBpeUJVMUthNG80NHJwQms0ZkhZSGR5RUc5ZTlubnNfMEFOSUVUOVo3MFBXMXJzREVmZjJsMk9EV0FPUEJEbTFzOVQwZ0xMamJnbEx2cEdRX1BRWUhibEdBbHRweWRDSmFwNEZpWjBfamh5RlF1QjM5RjEwQ1RvUjBiRU15T2xIS2VPakZlY0JTcVFKM1R0X3pSRjl0VkJHcW9GbVFfcjFnY2ZPRnpHcWlhU3ZKSFdRbkFXQ2M4WjB6ckM0UjJISnVKM2lfVVNoTGExMFIxUzU3M1FWczdmMlBlbUxxdjNULWxscXdyWm5CMXhkQnc1ZVEwYnAydXNtdFFQU3gtS2d4WjR5Y2IzWXNBLXRqUzFYdDVZYzlSbEp0NDhqR2o4R2ZPUDFDbmNZdHg3Y21Ba1FkSnhKbmtqS29XMUwzanFXTWhmbm11d0N4WS1PN3M2dHlnazF6cGl0RHdkTUxXOHdsRDRRLWNRMXMweGRRTEtneUhTRVVMaWZ0anUwbExJenRzLU9RRV9mX2NiVXNkT1Q3eUNhdG1Hd2ZjM0pnZUJUcjhBbXplOExlVWRBYWtON0tZRm80RVF4d2Y2b3duaDMtTm9rX3I0d2c0WVExV1BuRXVvWTBkQ0taTmJ5a1FqX0tZM3NCOENMdHZZUW1NbkZwMWYwSGlBUnFweV8yZ2hUTW5Ddw?oc=5"
+        }
+      ],
+      "updatedAt": "2026-07-05T11:00:14+07:00"
     },
     {
       "id": "topic-479360bdec",
@@ -562,32 +588,6 @@
       "updatedAt": "2026-06-28T18:28:59+07:00"
     },
     {
-      "id": "100-d1cffc9246",
-      "title": "โมดีเรียก ‘น้องสาวคนสวย’ อินเดีย-ญี่ปุ่นยกระดับสัมพันธ์ ลงนาม ‘กว่า 100 ข้อตกลง’ ครอบคลุมตั้งแต่เห็ดยันอวกาศ . “อินเดีย” และ “ญี่ปุ่น” เดินหน้ายกระดับความสัมพันธ์ทางยุ...",
-      "sourceType": "news",
-      "category": "beauty",
-      "contentPotential": "high",
-      "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: ความสัมพันธ์ / source: facebook.com - โมดีเรียก ‘น้องสาวคนสวย’ อินเดีย-ญี่ปุ่นยกระดับสัมพันธ์ ลงนาม ‘กว่า 100 ข้อตกลง’ ครอบคลุมตั้งแต่เห็ดยันอวกาศ . “อินเดีย” และ “ญี่ปุ่น” เดินหน้ายกระดับความสัมพันธ์ทางยุทธศาสตร์ครั้ง",
-      "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
-      "creatorAngle": "ชวนแชร์สไตล์ ไอเท็ม หรือเทคนิคที่ใช้จริงโดยไม่ขายของแข็งเกินไป",
-      "promptIdea": "สไตล์นี้ถ้าแต่งในชีวิตจริงจะรอดไหม?",
-      "hashtags": [
-        "#BeautyTalk",
-        "#FashionTH",
-        "#ไอเดียแต่งตัว",
-        "#โมดีเรียก‘น้องสาวคนสวย’อ"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "facebook.com",
-          "url": "https://news.google.com/rss/articles/CBMivAdBVV95cUxNVnpvcGsxTktEM0JmemdwcDhsUE1uMVhHSnZWU3VlMGY4T1lEdV9zRVhBWFo5QlNzTDgzUk9KTEpNak1rbjJQcXo3ZVFOeE9mcUw3Q0xpMHRlUGU1aGh5Y1ZzMXZGSEd0UXJHNk85UWxhTzR2NlNhMmZTVWpCczYtQWlFLTVPLUo1RS1mN3RzNGRVYVQwQ0ZRMWhhTGdjXzFZUnZwTHczVVUwcWM2b2w3NDB4SUJvR1BKWjY4bm8tYmZ6SWVGVEFvQVlBeEVmYnlEZ2xSMFlXQ3ZKQlhSd3ZzeDFYU2NJYm5RVFBYMjA1bWdlaFBhRGRCTE8yM1VWVUJCLUtBRkRvc01HRG92bmhfVUxTejNtU3NWVlVKenp3SlZiSjFsdUNVVmMwMVdWUmRxazh0QXkzTlhNdkZYT1U5NFZLdDVzMWRRMTdDbUhkYWtxODNuV01jZ2VubUZDZ1BVMGlvMXNOMWVweVE4ZGQtZDI3YWtrUXFMUWhDREwtZHhzSXVlSnkxeEJsNk1fQ2xXRzdKSDZSbTVKdWFHM0NxQk5ya0dMb212MTR6M3I5TXptYU9IUFllZTRqZkdKY0U1SGpTNlNkZ2xmTHBMUlBXX29MaWoteGtDWk1QTFZJUjZ5bEFNMmtCS1JBRVVNbnZ5b005RWNmdjBCazNtWEV6SDZacnozSVdDNnhWb2xZYUtYUWtlMUpPWmhEa1pWajQ0NndGcnRFN2pKOUs1UDI0S2RvSHJndEcxU1NrRjJuTHFhOVNiUkdsVnpqTy1POFVfenpQbUtNdG9uazEycGRpcnBELVZiUXNWakNsbmF0d0ZsVkpRM2hCWU1JM2tMZkJ2eTBiSmhnLWVFdmdZa1dud2JlbURkM3hXWTk5Xy13N3B5RFZMV283aW1mSWdqQmxvUEozSjFzOWtENE40aTgtNTN0TngwSVdKTW04Nm93QjRDcnFKWVZYNFhFQTBTUjBwclc1RUVTSk9ScGF5b3dTU2xFRUZ2LVE1ZTRSM1hPbk1kTUxhdWNBUk96NnhWRDNrZDNTaEJxT3NIQVRfczVYVFlScGJwaEFhLUVMMVgtdTZBcXRjSnZsSEU1a09mbklPZXVjVjl0UTk5OVF5T19sVE92Wmdwb0pCQ0FSS25sRldoQ1FQVU9SRlpfZFh5ZXJ1bDNkUzJZajBLRkJZT1RRTHFub1dZanRvNFNnZWR1M0pXMldBdldzM1BSVnpVTGdZNnVUNXBfYy1teE5UNUVKMXlWbi1ERmZNdllmYQ?oc=5"
-        }
-      ],
-      "updatedAt": "2026-07-03T19:30:23+07:00"
-    },
-    {
       "id": "ais-match-group-tinder-human-connection-3803db936a",
       "title": "AIS จับมือ Match Group และ Tinder ปลุกพลัง “Human Connection” ขับเคลื่อนแคมเปญรณรงค์เปลี่ยนความเหงา เป็นความสัมพันธ์ที่มีคุณภาพ สู่สังคมไทยที่เชื่อมต่ออย่างปลอดภัยและม...",
       "sourceType": "news",
@@ -689,16 +689,16 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "Au Portugal, un millier de pompiers tentent toujours de venir à bout d’un feu de forêt",
-          "url": "https://www.lemonde.fr/planete/article/2026/07/04/au-portugal-un-millier-de-pompiers-tentent-toujours-de-venir-a-bout-d-un-feu-de-foret_6720681_3244.html"
+          "title": "Feux de forêt dans le Nord du Québec: 900 pompiers mobilisés, des renforts arrivent de partout au Canada",
+          "url": "https://www.tvanouvelles.ca/2026/07/04/feux-de-foret-dans-le-nord-du-quebec-900-pompiers-mobilises-des-renforts-arrivent-de-partout-au-canada"
         },
         {
-          "title": "Face à la canicule, un maire portugais au contact des personnes âgées isolées",
-          "url": "https://www.france24.com/fr/info-en-continu/20260703-face-%C3%A0-la-canicule-un-maire-portugais-au-contact-des-personnes-%C3%A2g%C3%A9es-isol%C3%A9es"
+          "title": "Nord-du-Québec | Des restrictions en vigueur en raison des incendies de forêt",
+          "url": "https://www.lapresse.ca/actualites/2026-07-04/nord-du-quebec/des-restrictions-en-vigueur-en-raison-des-incendies-de-foret.php"
         },
         {
-          "title": "Pénurie d’eau à Almada en pleine vague de chaleur",
-          "url": "https://vivreleportugal.com/actualite/penurie-deau-a-almada-en-pleine-vague-de-chaleur/"
+          "title": "Les précipitations de pluie ont aidé la forêt gaspésienne à se protéger contre le feu",
+          "url": "https://www.radiogaspesie.ca/a-la-une/les-precipitations-de-pluie-ont-aide-la-foret-gaspesienne-a-se-proteger-contre-le-feu/"
         }
       ],
       "updatedAt": "2026-07-04T23:00:00+07:00"
@@ -710,7 +710,7 @@
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 500+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -727,23 +727,23 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "England vs India LIVE: Second T20, Old Trafford - cricket score, commentary & video highlights",
+          "title": "Relive Jacob Bethell hitting an unbeaten 76 to lead England to a four-wicket second-T20 win over India as Vaibhav Sooryavanshi, 15, makes debut",
           "url": "https://www.bbc.com/sport/cricket/live/ce9mvgg1gppt"
         },
         {
-          "title": "Archer back in the XI, Tongue to debut; India eye runs at Old Trafford",
-          "url": "https://www.cricinfo.com/series/india-in-england-2026-1496488/england-vs-india-2nd-t20i-1496575/match-preview"
+          "title": "Bethell blasts England to T20 win over India after Sooryavanshi’s historic debut",
+          "url": "https://www.theguardian.com/sport/2026/jul/04/england-men-india-second-t20-international-cricket-match-report"
         },
         {
-          "title": "India vs England 2nd T20I LIVE Score: Arshdeep Singh Strikes Twice In 1st Over, England Two Down In Chase",
-          "url": "https://sports.ndtv.com/england-vs-india-2026/india-vs-england-2nd-t20i-live-score-ind-vs-eng-match-live-updates-vaibhav-sooryavanshi-sanju-samson-11726364?pfrom=home-ndtv_sports"
+          "title": "Highlights | Bethell brilliance in high-scoring thriller | England Men vs India | 2nd Vitality IT20",
+          "url": "https://www.ecb.co.uk/video/4530803/highlights--bethell-brilliance-in-highscoring-thriller--england-men-vs-india--2nd-vitality-it20"
         }
       ],
       "updatedAt": "2026-07-04T20:50:00+07:00"
     },
     {
-      "id": "outlook-0d5591d63e",
-      "title": "outlook",
+      "id": "morocco-d3b252686b",
+      "title": "morocco",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
@@ -756,7 +756,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#outlook"
+        "#morocco"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -765,19 +765,95 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "Hazardous Weather Outlook Saturday July 4, 2026",
-          "url": "https://wataugaonline.com/hazardous-weather-outlook-saturday-july-4-2026/"
+          "title": "Canada's Jesse Marsch on World Cup exit vs. Morocco: 'We were the better team'",
+          "url": "https://www.espn.com/soccer/story/_/id/49270971/canada-jesse-marsch-world-cup-exit-morocco-were-better-team"
         },
         {
-          "title": "Hazardous Weather Outlook Friday July 3, 2026",
-          "url": "https://wataugaonline.com/hazardous-weather-outlook-friday-july-3-2026/"
+          "title": "France ousts Paraguay after World Cup Round of 16 kicks off with Morocco's rout of Canada",
+          "url": "https://sports.yahoo.com/soccer/live/world-cup-2026-bracket-schedule-scores-results-live-updates-round-of-16-130000983.html"
         },
         {
-          "title": "Portland’s 4th of July weather outlook",
-          "url": "https://www.koin.com/weather/portlands-4th-of-july-weather-outlook/"
+          "title": "Canada vs Morocco Extended Highlights 🌎🏆 2026 FIFA World Cup™ | Round of 16",
+          "url": "https://www.foxsports.com/watch/fmc-b8anrm1vjaxsnf8x"
         }
       ],
-      "updatedAt": "2026-07-04T18:10:00+07:00"
+      "updatedAt": "2026-07-05T01:00:00+07:00"
+    },
+    {
+      "id": "paraguay-vs-france-3961d8683a",
+      "title": "paraguay vs france",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 2000+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#paraguayvsfrance"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "Mbappé certifica el resultado natural",
+          "url": "https://www.marca.com/futbol/mundial/cronica/2026/07/05/mbappe-certifica-resultado-natural.html"
+        },
+        {
+          "title": "La frase de Gustavo Alfaro que generó cierta preocupación",
+          "url": "https://www.vssports.com.py/versus/2026/07/04/la-frase-de-gustavo-alfaro-que-genero-cierta-preocupacion"
+        },
+        {
+          "title": "Ibrahimovic se burla de Paraguay tras su derrota ante Francia.",
+          "url": "https://www.vietnam.vn/es/ibrahimovic-mia-mai-paraguay-sau-tran-thua-phap"
+        }
+      ],
+      "updatedAt": "2026-07-05T08:10:00+07:00"
+    },
+    {
+      "id": "topic-3934211cbd",
+      "title": "กรมอุตุนิยมวิทยาพยากรณ์อากาศ",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 2000+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#กรมอุตุนิยมวิทยาพยากรณ์อ"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "พยากรณ์อากาศ ประจำวันที่ 5 กรกฎาคม 2569 กรุงเทพและปริมณฑล มีฝน/ฝนฟ้าคะนอง ร้อยละ 60 ของพื้นที่",
+          "url": "https://today.line.me/th/v3/article/8nLvOaM?referral=Newscentral"
+        },
+        {
+          "title": "พายุไมสัก ขึ้นฝั่งประเทศเวียดนามแล้ว เตือนไทยฝนตกหนักบางพื้นที่ 5-6 ก.ค.นี้",
+          "url": "https://www.thairath.co.th/news/local/2944108"
+        },
+        {
+          "title": "อ่วม! สี่แยกวังตาผิน- ซอยสุพรรณ อ.ปลวกแดง จ.ระยอง ฝนถล่มไม่ถึง ชม.ถนนกลายคลอง",
+          "url": "https://mgronline.com/local/detail/9690000064533"
+        }
+      ],
+      "updatedAt": "2026-07-05T06:00:00+07:00"
     },
     {
       "id": "105-c6f784d46e",
@@ -806,8 +882,46 @@
       "updatedAt": "2026-07-03T17:10:32+07:00"
     },
     {
-      "id": "7-74ba5b0f9f",
-      "title": "ช่อง7",
+      "id": "topic-fc953965f9",
+      "title": "ดูบอลสด",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 1000+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#ดูบอลสด"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "ทีเด็ดบอลวันนี้ 5 ก.ค. 69 วิเคราะห์บอล 2 คู่เด็ด ฟุตบอลโลก 2026 รอบ 16 ทีม โปรแกรมบอลวันนี้",
+          "url": "https://www.thairath.co.th/sport/worldcup/2944069"
+        },
+        {
+          "title": "โปรแกรมฟุตบอลโลก 2026 (5 กรกฎาคม)",
+          "url": "https://thestandard.co/world-cup-2026-round-16-2/"
+        },
+        {
+          "title": "'บราซิล' พร้อมพิฆาต 'นอร์เวย์' ส่วน 'อังกฤษ' งานยากดวลเจ้าภาพ 'เม็กซิโก'",
+          "url": "https://www.thaipost.net/sport-news/1026511/"
+        }
+      ],
+      "updatedAt": "2026-07-05T04:50:00+07:00"
+    },
+    {
+      "id": "topic-67ef219b8b",
+      "title": "ดูบอลโลก",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
@@ -820,7 +934,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#ช่อง7"
+        "#ดูบอลโลก"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -829,28 +943,28 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "“เที่ยงบันเทิง ทอล์ก” เปิดใจ “ฝ้าย พีรญา” ฮอตแรงระดับโลก “แชมป์-แป๋ว” เซอร์ไพรส์ดึง “อะตอม” ร่วมทอล์ก",
-          "url": "https://www.ch7.com/activities/882908"
+          "title": "ได้แล้ว 2 ทีม! สรุปรายชื่อทีมชาติผ่านเข้ารอบรองชนะเลิศ ฟุตบอลโลก 2026",
+          "url": "https://www.sanook.com/sport/1657817/"
         },
         {
-          "title": "Ch7HD. . 🌹❤️ #ฝ้ายพีรญา ในบท “ท่านหญิงขวัญ” จะถูกจะแพง…ขอแดงไว้ก่อน❤️✨ ถึงในละครจะร้ายจนแฟน ๆ หมั่นไส้ แต่ตัวจริงนอกจอทั้งสวย น่ารัก และจิตใจดีสุด ๆ🫶🥰 ▶️ฝากแฟน ๆ ติดตามชมละคร #ทุกอณูฤทัย ทุกวันจันทร์ - อังคาร ⏰เวลา 20.30 น. 📺ทางช่อง 7HD กด 35 ด้วยนะคะ",
-          "url": "https://www.facebook.com/Ch7HD/videos/%EF%B8%8F-%E0%B8%9D%E0%B9%89%E0%B8%B2%E0%B8%A2%E0%B8%9E%E0%B8%B5%E0%B8%A3%E0%B8%8D%E0%B8%B2-%E0%B9%83%E0%B8%99%E0%B8%9A%E0%B8%97-%E0%B8%97%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B8%AB%E0%B8%8D%E0%B8%B4%E0%B8%87%E0%B8%82%E0%B8%A7%E0%B8%B1%E0%B8%8D-%E0%B8%88%E0%B8%B0%E0%B8%96%E0%B8%B9%E0%B8%81%E0%B8%88%E0%B8%B0%E0%B9%81%E0%B8%9E%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B9%81%E0%B8%94%E0%B8%87%E0%B9%84%E0%B8%A7%E0%B9%89%E0%B8%81%E0%B9%88%E0%B8%AD%E0%B8%99%EF%B8%8F-%E0%B8%96%E0%B8%B6%E0%B8%87%E0%B9%83%E0%B8%99%E0%B8%A5%E0%B8%B0%E0%B8%84%E0%B8%A3%E0%B8%88%E0%B8%B0%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%A2%E0%B8%88%E0%B8%99%E0%B9%81%E0%B8%9F%E0%B8%99-%E0%B9%86-%E0%B8%AB%E0%B8%A1%E0%B8%B1/2080409889492540/"
+          "title": "เดือดขึ้นเรื่อยๆ สรุป 2 ทีมแรก ผ่านเข้ารอบ 8 ทีมสุดท้าย \"ลูกหนังโลก 2026\" เปิดโปรแกรมวันแข่ง",
+          "url": "https://www.thairath.co.th/sport/worldcup/2944120"
         },
         {
-          "title": "😍รีวิวสกุชชี่ตัวซีเคร็ทที่โดนใจมากที่สุด💕🫶 #เที่ยงบันเทิงทอล์ก #ฝ้ายพีรญา #อะตอมปริยะ #ฝ้ายอะตอม #Ch7HD",
-          "url": "https://www.facebook.com/Ch7HD/videos/%E0%B8%A3%E0%B8%B5%E0%B8%A7%E0%B8%B4%E0%B8%A7%E0%B8%AA%E0%B8%81%E0%B8%B8%E0%B8%8A%E0%B8%8A%E0%B8%B5%E0%B9%88%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%8B%E0%B8%B5%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B9%87%E0%B8%97%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%82%E0%B8%94%E0%B8%99%E0%B9%83%E0%B8%88%E0%B8%A1%E0%B8%B2%E0%B8%81%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AA%E0%B8%B8%E0%B8%94-%E0%B9%80%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%97%E0%B8%B4%E0%B8%87%E0%B8%97%E0%B8%AD%E0%B8%A5%E0%B9%8C%E0%B8%81-%E0%B8%9D%E0%B9%89%E0%B8%B2%E0%B8%A2%E0%B8%9E%E0%B8%B5%E0%B8%A3%E0%B8%8D%E0%B8%B2-%E0%B8%AD%E0%B8%B0%E0%B8%95%E0%B8%AD%E0%B8%A1%E0%B8%9B%E0%B8%A3%E0%B8%B4%E0%B8%A2%E0%B8%B0-/1796829041728435/"
+          "title": "สรุป 16 ทีมสุดท้าย ฟุตบอลโลก 2026 ครบทุกคู่ เปิดโปรแกรมรอบน็อกเอาต์",
+          "url": "https://www.thaipbs.or.th/news/content/507863"
         }
       ],
-      "updatedAt": "2026-07-04T18:50:00+07:00"
+      "updatedAt": "2026-07-05T04:50:00+07:00"
     },
     {
-      "id": "topic-9270e42c26",
-      "title": "น้ำท่วม",
+      "id": "topic-71e9d18151",
+      "title": "ปารากวัย พบ ฝรั่งเศส",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 50000+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 5000+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -858,7 +972,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#น้ำท่วม"
+        "#ปารากวัยพบฝรั่งเศส"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -867,57 +981,19 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "แจ้งเตือนสถานการณ์น้ำท่วมขัง อ.บ่อไร่ จ.ตราด | สวพ.FM91",
-          "url": "https://today.line.me/th/v3/article/MLVG78j"
+          "title": "พมต ทั้งเกม! ฝรั่งเศส ฝ่าศาสตร์มืดปารากวัยลิ่ว 8 ทีมบอลโลก 2026",
+          "url": "https://www.siamsport.co.th/worldcup/106201/"
         },
         {
-          "title": "พายุไมสัก ทวีกำลังแรงขึ้นเป็นพายุโซนร้อนกำลังแรงแล้ว เช็กจังหวัดฝนตกหนักถึงหนักมาก",
-          "url": "https://www.thairath.co.th/news/local/2944085"
+          "title": "ลูกเขี้ยวหรือเล่นสกปรก? ขูดจุดโทษ-เข้าหนัก-ถ่วงเวลา แท็คติกปารากวัยทำแฟนบอลถกสนั่น",
+          "url": "https://mgronline.com/sport/detail/9690000064689"
         },
         {
-          "title": "ข่าวทั่วไทยยังชุ่มฉ่ำ น้ำฝน",
-          "url": "https://news.ch7.com/detail/882967"
+          "title": "ผลบอล ฝรั่งเศส ชนะ ปารากวัย ลิ่วรอบ 8 ทีมบอลโลก \"เอ็มบัปเป้\" ซัดโทษ",
+          "url": "https://www.pptvhd36.com/sport/news/278960"
         }
       ],
-      "updatedAt": "2026-07-04T16:50:00+07:00"
-    },
-    {
-      "id": "topic-862f10aa04",
-      "title": "ประเทศ",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#ประเทศ"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "อัตราเบี้ยเลี้ยงระดับภูมิภาคสูงสุดที่ใช้ทั่วประเทศคือ 2.53 ล้านดองเวียดนามต่อเดือน",
-          "url": "https://www.vietnam.vn/th/muc-phu-cap-khu-vuc-cao-nhat-ap-dung-trong-ca-nuoc-la-2-53-trieu-dong-thang"
-        },
-        {
-          "title": "กระทรวงมหาดไทยปรับปรุงรายชื่อผู้รับเงินช่วยเหลือระดับภูมิภาคหลังการปรับโครงสร้างใหม่",
-          "url": "https://www.vietnam.vn/th/bo-noi-vu-cap-nhat-danh-muc-huong-phu-cap-khu-vuc-sau-sap-xep"
-        },
-        {
-          "title": "กระทรวงมหาดไทยประกาศรายละเอียดเกี่ยวกับพื้นที่ที่ใช้เกณฑ์เบี้ยเลี้ยงระดับภูมิภาค",
-          "url": "https://www.vietnam.vn/th/bo-noi-vu-cong-bo-chi-tiet-noi-ap-dung-phu-cap-khu-vuc"
-        }
-      ],
-      "updatedAt": "2026-07-04T20:00:00+07:00"
+      "updatedAt": "2026-07-05T08:50:00+07:00"
     },
     {
       "id": "mr-emmanuel-00bc13d505",
@@ -946,13 +1022,13 @@
       "updatedAt": "2026-06-29T14:24:56+07:00"
     },
     {
-      "id": "2568-e29077024a",
-      "title": "วอลเลย์บอลหญิงทีมชาติบราซิล 🌟สัมผัสความสนุกของคาสิโนด้วยเงินจริงที่นำเสนอเกมไพ่ที่น่าตื่นเต้นที่สุด ร่วมสนุกกับคาสิโนด้วยเงินจริงที่ดีที่สุดในประเทศไทยในปี 2568 ชนะการ...",
+      "id": "casino-thailand-a992f92eb0",
+      "title": "วอลเลย์บอลหญิงทีมชาติบราซิล 🎆และรับโอกาสสัมผัสความสนุกคาสิโนด้วยเงินจริงไม่จำกัดทุกวันที่ Casino Thailand พร้อมคาสิโนที่เชื่อถือได้และโปรโมชั่นตลอดทั้งปีและโอกาสชนะไม่...",
       "sourceType": "news",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: วอลเลย์บอล / source: Northern California Public Media - วอลเลย์บอลหญิงทีมชาติบราซิล 🌟สัมผัสความสนุกของคาสิโนด้วยเงินจริงที่นำเสนอเกมไพ่ที่น่าตื่นเต้นที่สุด ร่วมสนุกกับคาสิโนด้วยเงินจริงที่ดีที่สุดในประเทศไทยในปี 2568 ชนะการแข่งขันกีฬาออ",
+      "summary": "ข่าวจาก Google News keyword: วอลเลย์บอล / source: Northern California Public Media - วอลเลย์บอลหญิงทีมชาติบราซิล 🎆และรับโอกาสสัมผัสความสนุกคาสิโนด้วยเงินจริงไม่จำกัดทุกวันที่ Casino Thailand พร้อมคาสิโนที่เชื่อถือได้และโปรโมชั่นตลอดทั้งปีและโอกาสชนะไม่จำกัดทุกวันที",
       "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -966,19 +1042,19 @@
       "sources": [
         {
           "title": "Northern California Public Media",
-          "url": "https://news.google.com/rss/articles/CBMirwNBVV95cUxPSFZrWk1ldk5MM2Ffb1QwYk1MdXBhZEF6S0ViNlhtWGVDMUdrNE0tczVzSjVIb0lheFFhTUFIMFBkaGVlazJiLW9GV1JXRjhJOUMzem5GVE9oeEdMcURtLUpsVFJZeGYtbjlDajNybzBiWmxVN0t5d3lHU1VKcGRjYVd4clAyVWpaVjZyZE5JR3MwYmhSMWJkOFpQbkhNU2VjekFuSUp0d3FLSGdwbWFlbzJ4d2dKYlVDRGZGeU8xZ1paNlVUcUVya0ZZVE1obDFWNzhVLUxxcFByOFFIc25zb1VuR3N2TTZ3bUYyc25lV1BrRGtkUXkwWlJ3UTdTc0VGUjRCU1NGcko2NktxVlNoU2tOUWd1ekZsaUhxaUJYdmlKdFJ2eFpVZURuODRWNFlYRzJLeEh0ODBLbUExR1Q5NDJ4OHdqUFhRd1hGemIyMDI5NTVwUUExTk5lbTJHbVowWUFEV0ZyTXVwaENLSFJ3ZVFFdTU2NFdHM05TODliSDJFbkFvNks0RTNVY2xZaUlhbTduQUJKVEpBUS02dW55cG1vc3FtNmk3Zl9wa2Y2aw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMirwNBVV95cUxPVnpob1BfRTUzUEZKb1JSQ1JRMU5lY0RVdG1IdGZ6VFp2V3hoVlBMRl90c1EtZFRtcVRIVVBQeGg4aFpoeXhoS1FWSm9UbEt1UUJydDNfTjJrSVl6V0g2WkMzcl9wdDdNNVhMaVZPc0RleUxxRUlLU1RGWGtrMEhwOWF2MDFzNHBfTV9CZkVwOWR6aE9BdWVDaWZFWmQya3R2UEhmbG1hY04xVEhjS0lpVmR2QUtBWVBLTGFJNzRGdnlBN0pDUXZqdFRidzdiZzZDbWJDYi1SUGdKcUxqS2lqdlJBeFhING93QS0ycGFSckp5V2pMbm1lakVxc0VvOGVJb3RmUGtlQURsbVJoVW9Za3p6MjZVb0laekMtb2NxbVhUcEhCYTV3ZVNRdGI1QTd1eWRQcDhwZGtKUjNRbG0yWHZ3dVVXNXM0VFFXWlUxYjNQbi0tcmdPYVRfYTBKdmlCaFZ3Z2VFSjZHTzBVZ2E0RHVfbXZxQkhFemxQYVA1VnpITjl6M3VCR2lBSlBONENOT2lvclQtS3QyMkpYOTFCNTdhRjFZWDVnMDA5QjZSMA?oc=5"
         }
       ],
-      "updatedAt": "2026-06-28T08:02:56+07:00"
+      "updatedAt": "2026-06-29T00:52:02+07:00"
     },
     {
-      "id": "topic-839fafd51d",
-      "title": "วอลเลย์บอลหญิงทีมชาติบราซิล 🎵รับรางวัลแจ็กพอตที่ใหญ่ที่สุดของประเทศไทยในปีนี้และสนุกไปกับการลุ้นรางวัลใหญ่อย่างไม่หยุดยั้งรับรางวัลแจ็กพอตที่ใหญ่ที่สุดของประเทศไทยในปี...",
+      "id": "topic-efb5f46299",
+      "title": "เดิมที กีฬา วอลเลย์บอล มี ชื่อ เรียก อีก อย่าง ว่า อะไร 👏เสนอการเปิดบัญชีฟรีและคาสิโนด้วยเงินจริง ประสบการณ์การใช้งานระดับพรีเมี่ยม และการบริการลูกค้าที่เป็นเลิศ เกมออ...",
       "sourceType": "news",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: วอลเลย์บอล / source: Northern California Public Media - วอลเลย์บอลหญิงทีมชาติบราซิล 🎵รับรางวัลแจ็กพอตที่ใหญ่ที่สุดของประเทศไทยในปีนี้และสนุกไปกับการลุ้นรางวัลใหญ่อย่างไม่หยุดยั้งรับรางวัลแจ็กพอตที่ใหญ่ที่สุดของประเทศไทยในปีนี้ สัมผัสควา",
+      "summary": "ข่าวจาก Google News keyword: วอลเลย์บอล / source: Northern California Public Media - เดิมที กีฬา วอลเลย์บอล มี ชื่อ เรียก อีก อย่าง ว่า อะไร 👏เสนอการเปิดบัญชีฟรีและคาสิโนด้วยเงินจริง ประสบการณ์การใช้งานระดับพรีเมี่ยม และการบริการลูกค้าที่เป็นเลิศ เกมออนไลน์ที่ทุกคน",
       "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -986,101 +1062,25 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#วอลเลย์บอลหญิงทีมชาติบรา"
+        "#เดิมทีกีฬาวอลเลย์บอลมีชื"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
         {
           "title": "Northern California Public Media",
-          "url": "https://news.google.com/rss/articles/CBMirwNBVV95cUxPX3AyY05PeGhpeWROVWotbVJfaWVuWVY4UGxaRVc5X2dyX2xvV2JYMklPY1lHMC1kSW9xbUVDQXpVcFRJbVhEeElieVh1RF9MaWtIdUpuVWZqamlRWEN2MWI0ODVEay0yNUxFOWN6UHBkTFNZTmwtZVpJTEZZR0hodFY2aEV0UjdLSFdjSGl3dHk3UnFGQnhzTFdRR2pVOExWWkJTWU9fX1J0ZjlCVTZySGliWFFhdHpqR3dmZmlZUmlmRkw5bjN4SUJLLTA2d3NRekpyUGtHT2l3eVc0WGduY0plbXJHenppYVBBQk1abGxIQkdhQU14LWp3S3pNblN2c0tHTFEtcE5pNmFUM0JtN2ItcmZkcEpIeXpvcmtyUmQ1UGxuZDZVUnRpTGx6RGF5OGNDelVPazVvVnRWZl9lME1WMTFwS1BYRkhiUVBVVTl2YkFHbks3ZW00TWF5Q3BIdlliVkMzenhueXNIRTRGRmx2M1h4VzJtSHhCRzB0S0MzM2VUV0ZzTWMwUVJ0cm9sYWsyejRPTWZJLUlRSG5JejZfZ1d0Y25MYnpqcWJGcw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiogVBVV95cUxPNHRHYWpRVkJCUUI4ZzZpT3JiUDc5TUpOMHRZZUVnWUI2MHR0REJwUUxvUjl2bHBYRzhXUG8tSENWRTBReGQzWDF0akJRdEVfY3BUYmRjM3dELWk2blE2cDhfcWZUbTB6RVpvNE1XRE1QS29VRzVTRVdxUERXZ1hiVGtOSzJwdEpTNHRmVWtVbnRVTGp3YVdsX3BkcTRoYUdNeWMwQWx6eVgzRWd3SlQ1OEllYlRWZTdCUWd1ZDVibldJOExFamFxWldjZ2tGdXd3TzlIa1M5SF90Z1pzRGt6UWVhSjZBbHdwTFFnM3psTjIwN0Q3RzZyWG1RaVMyV0pFOG1pYVdSbVg4ZTFxaVB0MG9GX1NYcFF4V2RMQXZwUm16ZW8zNDNRRkZ6UFdxTUhDSjhoRHlxZDZPZ1NkQVhsaUNSRmh3Y3pUWXI1cHdRWkswbjdCOUVxcDdlVmhETTFXd1drcUNNWTVMZDl6OGFsZm1TemI2bU84MGVoVHpLcEJwbDVFamN5V3B2NG9jME5tQkFYTlQ5ZGVTZzNSTXpIYnFmdGI3cnNFbjhweXNxdGE2S1RpaC1nM3psd3VuWXU5TjRFOXdlOGVFY2tPU096Z2VsVkhIR1hQZ3k1b1VzVzNaekxnYTFBZUZEdWpEeXFXc1dhc1hvekFPNUxQNWxrWk9qSDRPU3BsN2xockxGUnlSVzk5UkN1V3BoVmIzM2o0T1NNeFBTbEI5V0x0ekhLOWRXeGVPQ2NNUW43UXlGRzRvQUduU1hYMkczem5kUVprbHN1bzlrRHhXT3JfcTdtdTBIYUJ0ZnVmRElyMExyRE1xc0R4Yi1NVVN1eGRLeG4wb0dReDNsN2hDcWxQWEpKUjMxbUVuM1RManpwRmpQUVZ1Zw?oc=5"
         }
       ],
-      "updatedAt": "2026-06-28T02:54:59+07:00"
+      "updatedAt": "2026-06-29T02:56:30+07:00"
     },
     {
-      "id": "topic-f230fe4b1f",
-      "title": "สอบกพ",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 2000+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#สอบกพ"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "5 กรกฎาคม จัดสอบ \"ก.พ. 2569\" ภาค ก. เช็กศูนย์สอบ 14 จังหวัด อาจมีการจราจรหนาแน่น",
-          "url": "https://www.thairath.co.th/news/society/2944063"
-        },
-        {
-          "title": "โปรดวางแผนการเดินทาง หลีกเลี่ยงสนามสอบ ก.พ.",
-          "url": "https://www.chiangmainews.co.th/news/3962772/"
-        },
-        {
-          "title": "ก.พ. แจงปมจ้าง มศว จัดสอบ ยันคุมเข้มออกข้อสอบ-ประมวลผลเอง",
-          "url": "https://thaitv5hd.com/web26/content/68156/%E0%B8%81-%E0%B8%9E-%E0%B9%81%E0%B8%88%E0%B8%87%E0%B8%9B%E0%B8%A1%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%87-%E0%B8%A1%E0%B8%A8%E0%B8%A7-%E0%B8%88%E0%B8%B1%E0%B8%94%E0%B8%AA%E0%B8%AD%E0%B8%9A-%E0%B8%A2%E0%B8%B1%E0%B8%99%E0%B8%84%E0%B8%B8%E0%B8%A1%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%A1%E0%B8%AD%E0%B8%AD%E0%B8%81%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%AA%E0%B8%AD%E0%B8%9A-%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%A1%E0%B8%A7%E0%B8%A5%E0%B8%9C%E0%B8%A5%E0%B9%80%E0%B8%AD%E0%B8%87"
-        }
-      ],
-      "updatedAt": "2026-07-04T16:10:00+07:00"
-    },
-    {
-      "id": "topic-72fa650470",
-      "title": "ฮานอยวันนี้",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 100+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#ฮานอยวันนี้"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "หวย \"ฮานอย\" ประจำวันที่ 04/07/69",
-          "url": "https://siamrath.co.th/lottery/hanoi/158402"
-        },
-        {
-          "title": "\"สถิติหวยฮานอย\" 3 ก.ค. 69 หวยฮานอยวันนี้ ฮานอยย้อนหลัง 03/07/69",
-          "url": "https://www.komchadluek.net/lottery/check-lottery/619093"
-        },
-        {
-          "title": "สถิติหวย“ฮานอย”ออกวันเสาร์ย้อนหลัง 10 งวด",
-          "url": "https://siamrath.co.th/lottery/hanoi/158330"
-        }
-      ],
-      "updatedAt": "2026-07-04T18:00:00+07:00"
-    },
-    {
-      "id": "18-2026-3-dc441007eb",
-      "title": "เปิดชื่อ 18 วอลเลย์บอลหญิงไทย ลุยเนชันส์ ลีก 2026 สนาม 3 เช็กโปรแกรมล่าสุด",
+      "id": "24-2569-23-5b10fd103f",
+      "title": "เมื่อวันที่ 24 มิถุนายน 2569 นายเชษฐพันธ์ มากสัมพันธ์ รองปลัดกระทรวงการต่างประเทศ เข้าร่วมการประชุมเจ้าหน้าที่อาวุโสอาเซียน - แคนาดา ครั้งที่ 23 ที่กรุงจาการ์ตา สาธารณ...",
       "sourceType": "news",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: วอลเลย์บอล / source: Thai PBS - เปิดชื่อ 18 วอลเลย์บอลหญิงไทย ลุยเนชันส์ ลีก 2026 สนาม 3 เช็กโปรแกรมล่าสุด    Thai PBS",
+      "summary": "ข่าวจาก Google News keyword: ความสัมพันธ์ / source: facebook.com - เมื่อวันที่ 24 มิถุนายน 2569 นายเชษฐพันธ์ มากสัมพันธ์ รองปลัดกระทรวงการต่างประเทศ เข้าร่วมการประชุมเจ้าหน้าที่อาวุโสอาเซียน - แคนาดา ครั้งที่ 23 ที่กรุงจาการ์ตา สาธารณรัฐอินโดนีเซี",
       "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -1088,16 +1088,16 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#เปิดชื่อ18วอลเลย์บอลหญิง"
+        "#เมื่อวันที่24มิถุนายน256"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
         {
-          "title": "Thai PBS",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ud2d1bHU1N2FDQ0JRSzRzQnBaVlQ4NTI4Z1dFUklwbU5DOTFweFAwZUJ5aHh3SEFZc0xTa2llT2JuUDFPWGgzUEMzc2luZkNta2NCNll3NUM?oc=5"
+          "title": "facebook.com",
+          "url": "https://news.google.com/rss/articles/CBMiqAdBVV95cUxOTXBvTFNXeTdiLWRPYzJNZUQ2a29YaHZybWZabXpYTXV2aW9aeGJRdGhRdnBmMkZOdXVSTENPaGFQY291MEdkZGh1N0dsakFTNVB4SFNxQW9JZS1mTFpGdjF5WTFmWmNlZHpXNlNMNHhqS096cXgxTE5JLWUyQThVMjVjeVVOWXFETndmczVjempqXzVtVWdEWFRIcVRUV1czNG1hWEl5RFBfYnBORjZVTGx6WFhCeWFWb3MtVEFnR01RcDdFbkk4ZWhWbk5obUt2dEIzSzlscnBuZ3doMFRfbk5QdjNtRzdhdlp6ZjRhR1pBbW5HbUJqZHJvNE1SY084eXpKRnBHWHExT2RMNWRycDB1YVF2MFFkRmNlUzJjMC1vWURENVduVjhmNUF2eVF4MzJFdjM1NXd3cVNVYUlMSEwzZGFDT3NGWUpZUUtiWlpMVGZNYkt0eFFmaGV0bzdIZ0pmbkNVVjNSTWxjV3dOaHhreURJNy10blllWkNjclF5d1lWUHI2dTBiX1NtMXRNZ0RxTXBnbXgxSl9BNnV2dEpMVlp1SWRyVGRuaFlGbVFpeC1wY3RjXzZkSTJNbllPT1N4TFdoal9NTUVWenFNTk9WX3NIemZNVzVXUTlYeFpFRm5TemowWjhnRVJUZ3lmSmJVOFM5NXRRRGs2bnZybnhrMU5nSlJFVFExdnBtVmtpQ1lpNlE2TFBwclp4MDUwUXBTNEpseEctZ1Q3S0xmNUphYUVNcVg5SnlmT0xXZmd4U2U5bWFObl93eDZ6ck9SRlQ4WGl1V0Fkc1Nxa0xSamxROERuMFNSNXpqcGpPWGFIMnRVdy1wTlBIZDV2a05hWC1pS2d3NG41azZYbTVXU3BON3NJR1NkMmp0U0k5Y1l3MnFFU2R5ZnNXck16XzFJR19EMGd5ZTlCclBVaDdrZVdCNnFlMlh2VWNpSHdKR3VqYy1xUnpFQ1JMV1VjQ2d5OXdPdTlrblZ4VXJmWmpVV2VuMDlsU0VSaF9yQlFHNHFSS0J5X1lDdC1ZTkhRSUNPTHVpck5rVmNrSmJnRE9LZlNJbFBkNS0za0lnUENJb1hWZkV3ak85Q3dPQ1V6THNhUjRyanhIUUhRd1VZa3pNU2JwRlhxOXBxaVdTSnBXaVpKMkpCbjNBcF9tS3QybGYxaHg4ODNEeVJ0OU1fclRCb1pxdFdZWlFJSkNRY3NDRWQzQXdrVlJkUzhVRXF0UktUWkU1U0ZZRVM?oc=5"
         }
       ],
-      "updatedAt": "2026-07-03T21:33:59+07:00"
+      "updatedAt": "2026-06-30T02:24:52+07:00"
     },
     {
       "id": "topic-2796979ebd",
@@ -1106,7 +1106,7 @@
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 5000+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 10000+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -1123,8 +1123,8 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "วิเคราะห์บอล แคนาดา vs โมร็อกโก 4 ก.ค. 69 : ล้างแค้นบอลโลก-ลุ้นสร้างประวัติศาสตร์เข้ารอบ",
-          "url": "https://www.siamsport.co.th/worldcup/106155/"
+          "title": "ผลบอล โมร็อกโก 3-0 แคนาดา : อูนาฮี เหมา 2 พาสิงโตแอตลาสลิ่ว 8 ทีมบอลโลก",
+          "url": "https://www.siamsport.co.th/worldcup/106191/"
         },
         {
           "title": "ทีเด็ดบอลวันนี้ 4 ก.ค. 69 วิเคราะห์บอล 2 คู่เด็ด ฟุตบอลโลก 2026 รอบ 16 ทีม โปรแกรมบอลวันนี้",
@@ -1242,32 +1242,6 @@
       "updatedAt": "2026-06-30T15:36:00+07:00"
     },
     {
-      "id": "topic-68a5fdafe0",
-      "title": "ฟารีดา-ติณติณ เจอหน้าครั้งแรกหลังมีดราม่า ฝ่ายหญิงเผยสิ่งที่ต้องการเรียกร้อง (คลิป)",
-      "sourceType": "news",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "medium",
-      "summary": "ข่าวจาก Google News keyword: ดราม่า / source: Thairath.co.th - ฟารีดา-ติณติณ เจอหน้าครั้งแรกหลังมีดราม่า ฝ่ายหญิงเผยสิ่งที่ต้องการเรียกร้อง (คลิป)    Thairath.co.th",
-      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#ฟารีดา-ติณติณเจอหน้าครั้"
-      ],
-      "riskNote": "Medium risk ควรเลี่ยงการพาดพิงบุคคลจริงและใช้คำถามเชิงสร้างสรรค์",
-      "sources": [
-        {
-          "title": "Thairath.co.th",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB6bXFPSFJMTFhCbjhJbDJlc1dnVG9PT0JCM3R4ajZXX0FWckllSXVGZVdvZTZOYzdkN010cnhLdHl1MkZMZXctR1JvMjVHZjBKcno2OWtnVzN0RDl5dWc?oc=5"
-        }
-      ],
-      "updatedAt": "2026-06-29T13:09:45+07:00"
-    },
-    {
       "id": "topic-68b76957e4",
       "title": "ออกัส-เล้ง ไม่หวั่นดราม่ารีเมก ‘บุพเพสันนิวาส’ เวอร์ชั่นวาย พล็อตดีไม่ควรมีเวอร์ชั่นเดียว",
       "sourceType": "news",
@@ -1334,6 +1308,32 @@
         }
       ],
       "updatedAt": "2026-07-03T05:02:24+07:00"
+    },
+    {
+      "id": "3-fa3cd98993",
+      "title": "📣 ชอบคำพูดเตือนสติ ที่คุณเฉียงพูดในรายการโหนกระแส กับประเด็นดราม่า แอร์ฯ สาวถูกจับคดีขนยาเสพติดที่ออสเตรเลีย ซึ่งคุณเฉียงบอกว่าคุณพ่อได้สอนตนไว้ 3 ข้อ ถ้าไม่อยากชีวิตพ...",
+      "sourceType": "news",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "medium",
+      "summary": "ข่าวจาก Google News keyword: ดราม่า / source: facebook.com - 📣 ชอบคำพูดเตือนสติ ที่คุณเฉียงพูดในรายการโหนกระแส กับประเด็นดราม่า แอร์ฯ สาวถูกจับคดีขนยาเสพติดที่ออสเตรเลีย ซึ่งคุณเฉียงบอกว่าคุณพ่อได้สอนตนไว้ 3 ข้อ ถ้าไม่อยากชีวิตพัง คือ 1️⃣ อย",
+      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#📣ชอบคำพูดเตือนสติที่คุณเ"
+      ],
+      "riskNote": "Medium risk ควรเลี่ยงการพาดพิงบุคคลจริงและใช้คำถามเชิงสร้างสรรค์",
+      "sources": [
+        {
+          "title": "facebook.com",
+          "url": "https://news.google.com/rss/articles/CBMi9gdBVV95cUxNSHg4VnBTZ3JySWxYc1NRaE9qSWEwNy04cms1bGpNZnBHVHVSeF84dXdGU3NZMEJ1MzRtV0cxdm9tZGRFM3R4am9RSDNtd1dGdUx6Wng1S0hTd0dPSG5xMzM5S1FEcUpCazhDMFNXeVVTNDlkeHJxZ2dlajA3M3dtSksyVXVfaW5Lcnl3azExbnhXNV91VzhuVk9yZE5JMjR6UjZvTko4LUpmTktBT3EwNjNiZ0FuelNPUmpJUk4xUzJ3bFVoeHJhTDlybUlDQWh3ZGtwdFNrd3BsVWtySjI3aUttXzZsQVpraGlYUmRXX2ZBT2NLTDZPclhMRmVzemxvdUpxRHpIOEczWXF5NWhXbC0yeGo5QUZtS01CWFZkVXRGTnJyTTk5RGkwR0lyaTRzQjZ4TV95cFEyc2tGWmxQYmRFRmtJU1JVa0p5ZldrMkxDZ2JiOHZYSHFfU3YyWW9nOEpvVzFCeE9fZEdndm1VNzNCOXRRWTFKMkpxWnlCSzY4RXpVNXpxenVSSTJOSm5kM25BLVRYNXRKdFdjQ21URUx6ZWpnTXVTdW5VNFRRRlQxSEJjSkNHLV9zYXp3RmVBNV9MbE1GM1VDYk1zRllEZW5yeU1nSXc5TDlHeWs0aWdaLWw3VUNpZ2JBOTRsWmFQcWlxbTBiVHpIZHhHdzNXT3RDcUZ6dEo2MTIzUDkzeHRLNElpb203VThJanFMN3paLWF5d3R1ZlRpNGhoaU5neXBwUndpR19Xbk9zNThGc2FqMWZ5c1RDcnRFRC1yWVlqWFdQeDN6eTA5cXlYU1VDcmFTRDQxTUxMaXRFV1BIcC1fQWhRWnY3bmYwODlfMzdfQXdfTE9HTGpkaUNGNWdTc0RPel9zV1hrVDI1a1UyRkxyRFVrUzFOeGc2cV9kekdnUW5EcExEamRnUXhsVm5PWHJmanVWaHF3N2d5RjJMMjljVjVieTVtRHhLbTdxMVhlbHloeXdSN1QyYnRMbl9oelp2TThmWWtFd1VJZU1xY1JwS1B5VmZlS1phTlNWRXdQUkhFVzdWTk5UWXQyQkZEQlppNG1pVWhPLUlqVWlVM2VZX19feDVQVk1lWTZXOHFwMktJV3R5NWRtcWt1b1ZPRVJJVElOVEtKTlV5WmR3VjNwbW1hR3l6b1V5VmtkTFhKeExfSlNRNlBpeDdtZ096bGhDb1JxX0tUZzN1a3pVZUlKLXJ3cV9wRlc5WHNyUUw1UGFRb2RBdnI0YUtLa3A3R2lFMVJqcHlWOVBSTXBmLXB1N19hTTV2ZDJfVm9ZUEJNb1VaX0pLUXVsY3dqM1o4dHdBWk02d3YxcW9IcEgyV0xfQVdWaXc?oc=5"
+        }
+      ],
+      "updatedAt": "2026-07-01T15:23:10+07:00"
     }
   ]
 }
