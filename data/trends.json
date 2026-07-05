@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T18:36:33.787802+07:00",
+  "generatedAt": "2026-07-05T21:46:01.507815+07:00",
   "dateRange": "2026-06-28 to 2026-07-05",
   "sourceErrors": [],
   "topics": [
@@ -342,32 +342,6 @@
       "updatedAt": "2026-07-03T18:27:47+07:00"
     },
     {
-      "id": "topic-2a4efc11c8",
-      "title": "ซีรีส์เกาหลี",
-      "sourceType": "news",
-      "category": "entertainment",
-      "contentPotential": "high",
-      "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: ซีรีส์ / source: TrueID - ซีรีส์เกาหลี #สายลับคิมกลับมาแล้ว Agent Kim Reactivated    TrueID",
-      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
-      "creatorAngle": "เล่า reaction ส่วนตัวต่อกระแส แล้วเปิดคำถามให้คนคุยต่อ",
-      "promptIdea": "กระแสนี้ทุกคนอยู่ทีมไหน?",
-      "hashtags": [
-        "#EntertainmentTH",
-        "#คุยเรื่องบันเทิง",
-        "#กระแสวันนี้",
-        "#ซีรีส์เกาหลี"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "TrueID",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBYS1AtZTAya0ZNTkRIdHB5MEJTTUNOUUt3VzYwdDlIZ1YzM3JYRXZJMHF3akpZUnQ5am5HWExCQXZkcldNQXBkdzFHeHZ4VC1EZzgyRkxGQlhMdG4tcndabjF3?oc=5"
-        }
-      ],
-      "updatedAt": "2026-06-30T17:19:42+07:00"
-    },
-    {
       "id": "agent-kim-reactivated-sbs-2-e9b522100e",
       "title": "มาเพื่อทุบ!!! ซีรีส์แอ็กชันสุดเดือด Agent Kim Reactivated จากช่อง SBS นำแสดงโดย โซจีซอบ - ชเวแดฮุน - ยุนคยองโฮ แม้เพิ่งเข้าสัปดาห์ที่ 2 ของการออนแอร์ แต่ทำเรตติ้งพุ่งท...",
       "sourceType": "news",
@@ -478,7 +452,7 @@
       "category": "food",
       "contentPotential": "high",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 500+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 2000+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "ให้ Creator เล่าประสบการณ์ร้าน/เมนูที่อยากลอง แล้วถามคนอื่นว่าคิดเหมือนกันไหม",
       "promptIdea": "เห็นคนพูดถึงเมนูนี้เยอะมาก มีใครลองแล้วบ้าง?",
@@ -499,41 +473,15 @@
           "url": "https://www.sanook.com/sport/1657818/"
         },
         {
-          "title": "ผลวอลเลย์บอลสด ไทย ไล่อัด อุซเบกิสถาน 3-0 วอลเลย์บอลหญิง ยู-18 ชิงแชมป์เอเชีย 2026",
-          "url": "https://www.thairath.co.th/sport/worldsport/volleyball/2943812"
+          "title": "วอลเลย์บอลหญิงไทย U18 ทุบอินโดนีเซียกระจุย ลิ่วตัดเชือกชนเกาหลีใต้ ศึกชิงแชมป์เอเชีย",
+          "url": "https://www.siamsport.co.th/other-sports/volleyball/106233/"
         },
         {
-          "title": "วอลเลย์บอลหญิงไทย U18 ทุบ อุซเบฯ 3-0 เซต ลิ่ว 8 ทีมดวล อินโดฯ ศึก U18 ชิงแชมป์เอเชีย",
-          "url": "https://www.siamsport.co.th/other-sports/volleyball/106138/"
+          "title": "ผลวอลเลย์บอลสด วอลเลย์บอลหญิงไทย U18 ถล่ม อินโดนีเซีย คว้าตั๋วชิงแชมป์โลก",
+          "url": "https://www.thairath.co.th/sport/worldsport/volleyball/2944221"
         }
       ],
       "updatedAt": "2026-07-05T17:50:00+07:00"
-    },
-    {
-      "id": "u18-3-0-2-18-2026-7febf328e6",
-      "title": "สาวไทย U18 ฟอร์มแรงต่อเนื่อง! ตบออสเตรเลีย 3-0 คว้าชัย 2 นัดรวด ศึกชิงแชมป์เอเชีย การแข่งขันวอลเลย์บอลหญิง รุ่นอายุไม่เกิน 18 ปี ชิงแชมป์เอเชีย 2026 รอบแบ่งกลุ่ม กลุ่ม...",
-      "sourceType": "news",
-      "category": "food",
-      "contentPotential": "high",
-      "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: วอลเลย์บอล / source: facebook.com - สาวไทย U18 ฟอร์มแรงต่อเนื่อง! ตบออสเตรเลีย 3-0 คว้าชัย 2 นัดรวด ศึกชิงแชมป์เอเชีย การแข่งขันวอลเลย์บอลหญิง รุ่นอายุไม่เกิน 18 ปี ชิงแชมป์เอเชีย 2026 รอบแบ่งกลุ่ม กลุ่ม เอ ที่จังหวั",
-      "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
-      "creatorAngle": "ให้ Creator เล่าประสบการณ์ร้าน/เมนูที่อยากลอง แล้วถามคนอื่นว่าคิดเหมือนกันไหม",
-      "promptIdea": "เห็นคนพูดถึงเมนูนี้เยอะมาก มีใครลองแล้วบ้าง?",
-      "hashtags": [
-        "#FoodTrend",
-        "#CafeTH",
-        "#รีวิวของกิน",
-        "#สาวไทยU18ฟอร์มแรงต่อเนื่"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "facebook.com",
-          "url": "https://news.google.com/rss/articles/CBMiiwdBVV95cUxOUFNGUXdYN2pROVpfNWxEUzlnNjBlWnJ5eENoS1BwNkZnZnAxWlJmbm9kTmFTMEo2MHZUazJ3LXV4eEpwVllrY3ZtVlQ1U1lSTUIweW1NR1ZkMVZlSmphakRrcWNMS1VXczk2X0xmYjZsMlZ4QnhRT25wZFhQWGRqQktWQjgzeUJMNllpX040aWZZQXROX181VkhKemJVMm9yZ0h3UEtndVBBZWhnYllyMGFHM2QtVmZDS2RyTWFtS2ZQUFk0QmVCQ29CdzFzb3dHTVpHTzNQV0VxeVFkU3BFOHdneU9FeUtuZVdUMml3ZGdPWlowTUdWamVsRzNtb2RqRl9xN3RjLTc4UDJTZkZBckhzbXFycTZLRHRNRW0zNG1XSU80R1k5Z2lXelo5dTlnQWw3QWdTT3Flbnl3TldxdTZsZzdnQzdhYl9hcmVIVDMyLTcybjBWNWs4TDlUNWc2cVd4LXgwWGowbmk5NWZqUWs2Q1FoMlZqX2tWdUMyNlRvcS1sOTJoM1UyTFFnWWFhVk42d1E4UnZETHV3SmpkcHRPcE1RTHdKdEVBTC1tWk1TQmNGTkFwNFB1Z0pOT1dhbG4ybThDMjRlZkFTYkFpSG84d1k3UG9Eb0gyRkZQdWhjNGZCRlJQYzM5c191TTBjQjFFYS0wOGFoenBYS1g0R0drYndLcjdQdDBVTU5LRkdFbVgtQWpyN3ozRHY5ZzlmMF9HT0pvdl9mby04VURzcjgyX1U3NDVXNWJkNHMyYi0wekpMZ3h4Nk1YbjRSMlVmNlBGTUFPc3Bvbm5wRm5idzdZd3JZdFUwaVUteFo1WDg2ZFRXWkxfUmxFN0JDWld5Si1oMlZmTVFyNVU4NUI2RTdEQl9hY0cxRkZnNVZ3LUIzS1l5QW95TjNFemt2alNmMUtrUlRHVkU5bkMxSnlaWVRGSjdjQkhKaWZXNWxpUEM0cG5rQmV6YlJYdndudE5QTU95T25ycTZ2ZzBTVUxLU3l2U2N3OUp1QU1RcWo0YTFiRVFZY2VOMFdBclFJWEwtTGNSNzYybXh1XzNlUDY3VkRITE9NQnJrbWR2eGk2QW15dUpKT0luU01SbDNObkpBWFlNZDZCdlJLQUFuYWJTRy1OTFJnS1JVb25FWDdCTW5hbXRIVDdpUTc4TEFvXzlYUExCU3FHa3VZX2NwTWFWSXFSenpmYnhHZExr?oc=5"
-        }
-      ],
-      "updatedAt": "2026-07-02T20:22:18+07:00"
     },
     {
       "id": "topic-479360bdec",
@@ -640,44 +588,6 @@
       "updatedAt": "2026-06-30T14:00:00+07:00"
     },
     {
-      "id": "morocco-d3b252686b",
-      "title": "morocco",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#morocco"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "Canada's Jesse Marsch on World Cup exit vs. Morocco: 'We were the better team'",
-          "url": "https://www.espn.com/soccer/story/_/id/49270971/canada-jesse-marsch-world-cup-exit-morocco-were-better-team"
-        },
-        {
-          "title": "France ousts Paraguay after World Cup Round of 16 kicks off with Morocco's rout of Canada",
-          "url": "https://sports.yahoo.com/soccer/live/world-cup-2026-bracket-schedule-scores-results-live-updates-round-of-16-130000983.html"
-        },
-        {
-          "title": "Soufiane Rahimi seals Morocco's win with stoppage-time goal vs Canada",
-          "url": "https://www.foxsports.com/watch/fmc-ic4222yn5qnj4t88"
-        }
-      ],
-      "updatedAt": "2026-07-05T01:00:00+07:00"
-    },
-    {
       "id": "paraguay-vs-france-3961d8683a",
       "title": "paraguay vs france",
       "sourceType": "trends",
@@ -705,12 +615,12 @@
           "url": "https://www.marca.com/futbol/mundial/2026/07/05/doue-alegra-fiesta.html"
         },
         {
-          "title": "El día 25 del Mundial, en 5 claves",
-          "url": "https://holanews.com/el-dia-25-del-mundial-en-5-claves/"
+          "title": "Gill: \"Entré en un momento de calentura\"",
+          "url": "https://www.vssports.com.py/versus/2026/07/05/gill-entre-en-un-momento-de-calentura"
         },
         {
-          "title": "Alfaro señala a Francia tras eliminación: \"Terminaron haciendo tiempo\"",
-          "url": "https://www.tudn.com/mundial-2026/paraguay-vs-francia/alfaro-senala-a-francia-tras-eliminacion-saben-lo-que-les-costo"
+          "title": "Calor en el ánimo y el ambiente: Paraguay mete la pierna antes de caer ante Francia en el Mundial",
+          "url": "https://apnews.com/article/mundial-paraguay-francia-faltas-mbappe-gill-galarza-53e105955baf10d41d0a65249e32b2b0"
         }
       ],
       "updatedAt": "2026-07-05T08:10:00+07:00"
@@ -739,16 +649,16 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "พายุไมสัก ทวีกำลังแรงขึ้นเป็นพายุโซนร้อนกำลังแรงแล้ว เช็กจังหวัดฝนตกหนักถึงหนักมาก",
-          "url": "https://www.thairath.co.th/news/local/2944085"
-        },
-        {
-          "title": "อุตุฯ เผย “พายุไมสัก” อ่อนกำลังลง ไทยยังเสี่ยงฝนหนัก 5-6 ก.ค.",
-          "url": "https://theactive.thaipbs.or.th/news/climate-change-20260705"
+          "title": "กรมอุตุนิยมวิทยา ประกาศ “พายุไมสัก” ฉบับ 11 เช็กพื้นที่ฝนตกหนัก 5-6 ก.ค. 69",
+          "url": "https://www.thairath.co.th/news/local/2944210"
         },
         {
           "title": "กรมทรัพยากรธรณีแจ้งเฝ้าระวังแผ่นดินถล่ม ระหว่างวันที่ 5 – 7 กรกฎาคม 2569 | สวพ.FM91",
           "url": "https://today.line.me/th/v3/article/RB5lyqZ"
+        },
+        {
+          "title": "อุตุฯ เผย “พายุไมสัก” อ่อนกำลังลง ไทยยังเสี่ยงฝนหนัก 5-6 ก.ค.",
+          "url": "https://theactive.thaipbs.or.th/news/climate-change-20260705"
         }
       ],
       "updatedAt": "2026-07-05T06:00:00+07:00"
@@ -812,7 +722,7 @@
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 1000+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 5000+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -837,49 +747,11 @@
           "url": "https://www.dailynews.co.th/news/6001923/"
         },
         {
-          "title": "เตือนภัยระดับสูง! ซูเปอร์ไต้ฝุ่นบาหวี่จ่อถล่มเกาะกวม เตือนคลื่นสูงกว่า 10 เมตร",
-          "url": "https://today.line.me/th/v3/article/kEKzPj0"
+          "title": "เพจ \"ที ลมฟ้าอากาศ\" เตือน \"ไต้ฝุ่นบาหวี่\" อาจรุนแรงเป็นสตอร์มเซิรส์ถล่มไต้หวัน หากไม่เปลี่ยนทิศ",
+          "url": "https://mgronline.com/uptodate/detail/9690000064808"
         }
       ],
       "updatedAt": "2026-07-05T17:50:00+07:00"
-    },
-    {
-      "id": "topic-fc953965f9",
-      "title": "ดูบอลสด",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 1000+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#ดูบอลสด"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "อันเชล็อตติ เผย ราฟินญ่า มีสิทธิ์คัมแบ็กช่วย บราซิล ดวล นอร์เวย์ รอบ 16 ทีมบอลโลก",
-          "url": "https://www.siamsport.co.th/worldcup/106213/"
-        },
-        {
-          "title": "ไม่น่าเชื่อ ย้อนสถิติเจอกัน \"บราซิล\" VS \"นอร์เวย์\" ก่อนเจอกัน ฟุตบอลโลก 2026 รอบ 16 ทีมสุดท้าย",
-          "url": "https://www.thairath.co.th/sport/worldcup/2944136"
-        },
-        {
-          "title": "โปรแกรมฟุตบอลโลก 2026 (5 กรกฎาคม)",
-          "url": "https://thestandard.co/world-cup-2026-round-16-2/"
-        }
-      ],
-      "updatedAt": "2026-07-05T04:50:00+07:00"
     },
     {
       "id": "topic-67ef219b8b",
@@ -888,7 +760,7 @@
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 1000+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 500+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -909,12 +781,12 @@
           "url": "https://www.siamsport.co.th/worldcup/106206/"
         },
         {
-          "title": "โปรแกรมฟุตบอลโลก 2026 รอบ 16 ทีมสุดท้าย",
-          "url": "https://www.thaipbs.or.th/now/content/4155"
+          "title": "มีทีมใหญ่ร่วง เปิดทีมเต็งแชมป์ฟุตบอลโลก 2026 ล่าสุด หลังเข้ารอบ 16 ทีม เต็ง 1 มาแรง",
+          "url": "https://www.thairath.co.th/sport/worldcup/2943990"
         },
         {
-          "title": "โปรแกรมบอลโลก 2026 รอบ 16 ทีม 6 ก.ค.69 บราซิล อังกฤษ มีคิวเตะ",
-          "url": "https://www.pptvhd36.com/sport/news/278924"
+          "title": "โปรแกรมฟุตบอลโลก 2026 คืนนี้ รอบ 16 ทีมสุดท้าย ประจำวันที่ 5 ก.ค. 69",
+          "url": "https://www.sanook.com/sport/1657805/"
         }
       ],
       "updatedAt": "2026-07-05T04:50:00+07:00"
@@ -951,8 +823,8 @@
           "url": "https://mgronline.com/sport/detail/9690000064689"
         },
         {
-          "title": "ปารากวัย vs ฝรั่งเศส 0-1 รอบ 16 ทีม ฟีฟ่าเวิลด์คัพ 2026",
-          "url": "https://readthecloud.co/%E0%B8%9B%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%81%E0%B8%A7%E0%B8%B1%E0%B8%A2-vs-%E0%B8%9D%E0%B8%A3%E0%B8%B1%E0%B9%88%E0%B8%87%E0%B9%80%E0%B8%A8%E0%B8%AA/"
+          "title": "Dark Arts ศิลปะมืดของเกมฟุตบอล ที่ไม่เคยสวยงาม",
+          "url": "https://thestandard.co/dark-arts-football-paraguay-france/"
         }
       ],
       "updatedAt": "2026-07-05T08:50:00+07:00"
@@ -990,7 +862,7 @@
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 500+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -1007,19 +879,57 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "ตามหาทายาทรับมรดกคุณยาย อยู่บ้านพักผู้สูงอายุ 26 ปี ก่อนตกเป็นของแผ่นดิน",
-          "url": "https://hilight.kapook.com/view/253996"
-        },
-        {
           "title": "“สภากาชาดไทย” ตามหาทายาทหญิงวัย 82 ปี เสียชีวิตทิ้งทรัพย์สินไว้ หากไร้ผู้แสดงตนมรดกตกเป็นของแผ่นดิน",
           "url": "https://mgronline.com/onlinesection/detail/9690000064503"
         },
         {
           "title": "สภากาชาดไทย ประกาศตามหาทายาท “พัชรา อินทรสุข” รับมรดกตกทอดภายใน 30 วัน",
           "url": "https://ch3plus.com/news/socialnews/morning/466213"
+        },
+        {
+          "title": "‘คลัง’ รื้อภาษีมรดก เพิ่มทรัพย์สินใหม่ ชี้ปมทายาท ‘ยื้อโอน’",
+          "url": "https://www.bangkokbiznews.com/economics/1241301"
         }
       ],
       "updatedAt": "2026-07-05T16:50:00+07:00"
+    },
+    {
+      "id": "topic-ab8bd8f45d",
+      "title": "มวยไทย",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#มวยไทย"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "ข่าวมวยเด็ด วิกหมอชิต : วันอาทิตย์ที่ 5 ก.ค.69 ก้องธรณี สันติอุบล vs คมเพชร ศิษย์สารวัตรเสือ",
+          "url": "https://www.ch7.com/sports/883066"
+        },
+        {
+          "title": "โชว์ฟอร์มเดือด \"ไทยแลนด์\" บดชนะแต้ม \"พรเพชร\" ตีตั๋วเข้ารอบตัดเชือก \"ศึกมวยรอบปูนเสือฯ\"",
+          "url": "https://www.thairath.co.th/sport/fightsport/muaythai/2944203"
+        },
+        {
+          "title": "คมเพชรพลิกสับนับ 8 เบียดชนะคะแนนก้องธรณีคู่เอกมวยไทย 7 HD",
+          "url": "https://www.siamsport.co.th/other-sports/boxing/106228/"
+        }
+      ],
+      "updatedAt": "2026-07-05T18:50:00+07:00"
     },
     {
       "id": "casino-thailand-a992f92eb0",
@@ -1046,6 +956,32 @@
         }
       ],
       "updatedAt": "2026-06-29T00:52:02+07:00"
+    },
+    {
+      "id": "u18-8-a7ab94d01e",
+      "title": "เช็กได้ที่นี่! โปรแกรมถ่ายทอดสด วอลเลย์บอลหญิงไทย U18 ชิงแชมป์เอเชีย รอบ 8 ทีม",
+      "sourceType": "news",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "ข่าวจาก Google News keyword: วอลเลย์บอล / source: Sanook - เช็กได้ที่นี่! โปรแกรมถ่ายทอดสด วอลเลย์บอลหญิงไทย U18 ชิงแชมป์เอเชีย รอบ 8 ทีม    Sanook",
+      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#เช็กได้ที่นี่!โปรแกรมถ่า"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Sanook",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE56cklweW9hRExiUTdQR2IxTWw1djFmRjIzckVxQVU5b1c0c0llb19PY3JuNk01eFVqb21iWEdKeG9kRTF6R1lpVGNpdi1vUQ?oc=5"
+        }
+      ],
+      "updatedAt": "2026-07-05T08:59:00+07:00"
     },
     {
       "id": "18-2026-3-dc441007eb",
@@ -1106,7 +1042,7 @@
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 5000+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 2000+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -1123,19 +1059,57 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "“โซลาร์ภาคประชาชน” สมัครออนไลน์ได้แล้ว ขายไฟคืนรัฐได้ 2.20 บาท/หน่วย นาน 10 ปี",
-          "url": "https://www.thairath.co.th/news/politic/2944128"
+          "title": "6 ก.ค. 69! กฟน. ประกาศ \"ดับไฟ\" 3 จุดใน กทม. นนทบุรี",
+          "url": "https://www.pptvhd36.com/news/%E0%B8%AA%E0%B8%B1%E0%B8%87%E0%B8%84%E0%B8%A1/278980"
         },
         {
-          "title": "MEA แนะ 6 ขั้นตอน ยื่นขอขายไฟฟ้า โซลาร์ฯ ภาคประชาชน ปี 69 ผ่าน MyEnergy",
-          "url": "https://mgronline.com/business/detail/9690000064506"
+          "title": "กฟน. แจ้งไฟฟ้าดับวันที่ 6 กรกฎาคม 2569 ในพื้นที่กรุงเทพมหานคร-นนทบุรี",
+          "url": "https://www.thairath.co.th/news/society/2944152"
         },
         {
-          "title": "เปิดสมัครโซลาร์ภาคประชาชนออนไลน์ ขายไฟส่วนเกินเข้าระบบ 2.20 บาท",
-          "url": "https://www.posttoday.com/politics/domestic/744967"
+          "title": "เปิดพิกัด ไฟดับพรุ่งนี้ 5 กรกฎาคม 2569 | มุมข่าว",
+          "url": "https://today.line.me/th/v3/article/vXaJRkl"
         }
       ],
       "updatedAt": "2026-07-05T15:50:00+07:00"
+    },
+    {
+      "id": "topic-7dc26d49d7",
+      "title": "ไฟฟ้า",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 2000+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#ไฟฟ้า"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "กระทรวงพลังงาน เปิด 10 อันดับ \"เครื่องใช้ไฟฟ้ากินไฟสูง\" อันดับ 1 ไม่ใช่แอร์",
+          "url": "https://www.khaosod.co.th/special-stories/news_10311003"
+        },
+        {
+          "title": "เปิด 10 อันดับ เครื่องใช้ไฟฟ้า \"กินไฟสูง\" เผยชัดชั่วโมงละกี่บาท? แอร์ยังอยู่แค่อันดับ 3",
+          "url": "https://www.sanook.com/news/9897034/"
+        },
+        {
+          "title": "ยุคโลกเดือดปี 69! เปิดคู่มือเอาตัวรอด ลดค่าไฟ เซฟค่าน้ำ รับมือค่าครองชีพพุ่ง",
+          "url": "https://siamrath.co.th/article/articles-analysis/157508"
+        }
+      ],
+      "updatedAt": "2026-07-05T13:50:00+07:00"
     },
     {
       "id": "dream-team-18-23rd-princess-cup-est-col-b511986ad1",
@@ -1162,6 +1136,32 @@
         }
       ],
       "updatedAt": "2026-06-29T01:29:53+07:00"
+    },
+    {
+      "id": "love-for-you-2026-ca48ea8ac3",
+      "title": "รีวิว Love for You (2026) ซีรีส์จีนแนวโรแมนติกดราม่า",
+      "sourceType": "news",
+      "category": "entertainment",
+      "contentPotential": "high",
+      "riskLevel": "medium",
+      "summary": "ข่าวจาก Google News keyword: ซีรีส์ / source: TrueID - รีวิว Love for You (2026) ซีรีส์จีนแนวโรแมนติกดราม่า    TrueID",
+      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
+      "creatorAngle": "เล่า reaction ส่วนตัวต่อกระแส แล้วเปิดคำถามให้คนคุยต่อ",
+      "promptIdea": "กระแสนี้ทุกคนอยู่ทีมไหน?",
+      "hashtags": [
+        "#EntertainmentTH",
+        "#คุยเรื่องบันเทิง",
+        "#กระแสวันนี้",
+        "#รีวิวLoveforYou(2026)ซีร"
+      ],
+      "riskNote": "Medium risk ควรเลี่ยงการพาดพิงบุคคลจริงและใช้คำถามเชิงสร้างสรรค์",
+      "sources": [
+        {
+          "title": "TrueID",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB2TmlhTVBTSjFKTlNYa3MzY01GUU9mVC01UDE5dkc2MFJOWndlSDd1bm9FMk9HMmVGVW02U0NoTmxUMWJoSTA3WWZhQjFtNGdjSmJFZTR5SHBMSGhFRHV4Z0R3?oc=5"
+        }
+      ],
+      "updatedAt": "2026-07-05T10:36:38+07:00"
     },
     {
       "id": "topic-35569f41f2",
