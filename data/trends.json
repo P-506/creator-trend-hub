@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-09T00:39:52.319508+07:00",
+  "generatedAt": "2026-07-09T11:56:15.820374+07:00",
   "dateRange": "2026-07-02 to 2026-07-09",
   "sourceErrors": [],
   "topics": [
@@ -342,32 +342,6 @@
       "updatedAt": "2026-07-04T14:29:34+07:00"
     },
     {
-      "id": "topic-479360bdec",
-      "title": "เปิดลายแทงร้านอาหาร “เซ็นทรัล นอร์ทวิลล์” แลนด์มาร์กใหม่นนทบุรี รวมร้านมิชลินและแบรนด์ดัง",
-      "sourceType": "news",
-      "category": "food",
-      "contentPotential": "high",
-      "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: อาหาร / source: Thairath.co.th - เปิดลายแทงร้านอาหาร “เซ็นทรัล นอร์ทวิลล์” แลนด์มาร์กใหม่นนทบุรี รวมร้านมิชลินและแบรนด์ดัง    Thairath.co.th",
-      "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
-      "creatorAngle": "ให้ Creator เล่าประสบการณ์ร้าน/เมนูที่อยากลอง แล้วถามคนอื่นว่าคิดเหมือนกันไหม",
-      "promptIdea": "เห็นคนพูดถึงเมนูนี้เยอะมาก มีใครลองแล้วบ้าง?",
-      "hashtags": [
-        "#FoodTrend",
-        "#CafeTH",
-        "#รีวิวของกิน",
-        "#เปิดลายแทงร้านอาหาร“เซ็น"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Thairath.co.th",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5MeGtGeEs2MThFSlJ2OUtQbVRmNTZqS0FBUWJxS3U1NFN1NWFfcDlvUDJrT3owbjhBNnhxRlRQR2VRUmNjVW95UHctXzJjblF1SGtvN011OGtsM19DZ3c?oc=5"
-        }
-      ],
-      "updatedAt": "2026-07-02T11:07:23+07:00"
-    },
-    {
       "id": "central-northville-7d62115a39",
       "title": "เปิดลิสต์ร้านอาหาร Central Northville รวมของกินครบทุกสไตล์ อิ่มได้ตั้งแต่เช้าถึงค่ำ",
       "sourceType": "news",
@@ -392,6 +366,32 @@
         }
       ],
       "updatedAt": "2026-07-07T11:21:34+07:00"
+    },
+    {
+      "id": "mega-fashion-collective-sale-70-9-21-69-c27df18810",
+      "title": "เมกาบางนา ชวนเติมเต็มทุกลุคกับ \"MEGA FASHION COLLECTIVE SALE\" คัดสรรแฟชั่นไอเทมและไลฟ์สไตล์แบรนด์ดัง ลดสูงสุด 70% ตั้งแต่วันที่ 9 – 21 ก.ค. 69",
+      "sourceType": "news",
+      "category": "beauty",
+      "contentPotential": "high",
+      "riskLevel": "low",
+      "summary": "ข่าวจาก Google News keyword: แฟชั่น / source: Marketeer Online - เมกาบางนา ชวนเติมเต็มทุกลุคกับ \"MEGA FASHION COLLECTIVE SALE\" คัดสรรแฟชั่นไอเทมและไลฟ์สไตล์แบรนด์ดัง ลดสูงสุด 70% ตั้งแต่วันที่ 9 – 21 ก.ค. 69    Marketeer Online",
+      "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
+      "creatorAngle": "ชวนแชร์สไตล์ ไอเท็ม หรือเทคนิคที่ใช้จริงโดยไม่ขายของแข็งเกินไป",
+      "promptIdea": "สไตล์นี้ถ้าแต่งในชีวิตจริงจะรอดไหม?",
+      "hashtags": [
+        "#BeautyTalk",
+        "#FashionTH",
+        "#ไอเดียแต่งตัว",
+        "#เมกาบางนาชวนเติมเต็มทุกล"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Marketeer Online",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBDOW5TNmxmOWU3RFgxdXE0Yy0zbm5WV0tjdUozOVBJaWU3WFRvTzFaVUtaeE9IUkNoX2oyT2V4WXRMMVVuSURSX0pEakFKeFh4c19PTA?oc=5"
+        }
+      ],
+      "updatedAt": "2026-07-03T14:16:00+07:00"
     },
     {
       "id": "10-c-drama-9824b9eca3",
@@ -498,32 +498,6 @@
       "updatedAt": "2026-07-06T21:03:00+07:00"
     },
     {
-      "id": "30-f028ab8d48",
-      "title": "“เครือสหพัฒน์” ชวนเหล่าแฟชั่นนิสต้า อัปเดตเทรนด์แฟชั่นและสินค้าไลฟ์สไตล์ ในงาน “สหกรุ๊ป แฟร์ & เฟส ครั้งที่ 30”",
-      "sourceType": "news",
-      "category": "beauty",
-      "contentPotential": "high",
-      "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: แฟชั่น / source: Marketeer Online - “เครือสหพัฒน์” ชวนเหล่าแฟชั่นนิสต้า อัปเดตเทรนด์แฟชั่นและสินค้าไลฟ์สไตล์ ในงาน “สหกรุ๊ป แฟร์ & เฟส ครั้งที่ 30”    Marketeer Online",
-      "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
-      "creatorAngle": "ชวนแชร์สไตล์ ไอเท็ม หรือเทคนิคที่ใช้จริงโดยไม่ขายของแข็งเกินไป",
-      "promptIdea": "สไตล์นี้ถ้าแต่งในชีวิตจริงจะรอดไหม?",
-      "hashtags": [
-        "#BeautyTalk",
-        "#FashionTH",
-        "#ไอเดียแต่งตัว",
-        "#“เครือสหพัฒน์”ชวนเหล่าแฟ"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Marketeer Online",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE84NERTel9rSU9uYXVIM0ZyZmZGUGVMblVwbXlLZnZBR1JYQjRKZjBZMnByaFFZQm5TbzZ2M3RXYWtqek14WmtyaEFYZGN6b2FXdDk1Ug?oc=5"
-        }
-      ],
-      "updatedAt": "2026-07-03T14:00:00+07:00"
-    },
-    {
       "id": "bowkylion-1a112dd5c2",
       "title": "\"BOWKYLION\" ส่งซิงเกิล \"นาฬิกาทราย\" ถ่ายทอดความสัมพันธ์ที่รอวันหมดเวลา",
       "sourceType": "news",
@@ -608,7 +582,7 @@
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 500+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 2000+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -625,16 +599,16 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "Manchester United reach agreement to sign Andrey Santos from Chelsea - The Athletic",
+          "title": "Man Utd agree deal with Chelsea for Brazilian midfielder Andrey Santos",
+          "url": "https://www.bbc.com/sport/football/articles/cr7xkgd8vdko"
+        },
+        {
+          "title": "Manchester United reach agreement to sign Andrey Santos from Chelsea",
           "url": "https://www.nytimes.com/athletic/7425274/2026/07/08/andrey-santos-man-utd-chelsea-deal-transfer/"
         },
         {
-          "title": "Manchester United target Andrey Santos but Chelsea value midfielder at £50m",
-          "url": "https://www.theguardian.com/football/2026/jul/05/andrey-santos-manchester-united-chelsea-transfer"
-        },
-        {
-          "title": "Man Utd ‘edging closer’ to agreeing £50m transfer deal as club-to-club ‘talks now underway’",
-          "url": "https://www.football365.com/news/manchester-united-chelsea-andrey-santos-transfer-deal-close"
+          "title": "Andrey Santos: Manchester United agree £50m deal for Chelsea and Brazil midfielder",
+          "url": "https://www.skysports.com/football/news/11095/13561742/andrey-santos-manchester-united-agree-lb50m-deal-for-chelsea-and-brazil-midfielder"
         }
       ],
       "updatedAt": "2026-07-09T00:00:00+07:00"
@@ -663,28 +637,28 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "Wimbledon 2026 results: Arthur Fery stuns Flavio Cobolli to reach semi-finals",
-          "url": "https://www.bbc.com/sport/tennis/articles/c5yzvnxg6ygo"
+          "title": "Wimbledon 2026: Arthur Fery illuminates Centre Court as extraordinary run continues",
+          "url": "https://www.bbc.com/sport/tennis/articles/cm2dgm39mz6o"
         },
         {
-          "title": "Arthur Fery: the Wimbledon wildcard carrying Britain’s hopes",
-          "url": "https://www.theguardian.com/sport/2026/jul/08/arthur-fery-wimbledon-wildcard-carrying-britain-hopes"
+          "title": "‘I’ve always believed’: Fery in dreamland after crushing Cobolli to reach last four",
+          "url": "https://www.theguardian.com/sport/2026/jul/08/arthur-fery-flavio-cobolli-wimbledon-2026-alexander-zverev-semi-final-tennis"
         },
         {
-          "title": "Britain's Fery stuns Dimitrov, Paolini into Wimbledon quarters",
-          "url": "https://www.bangkokpost.com/sports/3282242/britains-fery-stuns-dimitrov-paolini-into-wimbledon-quarters"
+          "title": "History man! British wildcard Arthur Fery beats Italy's Flavio Cobolli to reach Wimbledon semi-finals",
+          "url": "https://news.sky.com/story/history-man-british-wildcard-arthur-fery-beats-italys-cobolli-to-reach-wimbledon-semis-13561722"
         }
       ],
       "updatedAt": "2026-07-09T00:10:00+07:00"
     },
     {
-      "id": "connor-murphy-c93bf9a35a",
-      "title": "connor murphy",
+      "id": "forex-factory-3485e62597",
+      "title": "forex factory",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 100+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -692,7 +666,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#connormurphy"
+        "#forexfactory"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -701,61 +675,23 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "US man allegedly vandalises luxury home before drowning in Samut Prakan",
-          "url": "https://world.thaipbs.or.th/detail/us-man-allegedly-vandalises-luxury-home-before-drowning-in-samut-prakan/61950"
+          "title": "Fed officials were split on direction of interest rates at last meeting, minutes show",
+          "url": "https://www.cnbc.com/2026/07/08/fed-minutes-june-2026-.html"
         },
         {
-          "title": "American fitness influencer drowns in Samut Prakan",
-          "url": "https://www.bangkokpost.com/thailand/general/3282935/american-fitness-influencer-drowns-in-samut-prakan"
+          "title": "Fed minutes: Officials deeply divided over future path of US inflation",
+          "url": "https://apnews.com/article/federal-reserve-warsh-inflation-3ec0b0c2fe05e3833e324fa522a1882a"
         },
         {
-          "title": "Looksmaxxing influencer Connor Murphy drowns in Thailand after fleeing police: reports",
-          "url": "https://www.independent.co.uk/life-style/connor-murphy-dead-bodybuilder-looksmaxxing-thailand-b3011313.html"
+          "title": "Dollar reverses course as dovish Fed minutes offset boost to safe haven demand",
+          "url": "https://www.investing.com/news/forex-news/asia-fx-yen-hovers-near-40year-low-kiwi-jumps-after-rbnz-hike-4780661"
         }
       ],
-      "updatedAt": "2026-07-08T23:10:00+07:00"
+      "updatedAt": "2026-07-09T01:20:00+07:00"
     },
     {
-      "id": "connect-2a61464092",
-      "title": "กยศ. connect",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#กยศ.connect"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "‘ไอซ์ รักชนก’ ชำแหละ 10 ประเด็น ‘กยศ.’ หลังนำกมธ.ติดตามงบฯ ลุยถกการทำงาน",
-          "url": "https://www.dailynews.co.th/news/6008160/"
-        },
-        {
-          "title": "กยศ. เริ่มหักเงินเดือนผู้กู้ผ่าน e-PaySLF ก.ค.นี้",
-          "url": "https://aec10news.com/contents/news/national/296044/"
-        },
-        {
-          "title": "'ไอซ์' นำทีมกมธ. ถก 'กยศ.' รับระบบมีปัญหา ยันไม่ต้องกังวลว่าเงินที่ส่งมาจะหายไป",
-          "url": "https://ch3plus.com/news/political/morning/466374"
-        }
-      ],
-      "updatedAt": "2026-07-08T18:20:00+07:00"
-    },
-    {
-      "id": "topic-4fa2f82d64",
-      "title": "การบิน",
+      "id": "gpt-b84ab73df2",
+      "title": "gpt",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
@@ -768,7 +704,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#การบิน"
+        "#gpt"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -777,19 +713,133 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "‘โลกแอนตี้ปาล์ม’ เดิมพันใหม่ประเทศไทย ในตลาดเชื้อเพลิงการบินโลก",
-          "url": "https://www.thansettakij.com/economy/trade-agriculture/663491"
+          "title": "OpenAI to release ChatGPT 5.6 models & 'GPT Live' on Thursday: What to know",
+          "url": "https://finance.yahoo.com/video/openai-to-release-chatgpt-56-models--gpt-live-on-thursday-what-to-know-202217707.html"
         },
         {
-          "title": "Garmin เปิดตัวระบบแสดงผลการบินแบบรวม AXIS",
-          "url": "https://th.investing.com/news/company-news/article-93CH-719665"
+          "title": "Scoop: Trump administration lifts restrictions on OpenAI's GPT 5.6",
+          "url": "https://www.axios.com/2026/07/08/openai-gpt-trump-ban-lifted"
         },
         {
-          "title": "เครื่องบินขนส่งสินค้า Boeing 737 ของ K2 Airways ขาดการติดต่อหลังระบบขัดข้อง",
-          "url": "https://th.investing.com/news/stock-market-news/article-93CH-718770"
+          "title": "OpenAI to publicly release GPT-5.6, rolls out conversational AI models",
+          "url": "https://www.cnbc.com/2026/07/08/openai-expanding-gpt-5point6-ai-model-release-ending-government-limits.html"
         }
       ],
-      "updatedAt": "2026-07-08T15:00:00+07:00"
+      "updatedAt": "2026-07-09T09:40:00+07:00"
+    },
+    {
+      "id": "topic-3836792947",
+      "title": "ชาวไร่ชาวนา",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 500+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#ชาวไร่ชาวนา"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "ไร่ละ 1,000 บาท เงินถึงมือชาวนา 4.5 ล้านครัวเรือนลดต้นทุนต่อยอดข้าวไทย",
+          "url": "https://www.thaipbs.or.th/news/content/508025"
+        },
+        {
+          "title": "แนะต่อยอดโครงการสนับสนุนค่าบริหารจัดการ และพัฒนาคุณภาพผลผลิตเกษตรกรผู้ปลูกข้าว",
+          "url": "https://www.dailynews.co.th/news/6006516/"
+        },
+        {
+          "title": "ตรวจสอบสิทธิ์เยียวยาชาวนาไร่ละ 1,000 ปี 67/68 ธ.ก.ส. โอนครบ 99%",
+          "url": "https://www.bangkokbiznews.com/news/news-update/1241752"
+        }
+      ],
+      "updatedAt": "2026-07-09T05:10:00+07:00"
+    },
+    {
+      "id": "3-99dcfc8c15",
+      "title": "ช่อง3",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#ช่อง3"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "‘ณ ณภัทร’ บริหารเสน่ห์สุดแพรวพราว! เสกแบงค์เป็นรูปหัวใจ | The Bangkok Insight",
+          "url": "https://today.line.me/th/v3/article/9mvK5jm"
+        },
+        {
+          "title": "เรื่องย่อ เกมส์โกงเกมส์ ตอนที่ 6-7 เวลา 20.30 น. ช่อง 3",
+          "url": "https://www.khaosod.co.th/newspaper-column/tv-guide/news_10313837"
+        },
+        {
+          "title": "เกมส์โกงเกมส์ EP.4 [1/5]",
+          "url": "https://ch3plus.com/v/277904"
+        }
+      ],
+      "updatedAt": "2026-07-09T06:20:00+07:00"
+    },
+    {
+      "id": "8-00418920e8",
+      "title": "ตาราง บอล โลก รอบ 8 ทีม สุดท้าย",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 1000+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#ตารางบอลโลกรอบ8ทีมสุดท้า"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "โปรแกรมฟุตบอลโลก 2026 คืนนี้ รอบ 8 ทีมสุดท้าย ประจำวันที่ 9 ก.ค. 69",
+          "url": "https://www.sanook.com/sport/1657889/"
+        },
+        {
+          "title": "วิเคราะห์บอล ฝรั่งเศส vs โมร็อกโก 9 ก.ค. 69 : ตราไก่ลุ้นตัดเชือก รีแมตช์เดือดบอลโลก",
+          "url": "https://www.siamsport.co.th/worldcup/106402/"
+        },
+        {
+          "title": "ข่าวโคชโย่ง เจาะลึกจุดเด่น-จุดด้อย ฝรั่งเศส ปะทะ โมร็อกโก คืนนี้ | สนามข่าวกีฬาฟุตบอลโลก",
+          "url": "https://www.ch7.com/sports/883976"
+        }
+      ],
+      "updatedAt": "2026-07-09T04:40:00+07:00"
     },
     {
       "id": "topic-eecf53152b",
@@ -870,13 +920,13 @@
       "updatedAt": "2026-07-03T21:12:48+07:00"
     },
     {
-      "id": "topic-a72b66f0f8",
-      "title": "ศาลล้มละลาย",
+      "id": "topic-a98e59cd09",
+      "title": "มัณฑนา หิมะทองคำ",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 2000+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -884,7 +934,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#ศาลล้มละลาย"
+        "#มัณฑนาหิมะทองคำ"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -893,24 +943,28 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "ศาลล้มละลายกลาง สั่งพิทักษ์ทรัพย์ 17 จำเลย คดีกรุงไทย ฟ้องเรียกหนี้กว่า 8.36 พันล้าน",
-          "url": "https://www.matichon.co.th/economy/news_5796513"
+          "title": "“ปู มัณฑนา” เกินกว่าคำว่าสลิ้งแตก! โพสต์ฟาด 25 แคปชั่น ภายใน 1 ชม. หลังขึ้นศาลกรณีหมิ่น หนุ่ม กรรชัย",
+          "url": "https://mgronline.com/entertainment/detail/9690000066330"
         },
         {
-          "title": "AKS แจ้ง “ศาลล้มละลายกลาง” สั่งพิทักทรัพย์ “วิโรจน์ นวลแข” พร้อมพวก 17 ราย | ข่าวหุ้นธุรกิจ",
-          "url": "https://today.line.me/th/v3/article/MLVGQ9a"
+          "title": "เปิดเงื่อนไขของ ปู มัณฑนา พร้อมไกล่เกลี่ย หนุ่ม กรรชัย คดีหมิ่นประมาท แต่มี 3 ข้อที่ต้องการขอ",
+          "url": "https://www.thairath.co.th/entertain/news/2944849"
+        },
+        {
+          "title": "“ปู มัณฑนา” ลั่นมีศักดิ์ศรี! ไม่ขอโทษ “หนุ่ม กรรชัย” ฝ่ายเดียว ย้ำต้องถอยคนละก้าวเท่านั้น!",
+          "url": "https://today.line.me/th/v3/posts/list/article/PGeKwE8"
         }
       ],
-      "updatedAt": "2026-07-08T14:50:00+07:00"
+      "updatedAt": "2026-07-09T07:20:00+07:00"
     },
     {
-      "id": "topic-66c24980f5",
-      "title": "สาวโรงงานที่เป็นข่าว",
+      "id": "topic-d6e95a7563",
+      "title": "ราคาน้ำมัน",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 2000+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 500+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -918,7 +972,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#สาวโรงงานที่เป็นข่าว"
+        "#ราคาน้ำมัน"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -927,95 +981,45 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "อยู่ระยองไม่ไหว สาวโรงงานสุดช้ำ ยันถูกหลอก-แจ้งความเมียฝ่ายชาย",
-          "url": "https://www.thaich8.com/news_detail/144343"
+          "title": "ทรัมป์ขู่อิหร่าน จะโจมตีแรงขึ้นอีก หากไม่หยุดยิงเรือในช่องแคบฮอร์มุซ",
+          "url": "https://www.thairath.co.th/news/foreign/2944969"
         },
         {
-          "title": "ดูกันทั้งประเทศ! คลิปเมียหลวงจับชู้ 70 ล้านวิว คนหลุดโฟกัสหมอนโดเรม่อน-ฝากระติก",
-          "url": "https://www.sanook.com/news/9898082/"
+          "title": "ดอลลาร์ทรงตัวท่ามกลางความตึงเครียดอิหร่าน จับตาอัตราดอกเบี้ย",
+          "url": "https://th.investing.com/news/forex-news/article-720058"
         },
         {
-          "title": "คลิปจับชู้ในตำนาน 77 ล้านวิว “หมอน-ที่นอน-ฝากระติก” หนุ่มยันเลิกเมียแล้ว แต่ยังไม่ได้หย่า สาวในคลิปแค่คนคุย",
-          "url": "https://ch3plus.com/news/socialnews/middaynews/466454"
+          "title": "ทำตามคำขู่!สหรัฐฯถล่มอิหร่านรอบใหม่หนักกว่าเดิม หลังทรัมป์ประกาศฉีกMOUหยุดยิงUS-เตหะราน",
+          "url": "https://mgronline.com/around/detail/9690000066354"
         }
       ],
-      "updatedAt": "2026-07-08T18:50:00+07:00"
+      "updatedAt": "2026-07-09T07:20:00+07:00"
     },
     {
-      "id": "topic-1a1e487cd6",
-      "title": "อร จิ รา แหลม วิไล",
-      "sourceType": "trends",
+      "id": "u18-1-3-3-75dbce864e",
+      "title": "วอลเลย์บอลหญิงไทย U18 ต้านไม่ไหว พ่ายเกาหลีใต้ 1-3 เซต หล่นชิงที่ 3 ชนญี่ปุ่น",
+      "sourceType": "news",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 1000+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "summary": "ข่าวจาก Google News keyword: วอลเลย์บอล / source: Siamsport - วอลเลย์บอลหญิงไทย U18 ต้านไม่ไหว พ่ายเกาหลีใต้ 1-3 เซต หล่นชิงที่ 3 ชนญี่ปุ่น    Siamsport",
+      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
       "hashtags": [
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#อรจิราแหลมวิไล"
+        "#วอลเลย์บอลหญิงไทยU18ต้าน"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
         {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "ช็อกแฟนคลับ! \"แป้ง อรจิรา\" ปล่อยโฮกลางไลฟ์สด เผยความอัดอั้น \"น้องสุดแล้ว\"",
-          "url": "https://www.thairath.co.th/entertain/news/2944727"
-        },
-        {
-          "title": "“แป้ง อรจิรา” เครียด จิตตก ปล่อยโฮกลางไลฟ์ ก่อนขอให้กดน้ำพริกถ้าสงสาร",
-          "url": "https://mgronline.com/entertainment/detail/9690000066010"
-        },
-        {
-          "title": "เกิดอะไรขึ้น! แป้ง อรจิรา ปล่อยโฮกลางไลฟ์สด ลั่นมากกว่านี้ไม่ไหวแล้ว",
-          "url": "https://www.matichon.co.th/entertainment/news_5796592"
+          "title": "Siamsport",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9DeTFXZ2poRWE0eXVMZmdRN1MxalN4T0lOZ1RQNmhoUmJ5MkE1WFdEY1A3WjMtOUJYSC01SXhKQlV4LXNIQ3M1SVBPaW5nS1ZBT2ZnWnFONDd4MnV2c2xfWVJZSXcyQy1aTWhR?oc=5"
         }
       ],
-      "updatedAt": "2026-07-08T19:50:00+07:00"
-    },
-    {
-      "id": "topic-7b4335f239",
-      "title": "เกษียณอายุราชการ",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 2000+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#เกษียณอายุราชการ"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "ข่าวเผย 2 ตำแหน่ง ข้าราชการ เสี่ยงถูกลด ยกเลิก ให้สอดคล้องปัจจุบัน",
-          "url": "https://news.ch7.com/detail/883806"
-        },
-        {
-          "title": "\"ปกรณ์\" เมินเสียงแซะ เออร์ลีรีไทร์ 40 ชี้ไม่เริ่มวันนี้ ปัญหาตกที่คนรุ่นหลังแทน",
-          "url": "https://www.thaipbs.or.th/news/content/508021"
-        },
-        {
-          "title": "ข้าราชการจับตา! รัฐบาลจ่อดันเออร์ลี่รีไทร์ปี 2570 เล็งเปิดทางเริ่มที่อายุ 40 ปี",
-          "url": "https://www.sanook.com/news/9897942/"
-        }
-      ],
-      "updatedAt": "2026-07-09T00:00:00+07:00"
+      "updatedAt": "2026-07-06T21:04:46+07:00"
     },
     {
       "id": "u18-8-a7ab94d01e",
@@ -1070,13 +1074,13 @@
       "updatedAt": "2026-07-02T14:20:28+07:00"
     },
     {
-      "id": "topic-330a6fce7f",
-      "title": "เบลเยียม",
+      "id": "topic-18da4417b1",
+      "title": "เมียหลวงที่นอนสีชมพู",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 1000+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 2000+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -1084,7 +1088,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#เบลเยียม"
+        "#เมียหลวงที่นอนสีชมพู"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -1093,45 +1097,19 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "ทรัมป์ยอมรับขอฟีฟ่าทบทวนใบแดงของผู้เล่นสหรัฐฯ",
-          "url": "https://www.bbc.com/thai/articles/c17y1l9g0wzo"
+          "title": "เปิดทุกมุมคลิปจับชู้ 77 ล้านวิว เมียหลวงร่ำไห้กอดผัวอุ่นที่สุด ผัวสวนหมดรักแล้ว หญิงในคลิปลาออก ฟ้องกลับฐานประจาน",
+          "url": "https://mgronline.com/entertainment/detail/9690000066234"
         },
         {
-          "title": "โคตรแสบ! เบลเยียม โพสต์แบบนี้ถึง สหรัฐฯ หลังจบเกมเขี่ยตกรอบบอลโลก 2026",
-          "url": "https://www.sanook.com/sport/1657858/"
+          "title": "อยู่ระยองไม่ไหว สาวโรงงานสุดช้ำ ยันถูกหลอก-แจ้งความเมียฝ่ายชาย",
+          "url": "https://www.thaich8.com/news_detail/144343"
         },
         {
-          "title": "เผยเรตติ้งทีวีสหรัฐ 42ล้านคนดูถ่ายทอดสดแข้ง \"อเมริกัน\" ตกรอบฟุตบอลโลก",
-          "url": "https://www.dailynews.co.th/news/6009214/"
+          "title": "เปิดใจ สามีคลิปไวรัลดัง ยอมรับยิ้มเพราะเมา เล่าที่มา \"หมอนโดเรมอน-ฝากระติกเขียว\"",
+          "url": "https://www.thairath.co.th/news/society/2944847"
         }
       ],
-      "updatedAt": "2026-07-08T16:50:00+07:00"
-    },
-    {
-      "id": "2026-3-df1895b074",
-      "title": "เปิดสถิติวอลเลย์บอลหญิงไทย-สหรัฐฯ ก่อนดวลเนชันส์ลีก 2026 สนาม 3 นัดแรก",
-      "sourceType": "news",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: วอลเลย์บอล / source: Thai PBS - เปิดสถิติวอลเลย์บอลหญิงไทย-สหรัฐฯ ก่อนดวลเนชันส์ลีก 2026 สนาม 3 นัดแรก    Thai PBS",
-      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#เปิดสถิติวอลเลย์บอลหญิงไ"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Thai PBS",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1tOUFMR2Q0ci1RUkpMTkNWTVZLekZlNzBCaVRjQ1dUbGhqd0NRVTJQUE5PNEtjODFqTTFvNDRLdnppc2lENm5TN1NTZTB2ZGFvVk51YjFiR0Y?oc=5"
-        }
-      ],
-      "updatedAt": "2026-07-07T20:50:41+07:00"
+      "updatedAt": "2026-07-09T11:30:00+07:00"
     },
     {
       "id": "vnl-2026-3-0706459acb",
@@ -1218,7 +1196,7 @@
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "medium",
-      "summary": "ข่าวจาก Google News keyword: ดราม่า / source: amarin tv - \"คัลแลน\" เปิดใจเคลียร์ดราม่า ยืดอกรับผิดมองการณ์สั้นเรื่องแจกส่วนลด    amarin tv",
+      "summary": "ข่าวจาก Google News keyword: ดราม่า / source: อมรินทร์ทีวี ช่อง 34 - \"คัลแลน\" เปิดใจเคลียร์ดราม่า ยืดอกรับผิดมองการณ์สั้นเรื่องแจกส่วนลด    อมรินทร์ทีวี ช่อง 34",
       "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -1231,7 +1209,7 @@
       "riskNote": "Medium risk ควรเลี่ยงการพาดพิงบุคคลจริงและใช้คำถามเชิงสร้างสรรค์",
       "sources": [
         {
-          "title": "amarin tv",
+          "title": "อมรินทร์ทีวี ช่อง 34",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBVRFpIaGFoek1BeVUzcnNGRUg5T0hHbkpPUjFGWU5lcmd2YUtUdjhZZy1MQUwzcmNmbGZiZDFYNTJwTzA5eUxaTGxJOVFxUm9iaXpUcENB?oc=5"
         }
       ],
@@ -1317,19 +1295,45 @@
           "url": "https://news.google.com/rss/articles/CBMi0wRBVV95cUxQOHdiZ3p6V1Z6d0pEZENab2ZpSkR6NGtIQTBDaXBNVW9FcEg1ZTUwa25QR2tRUFNBem1tdFlpSVdGd0FsSk1UUl9QOEVOQkQ0cnViZ1hRU2hNVExxRk9lNVR4bGNmakpUbGo4LUdfWnZKSHRKa05zLTF1bHdISkw0S2Z4T2taLV9HNFBHSTZNcDl2UEplWGNkTW1paTRCYTBzTjNaTW8ybFhhVVFZNVBIcnZlRHNQN1FPeC0tNEFvRDdOalpGemtyTTVYYmZoeUtiLUplbFY4NVJDVV9NV0dBTzROREY4Z3hOWW5yekV1MDBwVS01QmJnaG1yLXZyVU1HcWVwUWc1MU9wRGNocUliZ3V1dE5kUDI4TWY0cC12aHN5MVcxQmhjRl83Y3JlS29McVpQZ3VrTVVpdS1OdGU4MG1udE42TGFucEp1QjhJN2Ywc3Zkd1FsWi1JUHo0TDBPWmN3SkFlZkx4YkhFS0hwenl6RndWTENjTk5LOV9GbndzT01EOWJaVXBpSGlQUUpjN0NvTXlYM3NKeDgwdnVyRDE2S1JqcDZFZF9QVnNEWGNVejZTMmh1d3BOdmFNTXRTV3NPMDQtNUkwUGxHa2tobnJOSVczVlBfZ1puekVWeWtwUFMxZWtUR3NzaFA5cE16Z0VTRlFpbHJ1a3VyNnNGMDRPaXlSaFJjSDZCQzBVSktoaFpzcFRvQUp5Rl9DWE4xNkJjWjJid0oxQmNkVmJsMS12YU9vSWN0YkNHNWgyMVM0azAzSmtkQWVJQ3BvMm9zdDJZ?oc=5"
         },
         {
-          "title": "Marketeer Online",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE03V1N5dDFWb2hxaUdQUkJwWDg2cEVERE9FaGFOOHVBeG1DQTJleHVsSjcwLWIyMFlST0I3c0JkQVUwSkQ1emxnMmVCSFRTZ05uS3RObA?oc=5"
-        },
-        {
           "title": "Sanook",
           "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFAxRmJXMVFrZHdOejUxcjh3VEtDazBzdGg3LTVyUHBITVVFQzY1MUQwdHVVOUJtOGg3eWhodTlqTTVWSzBjbjBlMFNiMTQ?oc=5"
         },
         {
           "title": "bugaboo.tv",
           "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9udHJSZTg0UmtyZXQ0cGI0Wk5TX0RwT2ZOOVRuZXRDZmRheW5Lc1JmUF9pM1hpYnFNNHZfU2tTbEQyN1V5bXQtNjFmTTNKd3c?oc=5"
+        },
+        {
+          "title": "The Bangkok Insight",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4zcmZ3UnNLVktfTE9wQU8xZF9oVGpaaEF4RWNYZU91b3I2bTFuY3dvOVBtU3FXSkUyMlNrQ3V3RnhpVkxDMTB0RHc3S3M3dW1kVDFfWTRGY3N1ekZMZTRkdno1Qko1NmpsN19xVEtRaXIyUXBQ?oc=5"
         }
       ],
       "updatedAt": "2026-07-03T05:02:24+07:00"
+    },
+    {
+      "id": "topic-510940ec81",
+      "title": "อย.ผนึก บช.น. ทลายโรงงาน-โกดังอาหารเสริม โยงปมผู้บริโภคเสียชีวิต",
+      "sourceType": "news",
+      "category": "food",
+      "contentPotential": "low",
+      "riskLevel": "high",
+      "summary": "ข่าวจาก Google News keyword: อาหาร / source: Hfocus.org - อย.ผนึก บช.น. ทลายโรงงาน-โกดังอาหารเสริม โยงปมผู้บริโภคเสียชีวิต    Hfocus.org",
+      "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
+      "creatorAngle": "ใช้เป็นข้อมูลเฝ้าระวังมากกว่าบรีฟโพสต์ หากต้องใช้ควรให้ทีม review ก่อน",
+      "promptIdea": "เรื่องนี้ควรเช็กข้อมูลก่อนแชร์ ทุกคนคิดว่าเราควรระวังอะไรบ้าง?",
+      "hashtags": [
+        "#FoodTrend",
+        "#CafeTH",
+        "#รีวิวของกิน",
+        "#อย.ผนึกบช.น.ทลายโรงงาน-โ"
+      ],
+      "riskNote": "High risk ควรให้ทีม review ก่อนนำไป brief Creator และไม่ควรชวนดราม่า",
+      "sources": [
+        {
+          "title": "Hfocus.org",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5XZnpHQzVRZGpkR01LMXFjWkJqYkdlVUc2b2R3Yk0tM3U2N3FJaHkweDB3dzVIQ1YyWWlPLU5CbGEtS2p0TmlOdHJ6TFpsUW5NaVpXTTh0NA?oc=5"
+        }
+      ],
+      "updatedAt": "2026-07-08T08:43:34+07:00"
     }
   ]
 }
