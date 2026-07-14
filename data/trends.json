@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T16:06:04.445115+07:00",
+  "generatedAt": "2026-07-14T18:26:27.045161+07:00",
   "dateRange": "2026-07-07 to 2026-07-14",
   "sourceErrors": [],
   "topics": [
@@ -235,7 +235,7 @@
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1CbVFLZ0I2dkhkeTdMa3ZMVGdMaTYwWVFOWl81M2I2dThlOG5QUjlCZTM0WDRyNmpicWpFalF3bHNSREJYTExUR0owdlh5dVc3OFhRYWJn?oc=5"
         }
       ],
-      "updatedAt": "2026-07-09T12:35:03+07:00"
+      "updatedAt": "2026-07-09T12:35:01+07:00"
     },
     {
       "id": "1-49-30-5058ff2990",
@@ -296,7 +296,7 @@
       "category": "food",
       "contentPotential": "high",
       "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: อาหาร / source: มติชนออนไลน์ - บทเรียนช่องว่างกฎหมาย เปิดทาง 'ร้านอาหาร' แปลงร่างเป็นกึ่งผับ เรียกร้องรัฐเร่งอุดรอยรั่ว ป้องกันโศกนาฏกรรมซ้ำ    มติชนออนไลน์",
+      "summary": "ข่าวจาก Google News keyword: อาหาร / source: Matichon Online - บทเรียนช่องว่างกฎหมาย เปิดทาง 'ร้านอาหาร' แปลงร่างเป็นกึ่งผับ เรียกร้องรัฐเร่งอุดรอยรั่ว ป้องกันโศกนาฏกรรมซ้ำ    Matichon Online",
       "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
       "creatorAngle": "ให้ Creator เล่าประสบการณ์ร้าน/เมนูที่อยากลอง แล้วถามคนอื่นว่าคิดเหมือนกันไหม",
       "promptIdea": "เห็นคนพูดถึงเมนูนี้เยอะมาก มีใครลองแล้วบ้าง?",
@@ -309,7 +309,7 @@
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
         {
-          "title": "มติชนออนไลน์",
+          "title": "Matichon Online",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ucHFzNjlmOHRoaGhMYU9tYXdTSF81dWJFSmU1TFhOU1o1WmgzelRnYnhReHhlUWZQMkJvenVpdFJPd25YVkV2eHc2WVhLc0tMOFpPVVR0a0JpMHUwclRZY01pNHZzekhDTVE?oc=5"
         }
       ],
@@ -498,6 +498,44 @@
       "updatedAt": "2026-07-08T09:00:00+07:00"
     },
     {
+      "id": "u-s-embassy-in-abu-dhabi-95982df5c1",
+      "title": "u.s. embassy in abu dhabi",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 500+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#u.s.embassyinabudhabi"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "US missions in UAE suspend consular appointments over ‘security situation’",
+          "url": "https://www.arabnews.pk/node/2650770/middle-east"
+        },
+        {
+          "title": "Ambasada e SHBA në Emiratet e Bashkuara Arabe anulon të gjitha takimet konsullore, shkak situata e sigurisë rajonale",
+          "url": "https://reporteri.net/en/NEWS/boat/US-Embassy-in-the-United-Arab-Emirates-cancels-all-consular-meetings-due-to-regional-security-situation/"
+        },
+        {
+          "title": "U.S. Embassy in UAE Suspends Consular Appointments as Regional Security Crisis Deepens",
+          "url": "https://www.kurdistan24.net/en/story/925660/us-embassy-in-uae-suspends-consular-appointments-as-regional-security-crisis-deepens"
+        }
+      ],
+      "updatedAt": "2026-07-14T16:10:00+07:00"
+    },
+    {
       "id": "vnl-2026-3-ef0ba64db0",
       "title": "vnl วอลเลย์บอลหญิง 2026 สัปดาห์ที่ 3 โอซาก้า! ตบสาวไทยลุยศึกชี้ชะตา พบ สหรัฐฯ-ญี่ปุ่น-บราซิล-ตุรกี ลุ้นพ้นโซนตกชั้น”",
       "sourceType": "news",
@@ -530,7 +568,7 @@
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 1000+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 2000+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -562,44 +600,6 @@
       "updatedAt": "2026-07-14T14:40:00+07:00"
     },
     {
-      "id": "topic-122c3c0d88",
-      "title": "ข่าว",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 5000+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#ข่าว"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "จับตารอบทิศ - คุมเข้มความปลอดภัยสถานบันเทิง จ.ชลบุรี",
-          "url": "https://www.thaipbs.or.th/program/KeepAround/episodes/116456"
-        },
-        {
-          "title": "นายกฯ จ่อทบทวนกฎหมายสถานบันเทิง-โซนนิ่ง หลังเหตุไฟไหม้โรงเบียร์ลาดพร้าว",
-          "url": "https://today.line.me/th/v3/article/DR6x0KW"
-        },
-        {
-          "title": "ผู้ว่าฯ กทม. สั่งทุกเขต อัปเดตข้อมูลร้านอาหารทุก 1 เดือน จ่อเอาผิดร้านอาหารเปิดเป็นสถานประกอบการ",
-          "url": "https://www.thairath.co.th/news/politic/2946172"
-        }
-      ],
-      "updatedAt": "2026-07-14T02:20:00+07:00"
-    },
-    {
       "id": "51-13-07-69-0a0bdb32e0",
       "title": "ความสัมพันธ์51 ปี คุยเรื่องสำคัญอะไรกัน? (13/07/69)",
       "sourceType": "news",
@@ -623,7 +623,7 @@
           "url": "https://news.google.com/rss/articles/CBMiygZBVV95cUxOTEJGaGJRemppVVkxQmVzRHhfeDVIZ2hMM3d6LUN2YkQ4dkRBOUZuNEo1XzlpWU1HSWk2MktJUTlJLUlwTVdBY3ZwWkNBYVNQNzFtOHZELXZhbnU1LXRwSXRZOElHT0F6dm1KTWtjWVFvOGpWZFNXdUp1NWtLdFg2ZlhtOE5yWXRBX1pQRHVDWFcwQjRaLTcxSmRuaHJCSkFtczRmMm1LUkRTbkR0cW12eTlfVFJ1RDJqMkRDYVpXeHF0TkQ0c2RfZ3VVRHRqVUFmZ29LdGdIU2Y1MlFVb093UDlBc2NfeW1Ccjh0ZUVicGg4SmdCLUVSTjJzZnFmNkd0VkV1eDVacWFaSzRyQ29sRGhlYTA4LUhCWm9BUGZYZ3JtU3c1RjNpVm50MWFGWnllRTFDWVBCb3pjeTduR3RGeVVkNTVqb29HMjBsQjNQZG5aZ3poSVZPcVViaEF4c3VlM0VCVjZFRGVRa2pnNV9telNITU9BY1l3aU9wMmhWZWFLcGdVcEtGWXV2QXdpX0plUDEtWENYOVQtbmpEdkdzZVhrb3B1b2xBd0cyWndZRG9YVkh6b1c4d0R3UnlJMTRQQ2F5SkFaTnQ2T2h2eGd1WlNhX3NDamNQLVFBZnNfUEd4MjdmbHcxNG5TNFB0U1pQdVhZWjdZa0lBV29sM0sycExZdDh0d0ZaMUV4LUJmSFhVeEU3NW1iY3FRc2hCM1ZXQi1pOWpPN0lUX0pkaUtjR2FKREhyVWdiVXpDbUtFV0NIZl9iZVRwekFCSTA2ZHpWbk15NHJLdkZKSDM1RldleWZHbEF5WEFENHFBUG5TS0UwdUNGOWVLMFZ2V1p5ZDdwLWJrMGxUYVd1NE1PNnhYcHk3bXpxbHVQbnd3T0xPTzNpcVBnZHhsb2dmR1RhcWpyTzBhem5UdDZjTGU0ZzhzQVpYT0ZzQ1hnblFBZHlweVRkZGtWaU9kclhZLTV5UERNNFlUMFRnQ0JWWHpBRjJELVE1WFdtc3NBMTFnMWMwV0VSS2R3YmVVcTlfTDlrOUxRY2JXd2tOMERFT1F1Y011VUxEYlluUlp1XzRUWGNwZkdtVUtxazBiOXlCbkJJemtpdHhxb21uSnlmdw?oc=5"
         }
       ],
-      "updatedAt": "2026-07-13T14:30:16+07:00"
+      "updatedAt": "2026-07-14T16:54:01+07:00"
     },
     {
       "id": "one-belt-39c9551fdd",
@@ -658,7 +658,7 @@
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 500+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -713,16 +713,16 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "ไม่ดื่มก็เสี่ยง “โรคมะเร็งตับ” ภัยเงียบคนยุคใหม่ ระวังเบาหวาน-อ้วน-ไขมันพอกตับ",
-          "url": "https://www.thairath.co.th/lifestyle/health-and-beauty/2945969"
+          "title": "จับตารอบทิศ - รณรงค์ตรวจพยาธิใบไม้ตับป้องกันมะเร็งท่อน้ำดี",
+          "url": "https://www.thaipbs.or.th/program/KeepAround/episodes/116425"
         },
         {
-          "title": "ไม่ดื่มก็เสี่ยง! แพทย์เตือน ไขมันพอกตับ-เบาหวาน เสี่ยงมะเร็งตับสูง",
-          "url": "https://www.biztalknews.com/healthcare/non-alcoholic-fatty-liver-cause-liver-cancer/"
+          "title": "ผลตรวจนิสิต ม.มหาสารคาม ออกแล้ว! ผลบวก 380 คน เจอพยาธิใบไม้ตับจริงแค่ 4 ราย",
+          "url": "https://www.khaosod.co.th/breaking-news/news_10323314"
         },
         {
-          "title": "ไม่ดื่มก็เสี่ยงเป็น ‘มะเร็งตับ’ เบาหวาน-อ้วน-ไขมัน คือตัวเร่งสำคัญ",
-          "url": "https://www.thansettakij.com/health-wellness/health/663772"
+          "title": "แพทย์ มช.เตือน สายกินแซบต้องดู กินแบบนี้ เสี่ยง! พยาธิใบไม้ในตับ",
+          "url": "https://www.chiangmainews.co.th/news/3967840/"
         }
       ],
       "updatedAt": "2026-07-14T04:40:00+07:00"
@@ -751,16 +751,16 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "ตร.ทางหลวงสั่งสอบปมจับ \"ทหารพรานพกปืน\" เร่งถกหน่วยงานความมั่นคงเซตมาตรฐานเดียวกัน",
-          "url": "https://mgronline.com/onlinesection/detail/9690000068176"
+          "title": "เจ้าหน้าที่ 3 ฝ่าย อ.ปากชม ยึดยาบ้าล็อตใหญ่ 5 ล้าน คารถกระบะริมแม่น้ำโขง | แนวหน้า",
+          "url": "https://today.line.me/th/v3/article/JPgxGVk"
         },
         {
-          "title": "โพสต์ทั้งหมด | ทัวร์ลงยับ! ตำรวจทางหลวง แจงดราม่า จับ อส.ทหารพราน พกอาวุธปืนไว้ในรถ",
-          "url": "https://today.line.me/th/v3/posts/list/article/609x3L1"
+          "title": "\"ก็เป็นแค่ อส.ทพ.\" ทหารพรานโชว์ยึดยาบ้า 5 ล้านเม็ด ริมแม่น้ำโขง อ.ปากชม",
+          "url": "https://www.topnews.co.th/news-clip/1630570"
         },
         {
-          "title": "'เสธ.หิ' สะกิดตำรวจใช้ดุลพินิจ คดีจับทหารพรานกลับจาก 3 จว.ชายแดนใต้ พกพาอาวุธปืน",
-          "url": "https://www.thaipost.net/criminality-news/1031150/"
+          "title": "ปกครองปากชมสนธิกำลัง ตรวจยึดยาบ้ากว่า 5 ล้านเม็ดกลางสวนผลไม้",
+          "url": "https://www.banmuang.co.th/news/crime/483103"
         }
       ],
       "updatedAt": "2026-07-14T05:40:00+07:00"
@@ -789,16 +789,16 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "Night Recap Gold Spot 13-07-2569",
-          "url": "https://www.huasengheng.com/news/night-recap-gold-spot-13-07-2569/"
+          "title": "Daily Recap Gold Spot 14-07-2569",
+          "url": "https://www.huasengheng.com/news/daily-recap-gold-spot-14-07-2569/"
         },
         {
-          "title": "ภาวะตลาดทองคำนิวยอร์ก: ทองปิดร่วง $108 กังวลสงครามยืดเยื้อหนุนเงินเฟ้อสูง-กดดันเฟดขึ้นดบ.",
-          "url": "https://www.ryt9.com/s/iq/12829733"
+          "title": "อัปเดตราคาทองวันนี้ 14 ก.ค. 69 ผันผวนทั้งหมด 15 ครั้ง ปิดตลาดปรับลง 450 บาท",
+          "url": "https://www.thairath.co.th/news/society/2946233"
         },
         {
-          "title": "ทองไทยเปิดร่วง 650 บาท หลังทองโลกทรุดกว่า 3% กังวลดอกเบี้ยสหรัฐฯ สูงนาน | การเงินธนาคาร",
-          "url": "https://today.line.me/th/v3/article/QwBxQYg"
+          "title": "ทองคําติดกรอบใต้ $4,000 กดดันจากความตึงเครียดอิหร่านและความกังวลอัตราดอกเบี้ย จับตา CPI สหรัฐฯ",
+          "url": "https://th.investing.com/news/commodities-news/article-723019"
         }
       ],
       "updatedAt": "2026-07-14T04:50:00+07:00"
@@ -830,51 +830,13 @@
       "updatedAt": "2026-07-07T20:33:03+07:00"
     },
     {
-      "id": "vs-046acb6333",
-      "title": "ฝรั่งเศส vs สเปน",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 1000+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#ฝรั่งเศสvsสเปน"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "วิเคราะห์บอล ฝรั่งเศส vs สเปน 14 ก.ค. 69 : รีแมตช์ยูโรเดือด แย่งตั๋วชิงแชมป์โลก",
-          "url": "https://www.siamsport.co.th/worldcup/106634/"
-        },
-        {
-          "title": "ฟันธงไม่มีอคติ! ChatGPT ชี้ชัดใครจะคว้าชัย \"ฝรั่งเศส พบ สเปน\" ศึกฟุตบอลโลก 2026",
-          "url": "https://www.sanook.com/sport/1663533/"
-        },
-        {
-          "title": "ข่าววิเคราะห์เจาะลึกรอบรองชนะเลิศ ฝรั่งเศส vs สเปน กับ โคชโต่ย ศิริศักดิ์ | สนามข่าวกีฬาฟุตบอลโลก",
-          "url": "https://www.ch7.com/sports/884913"
-        }
-      ],
-      "updatedAt": "2026-07-14T02:20:00+07:00"
-    },
-    {
-      "id": "topic-73ce8d37fb",
-      "title": "มายา อวิชชา และมโน! ปัญหาความสัมพันธ์ไทย-กัมพูชา",
+      "id": "topic-c8f77e1749",
+      "title": "มายา อวิชชา และมโน! ปัญหาความสัมพันธ์ไทย-กัมพูชา | มติชนสุดสัปดาห์",
       "sourceType": "news",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: ความสัมพันธ์ / source: LINE TODAY - มายา อวิชชา และมโน! ปัญหาความสัมพันธ์ไทย-กัมพูชา    LINE TODAY",
+      "summary": "ข่าวจาก Google News keyword: ความสัมพันธ์ / source: LINE TODAY - มายา อวิชชา และมโน! ปัญหาความสัมพันธ์ไทย-กัมพูชา | มติชนสุดสัปดาห์    LINE TODAY",
       "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -952,7 +914,7 @@
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 500+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 1000+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -969,16 +931,16 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "เปิดประวัติ พระพรหมพัชรญาณมุนี หรือ “เจ้าคุณฌอน” สมเด็จฯ ต่างชาติองค์แรก",
-          "url": "https://www.thairath.co.th/news/society/2946123"
+          "title": "พระบรมราชโองการ ประกาศสถาปนาสมณศักดิ์ 8 สมเด็จพระราชาคณะ",
+          "url": "https://www.thairath.co.th/news/local/bangkok/2946129"
         },
         {
-          "title": "ประกาศสถาปนาสมณศักดิ์ ‘สมเด็จพระราชาคณะ’ 8 รูป",
-          "url": "https://www.dailynews.co.th/news/6025649/"
+          "title": "เปิดประวัติ เจ้าคุณฌอน สมเด็จฯต่างชาติรูปแรก พระฝรั่งผู้แตกฉาน ถ่ายทอดหลักธรรมเข้าใจง่าย",
+          "url": "https://www.matichon.co.th/local/religious/news_5805290"
         },
         {
-          "title": "ในหลวงโปรดสถาปนา 8 สมเด็จพระราชาคณะ มีพระพรหมพัชรญาณมุนี เป็นสมเด็จฯต่างชาติองค์แรก",
-          "url": "https://www.matichon.co.th/local/religious/news_5804935"
+          "title": "เปิดประวัติ ‘พระอาจารย์ชยสาโร’ สถานพำนักสงฆ์บ้านไร่ทอสี ‘สมเด็จฯชาวต่างชาติ’ รูปแรกในคณะสงฆ์ไทย",
+          "url": "https://www.dailynews.co.th/news/6026824/"
         }
       ],
       "updatedAt": "2026-07-14T15:10:00+07:00"
@@ -1045,19 +1007,57 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "มติ ก.ต. ไล่ออก 'อดีตอธิบดีผู้พิพากษา' ช่วยเหลือคู่ความคดีพิพาทตระกูลณรงค์เดช",
-          "url": "https://www.thaipost.net/x-cite-news/1031576/"
+          "title": "วธ. เสนอ ครม. แต่งตั้งผู้บริหารระดับสูง สลับตำแหน่ง-ต่ออายุอธิบดี เตรียมพร้อมภารกิจใหม่",
+          "url": "https://www.thairath.co.th/news/governmentpolicy/2946222"
         },
         {
-          "title": "ก.ต.ลงโทษไล่ออก อดีต “อธิบดีศาล” โดนคลิปวงจรปิดเข้าออกบ้านคู่ความตระกูลดัง",
-          "url": "https://www.dailynews.co.th/news/6024741/"
+          "title": "ครม.แต่งตั้ง บิ๊กข้าราชการหลายกระทรวง เช็กรายชื่อทั้งหมด",
+          "url": "https://www.nationtv.tv/news/politics/378980230"
         },
         {
-          "title": "ก.ต.ไล่ออกอดีตอธิบดีศาลแพ่ง ปมเอื้อคดีหุ้น “ณรงค์เดช” งดเลื่อนขั้นรองฯ 2 ปี ปมสลับสำนวน",
-          "url": "https://www.kaohoon.com/news/846065"
+          "title": "ครม.ไฟเขียวโยก ‘โชติกา’ เป็นอธิบดี สวธ.-‘ยุถิกา’ นั่งรองปลัด วธ. พร้อมต่อเวลาอธิบดีกรมศิลป์อีก 1 ปี",
+          "url": "https://www.dailynews.co.th/news/6026290/"
         }
       ],
       "updatedAt": "2026-07-14T05:20:00+07:00"
+    },
+    {
+      "id": "topic-8bf92cab2c",
+      "title": "เวียดนาม",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 500+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#เวียดนาม"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "แผ่นดินไหว 5.2 แมกนิจูดเขย่าเวียดนาม กรมอุตุฯยันไม่กระทบประเทศไทย",
+          "url": "https://www.dailynews.co.th/news/6026686/"
+        },
+        {
+          "title": "แผ่นดินไหว 4.6 ริกเตอร์ ในเวียดาม ห่างอุบลฯ 361 กม. ไม่พบความเสียหาย",
+          "url": "https://mgronline.com/uptodate/detail/9690000068342"
+        },
+        {
+          "title": "แผ่นดินไหว! เขย่า ประเทศเวียดนาม ขนาด 5.2 ความลึก 10 กิโลเมตร",
+          "url": "https://www.amarintv.com/news/social/551762"
+        }
+      ],
+      "updatedAt": "2026-07-14T16:50:00+07:00"
     },
     {
       "id": "2026-10-69-a3ee8fe44c",
