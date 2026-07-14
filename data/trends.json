@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T13:19:56.941860+07:00",
+  "generatedAt": "2026-07-14T16:06:04.445115+07:00",
   "dateRange": "2026-07-07 to 2026-07-14",
   "sourceErrors": [],
   "topics": [
@@ -524,6 +524,44 @@
       "updatedAt": "2026-07-09T11:55:25+07:00"
     },
     {
+      "id": "topic-b30e2d3c26",
+      "title": "กรมบัญชีกลาง",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 1000+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#กรมบัญชีกลาง"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "คลังจ่อเปิดทางให้ ขรก.เลือก \"ให้สิทธิ-ตัดสิทธิ\" ค่ารักษาคนในครอบครัว",
+          "url": "https://www.thaipbs.or.th/news/content/508226"
+        },
+        {
+          "title": "กรมบัญชีกลาง ชี้ ขรก.รุ่นใหม่ ไม่ต้องการบำนาญ ขออัพเงินซื้อประกันเอง ย้ำ ไม่เลิกสวัสดิการคนเก่า",
+          "url": "https://www.matichon.co.th/economy/news_5804560"
+        },
+        {
+          "title": "รื้อค่ารักษาพยาบาลข้าราชการ รัฐคุมค่าใช้จ่าย-สกัดทุจริตเบิกยาไปขายต่อ",
+          "url": "https://www.thairath.co.th/money/economics/thai_economics/2946021"
+        }
+      ],
+      "updatedAt": "2026-07-14T14:40:00+07:00"
+    },
+    {
       "id": "topic-122c3c0d88",
       "title": "ข่าว",
       "sourceType": "trends",
@@ -547,16 +585,16 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "“เนเน่” เข้าทำเนียบฯ พบนายกฯ รัฐบาลพร้อมหนุนค่าใช้จ่ายลุยเวที AGT เชิญชวนคนไทยร่วมโหวต ดันเป็นซอฟต์พาวเวอร์ไทย",
-          "url": "https://mgronline.com/politics/detail/9690000068379"
+          "title": "จับตารอบทิศ - คุมเข้มความปลอดภัยสถานบันเทิง จ.ชลบุรี",
+          "url": "https://www.thaipbs.or.th/program/KeepAround/episodes/116456"
         },
         {
-          "title": "“เนเน่” ยันเป็น “คนภูเก็ต ประเทศไทย 100 %” ไม่ใช่ชาติอื่น ย้ำ “กัมพูชา” อย่าเคลม",
-          "url": "https://www.thaipbs.or.th/news/content/508254"
+          "title": "นายกฯ จ่อทบทวนกฎหมายสถานบันเทิง-โซนนิ่ง หลังเหตุไฟไหม้โรงเบียร์ลาดพร้าว",
+          "url": "https://today.line.me/th/v3/article/DR6x0KW"
         },
         {
-          "title": "ทำเนียบฯแตก! 'น้องเนเน่' พบ 'อนุทิน โชว์เพลง zombie",
-          "url": "https://www.thaipost.net/hi-light/1031935/"
+          "title": "ผู้ว่าฯ กทม. สั่งทุกเขต อัปเดตข้อมูลร้านอาหารทุก 1 เดือน จ่อเอาผิดร้านอาหารเปิดเป็นสถานประกอบการ",
+          "url": "https://www.thairath.co.th/news/politic/2946172"
         }
       ],
       "updatedAt": "2026-07-14T02:20:00+07:00"
@@ -652,44 +690,6 @@
       "updatedAt": "2026-07-14T06:30:00+07:00"
     },
     {
-      "id": "topic-0d922d6ac1",
-      "title": "ดูดวง",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 100+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#ดูดวง"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "ดูดวงรายวันประจำวันอังคาร ที่ 14 กรกฎาคม 2569 สำหรับท่านที่เกิดวันเสาร์",
-          "url": "https://www.sanook.com/horoscope/329930/"
-        },
-        {
-          "title": "ดูดวงรายวัน 14 กรกฎาคม 2569 ตามวันเกิด หมอไก่ พ.พาทินี",
-          "url": "https://www.thairath.co.th/horoscope/daily/2946007"
-        },
-        {
-          "title": "ดวงเฮงดวงปัง - ราศีไหนได้ลาภแบบฟลุกๆ ราศีใดอาจประสบปัญหาเรื่องรัก",
-          "url": "https://www.khaosod.co.th/horoscope/news_10319905"
-        }
-      ],
-      "updatedAt": "2026-07-14T01:20:00+07:00"
-    },
-    {
       "id": "topic-48438e320f",
       "title": "ตับ",
       "sourceType": "trends",
@@ -713,16 +713,16 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "บทเรียนราคาแพง! \"ตั้ม วิชญะ\" เผยสาเหตุเลิกภรรยา ได้แม่กับน้องชายช่วยชุบชีวิต",
-          "url": "https://www.thairath.co.th/entertain/news/2945767"
+          "title": "ไม่ดื่มก็เสี่ยง “โรคมะเร็งตับ” ภัยเงียบคนยุคใหม่ ระวังเบาหวาน-อ้วน-ไขมันพอกตับ",
+          "url": "https://www.thairath.co.th/lifestyle/health-and-beauty/2945969"
         },
         {
-          "title": "‘เติ้ล ตะวัน’ ย้อนเล่า เคยป่วยหนัก เป็นไขมันพอกตับระยะสุดท้าย | The Bangkok Insight",
-          "url": "https://today.line.me/th/v3/article/0M7x6XD"
+          "title": "ไม่ดื่มก็เสี่ยง! แพทย์เตือน ไขมันพอกตับ-เบาหวาน เสี่ยงมะเร็งตับสูง",
+          "url": "https://www.biztalknews.com/healthcare/non-alcoholic-fatty-liver-cause-liver-cancer/"
         },
         {
-          "title": "'ตั้ม วิชญะ' เปิดใจหลังเลิกภรรยา 'เติ้ล ตะวัน' เผยเป็นไขมันพอกตับระยะสุดท้าย",
-          "url": "https://www.thaipost.net/entertainment-news/1031695/"
+          "title": "ไม่ดื่มก็เสี่ยงเป็น ‘มะเร็งตับ’ เบาหวาน-อ้วน-ไขมัน คือตัวเร่งสำคัญ",
+          "url": "https://www.thansettakij.com/health-wellness/health/663772"
         }
       ],
       "updatedAt": "2026-07-14T04:40:00+07:00"
@@ -793,12 +793,12 @@
           "url": "https://www.huasengheng.com/news/night-recap-gold-spot-13-07-2569/"
         },
         {
-          "title": "ราคาทอง 1 บาทวันนี้ 13 กรกฎาคม 2569 อัปเดตล่าสุด เปิดตลาดปรับลด 600 บาท",
-          "url": "https://www.thairath.co.th/news/society/2945848"
-        },
-        {
           "title": "ภาวะตลาดทองคำนิวยอร์ก: ทองปิดร่วง $108 กังวลสงครามยืดเยื้อหนุนเงินเฟ้อสูง-กดดันเฟดขึ้นดบ.",
           "url": "https://www.ryt9.com/s/iq/12829733"
+        },
+        {
+          "title": "ทองไทยเปิดร่วง 650 บาท หลังทองโลกทรุดกว่า 3% กังวลดอกเบี้ยสหรัฐฯ สูงนาน | การเงินธนาคาร",
+          "url": "https://today.line.me/th/v3/article/QwBxQYg"
         }
       ],
       "updatedAt": "2026-07-14T04:50:00+07:00"
@@ -853,8 +853,8 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "ฝรั่งเศส ดวล สเปน รอบรองชนะเลิศ แพงสุดในประวัติศาสตร์ฟุตบอลโลก",
-          "url": "https://www.pptvhd36.com/sport/news/279527"
+          "title": "วิเคราะห์บอล ฝรั่งเศส vs สเปน 14 ก.ค. 69 : รีแมตช์ยูโรเดือด แย่งตั๋วชิงแชมป์โลก",
+          "url": "https://www.siamsport.co.th/worldcup/106634/"
         },
         {
           "title": "ฟันธงไม่มีอคติ! ChatGPT ชี้ชัดใครจะคว้าชัย \"ฝรั่งเศส พบ สเปน\" ศึกฟุตบอลโลก 2026",
@@ -946,6 +946,44 @@
       "updatedAt": "2026-07-09T19:51:03+07:00"
     },
     {
+      "id": "topic-3800f07a19",
+      "title": "สมณศักดิ์",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 500+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#สมณศักดิ์"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "เปิดประวัติ พระพรหมพัชรญาณมุนี หรือ “เจ้าคุณฌอน” สมเด็จฯ ต่างชาติองค์แรก",
+          "url": "https://www.thairath.co.th/news/society/2946123"
+        },
+        {
+          "title": "ประกาศสถาปนาสมณศักดิ์ ‘สมเด็จพระราชาคณะ’ 8 รูป",
+          "url": "https://www.dailynews.co.th/news/6025649/"
+        },
+        {
+          "title": "ในหลวงโปรดสถาปนา 8 สมเด็จพระราชาคณะ มีพระพรหมพัชรญาณมุนี เป็นสมเด็จฯต่างชาติองค์แรก",
+          "url": "https://www.matichon.co.th/local/religious/news_5804935"
+        }
+      ],
+      "updatedAt": "2026-07-14T15:10:00+07:00"
+    },
+    {
       "id": "topic-673865f374",
       "title": "สลากออมสิน",
       "sourceType": "trends",
@@ -977,49 +1015,11 @@
           "url": "https://www.khaosod.co.th/economics/news_10321259"
         },
         {
-          "title": "สลากออมสินพิเศษ ฉลองครบ 113 ปี ลุ้นรางวัลปิดท้าย 70 ล้านบาท . ธนาคารออมสิน ฉลองครบรอบ 113 ปี เพิ่มเงินรางวัลพิเศษให้กับสลากออมสินพิเศษ 1 ปี และ 2 ปี ลุ้นรางวัลใหญ่รอบสุดท้ายรวม 70 ล้านบาท รางวัลละ 10 ล้านบาท จำนวน 7 รางวัล ออกรางวัลวันที่ 16 กรกฎาคม 2569 . ซื้อสล",
-          "url": "https://www.facebook.com/bangkokbiznews/videos/%E0%B8%AA%E0%B8%A5%E0%B8%B2%E0%B8%81%E0%B8%AD%E0%B8%AD%E0%B8%A1%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B8%9E%E0%B8%B4%E0%B9%80%E0%B8%A8%E0%B8%A9-%E0%B8%89%E0%B8%A5%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%9A-113-%E0%B8%9B%E0%B8%B5-%E0%B8%A5%E0%B8%B8%E0%B9%89%E0%B8%99%E0%B8%A3%E0%B8%B2%E0%B8%87%E0%B8%A7%E0%B8%B1%E0%B8%A5%E0%B8%9B%E0%B8%B4%E0%B8%94%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%A2-70-%E0%B8%A5%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%9A%E0%B8%B2%E0%B8%97%E0%B8%98%E0%B8%99%E0%B8%B2%E0%B8%84%E0%B8%B2%E0%B8%A3%E0%B8%AD%E0%B8%AD%E0%B8%A1%E0%B8%AA%E0%B8%B4%E0%B8%99-%E0%B8%89%E0%B8%A5%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%9A%E0%B8%A3/1562182161962133/"
+          "title": "ออมสิน เพิ่มรางวัลพิเศษ 70 ล้านบาท สลากออมสิน หวยงวด 16 ก.ค.69",
+          "url": "https://www.bangkokbiznews.com/news/news-update/1241670"
         }
       ],
       "updatedAt": "2026-07-14T05:40:00+07:00"
-    },
-    {
-      "id": "topic-a2afe50471",
-      "title": "สโมสรฟุตบอลอาร์เซนอล",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 5000+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#สโมสรฟุตบอลอาร์เซนอล"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "\"ปืนใหญ่\" จัดหนักเล็งกระชาก \"อัลวาเรซ\" ล่าตาข่าย",
-          "url": "https://www.dailynews.co.th/news/6021479/"
-        },
-        {
-          "title": "ปืนเดินหน้าดีล 'อัลวาเรซ' ให้จบก่อนปรีซีซั่น มอง>90ล. หมีเรียก100ล. | Soccersuck",
-          "url": "https://today.line.me/th/v3/article/LXzW3zn"
-        },
-        {
-          "title": "อาร์เซนอลเซ็นสัญญากับ 'ฮีโร่' ของทีมชาติอาร์เจนตินา",
-          "url": "https://www.vietnam.vn/th/arsenal-chieu-mo-nguoi-hung-tuyen-argentina"
-        }
-      ],
-      "updatedAt": "2026-07-13T23:10:00+07:00"
     },
     {
       "id": "topic-27a8b37785",
@@ -1049,12 +1049,12 @@
           "url": "https://www.thaipost.net/x-cite-news/1031576/"
         },
         {
-          "title": "ก.ต.ไล่ออกอดีตอธิบดีศาลแพ่ง ปมเอื้อคดีหุ้น “ณรงค์เดช” งดเลื่อนขั้นรองฯ 2 ปี ปมสลับสำนวน",
-          "url": "https://www.kaohoon.com/news/846065"
+          "title": "ก.ต.ลงโทษไล่ออก อดีต “อธิบดีศาล” โดนคลิปวงจรปิดเข้าออกบ้านคู่ความตระกูลดัง",
+          "url": "https://www.dailynews.co.th/news/6024741/"
         },
         {
-          "title": "ก.ต. ฟันวินัยร้ายแรงไล่ออก 'อดีตอธิบดีศาลแพ่ง' เอื้อประโยชน์คดีหุ้น 'ณรงค์เดช'",
-          "url": "https://www.springnews.co.th/news/hot-issue/864177"
+          "title": "ก.ต.ไล่ออกอดีตอธิบดีศาลแพ่ง ปมเอื้อคดีหุ้น “ณรงค์เดช” งดเลื่อนขั้นรองฯ 2 ปี ปมสลับสำนวน",
+          "url": "https://www.kaohoon.com/news/846065"
         }
       ],
       "updatedAt": "2026-07-14T05:20:00+07:00"
