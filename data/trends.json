@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T18:42:16.925779+07:00",
+  "generatedAt": "2026-07-16T22:04:12.431140+07:00",
   "dateRange": "2026-07-09 to 2026-07-16",
   "sourceErrors": [],
   "topics": [
@@ -56,6 +56,32 @@
       "updatedAt": "2026-07-11T09:44:18+07:00"
     },
     {
+      "id": "6-0fa322ca5f",
+      "title": "6 โรงเรียนและมหาวิทยาลัย ที่ใช้ถ่ายทำซีรีส์จีนยอดฮิต",
+      "sourceType": "news",
+      "category": "entertainment",
+      "contentPotential": "high",
+      "riskLevel": "low",
+      "summary": "ข่าวจาก Google News keyword: ซีรีส์ / source: TrueID - 6 โรงเรียนและมหาวิทยาลัย ที่ใช้ถ่ายทำซีรีส์จีนยอดฮิต    TrueID",
+      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
+      "creatorAngle": "เล่า reaction ส่วนตัวต่อกระแส แล้วเปิดคำถามให้คนคุยต่อ",
+      "promptIdea": "กระแสนี้ทุกคนอยู่ทีมไหน?",
+      "hashtags": [
+        "#EntertainmentTH",
+        "#คุยเรื่องบันเทิง",
+        "#กระแสวันนี้",
+        "#6โรงเรียนและมหาวิทยาลัยท"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "TrueID",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBMVUtjM0hpejRsWE9QdWdBbS1hemgyeW5BdXB2R2hkM0xHRDdxd3BMcTY3NTFXaXFOWnphRXBjRVJySlBvbWtnTlVsTWNsNkNCZVA4RXB5d0E?oc=5"
+        }
+      ],
+      "updatedAt": "2026-07-15T10:32:22+07:00"
+    },
+    {
       "id": "7-2000s-163743771c",
       "title": "7 ลุคแต่งตัวยุค 2000s ที่คืนชีพแฟชั่นสาวเปรี้ยวให้กลับมาน่าแต่งอีกครั้ง",
       "sourceType": "news",
@@ -105,7 +131,7 @@
           "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9xNUVzWHAzN21xdUJEMEJsRW84SktJWkxYSnQtaEVRTTFlZlIwY0FwVnpDUVVyR09mRWlOU3Zta1MwdWhUTVVrbkxNRm1hVXUwYjNoNnFtSl9aamVZ?oc=5"
         }
       ],
-      "updatedAt": "2026-07-15T08:13:25+07:00"
+      "updatedAt": "2026-07-16T20:26:22+07:00"
     },
     {
       "id": "caf-amazon-experience-4a1cb1d4fa",
@@ -368,6 +394,32 @@
       "updatedAt": "2026-07-13T11:46:33+07:00"
     },
     {
+      "id": "delivery-1-52d8aab195",
+      "title": "เคยสงสัยไหม? เบื้องหลังการสั่งอาหาร Delivery 1 ครั้ง มีผลกระทบต่ออะไรบ้าง",
+      "sourceType": "news",
+      "category": "food",
+      "contentPotential": "high",
+      "riskLevel": "low",
+      "summary": "ข่าวจาก Google News keyword: อาหาร / source: สถาบันบัณฑิตพัฒนบริหารศาสตร์ (NIDA) - เคยสงสัยไหม? เบื้องหลังการสั่งอาหาร Delivery 1 ครั้ง มีผลกระทบต่ออะไรบ้าง    สถาบันบัณฑิตพัฒนบริหารศาสตร์ (NIDA)",
+      "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
+      "creatorAngle": "ให้ Creator เล่าประสบการณ์ร้าน/เมนูที่อยากลอง แล้วถามคนอื่นว่าคิดเหมือนกันไหม",
+      "promptIdea": "เห็นคนพูดถึงเมนูนี้เยอะมาก มีใครลองแล้วบ้าง?",
+      "hashtags": [
+        "#FoodTrend",
+        "#CafeTH",
+        "#รีวิวของกิน",
+        "#เคยสงสัยไหม?เบื้องหลังกา"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "สถาบันบัณฑิตพัฒนบริหารศาสตร์ (NIDA)",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5VNGdUam9sMG9TVjRFNVBXUW5nVjMtbXFGM2VpSnV3TjlUd3dwc3RQM3ZrMFQ4Z3hzWm1vM05uYUVVUmgtTGR2UnJnSzFKTlR3aE15cTJjWnNfcW9jREhMdU1USQ?oc=5"
+        }
+      ],
+      "updatedAt": "2026-07-16T13:27:51+07:00"
+    },
+    {
       "id": "16-cc1e302c78",
       "title": "เปิดวาร์ป “ท๊อปแลนด์คาเฟ่” คาเฟ่ลับกลางป่า 16 ไร่ เช็กอินสกายวอล์กหมอนรองรถไฟ วิวทุ่งนาหลักล้าน",
       "sourceType": "news",
@@ -472,58 +524,6 @@
       "updatedAt": "2026-07-10T16:44:00+07:00"
     },
     {
-      "id": "topic-7311db4334",
-      "title": "ใครควรเลี่ยง \"ถั่วฝักยาว\" ผักสามัญคู่อาหารไทย มีประโยชน์แต่ไม่ได้เหมาะกับทุกคน",
-      "sourceType": "news",
-      "category": "food",
-      "contentPotential": "high",
-      "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: อาหาร / source: Sanook - ใครควรเลี่ยง \"ถั่วฝักยาว\" ผักสามัญคู่อาหารไทย มีประโยชน์แต่ไม่ได้เหมาะกับทุกคน    Sanook",
-      "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
-      "creatorAngle": "ให้ Creator เล่าประสบการณ์ร้าน/เมนูที่อยากลอง แล้วถามคนอื่นว่าคิดเหมือนกันไหม",
-      "promptIdea": "เห็นคนพูดถึงเมนูนี้เยอะมาก มีใครลองแล้วบ้าง?",
-      "hashtags": [
-        "#FoodTrend",
-        "#CafeTH",
-        "#รีวิวของกิน",
-        "#ใครควรเลี่ยง\"ถั่วฝักยาว\""
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Sanook",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1tUWxaYzBrTG1oQXo1ZmxLbDFEYUJXTFYyRUU1WFJKVk9wLUVNaWFTcnF5NV8yQ3VoVXZDUDU1OVpUNDFKQ2l0NTJrZEI?oc=5"
-        }
-      ],
-      "updatedAt": "2026-07-16T01:56:46+07:00"
-    },
-    {
-      "id": "topic-080c9e5e9d",
-      "title": "ไขความลับซีรีส์วายไทย เหตุใดจึงติดเทรนด์โลก",
-      "sourceType": "news",
-      "category": "entertainment",
-      "contentPotential": "high",
-      "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: ซีรีส์ / source: Marketeer Online - ไขความลับซีรีส์วายไทย เหตุใดจึงติดเทรนด์โลก    Marketeer Online",
-      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
-      "creatorAngle": "เล่า reaction ส่วนตัวต่อกระแส แล้วเปิดคำถามให้คนคุยต่อ",
-      "promptIdea": "กระแสนี้ทุกคนอยู่ทีมไหน?",
-      "hashtags": [
-        "#EntertainmentTH",
-        "#คุยเรื่องบันเทิง",
-        "#กระแสวันนี้",
-        "#ไขความลับซีรีส์วายไทยเหต"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Marketeer Online",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE93RXQ4VHE4M1RXZVRaV0NtRno3UmV5bjRkZWhrdnFJUmR4SkNLdlJLakdaTkF5SEctOXlZd1dFUmt1OExFWk1xRERqeFJ3WXNIaGRjcA?oc=5"
-        }
-      ],
-      "updatedAt": "2026-07-10T14:00:00+07:00"
-    },
-    {
       "id": "topic-3b14875583",
       "title": "ไฟไหม้ลาดพร้าว: โรงเบียร์ ณ ลาดพร้าว จดทะเบียนเป็นร้านอาหาร นำไปสู่โศกนาฏกรรมหรือไม่",
       "sourceType": "news",
@@ -576,8 +576,8 @@
       "updatedAt": "2026-07-14T16:35:43+07:00"
     },
     {
-      "id": "kapook-c1c7bc05f5",
-      "title": "kapook",
+      "id": "asianvolleyball-209ae7dc8c",
+      "title": "asianvolleyball",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
@@ -590,7 +590,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#kapook"
+        "#asianvolleyball"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -599,24 +599,28 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "จากเศรษฐีร้อยล้าน ถูกลูกจ้างโกงจนหมดตัว ตัดใจนำสมบัติมาขาย ต่อลมหายใจ 1,700 ชีวิต",
-          "url": "https://hilight.kapook.com/view/254168"
+          "title": "Iran volleyball team secures world championship spot",
+          "url": "https://en.irna.ir/news/86210931/Iran-volleyball-team-secures-world-championship-spot"
         },
         {
-          "title": "จากเศรษฐีร้อยล้าน ถูกลูกจ้างโกงจนหมดตัว ตัดสินใจไถ่สมบัติชิ้นสุดท้ายมาขาย ต่อลมหายใจ 1,700 ชีวิต",
-          "url": "https://www.siamnews.com/news/social/48987"
+          "title": "Alas Pilipinas boys sweeps Australia, gets shot at AVC 9th place",
+          "url": "https://sports.inquirer.net/686520/alas-pilipinas-boys-sweeps-australia-gets-shot-at-avc-9th-place"
+        },
+        {
+          "title": "Bahrain U18s End Group Stage with Third Defeat",
+          "url": "https://www.newsofbahrain.com/sports/137384.html"
         }
       ],
-      "updatedAt": "2026-07-16T15:50:00+07:00"
+      "updatedAt": "2026-07-16T18:00:00+07:00"
     },
     {
-      "id": "lottery-46b1499f5c",
-      "title": "lottery",
+      "id": "england-vs-india-06dfb6c63c",
+      "title": "england vs india",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 5000+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -624,7 +628,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#lottery"
+        "#englandvsindia"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -633,19 +637,57 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "Florida Lotto for July 15 after $6.75 million Publix ticket is claimed",
-          "url": "https://www.tcpalm.com/story/news/2026/07/15/florida-lotto-numbers-wednesday-july-publix-winner/90936170007/"
+          "title": "Ball by Ball Commentary & Live Score - ENG vs IND, 2nd ODI",
+          "url": "https://www.cricinfo.com/series/india-in-england-2026-1496488/england-vs-india-2nd-odi-1496580/ball-by-ball-commentary"
         },
         {
-          "title": "Clock is ticking for lucky Publix shopper to claim huge $6.75million lottery win before it expires - see winning numbers",
-          "url": "https://www.the-sun.com/money/16680524/publix-shopper-florida-lottery-win-lotto/"
+          "title": "India vs England: Shubman Gill & Axar Patel lead tourists to ODI win",
+          "url": "https://www.bbc.com/sport/cricket/articles/c1kykzjy4lno"
         },
         {
-          "title": "Lottery ticket worth over $50,000 sold in Broward County. Was it yours?",
-          "url": "https://www.coralspringsflnews.com/news/local/article316426180.html"
+          "title": "India beat England by six wickets in first men’s one-day cricket international – as it happened",
+          "url": "https://www.theguardian.com/sport/live/2026/jul/14/england-v-india-first-one-day-cricket-international-live?page=with%3Ablock-6a564c658f08c251661ce446"
         }
       ],
-      "updatedAt": "2026-07-16T15:30:00+07:00"
+      "updatedAt": "2026-07-16T19:00:00+07:00"
+    },
+    {
+      "id": "forex-factory-3485e62597",
+      "title": "forex factory",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 500+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#forexfactory"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "Popular tourist spot rattled by 5.9m quake",
+          "url": "https://www.news.com.au/world/pacific/powerful-66-earthquake-strikes-near-te-anau-and-triggers-tsunami-warning-in-new-zealand/news-story/521decca0b50731eddf6d4b4e923c474"
+        },
+        {
+          "title": "NEW ZEALAND'S NATIONAL EMERGENCY MANAGEMENT AGENCY - ISSUED A TSUNAMI WARNING FOR NEW ZEALAND COASTAL AREAS FOLLOWING THE M6.3 FIORDLAND EARTHQUAKE",
+          "url": "https://news.cgtn.com/news/2026-07-16/news-1OPnfsmdsNW/p.html"
+        },
+        {
+          "title": "Earthquake causes strong shaking across the Upper Clutha",
+          "url": "https://wanakaapp.nz/NewsStory/earthquake-causes-strong-shaking-across-the-upper-clutha/67e20bcea98a2b002d354f1c"
+        }
+      ],
+      "updatedAt": "2026-07-16T19:30:00+07:00"
     },
     {
       "id": "topic-d3a65e0130",
@@ -654,7 +696,7 @@
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 1000+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 2000+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -671,16 +713,16 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "DSI คุมตัว \"มัลลิกา\" ฝากขัง เจ้าตัวเบี่ยงหน้า ไม่ตอบคำถามสื่อ",
-          "url": "https://www.thairath.co.th/news/crime/2946634"
+          "title": "ศาลอาญาไม่ให้ประกัน \"มัลลิกา\" ผู้บริหาร บ.โบรกเกอร์ โยงคดี Forex",
+          "url": "https://www.thaipbs.or.th/news/content/508373"
+        },
+        {
+          "title": "ศาลไม่ให้ประกันตัว ส่ง \"มัลลิกา\" เข้าเรือนจำ ชี้อัตราโทษสูง หวั่นหลบหนี",
+          "url": "https://www.thairath.co.th/news/crime/2946762"
         },
         {
           "title": "DSI รวบเจ้าของโบรกเกอร์ QRS ชักชวนลงทุน Forex อ้างกำไรสูง",
           "url": "https://today.line.me/th/v3/article/609Y1v1"
-        },
-        {
-          "title": "\"โค้ชเจมส์\" วืดประกัน ศาลอาญาไม่ให้ปล่อยขั่วคราว ชี้มูลค่าความเสียหายสูง แบ่งหน้าที่กันทำ",
-          "url": "https://mgronline.com/crime/detail/9690000069178"
         }
       ],
       "updatedAt": "2026-07-16T17:00:00+07:00"
@@ -692,7 +734,7 @@
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 500+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 1000+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -709,45 +751,19 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "“นิรัตน์” รับรู้จัก “วิน” ผู้ต้องหาทุจริตสอบท้องถิ่น แต่ไม่สนิท-ไม่เคยจ้างงาน",
-          "url": "https://www.thaipbs.or.th/news/content/508369"
-        },
-        {
-          "title": "กมธ. ป.ป.ช. เร่งคลี่ปมแฟลชไดรฟ์ ห้องอธิบดี สถ. ยัน มีแก้ตัวเลข แฉมีวิ่งเต้นจ่ายเงิน ให้ถอนชื่อออกจาก 5,000 คน",
-          "url": "https://news.ch7.com/detail/885500"
-        },
-        {
           "title": "กมธ.ป.ป.ช. มีมติขอข้อมูล-เอกสารหน่วยงานที่เกี่ยวข้องเพิ่ม ปมทุจริตสอบท้องถิ่น",
           "url": "https://www.thairath.co.th/news/politic/2946710"
+        },
+        {
+          "title": "นายกรัฐมนตรี เรียกถกด่วน มท.-ตร.-พณ. สั่งเร่งดำเนินคดีโกงสอบท้องถิ่นรุกที่ดินภูเก็ต-นอมินี กวาดล้างทุนเทา",
+          "url": "https://news.ch7.com/detail/885516"
+        },
+        {
+          "title": "อนุทินชี้ กสถ. มีอำนาจเพิกถอนผู้ทุจริตสอบท้องถิ่นกว่า 3,000 ราย ไม่ต้องรอนายกฯ กลับจากจีน",
+          "url": "https://thestandard.co/anutin-kst-revoke-local-exam-fraud/"
         }
       ],
       "updatedAt": "2026-07-16T17:00:00+07:00"
-    },
-    {
-      "id": "51-13-07-69-0a0bdb32e0",
-      "title": "ความสัมพันธ์51 ปี คุยเรื่องสำคัญอะไรกัน? (13/07/69)",
-      "sourceType": "news",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: ความสัมพันธ์ / source: facebook.com - ความสัมพันธ์51 ปี คุยเรื่องสำคัญอะไรกัน? (13/07/69) #news1 #ข่าววันนี้ #ข่าวดัง #สนธิ ดร.อาทิตย์ #ความสัมพันธ์51    facebook.com",
-      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#ความสัมพันธ์51ปีคุยเรื่อ"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "facebook.com",
-          "url": "https://news.google.com/rss/articles/CBMiygZBVV95cUxOTEJGaGJRemppVVkxQmVzRHhfeDVIZ2hMM3d6LUN2YkQ4dkRBOUZuNEo1XzlpWU1HSWk2MktJUTlJLUlwTVdBY3ZwWkNBYVNQNzFtOHZELXZhbnU1LXRwSXRZOElHT0F6dm1KTWtjWVFvOGpWZFNXdUp1NWtLdFg2ZlhtOE5yWXRBX1pQRHVDWFcwQjRaLTcxSmRuaHJCSkFtczRmMm1LUkRTbkR0cW12eTlfVFJ1RDJqMkRDYVpXeHF0TkQ0c2RfZ3VVRHRqVUFmZ29LdGdIU2Y1MlFVb093UDlBc2NfeW1Ccjh0ZUVicGg4SmdCLUVSTjJzZnFmNkd0VkV1eDVacWFaSzRyQ29sRGhlYTA4LUhCWm9BUGZYZ3JtU3c1RjNpVm50MWFGWnllRTFDWVBCb3pjeTduR3RGeVVkNTVqb29HMjBsQjNQZG5aZ3poSVZPcVViaEF4c3VlM0VCVjZFRGVRa2pnNV9telNITU9BY1l3aU9wMmhWZWFLcGdVcEtGWXV2QXdpX0plUDEtWENYOVQtbmpEdkdzZVhrb3B1b2xBd0cyWndZRG9YVkh6b1c4d0R3UnlJMTRQQ2F5SkFaTnQ2T2h2eGd1WlNhX3NDamNQLVFBZnNfUEd4MjdmbHcxNG5TNFB0U1pQdVhZWjdZa0lBV29sM0sycExZdDh0d0ZaMUV4LUJmSFhVeEU3NW1iY3FRc2hCM1ZXQi1pOWpPN0lUX0pkaUtjR2FKREhyVWdiVXpDbUtFV0NIZl9iZVRwekFCSTA2ZHpWbk15NHJLdkZKSDM1RldleWZHbEF5WEFENHFBUG5TS0UwdUNGOWVLMFZ2V1p5ZDdwLWJrMGxUYVd1NE1PNnhYcHk3bXpxbHVQbnd3T0xPTzNpcVBnZHhsb2dmR1RhcWpyTzBhem5UdDZjTGU0ZzhzQVpYT0ZzQ1hnblFBZHlweVRkZGtWaU9kclhZLTV5UERNNFlUMFRnQ0JWWHpBRjJELVE1WFdtc3NBMTFnMWMwV0VSS2R3YmVVcTlfTDlrOUxRY2JXd2tOMERFT1F1Y011VUxEYlluUlp1XzRUWGNwZkdtVUtxazBiOXlCbkJJemtpdHhxb21uSnlmdw?oc=5"
-        }
-      ],
-      "updatedAt": "2026-07-13T14:30:16+07:00"
     },
     {
       "id": "topic-23fc70e4ef",
@@ -773,16 +789,16 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "“จีน” กระชับสัมพันธ์ “เกาหลีเหนือ” ส่งหวัง ฮู่หนิง เยือนเปียงยาง สานข้อตกลงสี จิ้นผิง-คิม จองอึน",
-          "url": "https://today.line.me/th/v3/article/BEJgxan"
+          "title": "นายกฯ เรียกถกด่วน “มท.-ตร.-พณ.” เร่งคดีโกงสอบท้องถิ่น -นอมินีต่างชาติ-รุกที่ดินภูเก็ต ก่อนเยือนจีน",
+          "url": "https://www.thaipbs.or.th/news/content/508374"
         },
         {
-          "title": "บิ๊กอันดับ 4 แห่งแดนมังกรเยือนเกาหลีเหนือ เสริมสร้างพันธมิตรให้แข็งแกร่ง",
-          "url": "https://mgronline.com/china/detail/9690000068673"
+          "title": "“อนุทิน” ถกกองทัพไทย ก่อนเยือนจีน ย้ำไม่ปิดกั้นเป็นตัวกลางไกล่เกลี่ย ไทย - กัมพูชา",
+          "url": "https://www.thairath.co.th/news/politic/2946698"
         },
         {
-          "title": "สี จิ้นผิง พบหารือกับปาร์ค แทซอง นายกรัฐมนตรีเกาหลีเหนือ",
-          "url": "https://thai.cri.cn/2026/07/11/ARTI1783746105432233"
+          "title": "เกาะประเด็นการเมือง จับตา \"ส้มโชว์วิสัยทัศน์\"",
+          "url": "https://www.dailynews.co.th/news/6030016/"
         }
       ],
       "updatedAt": "2026-07-16T17:50:00+07:00"
@@ -812,6 +828,82 @@
         }
       ],
       "updatedAt": "2026-07-10T14:00:00+07:00"
+    },
+    {
+      "id": "topic-4a522721e8",
+      "title": "ชนนพัฒฐ์ นาคสั้ว",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#ชนนพัฒฐ์นาคสั้ว"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "คกก.ธุรกรรม ปปง. สั่งยึด-อายัดทรัพย์ “ชนนพัฒฐ์” กับพวก เพิ่มอีก 12 ล้าน",
+          "url": "https://www.thairath.co.th/news/politic/2946761"
+        },
+        {
+          "title": "'ชนนพัฒฐ์' รับทราบ 2 ข้อหาหนัก 'อั้งยี่-โยงอาชญากรรมข้ามชาติ'",
+          "url": "https://www.bangkokbiznews.com/politics/1243080"
+        },
+        {
+          "title": "ปปง. สั่งยึด-อายัดทรัพย์เพิ่ม ‘ชนนพัฒฐ์’ แก๊งพนันออนไลน์บิ๊กล็อต เสียหายรวมกว่า 180 ล้าน",
+          "url": "https://thestandard.co/amlo-seize-chonnapat-gambling-assets/"
+        }
+      ],
+      "updatedAt": "2026-07-16T18:50:00+07:00"
+    },
+    {
+      "id": "topic-ea00e6dfca",
+      "title": "ณิริน",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#ณิริน"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "\"น้องณิริน\" ลูกสาวคนเก่งของ \"หนิง ปณิตา\" ภาพล่าสุดทำแฟนคลับตะลึง",
+          "url": "https://www.sanook.com/news/9899262/gallery/"
+        },
+        {
+          "title": "โตเป็นสาวแล้ว! \"น้องณิริน\" ลูกสาว \"หนิง ปณิตา\" สวยสะดุดตาแววนางเอกชัดมาก",
+          "url": "https://www.thairath.co.th/entertain/news/2946722"
+        },
+        {
+          "title": "น้องณิริน ลูกสาวหนิง ปณิตา ที่ยิ่งโต ยิ่งสวยฉ่ำกว่าเดิม",
+          "url": "https://women.kapook.com/view302511.html"
+        }
+      ],
+      "updatedAt": "2026-07-16T21:50:00+07:00"
     },
     {
       "id": "170-93c55d15a3",
@@ -866,120 +958,6 @@
       "updatedAt": "2026-07-15T00:35:13+07:00"
     },
     {
-      "id": "16-2569-5c5a0d5e38",
-      "title": "ผลสลากออมสิน 16 กรกฎาคม 2569",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 10000+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#ผลสลากออมสิน16กรกฎาคม256"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "ผลสลาก ธ.ก.ส. 16/7/69 ตรวจสลากออมทรัพย์ ธ.ก.ส. งวด 16 กรกฎาคม 2569",
-          "url": "https://www.sanook.com/money/954159/"
-        },
-        {
-          "title": "รางวัลพิเศษรวม 113 ล้านบาท ออกรางวัลครั้งที่ 3 สำหรับผู้ฝากสลากออมสินพิเศษ 1 ปี หรือ 2 ปี (ใบสลากหรือดิจิทัล)",
-          "url": "https://www.gsb.or.th/news/special-salak-rwd3/"
-        },
-        {
-          "title": "ตรวจผลรางวัลสลากออมสินพิเศษ 1 ปี วันที่ 16 กรกฎาคม 2569",
-          "url": "https://www.pptvhd36.com/news/%E0%B8%A5%E0%B8%AD%E0%B8%95%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B8%B5%E0%B9%88/279659"
-        }
-      ],
-      "updatedAt": "2026-07-16T15:40:00+07:00"
-    },
-    {
-      "id": "topic-f6925de544",
-      "title": "รัฐบาล",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 1000+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#รัฐบาล"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "ส.อ.ท. เชื่อมั่นรัฐบาลรับมือราคาน้ำมันผันผวน",
-          "url": "https://www.tnnthailand.com/wealth/economy/241282/"
-        },
-        {
-          "title": "“ดร.คุรุจิต” เตือนวิกฤตพลังงานรอบใหม่ จี้รัฐเร่งแผนสำรองน้ำมันและต่ออายุแหล่งปิโตรเลียม",
-          "url": "https://www.thairath.co.th/news/local/bangkok/2946024"
-        },
-        {
-          "title": "‘เฉลี่ยทุกข์ เฉลี่ยสุข’พลังของประชาชน...พระเอกตัวจริงผู้พากองทุนน้ำมันเชื้อเพลิงพ้นวิกฤต",
-          "url": "https://www.thaipost.net/economy-news/1031225/"
-        }
-      ],
-      "updatedAt": "2026-07-16T16:00:00+07:00"
-    },
-    {
-      "id": "topic-2e092106c8",
-      "title": "ล็อตตารี่",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 500+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#ล็อตตารี่"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "ผลการออกรางวัลสลากกินแบ่งรัฐบาลภาคใต้ของเวียดนาม ประจำวันที่ 16 กรกฎาคม: มีผู้ถูกรางวัลจำนวนมากจากจังหวัดบิ่ญถวน",
-          "url": "https://www.vietnam.vn/th/xo-so-mien-nam-ngay-16-thang-7-nhieu-coc-ve-trung-dai-binh-thuan-xuat-hien"
-        },
-        {
-          "title": "ผลการออกรางวัลสลากบ่าเสีย-หวุงเต่า ประจำวันที่ 14 กรกฎาคม 2569",
-          "url": "https://www.vietnam.vn/th/ket-qua-xo-so-kien-thiet-ba-ria-vung-tau-ngay-14-7-2026"
-        },
-        {
-          "title": "ผลการออกรางวัลลอตเตอรี่ - ผลการออกรางวัลลอตเตอรี่วันนี้ วันพุธที่ 15 กรกฎาคม 2569",
-          "url": "https://www.vietnam.vn/th/ket-qua-xo-so-kqxs-hom-nay-thu-tu-ngay-15-7-2026"
-        }
-      ],
-      "updatedAt": "2026-07-16T15:50:00+07:00"
-    },
-    {
       "id": "1-3-2026-b13cc854e4",
       "title": "วอลเลย์บอลหญิงไทย พ่าย ตุรกี 1-3 เซต ศึกเนชันส์ลีก 2026 นัดสุดท้าย",
       "sourceType": "news",
@@ -1006,13 +984,13 @@
       "updatedAt": "2026-07-12T13:00:43+07:00"
     },
     {
-      "id": "topic-d98bc69ddd",
-      "title": "หวยลาววันนี้",
+      "id": "topic-b8782e650f",
+      "title": "สินเชื่อ",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 20000+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 1000+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -1020,7 +998,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#หวยลาววันนี้"
+        "#สินเชื่อ"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -1029,49 +1007,19 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "หวยลาววันนี้ 15 กรกฎาคม 2569 ตรวจผลหวยลาว 15/7/69 หวยลาววันนี้ออกอะไร",
-          "url": "https://www.sanook.com/news/9899230/"
+          "title": "SCB สนับสนุน AWC 40,500 ล้านบาท พัฒนา “เวิ้งนครเกษม เยาวราช” | The Better",
+          "url": "https://today.line.me/th/v3/article/gzK0y5p"
         },
         {
-          "title": "หวยลาววันนี้ งวดประจำวันที่ 16 กรกฎาคม 2569 ตรวจรางวัล ล่าสุด หวยลาว ออกอะไร | Khaosod",
-          "url": "https://today.line.me/th/v3/article/gzK0EBg"
+          "title": "AWC ผนึกพลัง SCB ลงนามสินเชื่อ Sustainability-Linked Loan มูลค่า 40,500 ล้านบาท พลิกโฉมเวิ้งนครเกษมสู่มิกซ์ยูสระดับโลก",
+          "url": "https://thestandard.co/awc-scb-sustainability-loan-woeng-nakornkasem/"
         },
         {
-          "title": "ตรวจหวยลาว งวด 15/7/69 เช็กเลข 6 ตัว วิเคราะห์เลขนามสัตว์ สถิติหวยย้อนหลัง",
-          "url": "https://thethaiger.com/th/news/1587745/"
+          "title": "ไทยพาณิชย์ปล่อยสินเชื่อ SLLแก่AWCวงเงิน4.05หมื่นล.-ยกระดับโครงการ-แลนด์มาร์ก-หนุนท่องเที่ยว",
+          "url": "https://mgronline.com/stockmarket/detail/9690000069538"
         }
       ],
-      "updatedAt": "2026-07-16T15:50:00+07:00"
-    },
-    {
-      "id": "topic-7050152f25",
-      "title": "หวยออกวันพฤหัส",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 500+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#หวยออกวันพฤหัส"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "หวยออกงวด 16 ก.ค.69 สถิติหวย ย้อนหลัง 10 ปี เคยออกเลขซ้ำ-เลขเบิ้ล 2 งวด | Khaosod",
-          "url": "https://today.line.me/th/v3/article/7N13Z1P"
-        }
-      ],
-      "updatedAt": "2026-07-16T16:00:00+07:00"
+      "updatedAt": "2026-07-16T21:50:00+07:00"
     },
     {
       "id": "2026-12-69-986a945334",
@@ -1098,6 +1046,44 @@
         }
       ],
       "updatedAt": "2026-07-12T07:55:00+07:00"
+    },
+    {
+      "id": "topic-ee0799167a",
+      "title": "ไอโฟน",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 2000+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#ไอโฟน"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "Siri AI is already changing how I use my iPhone",
+          "url": "https://www.theverge.com/tech/964714/siri-ai-public-beta-preview-ios-27-hands-on"
+        },
+        {
+          "title": "Siri AI beta available now: 7 things to try",
+          "url": "https://mashable.com/tech/siri-ai-new-features"
+        },
+        {
+          "title": "Apple Quietly Hid A Big Change Coming For CarPlay With iOS 27",
+          "url": "https://www.engadget.com/2211714/apple-reveal-carplay-video-playback-ios-27/"
+        }
+      ],
+      "updatedAt": "2026-07-16T17:50:00+07:00"
     },
     {
       "id": "u18-18-avc-boy-u18-volleyball-champions-30829a2251",
@@ -1262,7 +1248,7 @@
         },
         {
           "title": "Sanook",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5mMlpQWkZZSU9nWGN3SmhQQkVXME5SUGVQTFpvMl9SQnRmZWsxQ01jbWp6cXNtZFB3Q2Z2aHNWOEMwTy1sNmpMSmZPTDM?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9lTVRqRXBtRzhDOFRiMGttTktRTmxvN3lWN0NHTXplLS1sbGhDTTE1eHFlSzVDS3ZNY1ZYbkJPSThkM1duMF84bkJodw?oc=5"
         },
         {
           "title": "Thairath.co.th",
@@ -1322,6 +1308,32 @@
         }
       ],
       "updatedAt": "2026-07-10T23:39:54+07:00"
+    },
+    {
+      "id": "politics-c37d7d76ee",
+      "title": "POLITICS: ‘เจเศรษฐ์’ เป็นผู้แทนรัฐบาล เข้าเฝ้าฯ เจ้าผู้ครองรัฐกาตาร์ เพื่อร่วมถวายความอาลัยต่อการสวรรคตของ เชค ฮะมัด บิน เคาะลีฟะฮ์ อาล ษานี อดีตเจ้าผู้ครองรัฐกาตาร์แล...",
+      "sourceType": "news",
+      "category": "social_topic",
+      "contentPotential": "low",
+      "riskLevel": "high",
+      "summary": "ข่าวจาก Google News keyword: ความสัมพันธ์ / source: facebook.com - POLITICS: ‘เจเศรษฐ์’ เป็นผู้แทนรัฐบาล เข้าเฝ้าฯ เจ้าผู้ครองรัฐกาตาร์ เพื่อร่วมถวายความอาลัยต่อการสวรรคตของ เชค ฮะมัด บิน เคาะลีฟะฮ์ อาล ษานี อดีตเจ้าผู้ครองรัฐกาตาร์และพระราชบิดาขอ",
+      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
+      "creatorAngle": "ใช้เป็นข้อมูลเฝ้าระวังมากกว่าบรีฟโพสต์ หากต้องใช้ควรให้ทีม review ก่อน",
+      "promptIdea": "เรื่องนี้ควรเช็กข้อมูลก่อนแชร์ ทุกคนคิดว่าเราควรระวังอะไรบ้าง?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#POLITICS:‘เจเศรษฐ์’เป็นผ"
+      ],
+      "riskNote": "High risk ควรให้ทีม review ก่อนนำไป brief Creator และไม่ควรชวนดราม่า",
+      "sources": [
+        {
+          "title": "facebook.com",
+          "url": "https://news.google.com/rss/articles/CBMipwdBVV95cUxNVFM4eXVnNUMzMVBUVFNpWkZzYm1mU3ZTNVMzellxWktxaERjenFXMmlCQTRVMnRMTHZMeDk1bzNpQkpCVFZuc1NnY3FaMkVfYmM4ajJDRzhmMUxxS2xRMHBLVkk1V2dhcWthcGJvVVRHbmxtN3ZkOUpPS2dJZWJta0VXOVh5Z1h5M0k4TnNkMk9hODdjNEh0emtOX0J5RnpPY3lHLVI5NFg0ZnFOelFrVi05R0JXVDVvT1hMcDFEd1ZHbldmY2hSeEdFQXJnU3VOMXJFUGlUZnk5MWZKZVFLaU1qcUFUbEJLMjhEMHVtQmNFbEQ4VDBxN3dJSVVXcW5ndUhjRjNjcGQ2ckxwZnk0YUhURlRqWEZfRzRMT0NpRk50a2pucEZyb25naTZWYXBIZDlTZGFycXZsYWw5WWVSV0JxeGJOSnRCUzFtb1JNVURMaUR2bzRWMndjdlpDN08zMWg1RG9SeTRrZmlEblljend6dUpISUFLT2tsdFAyXy1wbTU4c29hVjEzNnRrNlBLUWxieTlBVGVjT0k5elJVV3N1dWoxRy0zS1JCRnp5dzM2cTJpb0poR0Q0U2FYZUZtNDJiNllLZndmRWhacU1LZHBvcWRzWVhsQV81YVZhU3VrMlIxZW54ak5aeEFiQVpZTVhpd3oxOVFHemtjX0IyZy1FcE9UX0JRZGlXaHduRHhRMVdiWDgxMTBDVHR2VVBNbVBMZHpWRzFlNENKd3hFR3FmWmtyaFRPVEpvaUh3dVM4YjBYbFV0VHVDQ3lXY0hrNzVNYUxJZXpkSFhBYjZWaXkzZmNzQ1IwVDQzYVlJODVBQTk0VHBJelRnWlZfbmFmbGlGb3BxRll2blgzUGp1R1dIamNud2ZoYnhUMU1SWGU1YXc4ZVFmOTBSXzJDWC05RE1JMm1kdl9ESGkxOG51bG56Y3JsdDNWRHdCMWMyWS12bjdHRHpxZ0xsZE1IU1lZc1BpMkJ2Vi1mdE5FQmxza3FRVzBtalNZNkp6cXNXT0dyaHdFY0YwcWhURlU4T0VIX1BSQTh2U1laUWYxR0ZuYlR3V2NNN0ZDRUx1Y2o1QkhSeS1qb3ktajZFNG1zYkZ4SS1MT1pXR01GZWE4OVQxbXZ2aTJ0WG9qNlFzMENiYkdZSUdUX0hhbnpHVW5vcEJ1MElMdllzT2NHUWJvVVdSejlFcGNxVGxGeElXYkFyMnZvSFRiZnNqd0c1Yk91SEM3OWU5WWpudw?oc=5"
+        }
+      ],
+      "updatedAt": "2026-07-16T19:36:31+07:00"
     }
   ]
 }
