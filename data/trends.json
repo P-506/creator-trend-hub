@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-18T18:06:18.441659+07:00",
+  "generatedAt": "2026-07-18T21:20:48.833719+07:00",
   "dateRange": "2026-07-11 to 2026-07-18",
   "sourceErrors": [],
   "topics": [
@@ -108,6 +108,32 @@
       "updatedAt": "2026-07-16T20:26:22+07:00"
     },
     {
+      "id": "caf-amazon-experience-4a1cb1d4fa",
+      "title": "Café Amazon Experience แลนด์มาร์กใหม่แห่ง ‘อารีย์’ พา ‘คาเฟ่ อเมซอน’ สู่เชนร้านกาแฟระดับโลก",
+      "sourceType": "news",
+      "category": "food",
+      "contentPotential": "high",
+      "riskLevel": "low",
+      "summary": "ข่าวจาก Google News keyword: คาเฟ่ / source: Marketeer Online - Café Amazon Experience แลนด์มาร์กใหม่แห่ง ‘อารีย์’ พา ‘คาเฟ่ อเมซอน’ สู่เชนร้านกาแฟระดับโลก    Marketeer Online",
+      "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
+      "creatorAngle": "ให้ Creator เล่าประสบการณ์ร้าน/เมนูที่อยากลอง แล้วถามคนอื่นว่าคิดเหมือนกันไหม",
+      "promptIdea": "เห็นคนพูดถึงเมนูนี้เยอะมาก มีใครลองแล้วบ้าง?",
+      "hashtags": [
+        "#FoodTrend",
+        "#CafeTH",
+        "#รีวิวของกิน",
+        "#CaféAmazonExperienceแลนด"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Marketeer Online",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBYaTYxUU5OdWRHTElOWnpEa1QycmFzTlh3U251NU5BTTB1elc5T0dNTkpzSWhKVUxPMkZ6OHk1WXp2QktwR1ItdXp2Y3RYOTJYb2JlOA?oc=5"
+        }
+      ],
+      "updatedAt": "2026-07-17T14:00:00+07:00"
+    },
+    {
       "id": "elle-6d229e853c",
       "title": "ELLE เปิดแฟชั่นเดสติเนชั่นแห่งใหม่ ที่สยามพรีเมียมเอาท์เลท",
       "sourceType": "news",
@@ -132,32 +158,6 @@
         }
       ],
       "updatedAt": "2026-07-13T17:46:00+07:00"
-    },
-    {
-      "id": "reborn-rich-samsung-1213360694",
-      "title": "Reborn Rich: ซีรีส์เกาหลีเรตติ้งแรงปลุกคนรุ่นใหม่ หันมาสนใจประวัติ Samsung",
-      "sourceType": "news",
-      "category": "entertainment",
-      "contentPotential": "high",
-      "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: ซีรีส์ / source: Marketeer Online - Reborn Rich: ซีรีส์เกาหลีเรตติ้งแรงปลุกคนรุ่นใหม่ หันมาสนใจประวัติ Samsung    Marketeer Online",
-      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
-      "creatorAngle": "เล่า reaction ส่วนตัวต่อกระแส แล้วเปิดคำถามให้คนคุยต่อ",
-      "promptIdea": "กระแสนี้ทุกคนอยู่ทีมไหน?",
-      "hashtags": [
-        "#EntertainmentTH",
-        "#คุยเรื่องบันเทิง",
-        "#กระแสวันนี้",
-        "#RebornRich:ซีรีส์เกาหลีเ"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Marketeer Online",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBidUc4WG1WSC1PcjdmTllSUUdTZXlnUHFnZzRiaUktUkwwZnpWaDNZUmlnM3JWNXBCOWxHWl9DMkF1RWh0T0VwRDVKLUs5OTlmNGNjVg?oc=5"
-        }
-      ],
-      "updatedAt": "2026-07-15T14:00:00+07:00"
     },
     {
       "id": "caf-amazon-did-you-know-a975c7b457",
@@ -238,32 +238,6 @@
       "updatedAt": "2026-07-13T17:06:49+07:00"
     },
     {
-      "id": "topic-a43d0eb50e",
-      "title": "คาเฟ่ที่ซ่อนตัวในโฮสเทลย่านเสาชิงช้า ตกแต่งด้วยวัสดุธรรมชาติสุดคราฟต์",
-      "sourceType": "news",
-      "category": "food",
-      "contentPotential": "high",
-      "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: คาเฟ่ / source: บ้านและสวน - คาเฟ่ที่ซ่อนตัวในโฮสเทลย่านเสาชิงช้า ตกแต่งด้วยวัสดุธรรมชาติสุดคราฟต์    บ้านและสวน",
-      "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
-      "creatorAngle": "ให้ Creator เล่าประสบการณ์ร้าน/เมนูที่อยากลอง แล้วถามคนอื่นว่าคิดเหมือนกันไหม",
-      "promptIdea": "เห็นคนพูดถึงเมนูนี้เยอะมาก มีใครลองแล้วบ้าง?",
-      "hashtags": [
-        "#FoodTrend",
-        "#CafeTH",
-        "#รีวิวของกิน",
-        "#คาเฟ่ที่ซ่อนตัวในโฮสเทลย"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "บ้านและสวน",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8xcUlNNi1CRjdyZTYzemk5dE4wek9pd3FZTm12M0NzZXZUcmtJVXMwWW9vVXdpblU5ejFQTVA1djdFYzZ4eWpLcXdJRXFQRHgwUzJPQ2cyWUJpRGJpZXFQTUg5SGstVFk5YWpLOEEwMmE?oc=5"
-        }
-      ],
-      "updatedAt": "2026-07-12T14:00:00+07:00"
-    },
-    {
       "id": "topic-95a5b498dc",
       "title": "ซีรีส์สั้นของจีนบุกพิชิตตลาดยุโรปและอเมริกาด้วยแนวเรื่อง 'ลูกเขยมนุษย์หมาป่า'",
       "sourceType": "news",
@@ -316,32 +290,6 @@
       "updatedAt": "2026-07-15T14:39:32+07:00"
     },
     {
-      "id": "fashion-island-opposite-361ee1d236",
-      "title": "ตรงข้ามแฟชั่นไอส์แลนด์;Fashion Island (Opposite)ไปยังมหาวิทยาลัยรามคำแหงด้วยขนส่งสาธารณะ",
-      "sourceType": "news",
-      "category": "beauty",
-      "contentPotential": "high",
-      "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: แฟชั่น / source: Moovit - ตรงข้ามแฟชั่นไอส์แลนด์;Fashion Island (Opposite)ไปยังมหาวิทยาลัยรามคำแหงด้วยขนส่งสาธารณะ    Moovit",
-      "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
-      "creatorAngle": "ชวนแชร์สไตล์ ไอเท็ม หรือเทคนิคที่ใช้จริงโดยไม่ขายของแข็งเกินไป",
-      "promptIdea": "สไตล์นี้ถ้าแต่งในชีวิตจริงจะรอดไหม?",
-      "hashtags": [
-        "#BeautyTalk",
-        "#FashionTH",
-        "#ไอเดียแต่งตัว",
-        "#ตรงข้ามแฟชั่นไอส์แลนด์;F"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Moovit",
-          "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxQTzlCbHcwZ0NIM0JKOTdValBqNzBkZExza0htTVlZUHpkeEpGSUZLVko1ci1pRGl4NmRrWGdiV0RUdmpxWTR5VGF3N0hCUHFVZzdGWlJuNG95MGhvTy1SendudlhNSjR0WXZTOWhCZ09DTjduaTN4cl84d1ZUaGd6ZmJwcmdJQ1pKa2poWUZPZm1ub1hERUs1ZktaTG0taWU5dEJ3U3NxdVBIbEZWSzFpYW8yQUN4TGhYRTdRQUxUMjdBTUtWOVN3Wkh5eG9BWThvaDRzdE5URXFkT2h1VVVyX1U0VlNZN1d6blRpTUxFbXZPU1QyQzBocFRMQ3FCU0VZSXp6NUxHb0VfOUJFSFU4VkFsSEhFdTBkYjhxN1FWVkpHalJJdWhJWFV0RnRFYXNVMjNuNzhMRTlLTnZFcEk5SVl5bElsUHQtbDRkakdkWU83a1NGYW5MRlBqaw?oc=5"
-        }
-      ],
-      "updatedAt": "2026-07-11T19:00:00+07:00"
-    },
-    {
       "id": "topic-90a29388ba",
       "title": "บทเรียนช่องว่างกฎหมาย เปิดทาง 'ร้านอาหาร' แปลงร่างเป็นกึ่งผับ เรียกร้องรัฐเร่งอุดรอยรั่ว ป้องกันโศกนาฏกรรมซ้ำ",
       "sourceType": "news",
@@ -366,6 +314,32 @@
         }
       ],
       "updatedAt": "2026-07-13T11:25:23+07:00"
+    },
+    {
+      "id": "victoria-s-secret-2026-8f654e5591",
+      "title": "ปักหมุด! แฟชั่นโชว์ Victoria’s Secret 2026 เตรียมบุกลอสแอนเจลิส สหรัฐอเมริกา",
+      "sourceType": "news",
+      "category": "beauty",
+      "contentPotential": "high",
+      "riskLevel": "low",
+      "summary": "ข่าวจาก Google News keyword: แฟชั่น / source: Vogue Thailand - ปักหมุด! แฟชั่นโชว์ Victoria’s Secret 2026 เตรียมบุกลอสแอนเจลิส สหรัฐอเมริกา    Vogue Thailand",
+      "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
+      "creatorAngle": "ชวนแชร์สไตล์ ไอเท็ม หรือเทคนิคที่ใช้จริงโดยไม่ขายของแข็งเกินไป",
+      "promptIdea": "สไตล์นี้ถ้าแต่งในชีวิตจริงจะรอดไหม?",
+      "hashtags": [
+        "#BeautyTalk",
+        "#FashionTH",
+        "#ไอเดียแต่งตัว",
+        "#ปักหมุด!แฟชั่นโชว์Victor"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Vogue Thailand",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE55bTF6VWd5a3UxaGpHbS1FMkIyMHhCV2h3aEx0U050ZVY1VGx0MHVnVjVvSjZjcFNvb0VOMEU4N1lyTnlkM3BROVQ1alp0MUktMVBUakQ0TTBFdC1CRl9zU3FjWGNCV0hSbWpxUXpIVl84SUhDYVNDR3NudE9CWWs?oc=5"
+        }
+      ],
+      "updatedAt": "2026-07-17T15:00:24+07:00"
     },
     {
       "id": "topic-e23d462aca",
@@ -444,6 +418,32 @@
         }
       ],
       "updatedAt": "2026-07-12T20:31:36+07:00"
+    },
+    {
+      "id": "netflix-b8036d5e1c",
+      "title": "สายลับฟ้าส่ง ไค่ โค พลิกบทเจ้าพ่อร่างทรง ปะทะปีศาจโลกวิญญาณ ซีรีส์ไต้หวันมาแรงบน Netflix",
+      "sourceType": "news",
+      "category": "entertainment",
+      "contentPotential": "high",
+      "riskLevel": "low",
+      "summary": "ข่าวจาก Google News keyword: ซีรีส์ / source: คลาวด์ปัง - สายลับฟ้าส่ง ไค่ โค พลิกบทเจ้าพ่อร่างทรง ปะทะปีศาจโลกวิญญาณ ซีรีส์ไต้หวันมาแรงบน Netflix    คลาวด์ปัง",
+      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
+      "creatorAngle": "เล่า reaction ส่วนตัวต่อกระแส แล้วเปิดคำถามให้คนคุยต่อ",
+      "promptIdea": "กระแสนี้ทุกคนอยู่ทีมไหน?",
+      "hashtags": [
+        "#EntertainmentTH",
+        "#คุยเรื่องบันเทิง",
+        "#กระแสวันนี้",
+        "#สายลับฟ้าส่งไค่โคพลิกบทเ"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "คลาวด์ปัง",
+          "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQeVl0cVVrUnpITGcwWWVtWDQ3UmJoVi1sZUlmdmVrbjRvSUVqeE92QWl3YjREVUI1UFN0YWlxTERFLTFKVUhjeHU4MHRlM21fbm12Sm1yZE9jdVA5YmtGNXE3WjdvREc4YldNYThTYjFLUzBPSXlHanZQeUNWNzRkTWpRS19LUnVJdS1GZXlhcTM0SThsTHpvUktfUzdZXzJEMEp0UU5XVURCaHk4b2ZncTFZYzdOYndsamI2aG9RUzg3U0k1MmZGS29KU0M4bHNIZ3dNU05PNHUyN0RzMlQwNU5SMXVqSWE4SE1hNG96ZXBlaUVPcG5jc3RVQ1ZxRWZvMTUyX1p3NUxmQmFIcl9sLTZOSUtXcHJ5ZDQ1ZXM4bDd6MGhKLWp5cW8zWGI1U1k4NWY2ell3Z185Mm5COVE?oc=5"
+        }
+      ],
+      "updatedAt": "2026-07-13T11:46:33+07:00"
     },
     {
       "id": "delivery-1-52d8aab195",
@@ -602,6 +602,82 @@
       "updatedAt": "2026-07-14T16:35:43+07:00"
     },
     {
+      "id": "asianvolleyball-209ae7dc8c",
+      "title": "asianvolleyball",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 500+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#asianvolleyball"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "วอลเลย์บอลชาย U18 ไทย พ่าย ปากีสถาน 2-3 เซต จบอันดับ 6 ศึกชิงแชมป์เอเชีย",
+          "url": "https://www.siamsport.co.th/other-sports/volleyball/106820/"
+        },
+        {
+          "title": "ลิงค์ดูสดฟรี ถ่ายทอดสดวอลเลย์บอลชาย U18 ไทย พบ ปากีสถาน ชิงแชมป์เอเชีย 2026",
+          "url": "https://www.bangkokbiznews.com/news/sport/1243667"
+        },
+        {
+          "title": "สมาคมกีฬาวอลเลย์บอลแห่งประเทศไทย – นักตบหนุ่มไทย U18 คว้าอันดับสองของสายซี",
+          "url": "https://volleyball.or.th/volley/29320"
+        }
+      ],
+      "updatedAt": "2026-07-18T13:10:00+07:00"
+    },
+    {
+      "id": "dundee-vs-everton-44c59682c4",
+      "title": "dundee vs everton",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#dundeevseverton"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "James Garner injury concern as Jarrad Branthwaite and Everton absences explained",
+          "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/james-garner-injury-concern-jarrad-34312881"
+        },
+        {
+          "title": "Match Preview | Everton | 18/07/26",
+          "url": "https://dundeefc.co.uk/news/match-preview-everton-18-07-26/"
+        },
+        {
+          "title": "Wrapped: Everton's Pre-Season Camp In Scotland",
+          "url": "https://www.evertonfc.com/news/2026/july/16/wrapped--everton-s-pre-season-camp-in-scotland/"
+        }
+      ],
+      "updatedAt": "2026-07-18T20:20:00+07:00"
+    },
+    {
       "id": "gmm25-55ea217f0e",
       "title": "gmm25 สด",
       "sourceType": "trends",
@@ -625,28 +701,28 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "วอลเลย์บอลชายไทยทำช็อก พ่าย กัมพูชา 1-3 เซต ร่วงชิงที่ 3 SEA V Cup 2026",
-          "url": "https://www.siamsport.co.th/other-sports/volleyball/106815/"
-        },
-        {
           "title": "ช็อกอาเซียน! แชมป์เก่าไทยพ่ายกัมพูชา 1-3 เซต หล่นชิงที่ 3 ลูกยางซีวีคัพสนามแรก",
           "url": "https://mgronline.com/sport/detail/9690000070354"
         },
         {
-          "title": "\"หนุ่มไทย\" ถล่ม \"เวียดนาม\" 3-1 ประเดิมเก็บ 3 คะแนน \"SEA V Cup 2026\" สนามแรก ที่ฟิลิปปินส์",
-          "url": "https://www.dailynews.co.th/news/6030766/"
+          "title": "ผิดฟอร์มเหลือเชื่อ! วอลเลย์บอลชายไทย พ่าย กัมพูชา ศึกชิงแชมป์อาเซียน 2026",
+          "url": "https://www.sanook.com/sport/1664704/"
+        },
+        {
+          "title": "นัดสำคัญ ลิงค์ดูสดฟรี ถ่ายทอดสดวอลเลย์บอลชาย ไทย พบ กัมพูชา SEA V Cup 2026",
+          "url": "https://www.bangkokbiznews.com/news/sport/1243656"
         }
       ],
       "updatedAt": "2026-07-18T15:10:00+07:00"
     },
     {
-      "id": "topic-3765827b35",
-      "title": "กรมอุตุนิยมวิทยา",
+      "id": "gmmtv-c1a6d574c8",
+      "title": "gmmtv",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 10000+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 2000+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -654,7 +730,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#กรมอุตุนิยมวิทยา"
+        "#gmmtv"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -663,19 +739,19 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "พยากรณ์อากาศประจำวันที่ 18 กรกฎาคม 2569 กรุงเทพและปริมณฑล มีฝนฟ้าคะนอง ร้อยละ 40 ของพื้นที่",
-          "url": "https://today.line.me/th/v3/article/2DqvpKj?view=topic&referral=Newscentral"
+          "title": "สรุปดราม่า \"จัสติน มอยร์\" GMMTV ยุติสัญญา หลังถูกขุดรีโพสต์ประเด็นอ่อนไหว",
+          "url": "https://www.sanook.com/movie/189130/"
         },
         {
-          "title": "อุตุฯ เตือนช่วง 20 - 23 ก.ค. 69 ประเทศไทยจะมีฝนเพิ่มขึ้น และฝนตกหนักบางแห่ง",
-          "url": "https://www.thairath.co.th/news/local/2946793"
+          "title": "ไม่ทันจะดัง ก็ดับแล้ว “จัสติน มอยร์” เปิดใจครั้งแรก บทเรียนคึกคะนองวัยเด็ก เหยียดเพศ - หนุนความรุนแรง ถูก GMMTV ยุติสัญญา",
+          "url": "https://mgronline.com/entertainment/detail/9690000070200"
         },
         {
-          "title": "ข่าวเฝ้าระวังฝนตก ลมกระโชกแรง",
-          "url": "https://news.ch7.com/detail/885683"
+          "title": "ส่องเส้นทางในวงการของ \"จัสติน มอยร์\" ก่อนถูก GMMTV ยุติสัญญา",
+          "url": "https://www.tnnthailand.com/entertainment/241436/"
         }
       ],
-      "updatedAt": "2026-07-18T05:10:00+07:00"
+      "updatedAt": "2026-07-18T20:30:00+07:00"
     },
     {
       "id": "topic-5c49f56ef4",
@@ -709,41 +785,15 @@
           "url": "https://www.dailynews.co.th/news/6035306/"
         },
         {
-          "title": "โยกท่องเที่ยวรวมกระทรวงวัฒนธรรม แยกตั้งกระทรวงกีฬา",
-          "url": "https://policywatch.thaipbs.or.th/article/government-355"
+          "title": "ปลัด นัทรียา เดินหน้าตั้ง กระทรวงกีฬา ยกระดับไทย สู่สปอร์ตฮับ",
+          "url": "https://www.matichon.co.th/sport/thai-sport/news_5811882"
         }
       ],
       "updatedAt": "2026-07-18T14:50:00+07:00"
     },
     {
-      "id": "7-74ba5b0f9f",
-      "title": "ช่อง7",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 500+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#ช่อง7"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        }
-      ],
-      "updatedAt": "2026-07-18T08:20:00+07:00"
-    },
-    {
-      "id": "topic-fd16badeb4",
-      "title": "ทองคำ",
+      "id": "11-be5872d2c5",
+      "title": "ตากสิน ซอย 11",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
@@ -756,7 +806,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#ทองคำ"
+        "#ตากสินซอย11"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -765,19 +815,19 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "Night Recap Gold Spot 17-07-2569",
-          "url": "https://www.huasengheng.com/news/night-recap-gold-spot-17-07-2569/"
+          "title": "สลด เพลิงไหม้บ้าน ผัวเมียสำลักควันดับพร้อมแมว 20 กรง กู้ภัยช่วยทารก 2 เดือน รอด",
+          "url": "https://news.ch7.com/detail/885759"
         },
         {
-          "title": "ราคาทองวันนี้ 18 กรกฎาคม 2569 ล่าสุด ราคาปรับเพิ่ม 350 บาท ราคาทองรูปพรรณ บาทละ 64,850 บาท",
-          "url": "https://www.thairath.co.th/money/investment/gold/2947012"
+          "title": "ไฟไหม้บ้านเรือนประชาชน ซอยสมเด็จพระเจ้าตากสิน 11 มีผู้เสียชีวิต 2 ราย | สวพ.FM91",
+          "url": "https://today.line.me/th/v3/article/kERmW0w"
         },
         {
-          "title": "“ทองคำนิวยอร์ก” ปิดบวก 27 เหรียญ รับปมสหรัฐ-อิหร่านระอุ | ข่าวหุ้นธุรกิจ",
-          "url": "https://today.line.me/th/v3/article/PG5ljP0"
+          "title": "สลด! ไฟไหม้บ้านย่านตากสิน สองสามีภรรยาดับคาห้องนอน แมวจรรับมาเลี้ยงถูกคลอกตายกว่า 50 ตัว",
+          "url": "https://mgronline.com/onlinesection/detail/9690000070254"
         }
       ],
-      "updatedAt": "2026-07-18T05:10:00+07:00"
+      "updatedAt": "2026-07-18T20:50:00+07:00"
     },
     {
       "id": "170-93c55d15a3",
@@ -832,8 +882,46 @@
       "updatedAt": "2026-07-15T00:35:13+07:00"
     },
     {
-      "id": "topic-17c44347cb",
-      "title": "น้ำมัน",
+      "id": "topic-ac63fb0e0e",
+      "title": "บอลโลกรอบชิง",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 500+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#บอลโลกรอบชิง"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "สเปน ดวล อาร์เจนตินา ชิงแชมป์ฟุตบอลโลก 2026",
+          "url": "https://www.thaipbs.or.th/news/content/508343"
+        },
+        {
+          "title": "เปิดเบื้องหลัง JAS เปลี่ยนสวนรถไฟเป็นสนามเชียร์นัดชิงฟุตบอลโลก 2026",
+          "url": "https://www.siamsport.co.th/worldcup/106761/"
+        },
+        {
+          "title": "1981 Soul & Sold-JAS-MONOMAX ชวนเชียร์บอลโลกนัดชิงสดข้ามทวีป",
+          "url": "https://mgronline.com/business/detail/9690000070303"
+        }
+      ],
+      "updatedAt": "2026-07-18T20:10:00+07:00"
+    },
+    {
+      "id": "topic-3323bb9d7f",
+      "title": "บาเซิ่ล พบ ยูเวนตุส",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
@@ -846,7 +934,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#น้ำมัน"
+        "#บาเซิ่ลพบยูเวนตุส"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -855,57 +943,19 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "ราคาน้ำมันพรุ่งนี้ 19 กรกฎาคม 2569 น้ำมัน \"เบนซิน-ดีเซล\" แต่ละปั๊มลิตรละเท่าไร",
-          "url": "https://www.thairath.co.th/news/society/2947123"
+          "title": "How & Where to Watch FC Basel vs. Juventus? Start Time, Live Streaming Online & TV Channels",
+          "url": "https://athlonsports.com/soccer/how-to-watch-fc-basel-juventus-live-streaming-tv-channels"
         },
         {
-          "title": "ราคาน้ำมันวันนี้ (18 ก.ค. 69) เช็กราคาดีเซล-แก๊สโซฮอล์ล่าสุด",
-          "url": "https://www.prachachat.net/economic/news-2039275"
+          "title": "Basel vs Juventus: Club Friendlies stats & head-to-head",
+          "url": "https://www.bbc.com/sport/football/live/cvg5g3414d3t"
         },
         {
-          "title": "ราคาน้ำมันพรุ่งนี้2569 (18 ก.ค. 69) ปตท. บางจาก อัปเดตราคาล่าสุด",
-          "url": "https://www.thansettakij.com/economy/energy/664184"
+          "title": "Basel vs Juventus LIVE Score Updates in International Friendly: Match played with no news (0-0)",
+          "url": "https://www.vavel.com/en-us/soccer/2026/07/18/1266039-basel-vs-juventus-live-score-friendly.html"
         }
       ],
-      "updatedAt": "2026-07-18T05:10:00+07:00"
-    },
-    {
-      "id": "topic-3424978f6c",
-      "title": "ลิง",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 100+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#ลิง"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "เทศบาลนครสงขลา เปิดตัวลิงกัง \"น้องกล้วยไข่\" พนักงานใหม่ ร่วมภารกิจปราบ \"ลิงแสม\"",
-          "url": "https://www.thairath.co.th/news/society/2946690"
-        },
-        {
-          "title": "น้องกล้วยไข่ ฮีโร่ตัวใหม่เมืองสงขลา ลาดตระเวนผลักดันลิงแสม ลดปัญหานักท่องเที่ยวถูกรบกวน",
-          "url": "https://www.topnews.co.th/news/1631080"
-        },
-        {
-          "title": "สงขลา | เปิดตัว \"น้องกล้วยไข่\" ลิงกังผู้ช่วยร่วมภารกิจไล่ลิงแสมกวนเมือง ลดปัญหาลิงรบกวนพื้นที่ท่องเที่ยว",
-          "url": "https://www.hatyaifocus.com/news-detail/31325/"
-        }
-      ],
-      "updatedAt": "2026-07-18T05:30:00+07:00"
+      "updatedAt": "2026-07-18T19:40:00+07:00"
     },
     {
       "id": "1-3-2026-b13cc854e4",
@@ -934,51 +984,13 @@
       "updatedAt": "2026-07-12T13:00:43+07:00"
     },
     {
-      "id": "topic-5fa167a79a",
-      "title": "สี จิ้นผิง",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 2000+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#สีจิ้นผิง"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "ไทย-จีน จับมือร่วมสร้างห้องแล็บ พยากรณ์ภัยพิบัติ พลัง AI",
-          "url": "https://www.thaipbs.or.th/now/content/4213"
-        },
-        {
-          "title": "นายกฯ เปิดสำนักงาน BOI เฉิงตู ยัน นักลงทุนจีนจะได้โอกาสเติบโตที่มั่นคง",
-          "url": "https://www.thairath.co.th/news/politic/2947117"
-        },
-        {
-          "title": "รัฐบาลโชว์วิสัยทัศน์เชิงรุก ดึงเทคโนโลยี ‘Embodied AI’ จากบิ๊กเทคจีน ปลดล็อกประสิทธิภาพการผลิต-การดูแลผู้สูงอายุ",
-          "url": "https://thestandard.co/thai-government-embodied-ai-china/"
-        }
-      ],
-      "updatedAt": "2026-07-18T06:10:00+07:00"
-    },
-    {
       "id": "topic-86a92cca00",
       "title": "อัตราดอกเบี้ย",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 1000+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 2000+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -1056,7 +1068,7 @@
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 2000+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 5000+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -1073,16 +1085,16 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "รพ.สั่งแพทย์ผู้รักษาพักปฏิบัติหน้าที่ ตั้งกรรมการสอบข้อเท็จจริง หลังผู้ป่วยเสียชีวิต | สวพ.FM91",
-          "url": "https://today.line.me/th/v3/article/OpB696y"
+          "title": "รพ.ดังสั่งพักงานหมอ! ปมประเมินอาการคนไข้พลาดจนช็อกดับ",
+          "url": "https://mgronline.com/onlinesection/detail/9690000070281"
         },
         {
-          "title": "ข่าวทวงความยุติธรรมให้สามี หลังหมอวินิจฉัยผิด",
-          "url": "https://news.ch7.com/detail/885797"
+          "title": "เจ็บหน้าอกแต่ไม่ยอมตรวจคลื่นหัวใจให้ สุดท้ายเสียชีวิต รพ.เอกชน เผยพักงานหมอชั่วคราวแล้ว สปส. สอบมาตรฐานรักษา",
+          "url": "https://www.matichon.co.th/local/quality-life/news_5811728"
         },
         {
-          "title": "สถาบันทรวงอกเตือน 'เจ็บหน้าอก-เหงื่อตก' สัญญาณอันตรายหัวใจตีบ ย้ำอย่าชะล่าใจ รีบโทร 1669",
-          "url": "https://mgronline.com/onlinesection/detail/9690000070245"
+          "title": "\"ครูทราย\" ร้องสอบแพทย์หลังสามีเสียชีวิต ระบุถูกปฏิเสธตรวจคลื่นไฟฟ้าหัวใจ",
+          "url": "https://www.thaipbs.or.th/news/content/508431"
         }
       ],
       "updatedAt": "2026-07-18T13:50:00+07:00"
