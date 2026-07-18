@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-18T13:10:00.600846+07:00",
+  "generatedAt": "2026-07-18T15:49:45.887292+07:00",
   "dateRange": "2026-07-11 to 2026-07-18",
   "sourceErrors": [],
   "topics": [
@@ -264,6 +264,32 @@
       "updatedAt": "2026-07-13T17:06:49+07:00"
     },
     {
+      "id": "topic-a43d0eb50e",
+      "title": "คาเฟ่ที่ซ่อนตัวในโฮสเทลย่านเสาชิงช้า ตกแต่งด้วยวัสดุธรรมชาติสุดคราฟต์",
+      "sourceType": "news",
+      "category": "food",
+      "contentPotential": "high",
+      "riskLevel": "low",
+      "summary": "ข่าวจาก Google News keyword: คาเฟ่ / source: บ้านและสวน - คาเฟ่ที่ซ่อนตัวในโฮสเทลย่านเสาชิงช้า ตกแต่งด้วยวัสดุธรรมชาติสุดคราฟต์    บ้านและสวน",
+      "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
+      "creatorAngle": "ให้ Creator เล่าประสบการณ์ร้าน/เมนูที่อยากลอง แล้วถามคนอื่นว่าคิดเหมือนกันไหม",
+      "promptIdea": "เห็นคนพูดถึงเมนูนี้เยอะมาก มีใครลองแล้วบ้าง?",
+      "hashtags": [
+        "#FoodTrend",
+        "#CafeTH",
+        "#รีวิวของกิน",
+        "#คาเฟ่ที่ซ่อนตัวในโฮสเทลย"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "บ้านและสวน",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8xcUlNNi1CRjdyZTYzemk5dE4wek9pd3FZTm12M0NzZXZUcmtJVXMwWW9vVXdpblU5ejFQTVA1djdFYzZ4eWpLcXdJRXFQRHgwUzJPQ2cyWUJpRGJpZXFQTUg5SGstVFk5YWpLOEEwMmE?oc=5"
+        }
+      ],
+      "updatedAt": "2026-07-12T14:00:00+07:00"
+    },
+    {
       "id": "topic-6b7387563b",
       "title": "ค็ อบ บี เมนู",
       "sourceType": "trends",
@@ -432,32 +458,6 @@
       "updatedAt": "2026-07-17T14:56:24+07:00"
     },
     {
-      "id": "40-ae90c1cbdc",
-      "title": "พระเอกซีรีส์เกาหลียุคฉันคัมแบ็กพร้อมกันโดยมิได้นัดหมาย!✨ บอกเลยว่าพระเอกวัย 40 ปลาย ๆ ดีต่อใจ อัดแน่นคุณภาพอะทุกคน แต่ที่พีคสุดคือรอบนี้แต่ละคนมาในคอนเซ็ปต์ “ตามหาอะไร...",
-      "sourceType": "news",
-      "category": "entertainment",
-      "contentPotential": "high",
-      "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: ซีรีส์ / source: facebook.com - พระเอกซีรีส์เกาหลียุคฉันคัมแบ็กพร้อมกันโดยมิได้นัดหมาย!✨ บอกเลยว่าพระเอกวัย 40 ปลาย ๆ ดีต่อใจ อัดแน่นคุณภาพอะทุกคน แต่ที่พีคสุดคือรอบนี้แต่ละคนมาในคอนเซ็ปต์ “ตามหาอะไรสักอย่าง” เหม",
-      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
-      "creatorAngle": "เล่า reaction ส่วนตัวต่อกระแส แล้วเปิดคำถามให้คนคุยต่อ",
-      "promptIdea": "กระแสนี้ทุกคนอยู่ทีมไหน?",
-      "hashtags": [
-        "#EntertainmentTH",
-        "#คุยเรื่องบันเทิง",
-        "#กระแสวันนี้",
-        "#พระเอกซีรีส์เกาหลียุคฉัน"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "facebook.com",
-          "url": "https://news.google.com/rss/articles/CBMi9gdBVV95cUxPSkgzNmFKS2l3Q1NRMUNSN2V3bTNyRTJReklUVW9PTzN6Q0NEU1Vpb2VyUkx1MzhUWXMyUHI3ZHRBM2pjTlFkTndScGNwOWV3TEJMSERQdFNXN2dTd0N2QmZqOUpBcjIzVDVtcXNmN3MzR2swXzhYc2QyeDdCTnozcEU3RFB2VnoyMkhrZmFCeXh2WUwtMy0zcjFDRkRWaFZtWnBYYmhBR3Z1YW96cWo1a3Bya3RaR1JBUm15VXhnbldXejZUZXdWZzFQTkhMZUpZSVNRekpsdG9PZ28zMm5iNFk0dVVRZzRPWkRpNHA3bF9yU0VrWVg5ajNPMkxUTDNfMzJ6WFowQjdvLUdVMjVLTmw3c2pEdHNyT0NQbFh5OWdpTE55OE1SV3JLNmhFY1hTd3JFaUdNbkl1aHZKSnFDNHZyRXhYWGNwQUV6c2Zvck1LR1BaQkdEcy1ZQ3NDbmxIcW9scHBISVN4UTB0NXZXTThnVnNlcy12NlVnaXpXWVR1TWJTcWN0NFF1N0lVR01uNjk4bzFJVHpzVFVLU252NXVMakV0dUNud1N3a0xuMDN4TFpkU1ZLajdFZUVrWE1nNm95SkgxbEhxV0pyZ1JfMUxBQllwM2ctQkFqbXA4X3lEUE95eFJpNDF1c215c1BkeFl2QjhBcXVieW15dHNDandJeWk3QTF0ZHB3Z3B5bVRZeDVhNDFJYWZsQ0VidmpOT3ZjUkN5WXVwX1p0YkJlTUJ6c292VG14bDJsUHZxeXo1dTd3eHNiWERRN0o0WGdScWNTSWliR2NlMmpSc2FuTHNPYWNKX2tLai03WlI5ZWJBRnB4UllRLVNiS3dkVTljZy1JUGNpYzdhelpQcFRBWGV0WDNzYm10YUp1MFphN0ZNUkhYOW0yRmFIMWdwd3RsNVJGcEVpSlV0eHluYUJONHFxRVVBck9oYWpreE9tUy1XazU0eEtfNDU4NE9zbkxJeWdiX1hhRU5lU2FhQXg0amY1LTlmbnRqSXhkWW5Zd1Y1M1A3OEtNblRTM1pQalVHNEc0M000eEdUOU1hMWs0RDlnX3dLUXN5TTBuMHdaZU5zZVRIdkloNGQ3MlVZNmFZbXZOM3pzM0tBRWFYbVZGbUNvMk93aTNnV1daS0k3M2JyZ1hiUE9aN2VIeFVJdURVa0ZYQVRUeHBqQXFDMmYwMmttN2ZDNkY5ZFMxNlFsLW9OTndxZ2EtTjY2OEpRUnZJTnpkQ0NZSHZXMF83alFpNUphNWFsNDZYbEVmRVFlVHZQY19KLUtnX01ZZXdjMjMwUDU2RldhMEE3ODBQMlVoc3hxYk8zRFVDaHRVSTRvN3VYak5RNWc?oc=5"
-        }
-      ],
-      "updatedAt": "2026-07-12T21:51:09+07:00"
-    },
-    {
       "id": "vnl-2026-2027-3-38d71d23c5",
       "title": "วอลเลย์บอลหญิงไทยถึงบ้านแล้ว หลังจบ VNL 2026 การันตีตั๋วปี 2027 ลุยต่อ 3 ศึกใหญ่",
       "sourceType": "news",
@@ -510,39 +510,39 @@
       "updatedAt": "2026-07-12T20:31:36+07:00"
     },
     {
-      "id": "16-cc1e302c78",
-      "title": "เปิดวาร์ป “ท๊อปแลนด์คาเฟ่” คาเฟ่ลับกลางป่า 16 ไร่ เช็กอินสกายวอล์กหมอนรองรถไฟ วิวทุ่งนาหลักล้าน",
+      "id": "netflix-b8036d5e1c",
+      "title": "สายลับฟ้าส่ง ไค่ โค พลิกบทเจ้าพ่อร่างทรง ปะทะปีศาจโลกวิญญาณ ซีรีส์ไต้หวันมาแรงบน Netflix",
       "sourceType": "news",
-      "category": "food",
+      "category": "entertainment",
       "contentPotential": "high",
       "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: คาเฟ่ / source: ผู้จัดการออนไลน์ - เปิดวาร์ป “ท๊อปแลนด์คาเฟ่” คาเฟ่ลับกลางป่า 16 ไร่ เช็กอินสกายวอล์กหมอนรองรถไฟ วิวทุ่งนาหลักล้าน    ผู้จัดการออนไลน์",
-      "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
-      "creatorAngle": "ให้ Creator เล่าประสบการณ์ร้าน/เมนูที่อยากลอง แล้วถามคนอื่นว่าคิดเหมือนกันไหม",
-      "promptIdea": "เห็นคนพูดถึงเมนูนี้เยอะมาก มีใครลองแล้วบ้าง?",
+      "summary": "ข่าวจาก Google News keyword: ซีรีส์ / source: คลาวด์ปัง - สายลับฟ้าส่ง ไค่ โค พลิกบทเจ้าพ่อร่างทรง ปะทะปีศาจโลกวิญญาณ ซีรีส์ไต้หวันมาแรงบน Netflix    คลาวด์ปัง",
+      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
+      "creatorAngle": "เล่า reaction ส่วนตัวต่อกระแส แล้วเปิดคำถามให้คนคุยต่อ",
+      "promptIdea": "กระแสนี้ทุกคนอยู่ทีมไหน?",
       "hashtags": [
-        "#FoodTrend",
-        "#CafeTH",
-        "#รีวิวของกิน",
-        "#เปิดวาร์ป“ท๊อปแลนด์คาเฟ่"
+        "#EntertainmentTH",
+        "#คุยเรื่องบันเทิง",
+        "#กระแสวันนี้",
+        "#สายลับฟ้าส่งไค่โคพลิกบทเ"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
         {
-          "title": "ผู้จัดการออนไลน์",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1NSXZlcmduUGJqYjdUTEphSmNsTjJhdk5nYnZzSzFJVU4wTE1vVUM2d2FFTEhJWGEyQlVQUlBoUzhXVTNud2xPaHBBRkNuZ1RlT2IteXVqbWIzSXpz?oc=5"
+          "title": "คลาวด์ปัง",
+          "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQeVl0cVVrUnpITGcwWWVtWDQ3UmJoVi1sZUlmdmVrbjRvSUVqeE92QWl3YjREVUI1UFN0YWlxTERFLTFKVUhjeHU4MHRlM21fbm12Sm1yZE9jdVA5YmtGNXE3WjdvREc4YldNYThTYjFLUzBPSXlHanZQeUNWNzRkTWpRS19LUnVJdS1GZXlhcTM0SThsTHpvUktfUzdZXzJEMEp0UU5XVURCaHk4b2ZncTFZYzdOYndsamI2aG9RUzg3U0k1MmZGS29KU0M4bHNIZ3dNU05PNHUyN0RzMlQwNU5SMXVqSWE4SE1hNG96ZXBlaUVPcG5jc3RVQ1ZxRWZvMTUyX1p3NUxmQmFIcl9sLTZOSUtXcHJ5ZDQ1ZXM4bDd6MGhKLWp5cW8zWGI1U1k4NWY2ell3Z185Mm5COVE?oc=5"
         }
       ],
-      "updatedAt": "2026-07-11T18:32:00+07:00"
+      "updatedAt": "2026-07-13T11:46:33+07:00"
     },
     {
-      "id": "3-f9f46aee0f",
-      "title": "แจก 3 พิกัด ร้านอาหารสไตล์ครอบครัว กำแพงเพชร",
+      "id": "delivery-1-52d8aab195",
+      "title": "เคยสงสัยไหม? เบื้องหลังการสั่งอาหาร Delivery 1 ครั้ง มีผลกระทบต่ออะไรบ้าง",
       "sourceType": "news",
       "category": "food",
       "contentPotential": "high",
       "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: อาหาร / source: TrueID Food - แจก 3 พิกัด ร้านอาหารสไตล์ครอบครัว กำแพงเพชร    TrueID Food",
+      "summary": "ข่าวจาก Google News keyword: อาหาร / source: สถาบันบัณฑิตพัฒนบริหารศาสตร์ (NIDA) - เคยสงสัยไหม? เบื้องหลังการสั่งอาหาร Delivery 1 ครั้ง มีผลกระทบต่ออะไรบ้าง    สถาบันบัณฑิตพัฒนบริหารศาสตร์ (NIDA)",
       "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
       "creatorAngle": "ให้ Creator เล่าประสบการณ์ร้าน/เมนูที่อยากลอง แล้วถามคนอื่นว่าคิดเหมือนกันไหม",
       "promptIdea": "เห็นคนพูดถึงเมนูนี้เยอะมาก มีใครลองแล้วบ้าง?",
@@ -550,16 +550,16 @@
         "#FoodTrend",
         "#CafeTH",
         "#รีวิวของกิน",
-        "#แจก3พิกัดร้านอาหารสไตล์ค"
+        "#เคยสงสัยไหม?เบื้องหลังกา"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
         {
-          "title": "TrueID Food",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1XTnAwZmVoOExOV1Byd1NwOFJhRlJzRzExeEs5ZlpnQjNJNUh1U2tYNmw0c29QMk1CRDNSMzJ0SnBPVkRVWjZvRWR5dlN3SzR0TGNpbUJn?oc=5"
+          "title": "สถาบันบัณฑิตพัฒนบริหารศาสตร์ (NIDA)",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5VNGdUam9sMG9TVjRFNVBXUW5nVjMtbXFGM2VpSnV3TjlUd3dwc3RQM3ZrMFQ4Z3hzWm1vM05uYUVVUmgtTGR2UnJnSzFKTlR3aE15cTJjWnNfcW9jREhMdU1USQ?oc=5"
         }
       ],
-      "updatedAt": "2026-07-17T16:20:21+07:00"
+      "updatedAt": "2026-07-16T13:27:51+07:00"
     },
     {
       "id": "pre-songkran-79891662d4",
@@ -640,13 +640,13 @@
       "updatedAt": "2026-07-14T16:35:43+07:00"
     },
     {
-      "id": "marc-cucurella-316b449de7",
-      "title": "marc cucurella",
+      "id": "gmm25-55ea217f0e",
+      "title": "gmm25 สด",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 2000+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -654,7 +654,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#marccucurella"
+        "#gmm25สด"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -663,19 +663,19 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "Marc Cucurella has quietly been one of Spain’s most important players at the World Cup",
-          "url": "https://www.fotmob.com/topnews/28935-marc-cucurella-has-quietly-been-one-spains-most-important-players-at-world-cup"
+          "title": "วอลเลย์บอลชายไทย ทุบ เมียนมา 3-0 เซต ลิ่วตัดเชือก SEA V Cup 2026",
+          "url": "https://www.siamsport.co.th/other-sports/volleyball/106721/"
         },
         {
-          "title": "😯 He's only 27! World Cup star to quit national side if they win title",
-          "url": "https://sports.yahoo.com/articles/only-27-world-cup-star-161400590.html"
+          "title": "ถ่ายทอดสด 'ไทย vs กัมพูชา' วอลเลย์บอลชาย SEA V Cup 2026 ศึกล้างตาอาเซียนวันนี้",
+          "url": "https://www.thansettakij.com/sport/664302"
         },
         {
-          "title": "Marc Cucurella hints at retirement if Spain wins World Cup against Argentina",
-          "url": "https://www.msn.com/en-us/sports/soccer/marc-cucurella-hints-at-retirement-if-spain-wins-world-cup-against-argentina/ar-AA287LYa"
+          "title": "\"หนุ่มไทย\" ถล่ม \"เวียดนาม\" 3-1 ประเดิมเก็บ 3 คะแนน \"SEA V Cup 2026\" สนามแรก ที่ฟิลิปปินส์",
+          "url": "https://www.dailynews.co.th/news/6030766/"
         }
       ],
-      "updatedAt": "2026-07-18T00:10:00+07:00"
+      "updatedAt": "2026-07-18T15:10:00+07:00"
     },
     {
       "id": "topic-3765827b35",
@@ -684,7 +684,7 @@
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 2000+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 5000+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -701,19 +701,57 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "สภาพอากาศวันนี้ มรสุมปกคลุมไทยตอนบน เหนือ-ตะวันออกฝนหนักบางแห่ง",
-          "url": "https://www.thaipbs.or.th/news/content/508377"
+          "title": "พยากรณ์อากาศประจำวันที่ 18 กรกฎาคม 2569 กรุงเทพและปริมณฑล มีฝนฟ้าคะนอง ร้อยละ 40 ของพื้นที่",
+          "url": "https://today.line.me/th/v3/article/2DqvpKj?view=topic&referral=Newscentral"
         },
         {
-          "title": "เตือนภาคตะวันออกรับฝนหนัก เสี่ยงน้ำท่วมฉับพลัน–น้ำป่าไหลหลาก กทม.ฝน 40% | The Better",
-          "url": "https://today.line.me/th/v3/article/PG5lZvj"
+          "title": "อุตุฯ เตือนช่วง 20 - 23 ก.ค. 69 ประเทศไทยจะมีฝนเพิ่มขึ้น และฝนตกหนักบางแห่ง",
+          "url": "https://www.thairath.co.th/news/local/2946793"
         },
         {
-          "title": "ไทยมีฝนฟ้าคะนองบางแห่ง เตือนบริเวณภาคตะวันออกเสี่ยงฝนตกหนักถึงหนักมาก",
-          "url": "https://news.ch7.com/detail/885781"
+          "title": "ข่าวเฝ้าระวังฝนตก ลมกระโชกแรง",
+          "url": "https://news.ch7.com/detail/885683"
         }
       ],
       "updatedAt": "2026-07-18T05:10:00+07:00"
+    },
+    {
+      "id": "topic-5c49f56ef4",
+      "title": "กีฬา",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 500+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#กีฬา"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "แวดวงกีฬา เชียงใหม่นิวส์ ว่ากันสารพันกีฬาวันที่ 18 กรกฏาคม 2569",
+          "url": "https://www.chiangmainews.co.th/sport/3970092/"
+        },
+        {
+          "title": "แวดวงกีฬา เชียงใหม่ วันที่ 17 กรกฎาคม 2569",
+          "url": "https://www.chiangmainews.co.th/sport/3969306/"
+        },
+        {
+          "title": "แวดวงกีฬา เชียงใหม่ วันที่ 16 กรกฎาคม 2569",
+          "url": "https://www.chiangmainews.co.th/sport/3968630/"
+        }
+      ],
+      "updatedAt": "2026-07-18T14:50:00+07:00"
     },
     {
       "id": "7-74ba5b0f9f",
@@ -769,12 +807,12 @@
           "url": "https://www.huasengheng.com/news/night-recap-gold-spot-17-07-2569/"
         },
         {
-          "title": "ราคาทองวันนี้ (18 ก.ค.) เปิดตลาด ปรับขึ้น 350 บาท/บาททองคำ ราคาทองรูปพรรณ ขายออกบาทละ 64,850.00",
-          "url": "https://today.line.me/th/v3/article/KwV9JON?referral=goldupdate"
+          "title": "ราคาทองวันนี้ 18 กรกฎาคม 2569 ล่าสุด ราคาปรับเพิ่ม 350 บาท ราคาทองรูปพรรณ บาทละ 64,850 บาท",
+          "url": "https://www.thairath.co.th/money/investment/gold/2947012"
         },
         {
-          "title": "จับตาทองคำ H2/69 ส่องปัจจัยกำหนดทิศทางราคา หลัง H1 ผันผวนหนัก",
-          "url": "https://www.ryt9.com/s/iq/12830887"
+          "title": "“ทองคำนิวยอร์ก” ปิดบวก 27 เหรียญ รับปมสหรัฐ-อิหร่านระอุ | ข่าวหุ้นธุรกิจ",
+          "url": "https://today.line.me/th/v3/article/PG5ljP0"
         }
       ],
       "updatedAt": "2026-07-18T05:10:00+07:00"
@@ -859,53 +897,15 @@
           "url": "https://www.thairath.co.th/news/society/2946932"
         },
         {
-          "title": "ราคาน้ำมันวันนี้ (18 ก.ค. 69) เช็กราคาดีเซล-แก๊สโซฮอล์ล่าสุด",
-          "url": "https://www.prachachat.net/economic/news-2039275"
+          "title": "ราคาน้ำมันพรุ่งนี้ (18 ก.ค.69) ราคาน้ำมันแก๊สโซฮอล์ น้ำมันดีเซล ปตท. บางจาก เชลล์",
+          "url": "https://www.bangkokbiznews.com/news/news-update/1243616"
         },
         {
-          "title": "ราคาน้ำมันพรุ่งนี้2569 (17 ก.ค. 69) ปตท. บางจาก อัปเดตราคาล่าสุด",
-          "url": "https://www.thansettakij.com/economy/energy/664094"
+          "title": "ราคาน้ำมันวันนี้ (18 ก.ค. 69) เช็กราคาดีเซล-แก๊สโซฮอล์ล่าสุด",
+          "url": "https://www.prachachat.net/economic/news-2039275"
         }
       ],
       "updatedAt": "2026-07-18T05:10:00+07:00"
-    },
-    {
-      "id": "topic-5b19c6df90",
-      "title": "รัฐสภา",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 2000+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#รัฐสภา"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "เลขาฯ พระปกเกล้า หนุนประธานสภาฯ โละระเบียบเก่าล้างบาง “ผู้ช่วย สส. ต่างตอบแทน”",
-          "url": "https://www.thairath.co.th/news/politic/2946940"
-        },
-        {
-          "title": "'เซีย จำปาทอง' ค้านรัฐสภาเบรกขึ้นเงินเดือนผู้ช่วย สส.-สว. ชี้ฐานเงินเดือน 1.5 หมื่นสวนทางค่าครองชีพ-ไร้สวัสดิการ",
-          "url": "https://thestandard.co/sia-jumpatong-parliament-assistant-salary/"
-        },
-        {
-          "title": "หมอวรงค์สะกิด อย่าฟุ้งว่าไม่ขึ้นเงินเดือนผู้ช่วย สส. มันไม่พอ ต้องลดผู้ช่วยให้เหลือแค่ 3 คน ยกเลิกบำนาญ สส.และ สว.",
-          "url": "https://mgronline.com/news1/detail/9690000069766"
-        }
-      ],
-      "updatedAt": "2026-07-18T03:30:00+07:00"
     },
     {
       "id": "1-3-2026-b13cc854e4",
@@ -957,19 +957,45 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "นายกฯ 'อนุทิน' นำทัพเศรษฐกิจบุกเฉิงตู เปิดสำนักงาน BOI ดึง 6 ยักษ์ใหญ่จีนลงทุนเทคโนโลยี-ท่องเที่ยว",
-          "url": "https://thestandard.co/anutin-chengdu-boi-china-investment/"
+          "title": "“อนุทิน” เผยผลหารือ “สี จิ้นผิง“ อาสากาวใจปัญหาชายแดนไทย-กัมพูชา",
+          "url": "https://www.thaipbs.or.th/news/content/508410"
         },
         {
-          "title": "“อนุทิน” เปิดโต๊ะอาหารกลางวันฟังบิ๊กเนมเอกชนไทย ลั่นรัฐบาลพร้อมเป็นกำแพงหนุนจับคู่ธุรกิจ",
-          "url": "https://www.thairath.co.th/news/politic/2947064"
+          "title": "นายกฯ ลั่นรัฐบาลพร้อมเป็นหัวหมู่ทะลวงฟัน เปิดทางลงทุนดันสินค้าไทยบุกตลาดจีน ลุยปราบพ่อทิพย์-นอมินี",
+          "url": "https://www.thairath.co.th/news/politic/2947088"
         },
         {
-          "title": "\"ลลิตา\" เผยสื่อจีนมองไทยพื้นฐานเศรษฐกิจแข็งแกร่ง เป็นประตูสู่ตลาดอาเซียน นายกฯ เยือนยกระดับความร่วมมือ AI หลายมิติ",
-          "url": "https://mgronline.com/politics/detail/9690000070247"
+          "title": "จีนออกแผนปฏิบัติการกำกับดูแลจริยธรรม AI ระหว่างประเทศ",
+          "url": "https://www.sanook.com/chinanews/683/"
         }
       ],
       "updatedAt": "2026-07-18T06:10:00+07:00"
+    },
+    {
+      "id": "topic-86a92cca00",
+      "title": "อัตราดอกเบี้ย",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 500+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#อัตราดอกเบี้ย"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        }
+      ],
+      "updatedAt": "2026-07-18T14:30:00+07:00"
     },
     {
       "id": "topic-8fbdff39b2",
@@ -1000,11 +1026,11 @@
         },
         {
           "title": "Licensable picture: SL Benfica X Villarreal CF - Pre-Season Friendly Desafios Betano",
-          "url": "https://www.reutersconnect.com/item/sl-benfica-x-villarreal-cf-pre-season-friendly-desafios-betano/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVpVTUEwMDBMVU4wNlE"
+          "url": "https://www.reutersconnect.com/item/sl-benfica-x-villarreal-cf-pre-season-friendly-desafios-betano/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVpVTUEwMDBMVU4wN0Y"
         },
         {
           "title": "Licensable picture: SL Benfica X Villarreal CF - Pre-Season Friendly Desafios Betano",
-          "url": "https://www.reutersconnect.com/item/sl-benfica-x-villarreal-cf-pre-season-friendly-desafios-betano/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVpVTUEwMDBMVU4wMjg"
+          "url": "https://www.reutersconnect.com/item/sl-benfica-x-villarreal-cf-pre-season-friendly-desafios-betano/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVpVTUEwMDBMVU4wOTQ"
         }
       ],
       "updatedAt": "2026-07-18T03:40:00+07:00"
@@ -1034,44 +1060,6 @@
         }
       ],
       "updatedAt": "2026-07-17T18:04:19+07:00"
-    },
-    {
-      "id": "topic-54582bb6de",
-      "title": "แมนยู",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 2000+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#แมนยู"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "ขออีก 1 ราย! เปิดรายชื่อ 4 มิดฟิลด์ที่ แมนยู เล็งคว้าเสริมทัพ ปิดจ็อบแดนกลางให้สมบูรณ์",
-          "url": "https://www.siamsport.co.th/football-international/premierleague/106786/"
-        },
-        {
-          "title": "เชลซีชิงตัดหน้าแมนยู! ลุยดีล โกเน่-โอลีเซ่ ปัดมาดริด อยู่เสือใต้ต่อ",
-          "url": "https://www.siamsport.co.th/football-international/premierleague/106750/"
-        },
-        {
-          "title": "ลดราคาแล้ว !! แมนเชสเตอร์ ยูไนเต็ดอาจจะกลับมาเจรจาคว้าตัวบาเลบ้าอีกครั้ง",
-          "url": "https://today.line.me/th/v3/article/LXzxaE2"
-        }
-      ],
-      "updatedAt": "2026-07-18T00:50:00+07:00"
     },
     {
       "id": "2026-12-69-986a945334",
@@ -1253,6 +1241,10 @@
           "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9mRE9vNTZpOGFoLTcyRTRVckNxajlxNl9xZHVIMVB3MjI3RklVbkI3WTdYUmRaaUtQem5SYUNzRVBRNHJEbEc4T3BEeHVpWlN6MGJaZkJONXA?oc=5"
         },
         {
+          "title": "LINE TODAY",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1BMnVsamZ1dzNHN1lXYmdoT094bzVrMnRObVVsc05KY1JhdGlKa21rSVZtei1wbkpBZE5UYklENUFRS1BtcDN4NzFPbW9pVktqdzFjU2NITTBDS3NHRllDVjExNm0?oc=5"
+        },
+        {
           "title": "TQM Insurance Broker",
           "url": "https://news.google.com/rss/articles/CBMiowNBVV95cUxNRG1rN21TbzFaT2VnVFd5QnR0MEE5a04zRjYtZVdidHpKbGtKNGZQOXh6VkpjY0VYNEU2blE0SjBpMnRXVDNqYjlYQ3RKaGk1bUNOdmIwQXJtYi1yRmI2V0lGRXNSOTZjeDRJVXF1YVZtbHdzYk5Gc0pQZzE0ck01aG1pZlMyRHBpUFVDaDNscVZDOXBzNTVjWWw1TF8xdk04eHA5RzVPamZXQTNDdURxLThtc3hEaHBJaVVaMUJFdnNzbl91U1hjekp1S0psb1ctLWpSdk5idjZ2V2VPMmpRa0hSc0tsQUhFUVFvMF9ySDhBcUFsbDZ4b3JjSGxpLTJfTl92eXB5S0VtNmFLMUdTejJydll0Y1JsQVRwb1BCYi1OdEdVUHZ4dVBqN3IwTXF3bnAyb3RxRlNsOXhmMzRHNXQ5YnI5ckJtQVFXX1RTbHdEM25MM0Y5ak54TmFZcTRzMmExM0VXNjMzTjBfeWlXWGdzRmN3RzJZdkpKQ0U5VHE5YWkwNzREaFE4dVNGT0Y0REhnWU8zSzZkcFlpQ0l5dk5faw?oc=5"
         },
@@ -1263,10 +1255,6 @@
         {
           "title": "Sanook",
           "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5mMlpQWkZZSU9nWGN3SmhQQkVXME5SUGVQTFpvMl9SQnRmZWsxQ01jbWp6cXNtZFB3Q2Z2aHNWOEMwTy1sNmpMSmZPTDM?oc=5"
-        },
-        {
-          "title": "thansettakij",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBPSDF1S3R1Rllxa3ZuXzlTdW40cnJjdmZOUVRZcnhrdElYR3hFLWhYbWo3VVYtWVNDeUZmQzlwSkoxZExFanVtcjNTRWJ3WXI1ZmdqMkxNWW52Q2wxWC1vYk1n?oc=5"
         }
       ],
       "updatedAt": "2026-07-15T19:39:00+07:00"
