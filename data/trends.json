@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T16:28:44.217290+07:00",
+  "generatedAt": "2026-07-21T18:48:32.682380+07:00",
   "dateRange": "2026-07-14 to 2026-07-21",
   "sourceErrors": [],
   "topics": [
@@ -550,13 +550,13 @@
       "updatedAt": "2026-07-15T14:00:00+07:00"
     },
     {
-      "id": "wetter-0f67890823",
-      "title": "wetter",
+      "id": "topic-4690daa530",
+      "title": "กระทรวงเกษตรและสหกรณ์",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 1000+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -564,7 +564,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#wetter"
+        "#กระทรวงเกษตรและสหกรณ์"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -573,19 +573,19 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "Wetter in Sachsen: Wetterdienst warnt vor starken Gewittern am Abend – bis 21 Grad am Montag",
-          "url": "https://www.saechsische.de/sachsen/wetter-in-sachsen-wetterdienst-warnt-vor-starken-gewittern-am-abend-bis-21-grad-am-montag-IEEULRYR5AFWQ5Y6BTF4WQFIUE.html"
+          "title": "ครม.ตั้งแล้ว ปลัดก.เกษตร คนใหม่ รพีภัทร์ จันทรศรีวงศ์ ขึ้นจากกรมวิชาการเกษตร",
+          "url": "https://www.matichon.co.th/politics/news_5815005"
         },
         {
-          "title": "Sonne folgt auf Wolken",
-          "url": "https://www.diesachsen.de/wetter/sonne-folgt-auf-wolken-3160935"
+          "title": "ครม.ไฟเขียว แต่งตั้ง “กฤชเทพ สิมลี” นั่งเลขานุการ รมว.คมนาคม",
+          "url": "https://www.thairath.co.th/news/politic/2947704"
         },
         {
-          "title": "News, Regional, Sachsen-Anhalt: Wetterbericht für Sachsen-Anhalt (21.07.2026)",
-          "url": "https://www.tixio.de/1278821-wetterbericht-fuer-sachsen-anhalt-21-07-2026.html"
+          "title": "ครม. ไฟเขียวตั้ง ‘รพีภัทร์’ อธิบดีกรมวิชาการเกษตร นั่งปลัดกระทรวงเกษตรฯ คนใหม่ เหลืออายุราชการ 7 ปี",
+          "url": "https://thestandard.co/rapeepat-agriculture-permanent-secretary/"
         }
       ],
-      "updatedAt": "2026-07-21T06:50:00+07:00"
+      "updatedAt": "2026-07-21T14:50:00+07:00"
     },
     {
       "id": "topic-f6b05284e7",
@@ -614,89 +614,13 @@
       "updatedAt": "2026-07-20T16:53:57+07:00"
     },
     {
-      "id": "topic-2d09f9f1cb",
-      "title": "ค่าไฟฟ้า",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#ค่าไฟฟ้า"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "‘พลพีร์’ ร่วม MEA-PEA ประกาศนโยบายปฏิรูปโครงสร้างค่าไฟฟ้า ลดภาระค่าครองชีพ | The Bangkok Insight",
-          "url": "https://today.line.me/th/v3/article/QwlMLMV"
-        },
-        {
-          "title": "กมธ.พลังงาน หนุนมติ กพช. แยกค่าไฟสาธารณะพ้นบิลประชาชน ลดภาระค่าใช้จ่าย-เพิ่มความเป็นธรรมผู้ใช้ไฟ",
-          "url": "https://mgronline.com/business/detail/9690000071394"
-        },
-        {
-          "title": "มหาดไทยหั่นค่าไฟภาคครัวเรือนไม่เกิน 3 บาทต่อหน่วย เริ่มรอบบิล ก.ย. นี้",
-          "url": "https://www.thairath.co.th/news/politic/2947455"
-        }
-      ],
-      "updatedAt": "2026-07-21T08:50:00+07:00"
-    },
-    {
-      "id": "3-a5fe8b9cdc",
-      "title": "ช่อง 3",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 100+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#ช่อง3"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "“หลิง-ออม” สวีทฉ่ำ ดัน “วาดฝันวันวิวาห์” ยืน 1 ติดเทรนด์โลก 5 ตอนรวด! | daradaily",
-          "url": "https://today.line.me/th/v3/article/XYR02Re"
-        },
-        {
-          "title": "Behind The Scenes วาดฝันวันวิวาห์ EP.5",
-          "url": "https://ch3plus.com/v/279102"
-        },
-        {
-          "title": "วาดฝันวันวิวาห์ EP.5 : \"หลิงหลิง\" วอน \"กิ๊ก\" หยุดยุ่ง \"ออม\" แต่ศึกนี้ไม่จบง่าย!",
-          "url": "https://entertainment.trueid.net/detail/5BdjM1ReNla2"
-        }
-      ],
-      "updatedAt": "2026-07-21T06:40:00+07:00"
-    },
-    {
       "id": "topic-3812503a7b",
       "title": "ณเดชน์ คูกิมิยะ",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 500+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -713,19 +637,57 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "ญาญ่า อุรัสยา เคลื่อนไหวแล้ว ร่อนข้อความถึงทุกคนในงานแต่ง | News In Thailand",
-          "url": "https://today.line.me/th/v3/article/LXyBEzz"
-        },
-        {
           "title": "“ป๋อมแป๋ม” เคลียร์ดราม่าเบียด “ใบเฟิร์น พิมพ์ชนก” ล้ม ขณะคว้าดอกไม้งานแต่ง “ณเดชน์-ญาญ่า”",
           "url": "https://www.thairath.co.th/entertain/news/2947661"
         },
         {
-          "title": "LISA ร่วมงานแต่ง ณเดชน์-ญาญ่า ในชุด VVON SUGUNNASIL และเครื่องประดับ BVLGARI",
-          "url": "https://thestandard.co/lisa-nadech-yaya-wedding-look/"
+          "title": "\"ณเดชน์\" เสียอาการหนัก! เจอ \"ลิซ่า\" ตัวจริงในงานแต่ง รับตื่นเต้นจนไม่กล้าคุย ยกหน้าที่ให้ \"ญาญ่า\"",
+          "url": "https://today.line.me/th/v3/article/aGRVmE3"
+        },
+        {
+          "title": "\"ลิซ่า\" ตื่นเต้นมาก ได้เจอเพื่อนเก่าสมัยแข่งเต้น 20 ปีผ่านไป จำได้ไม่เคยลืม",
+          "url": "https://www.sanook.com/news/9899854/"
         }
       ],
       "updatedAt": "2026-07-21T15:50:00+07:00"
+    },
+    {
+      "id": "4-f794760712",
+      "title": "ทีเด็ด 4 คู่ วันนี้ สยาม สปอร์ต",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 100+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#ทีเด็ด4คู่วันนี้สยามสปอร"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "ชี้ 4 ตัวเต็งบอลน่าเชียร์ 21 ก.ค. 69 : ทีเด็ดบอลวันนี้ เฟเนร์บาห์เช่ ลุ้นเฮ, ซาเกร็บ เยือนข่ม!",
+          "url": "https://www.siamsport.co.th/football-international/other/106934/"
+        },
+        {
+          "title": "\"เต้ยเป๋าตุง\" ฟันธง (21 ก.ค.69) ชี้ 7 คู่เด่น ทีมลุ้นเข้าวิน เน้นๆ 3 บอลเต็ง",
+          "url": "https://siamrath.co.th/variety/sports/162034"
+        },
+        {
+          "title": "บอลวันนี้ โปรแกรมบอล ดูบอลสด ถ่ายทอดสด วันอังคารที่ 21 ก.ค. 69",
+          "url": "https://www.posttoday.com/lifestyle/745719"
+        }
+      ],
+      "updatedAt": "2026-07-21T17:50:00+07:00"
     },
     {
       "id": "topic-1299d3b875",
@@ -734,7 +696,7 @@
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 500+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 1000+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -755,12 +717,12 @@
           "url": "https://mgronline.com/greeninnovation/detail/9690000070661"
         },
         {
-          "title": "จ่อโยกคนหลุด \"บัตรสวัสดิการแห่งรัฐ\" กว่า 6 ล้านคน เยียวยาไทยช่วยไทยพลัส",
-          "url": "https://www.sanook.com/money/954431/"
+          "title": "นายกฯ สั่งทบทวนเกณฑ์บัตรสวัสดิการแห่งรัฐ เร่งค้นหาผู้เดือดร้อนเชิงรุก | สวพ.FM91",
+          "url": "https://today.line.me/th/v3/article/oqRL2EW"
         },
         {
-          "title": "\"เอกนิติ\" เร่งทบทวน 2 ปัญหา \"บัตรสวัสดิการแห่งรัฐ\" ย้ำเน้นช่วยคนจนจริง",
-          "url": "https://www.thairath.co.th/news/society/2947687"
+          "title": "เกณฑ์ใหม่ บัตรคนจน เมื่อ “ความจนต้องพิสูจน์”",
+          "url": "https://www.thairath.co.th/scoop/infographic/2947741"
         }
       ],
       "updatedAt": "2026-07-21T14:00:00+07:00"
@@ -818,51 +780,13 @@
       "updatedAt": "2026-07-19T17:10:05+07:00"
     },
     {
-      "id": "69-af071c1586",
-      "title": "ลงทะเบียน ค่าน้ำ ค่าไฟ บัตร ประชา รัฐ 69",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 1000+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#ลงทะเบียนค่าน้ำค่าไฟบัตร"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "เริ่ม 20 ก.ค.ผู้ได้สิทธิบัตรสวัสดิการแห่งรัฐ ลงทะเบียนรับสิทธิส่วนลด \"ค่าไฟฟ้า\"",
-          "url": "https://www.thaipbs.or.th/news/content/508501"
-        },
-        {
-          "title": "ช่องทางลงทะเบียนรับสิทธิส่วนลด “ค่าไฟฟ้า” บัตรสวัสดิการแห่งรัฐ 2569",
-          "url": "https://www.thairath.co.th/news/society/2947438"
-        },
-        {
-          "title": "ช่องทางลงทะเบียนรับส่วนลด ค่าน้ำ-ค่าไฟ บัตรสวัสดิการแห่งรัฐ",
-          "url": "https://news.ch7.com/detail/886295"
-        }
-      ],
-      "updatedAt": "2026-07-21T08:10:00+07:00"
-    },
-    {
-      "id": "3-1-3-sea-v-cup-2026-cd9f62aabf",
-      "title": "วอลเลย์บอลชายไทย ตบแซงชนะ เวียดนาม 3-1 เซต คว้าที่ 3 SEA V Cup 2026 สนามแรก",
+      "id": "3-1-sea-v-cup-2026-3ee05c9015",
+      "title": "วอลเลย์บอลชายไทย บดชนะ เวียดนาม 3-1 เซต ประเดิมชัย SEA V Cup 2026",
       "sourceType": "news",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: วอลเลย์บอล / source: Siamsport - วอลเลย์บอลชายไทย ตบแซงชนะ เวียดนาม 3-1 เซต คว้าที่ 3 SEA V Cup 2026 สนามแรก    Siamsport",
+      "summary": "ข่าวจาก Google News keyword: วอลเลย์บอล / source: Siamsport - วอลเลย์บอลชายไทย บดชนะ เวียดนาม 3-1 เซต ประเดิมชัย SEA V Cup 2026    Siamsport",
       "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -870,16 +794,16 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#วอลเลย์บอลชายไทยตบแซงชนะ"
+        "#วอลเลย์บอลชายไทยบดชนะเวี"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
         {
           "title": "Siamsport",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9nVDhINWQxTFlMcnVVbk9oOEctZWtIemdJcGFUYzJ5YXp6Qm9RN3lJalhqMzJFdm56OGxpQ1VKYmhWM3JXb2VsRFAzS0dTdnVVWGFZOWdaOG9LTGJDU1lXTG9kNVBydHd1UXN3?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9vMXBzbGJIVlVxaGJxekdFa21JZ1hRaUFfZ2NCdGNIbTlOVGdIV0k3TFhuNHMyMG1ncFhnbVNnSVVicEpHbUFtOXV2YkJHcjR6QUJOTThEVVg4Yk4xOVlEM2pDaTg0cnR0RlRB?oc=5"
         }
       ],
-      "updatedAt": "2026-07-19T15:46:00+07:00"
+      "updatedAt": "2026-07-15T17:14:44+07:00"
     },
     {
       "id": "topic-c1b231ae2e",
@@ -888,7 +812,7 @@
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 500+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 2000+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -943,16 +867,16 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "ครม.เห็นชอบ 12 ส.ค. เป็นวันสำคัญของชาติและวันหยุดราชการ",
-          "url": "https://www.thairath.co.th/news/politic/2947648"
+          "title": "สัปดาห์หน้าหยุดยาวติดต่อกัน 3 วัน เลื่อนประชุม ครม. เป็นจันทร์ที่ 27 ก.ค. 69",
+          "url": "https://www.thairath.co.th/news/politic/2947614"
         },
         {
-          "title": "ครม. เห็นชอบให้ 12 สิงหาคม ของทุกปี เป็นวันหยุดราชการต่อไป",
-          "url": "https://news.ch7.com/detail/886370"
+          "title": "ข่าว30 กรกฎาคม หยุดไหม ตรวจสอบ เอกชน ธนาคาร ได้หยุดยาวกี่วัน",
+          "url": "https://news.ch7.com/detail/886363"
         },
         {
-          "title": "กางปฏิทินสิงหาคม 2569 แจกทริกหยุดยาวพาแม่เที่ยว 5 วันรวด",
-          "url": "https://www.thaipbs.or.th/news/content/508450"
+          "title": "เลื่อนประชุม ครม. เป็น 27 ก.ค. หลังสัปดาห์หน้าหยุดยาวหลายวัน | The Better",
+          "url": "https://today.line.me/th/v3/article/OpBojmv"
         }
       ],
       "updatedAt": "2026-07-21T10:30:00+07:00"
@@ -1060,6 +984,44 @@
       "updatedAt": "2026-07-21T08:40:00+07:00"
     },
     {
+      "id": "topic-196cd2cfb5",
+      "title": "แพทองธาร ชินวัตร",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#แพทองธารชินวัตร"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "“ทักษิณ” ควง “แพทองธาร” เดินทางไปพบหมอที่ประเทศเยอรมนี",
+          "url": "https://www.thairath.co.th/news/politic/2947488"
+        },
+        {
+          "title": "“แม้ว” โผล่เมืองโคโลญ เยอรมนี “อิ๊งค์” โพสต์ภาพบอก พามาหาหมอ",
+          "url": "https://mgronline.com/politics/detail/9690000071104"
+        },
+        {
+          "title": "ตระกูลชินแท็กทีมทัวร์นอก แค่พบเพื่อนเก่า หรือเป็นเกมตัดหน้า-สกัดทาง \"อนุทิน\"?",
+          "url": "https://www.topnews.co.th/news-clip/1635911"
+        }
+      ],
+      "updatedAt": "2026-07-21T17:50:00+07:00"
+    },
+    {
       "id": "2026-8-e37d4d337d",
       "title": "โปรแกรมถ่ายทอดสด วอลเลย์บอลหญิง เนชั่นส์ลีก 2026 รอบไฟนอล 8 ทีมสุดท้าย",
       "sourceType": "news",
@@ -1084,6 +1046,44 @@
         }
       ],
       "updatedAt": "2026-07-21T06:19:00+07:00"
+    },
+    {
+      "id": "topic-a6ea205983",
+      "title": "ใหม่ รัช ดา เจ นี่",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 2000+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#ใหม่รัชดาเจนี่"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "\"วุ้นเส้น\" พูดอีกมุมปมดราม่า \"เจนี่-ใหม่ รัชดา\" เล่านาทีเดินเข้าเคลียร์ใจ!",
+          "url": "https://www.sanook.com/news/9900042/"
+        },
+        {
+          "title": "เมื่อคำ \"ขอโทษ\" ถูกปฏิเสธด้วยน้ำในแก้ว \"ใหม่ รัชดา\" คือใคร ทำไมแตกหัก \"เจนี่\"",
+          "url": "https://mgronline.com/entertainment/detail/9690000071236"
+        },
+        {
+          "title": "วงในอ้างเป็นเด็กเสิร์ฟเผยนาที ‘ใหม่ รัชดา’ สาดไวน์ขาวใส่ ‘เจนี่’ กลางงานแต่ง ‘ณเดชน์-ญาญ่า’",
+          "url": "https://www.dailynews.co.th/news/6045052/"
+        }
+      ],
+      "updatedAt": "2026-07-21T10:00:00+07:00"
     },
     {
       "id": "6th-sea-v-cup-2026-1-15-19-2569-4th-5-038592cfe0",
@@ -1239,12 +1239,12 @@
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9IQnV2dGJRZXFsbHpycDBPbGt5SS1sdTBxc0dMSEJJVl91M0tsb0otV1l1aUZzLWlfS1hCMVZvQlhJZy0xTnlmRjNUMHVQb3NRZWQweg?oc=5"
         },
         {
-          "title": "TQM Insurance Broker",
-          "url": "https://news.google.com/rss/articles/CBMiowNBVV95cUxNRG1rN21TbzFaT2VnVFd5QnR0MEE5a04zRjYtZVdidHpKbGtKNGZQOXh6VkpjY0VYNEU2blE0SjBpMnRXVDNqYjlYQ3RKaGk1bUNOdmIwQXJtYi1yRmI2V0lGRXNSOTZjeDRJVXF1YVZtbHdzYk5Gc0pQZzE0ck01aG1pZlMyRHBpUFVDaDNscVZDOXBzNTVjWWw1TF8xdk04eHA5RzVPamZXQTNDdURxLThtc3hEaHBJaVVaMUJFdnNzbl91U1hjekp1S0psb1ctLWpSdk5idjZ2V2VPMmpRa0hSc0tsQUhFUVFvMF9ySDhBcUFsbDZ4b3JjSGxpLTJfTl92eXB5S0VtNmFLMUdTejJydll0Y1JsQVRwb1BCYi1OdEdVUHZ4dVBqN3IwTXF3bnAyb3RxRlNsOXhmMzRHNXQ5YnI5ckJtQVFXX1RTbHdEM25MM0Y5ak54TmFZcTRzMmExM0VXNjMzTjBfeWlXWGdzRmN3RzJZdkpKQ0U5VHE5YWkwNzREaFE4dVNGT0Y0REhnWU8zSzZkcFlpQ0l5dk5faw?oc=5"
-        },
-        {
           "title": "TrueID",
           "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9mRE9vNTZpOGFoLTcyRTRVckNxajlxNl9xZHVIMVB3MjI3RklVbkI3WTdYUmRaaUtQem5SYUNzRVBRNHJEbEc4T3BEeHVpWlN6MGJaZkJONXA?oc=5"
+        },
+        {
+          "title": "TQM Insurance Broker",
+          "url": "https://news.google.com/rss/articles/CBMiowNBVV95cUxNRG1rN21TbzFaT2VnVFd5QnR0MEE5a04zRjYtZVdidHpKbGtKNGZQOXh6VkpjY0VYNEU2blE0SjBpMnRXVDNqYjlYQ3RKaGk1bUNOdmIwQXJtYi1yRmI2V0lGRXNSOTZjeDRJVXF1YVZtbHdzYk5Gc0pQZzE0ck01aG1pZlMyRHBpUFVDaDNscVZDOXBzNTVjWWw1TF8xdk04eHA5RzVPamZXQTNDdURxLThtc3hEaHBJaVVaMUJFdnNzbl91U1hjekp1S0psb1ctLWpSdk5idjZ2V2VPMmpRa0hSc0tsQUhFUVFvMF9ySDhBcUFsbDZ4b3JjSGxpLTJfTl92eXB5S0VtNmFLMUdTejJydll0Y1JsQVRwb1BCYi1OdEdVUHZ4dVBqN3IwTXF3bnAyb3RxRlNsOXhmMzRHNXQ5YnI5ckJtQVFXX1RTbHdEM25MM0Y5ak54TmFZcTRzMmExM0VXNjMzTjBfeWlXWGdzRmN3RzJZdkpKQ0U5VHE5YWkwNzREaFE4dVNGT0Y0REhnWU8zSzZkcFlpQ0l5dk5faw?oc=5"
         },
         {
           "title": "Marketeer Online",
