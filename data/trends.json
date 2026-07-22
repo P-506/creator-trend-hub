@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T18:48:59.200717+07:00",
+  "generatedAt": "2026-07-22T22:06:21.009902+07:00",
   "dateRange": "2026-07-15 to 2026-07-22",
   "sourceErrors": [],
   "topics": [
@@ -82,32 +82,6 @@
       "updatedAt": "2026-07-21T17:38:40+07:00"
     },
     {
-      "id": "crunch-x-pan-bagels-b4acc78559",
-      "title": "CRUNCH x Pan Bagels คาเฟ่ซาวโดวจ์และเบเกิลเปิดใหม่ย่านสาทร",
-      "sourceType": "news",
-      "category": "food",
-      "contentPotential": "high",
-      "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: คาเฟ่ / source: thestandard.co - CRUNCH x Pan Bagels คาเฟ่ซาวโดวจ์และเบเกิลเปิดใหม่ย่านสาทร    thestandard.co",
-      "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
-      "creatorAngle": "ให้ Creator เล่าประสบการณ์ร้าน/เมนูที่อยากลอง แล้วถามคนอื่นว่าคิดเหมือนกันไหม",
-      "promptIdea": "เห็นคนพูดถึงเมนูนี้เยอะมาก มีใครลองแล้วบ้าง?",
-      "hashtags": [
-        "#FoodTrend",
-        "#CafeTH",
-        "#รีวิวของกิน",
-        "#CRUNCHxPanBagelsคาเฟ่ซาว"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "thestandard.co",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9xNUVzWHAzN21xdUJEMEJsRW84SktJWkxYSnQtaEVRTTFlZlIwY0FwVnpDUVVyR09mRWlOU3Zta1MwdWhUTVVrbkxNRm1hVXUwYjNoNnFtSl9aamVZ?oc=5"
-        }
-      ],
-      "updatedAt": "2026-07-21T00:35:59+07:00"
-    },
-    {
       "id": "duang-with-you-series-limited-version-ne-0d56a8cbe8",
       "title": "Duang With You Series – Limited Version มีให้ชมแล้วทาง Netflix",
       "sourceType": "news",
@@ -132,6 +106,32 @@
         }
       ],
       "updatedAt": "2026-07-21T09:03:13+07:00"
+    },
+    {
+      "id": "openface-12b645788e",
+      "title": "Openface คาเฟ่บรันช์เปิดใหม่ย่านรามคำแหง ที่นำกลิ่นอายอิกซอนดงมาไว้ในบ้านหลังใหญ่",
+      "sourceType": "news",
+      "category": "food",
+      "contentPotential": "high",
+      "riskLevel": "low",
+      "summary": "ข่าวจาก Google News keyword: คาเฟ่ / source: thestandard.co - Openface คาเฟ่บรันช์เปิดใหม่ย่านรามคำแหง ที่นำกลิ่นอายอิกซอนดงมาไว้ในบ้านหลังใหญ่    thestandard.co",
+      "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
+      "creatorAngle": "ให้ Creator เล่าประสบการณ์ร้าน/เมนูที่อยากลอง แล้วถามคนอื่นว่าคิดเหมือนกันไหม",
+      "promptIdea": "เห็นคนพูดถึงเมนูนี้เยอะมาก มีใครลองแล้วบ้าง?",
+      "hashtags": [
+        "#FoodTrend",
+        "#CafeTH",
+        "#รีวิวของกิน",
+        "#Openfaceคาเฟ่บรันช์เปิดใ"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "thestandard.co",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBjYTJnTWx3c3dNT3ZNXy1HZzJ1TFR2TkxEMEdEMFFzV2NMQ2w0cFlNWlh0bHp0MTktUGt1YU5ZaTVNRUNTc0NXRGJmUWgzbzJSQVlsQ0ltaEZPcTUwWjFUQVdEeGJfWDZoc2dpQzJQVQ?oc=5"
+        }
+      ],
+      "updatedAt": "2026-07-20T11:15:23+07:00"
     },
     {
       "id": "the-baristro-b99b93bdb3",
@@ -180,10 +180,10 @@
       "sources": [
         {
           "title": "Vogue Thailand",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE44dXlpN2FUU2h6WE15QzJtbjJETXJ3TTBscXRLSFk4SWowbWNLOXR0enVpY250OEFtYURTeFhzUkpYN3AzTjdjWHNzdDByOVBJQXNoWUF5S0xwTVVPR3ZRb1NDX3ZEdFhyeHptNldVLWVWYUdiOGdZLQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5zamdjOWJWczJzTUw5b2RrcFJzY1VLb0hHTXFCekgycVhmX0NRY2c2cjBNTWhISWhYaEpuOEFRUUFIUi1zRU9lMlhRV2Z0MU5udjlLSFczTnhMTlMxNDNST2hfYV9na1N1ZWV3UTdYRXdvNTA?oc=5"
         }
       ],
-      "updatedAt": "2026-07-22T15:27:41+07:00"
+      "updatedAt": "2026-07-22T15:28:54+07:00"
     },
     {
       "id": "like-ep-10-ae045497b5",
@@ -576,118 +576,8 @@
       "updatedAt": "2026-07-20T11:29:41+07:00"
     },
     {
-      "id": "airport-rail-link-819f4c0602",
-      "title": "airport rail link",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 100+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#airportraillink"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "Airport Rail Link service at one hour intervals",
-          "url": "https://www.bangkokpost.com/thailand/general/3289907/airport-rail-link-service-at-one-hour-intervals"
-        },
-        {
-          "title": "Technical glitch halts Airport Rail Link services",
-          "url": "https://world.thaipbs.or.th/detail/technical-glitch-halts-airport-rail-link-services/62127"
-        },
-        {
-          "title": "Airport Rail Link service cut to one train as repairs enter 10th hour",
-          "url": "https://www.khaosodenglish.com/featured/2026/07/22/airport-rail-link-service-cut-to-one-train-as-repairs-enter-10th-hour/"
-        }
-      ],
-      "updatedAt": "2026-07-22T17:50:00+07:00"
-    },
-    {
-      "id": "ktc-cf27711ec5",
-      "title": "ktc",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 100+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#ktc"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "KTC JCB \"ตัวจริงเรื่องกินญี่ปุ่น\" ดันบัตร \"สายกิน\" ครองใจนักท่องเที่ยวไทย",
-          "url": "https://www.posttoday.com/general-news/lifestyle/745746"
-        },
-        {
-          "title": "KTC เตือนภัยมิจฉาชีพเปลี่ยนกลโกงแนะรู้ทันการหลอกลวงผ่านการจองที่พักออนไลน์",
-          "url": "https://www.mitihoon.com/2026/07/22/660833/"
-        }
-      ],
-      "updatedAt": "2026-07-22T18:10:00+07:00"
-    },
-    {
-      "id": "nottm-forest-vs-blackburn-rovers-0d9928ca58",
-      "title": "nottm forest vs blackburn rovers",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 500+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#nottmforestvsblackburnro"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "Nottingham Forest v Blackburn Rovers live - team news, updates as Reds in pre-season friendly action",
-          "url": "https://www.nottinghampost.com/sport/football/football-news/nottingham-forest-live-blackburn-updates-11069866"
-        },
-        {
-          "title": "Why Omari Hutchinson didn't feature in Oliver Glasner's Nottingham Forest squad vs Blackburn",
-          "url": "https://www.nottinghamforest.news/2026/07/22/why-omari-hutchinson-didnt-feature-in-oliver-glasners-nottingham-forest-squad-vs-blackburn/"
-        },
-        {
-          "title": "WATCH FOREST TAKE ON ROVERS IN PORTUGAL",
-          "url": "https://www.nottinghamforest.co.uk/news/2026/july/22/watch-forest-take-on-rovers-in-portugal/"
-        }
-      ],
-      "updatedAt": "2026-07-22T17:10:00+07:00"
-    },
-    {
-      "id": "topic-79bd95fa57",
-      "title": "ครูทราย",
+      "id": "disney-18ce806286",
+      "title": "disney+",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
@@ -700,7 +590,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#ครูทราย"
+        "#disney+"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -709,19 +599,197 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "หวั่นคดีพลิก! ครูทรายอาจแพ้ในชั้นศาล ถ้าอีกฝั่งอ้างไม่รู้เรื่องเจ็บหน้าอก | TOJO NEWS",
-          "url": "https://today.line.me/th/v3/article/QwlM9J3"
+          "title": "Video Sneak peek of new documentary 'Disney Worldbuilders'",
+          "url": "https://abcnews.com/video/134979359/"
         },
         {
-          "title": "ครูทราย ยื่น สบส.-แพทยสภา สอบ รพ.-หมอ-พยาบาล",
-          "url": "https://www.thaich8.com/news_detail/144474"
+          "title": "'Disney Worldbuilders' Debuts First Teaser Ahead of Disney+ Release",
+          "url": "https://thewaltdisneycompany.com/news/disney-worldbuilders-teaser-trailer/"
         },
         {
-          "title": "ครูทรายโต้กลับ แจงอาการสามีแน่นหน้าอก ลั่นคนตายพูดไม่ได้ ไม่ละอายใจหรือ",
-          "url": "https://www.khaosod.co.th/special-stories/news_10331700"
+          "title": "Leslie Iwerks' \"Disney Worldbuilders\" Explores How Disney Stories Are Brought to Life in the Parks",
+          "url": "https://www.laughingplace.com/disney-parks/disney-worldbuilders-leslie-iwerks-doc/"
         }
       ],
-      "updatedAt": "2026-07-22T17:50:00+07:00"
+      "updatedAt": "2026-07-22T20:30:00+07:00"
+    },
+    {
+      "id": "jacobian-conjecture-6e1e778ef2",
+      "title": "jacobian conjecture",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 100+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#jacobianconjecture"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "Mathematicians grapple with a ‘very rapid and very unsettling change’ as AI cracks yet another century-old problem",
+          "url": "https://fortune.com/2026/07/21/ai-solves-jacobian-conjecture-levant-alpoge-claude-fable-5/"
+        },
+        {
+          "title": "AI’s solution to 87-year-old riddle takes mathematicians by surprise",
+          "url": "https://www.newscientist.com/article/2580374-ais-solution-to-87-year-old-riddle-takes-mathematicians-by-surprise/"
+        },
+        {
+          "title": "‘hello there the jacobian conjecture is false thanx’: why a tiny social media post has mathematicians rethinking AI",
+          "url": "https://theconversation.com/hello-there-the-jacobian-conjecture-is-false-thanx-why-a-tiny-social-media-post-has-mathematicians-rethinking-ai-283883"
+        }
+      ],
+      "updatedAt": "2026-07-22T21:20:00+07:00"
+    },
+    {
+      "id": "m-t-o-demain-bf498af298",
+      "title": "météo demain",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#météodemain"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "Jusqu'à 38 °C et de la pluie : après la canicule, ce changement spectaculaire va surprendre toute la France",
+          "url": "https://www.presse-citron.net/jusqua-38-c-et-de-la-pluie-apres-la-canicule-ce-changement-spectaculaire-va-surprendre-toute-la-france/"
+        },
+        {
+          "title": "De 20°C dans la Manche à 40°C sur la Méditerranée : ce dôme de chaleur qui coupe la France en deux",
+          "url": "https://www.larep.fr/france-monde/actualites/de-20c-dans-la-manche-a-40c-sur-la-mediterranee-ce-dome-de-chaleur-qui-coupe-la-france-en-deux_15023825/"
+        },
+        {
+          "title": "Météo demain : la chaleur reste modérée au nord mais s'accentue dans le sud-ouest",
+          "url": "https://actualite.lachainemeteo.com/actualite-meteo/2026-07-22/meteo-demain-la-chaleur-reste-moderee-au-nord-mais-s-accentue-dans-le-sud-ouest-90643"
+        }
+      ],
+      "updatedAt": "2026-07-22T21:00:00+07:00"
+    },
+    {
+      "id": "vnl-ff7366b0ae",
+      "title": "vnl วอลเลย์บอลหญิง",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 100+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#vnlวอลเลย์บอลหญิง"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "บราซิล โชว์ฮึด! พลิกชนะ ญี่ปุ่น 3-1 เซต ดวล อิตาลี รอบตัดเชือกวอลเลย์บอล VNL 2026",
+          "url": "https://www.siamsport.co.th/other-sports/volleyball/106996/"
+        },
+        {
+          "title": "ได้แล้ว 2 ทีม! สรุปรายชื่อทีมชาติผ่านเข้ารอบรองชนะเลิศ ศึกเนชันส์ลีก 2026",
+          "url": "https://www.sanook.com/sport/1665238/"
+        },
+        {
+          "title": "ดูวอลเลย์บอลสด บราซิล พบ ญี่ปุ่น (ทีมหญิง) VNL 2026 รอบไฟนอล",
+          "url": "https://sport.trueid.net/detail/0pZG0q5vlNL8"
+        }
+      ],
+      "updatedAt": "2026-07-22T21:10:00+07:00"
+    },
+    {
+      "id": "topic-6c4c0a1946",
+      "title": "погода завтра",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 100+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#погодазавтра"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        }
+      ],
+      "updatedAt": "2026-07-22T21:00:00+07:00"
+    },
+    {
+      "id": "topic-477575a7fc",
+      "title": "กำไร",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 100+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#กำไร"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "“กรุงไทย” เติบโตยั่งยืน กำไรสุทธิไตรมาสที่ 2/2569 จำนวน 12,125 ล้านบาท ROE แข็งแกร่งที่ร้อยละ 10.5 บริหารคุณภาพสินทรัพย์อย่างสมดุล",
+          "url": "https://positioningmag.com/pr-news/114497"
+        },
+        {
+          "title": "ส่องงบการเงิน “11 ธนาคารไทย” ครึ่งแรกปี 2569 กสิกรไทยทำกำไรสุทธิสูงสุด!",
+          "url": "https://www.thairath.co.th/money/investment/stocks/2947799"
+        },
+        {
+          "title": "CGSI แนะซื้อ KBANK อัปเป้าใหม่ 253 บาท ชูยีลด์สูง 6% กำไรปี 70-71 โตเด่น | ข่าวหุ้นธุรกิจ",
+          "url": "https://today.line.me/th/v3/article/zN8JqQJ"
+        }
+      ],
+      "updatedAt": "2026-07-22T21:00:00+07:00"
     },
     {
       "id": "topic-f6b05284e7",
@@ -750,13 +818,13 @@
       "updatedAt": "2026-07-20T16:53:57+07:00"
     },
     {
-      "id": "topic-386025694e",
-      "title": "ชัชชาติ สิทธิพันธุ์",
+      "id": "4-f794760712",
+      "title": "ทีเด็ด 4 คู่ วันนี้ สยาม สปอร์ต",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 100+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -764,7 +832,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#ชัชชาติสิทธิพันธุ์"
+        "#ทีเด็ด4คู่วันนี้สยามสปอร"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -773,28 +841,54 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "กทม.สั่งปิดชั่วคราวสถานประกอบการ 56 แห่ง บกพร่องด้านความปลอดภัย",
-          "url": "https://www.thaipbs.or.th/news/content/508583"
+          "title": "โปรแกรมบอลวันนี้ 22 ก.ค. 69 โปรแกรมอุ่นเครื่อง ดูบอลสด สเปอร์ส มีเตะ พร้อมช่องถ่ายทอดสด",
+          "url": "https://www.siamsport.co.th/football-international/ucl/106995/"
         },
         {
-          "title": "ผู้ว่าฯ กทม.เร่งตรวจปูพรมสถานประกอบการทั่วกรุง สั่งปิดแล้ว 56 แห่ง",
-          "url": "https://www.thairath.co.th/news/politic/2947872"
+          "title": "บอลวันนี้ โปรแกรมบอล ดูบอลสด ถ่ายทอดสด วันพุธที่ 22 ก.ค. 69",
+          "url": "https://www.posttoday.com/lifestyle/745779"
         },
         {
-          "title": "ชัชชาติ เผย ปลัดกทม. สั่ง ผอ.เขตจตุจักร ช่วยราชการ ให้เวลาเคลียร์งาน 4-5 วัน ตั้งกก.สอบเข้มปมโรงเบียร์",
-          "url": "https://www.matichon.co.th/local/news_5816384"
+          "title": "\"เต้ยเป๋าตุง\" ฟันธง (21 ก.ค.69) ชี้ 7 คู่เด่น ทีมลุ้นเข้าวิน เน้นๆ 3 บอลเต็ง",
+          "url": "https://siamrath.co.th/variety/sports/162034"
         }
       ],
-      "updatedAt": "2026-07-22T17:40:00+07:00"
+      "updatedAt": "2026-07-22T20:40:00+07:00"
     },
     {
-      "id": "sea-v-56f170468d",
-      "title": "วอลเลย์บอลชาย sea v",
+      "id": "3-sea-v-cup-2026-1-92768083fa",
+      "title": "ผลวอลเลย์บอลสด วอลเลย์บอลชายไทย แซงชนะเวียดนาม คว้าอันดับ 3 SEA V Cup 2026 สนาม 1",
+      "sourceType": "news",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "ข่าวจาก Google News keyword: วอลเลย์บอล / source: Thairath.co.th - ผลวอลเลย์บอลสด วอลเลย์บอลชายไทย แซงชนะเวียดนาม คว้าอันดับ 3 SEA V Cup 2026 สนาม 1    Thairath.co.th",
+      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#ผลวอลเลย์บอลสดวอลเลย์บอล"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Thairath.co.th",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBRRjQtb1ZQV2VZQ3NwRm1KN1hxcnVya1B3OVhKOFY0dXhsMFczLU1nOWhXeGhERldEZVBsN1NUQUtickFDWm56LU1BdWtSZ2VjeFhHZXFTcHo1c2x1QWpRV05KUW9WdU5WYll0eVo0NA?oc=5"
+        }
+      ],
+      "updatedAt": "2026-07-19T17:10:05+07:00"
+    },
+    {
+      "id": "topic-fd73d0184e",
+      "title": "พรรคอนาคตไกล",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 100+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -802,7 +896,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#วอลเลย์บอลชายseav"
+        "#พรรคอนาคตไกล"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -811,19 +905,19 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "ทีมวอลเลย์บอลชายไทยฟอร์มดุ ตบชนะเมียนมา 3-0 ประเดิม SEA V Cup สนาม 2",
-          "url": "https://www.siamsport.co.th/other-sports/volleyball/106984/"
+          "title": "กกต. ประกาศให้ “พรรคอนาคตไกล” สิ้นสภาพความเป็นพรรคการเมือง มีผลตั้งแต่วันนี้",
+          "url": "https://www.thairath.co.th/news/politic/2947996"
         },
         {
-          "title": "วอลเลย์หนุ่มไทย ทุบเมียนมา ประเดิมชัย SEA V Cup 2026 สัปดาห์ที่ 2",
-          "url": "https://www.khaosod.co.th/sports/news_10333486"
+          "title": "ไปอีกพรรค! ราชกิจจาฯ ประกาศสิ้นสภาพความเป็นพรรคการเมือง",
+          "url": "https://www.thaipost.net/general-news/1036813/"
         },
         {
-          "title": "บทสรุปทุกอย่าง! \"กัมพูชา\" ผงาดแชมป์วอลเลย์บอลชาย ศึกซี วี คัพ 2026 สนามแรก",
-          "url": "https://www.sanook.com/sport/1665169/"
+          "title": "ราชกิจจาฯ ประกาศ สิ้นสภาพพรรคการเมือง",
+          "url": "https://today.line.me/th/v3/article/LXylZkl"
         }
       ],
-      "updatedAt": "2026-07-22T18:10:00+07:00"
+      "updatedAt": "2026-07-22T20:10:00+07:00"
     },
     {
       "id": "3-0-sea-v-cup-2026-f843a6b2b9",
@@ -852,39 +946,13 @@
       "updatedAt": "2026-07-16T14:51:57+07:00"
     },
     {
-      "id": "1-3-3-sea-v-cup-2026-b010d5430e",
-      "title": "สุดช็อก \"ไทย\" แพ้ \"กัมพูชา\" 1-3 ร่วงชิงอันดับที่ 3 วอลเลย์บอลชาย \"SEA V Cup 2026\"",
-      "sourceType": "news",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: วอลเลย์บอล / source: Thairath.co.th - สุดช็อก \"ไทย\" แพ้ \"กัมพูชา\" 1-3 ร่วงชิงอันดับที่ 3 วอลเลย์บอลชาย \"SEA V Cup 2026\"    Thairath.co.th",
-      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#สุดช็อก\"ไทย\"แพ้\"กัมพูชา\""
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Thairath.co.th",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5nYkY3TnZCSzVicVVILXBMZ1V1NDlTaUFqb0lpVGwyRXJWUktwQXVNbXpyc0Nxa3ZmcnQ2LVh2bFQ3SlptenhLOG9lSEVfLUtGbkt6M3lJeVlmUm5FVWJyaEI3eXhzNFNpRlBEb1N0RQ?oc=5"
-        }
-      ],
-      "updatedAt": "2026-07-18T17:59:00+07:00"
-    },
-    {
-      "id": "topic-1610b64752",
-      "title": "หุ้นไทย",
+      "id": "22-7-69-142e1b8253",
+      "title": "หวยลาว22/7/69",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 20000+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -892,7 +960,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#หุ้นไทย"
+        "#หวยลาว22/7/69"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -901,19 +969,19 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "หุ้นไทย ปิดลบ 13.63 จุด วอลุ่มทะลุแสนล้าน แรงขายแบงก์-หุ้นใหญ่ สลับเข้าปิโตรฯ-โภคภัณฑ์",
-          "url": "https://today.line.me/th/v3/article/7NvByvm"
+          "title": "หวยลาววันนี้ 22 กรกฎาคม 2569 ตรวจผลหวยลาว 22/7/69 หวยลาววันนี้ออกอะไร",
+          "url": "https://www.sanook.com/news/9900134/"
         },
         {
-          "title": "หุ้นไทยย่อตัว รับผลประกอบการกลุ่มแบงก์ | 22 ก.ค. 69 | การเงินธนาคาร",
-          "url": "https://today.line.me/th/v3/article/7NvBEo8"
+          "title": "หวยลาววันนี้ งวดประจำวันที่ 22 กรกฎาคม 2569 ผลหวยพัฒนา ตรวจรางวัล ล่าสุด หวยลาว ออกอะไร",
+          "url": "https://www.khaosod.co.th/laolottery/news_10333425"
         },
         {
-          "title": "หุ้นแบงก์ร่วงยกแผง แม้กำไร Q2/69 โต! เจาะสาเหตุแรงเทขาย พร้อมหาหุ้นเด่น จังหวะนี้ซื้อตัวไหนดี?",
-          "url": "https://www.thairath.co.th/money/investment/stocks/2947643"
+          "title": "ตรวจหวยลาววันนี้ ล่าสุด 20/07/69 หวยลาววันนี้ หวยลาว 20 ก.ค. 2569",
+          "url": "https://www.komchadluek.net/lottery/check-lottery/620141"
         }
       ],
-      "updatedAt": "2026-07-22T17:20:00+07:00"
+      "updatedAt": "2026-07-22T20:20:00+07:00"
     },
     {
       "id": "sea-v-cup-1f82d128d4",
@@ -942,8 +1010,8 @@
       "updatedAt": "2026-07-18T17:58:53+07:00"
     },
     {
-      "id": "topic-f145b0c300",
-      "title": "เรดาร์",
+      "id": "topic-935d1467c8",
+      "title": "โบโลญญ่า",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
@@ -956,7 +1024,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#เรดาร์"
+        "#โบโลญญ่า"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -965,95 +1033,19 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "เย็นที่ฝนตกหนัก! เช็กจราจร กับ เจาะ จุด แจม : 22 กรกฎาคม 2569 | สวพ.FM91",
-          "url": "https://today.line.me/th/v3/article/wJae5mG"
+          "title": "Dozens hurt in Bologna protests after man dies while being restrained by police",
+          "url": "https://www.bbc.com/news/articles/c86nwgw148xo"
         },
         {
-          "title": "สภาพอากาศกรุงเทพฯ บ่าย 2 นี้ ไม่มีกลุ่มฝน อุณหภูมิ 34 องศาฯ",
-          "url": "https://mgronline.com/uptodate/detail/9690000071776"
+          "title": "Death of Moroccan man in Italian police custody sparks protests, violence",
+          "url": "https://www.washingtonpost.com/world/2026/07/21/death-moroccan-man-italian-police-custody-sparks-protests-violence/"
         },
         {
-          "title": "อุตุฯ เตือน ฝนตกกรุงเทพเย็นนี้ลุ้นยาวถึง 3 ทุ่ม เช็กเขตไหนโดนก่อนช่วงเลิกงาน",
-          "url": "https://thethaiger.com/th/news/1590379/"
+          "title": "Morocco urges investigation after arrested national dies in Bologna",
+          "url": "https://www.reuters.com/world/africa/morocco-urges-investigation-after-arrested-national-dies-bologna-2026-07-22/"
         }
       ],
-      "updatedAt": "2026-07-22T17:10:00+07:00"
-    },
-    {
-      "id": "topic-e8818099ff",
-      "title": "เรอัลมาดริด",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 100+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#เรอัลมาดริด"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "ความคืบหน้าล่าสุด: โรดรี ย้ายไปร่วมทีมเรอัล มาดริด มูรินโญ่ดีใจมาก",
-          "url": "https://www.vietnam.vn/th/dien-bien-moi-rodri-den-real-madrid-mourinho-phan-khoi"
-        },
-        {
-          "title": "ข่าวการโอน 19 กรกฎาคม: ท็อตแนมมุ่งความสนใจไปที่การเซ็นสัญญากับซาวินโญ่, เรอัลมาดริดปฏิเสธโรดรี้",
-          "url": "https://www.vietnam.vn/th/chuyen-nhuong-19-7-tottenham-don-luc-chieu-mo-savinho-real-madrid-tu-choi-rodri"
-        },
-        {
-          "title": "ท็อตแน่ม ฮอตสเปอร์เร่งคว้าตัวซาวินโญ่ ขณะที่เรอัล มาดริดปิดประตูใส่โรดรีแล้ว",
-          "url": "https://www.vietnam.vn/th/tottenham-day-manh-thuong-vu-savinho-real-madrid-khep-lai-canh-cua-voi-rodri"
-        }
-      ],
-      "updatedAt": "2026-07-22T18:10:00+07:00"
-    },
-    {
-      "id": "topic-49b66b40f6",
-      "title": "แหล่งโบราณคดีดอนยายทอง",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 100+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#แหล่งโบราณคดีดอนยายทอง"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "Photo Gallery พบอีก! เครื่องประดับทองคำดอนยายทอง คาดเป็นต่างหู-ลูกปัด โครงเดียวกับแหวนจารึกพราหมี",
-          "url": "https://mgronline.com/local/photo-gallery/9690000071355"
-        },
-        {
-          "title": "พบเครื่องทองเพิ่ม ขณะเคลื่อนย้ายโครงกระดูก ดอนยายทอง จ.เพชรบุรี",
-          "url": "https://www.thairath.co.th/scoop/interview/2947624"
-        },
-        {
-          "title": "ธงทอง จันทรางศุ | วนเวียนในความ ‘หลง’",
-          "url": "https://www.matichon.co.th/weekly/column/article_904049"
-        }
-      ],
-      "updatedAt": "2026-07-22T18:10:00+07:00"
+      "updatedAt": "2026-07-22T21:30:00+07:00"
     },
     {
       "id": "2026-22-69-fab0cc3f5e",
@@ -1160,13 +1152,13 @@
       "updatedAt": "2026-07-19T20:55:57+07:00"
     },
     {
-      "id": "topic-c7ca502d02",
-      "title": "วิน เมธวิน เจอดราม่าลงคลิปทำสัญญาณมือขอความช่วยเหลือ ล่าสุดเคลื่อนไหวแล้ว",
+      "id": "topic-1330d06689",
+      "title": "ย้อนไทม์ไลน์ดราม่า เกิดอะไรขึ้นกับ ใหม่ รัชดา-เจนี่ จากพี่น้องที่รักกัน สู่คนที่ไม่แม้แต่จะมองหน้า",
       "sourceType": "news",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "medium",
-      "summary": "ข่าวจาก Google News keyword: ดราม่า / source: Thairath.co.th - วิน เมธวิน เจอดราม่าลงคลิปทำสัญญาณมือขอความช่วยเหลือ ล่าสุดเคลื่อนไหวแล้ว    Thairath.co.th",
+      "summary": "ข่าวจาก Google News keyword: ดราม่า / source: Thairath.co.th - ย้อนไทม์ไลน์ดราม่า เกิดอะไรขึ้นกับ ใหม่ รัชดา-เจนี่ จากพี่น้องที่รักกัน สู่คนที่ไม่แม้แต่จะมองหน้า    Thairath.co.th",
       "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -1174,16 +1166,16 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#วินเมธวินเจอดราม่าลงคลิป"
+        "#ย้อนไทม์ไลน์ดราม่าเกิดอะ"
       ],
       "riskNote": "Medium risk ควรเลี่ยงการพาดพิงบุคคลจริงและใช้คำถามเชิงสร้างสรรค์",
       "sources": [
         {
           "title": "Thairath.co.th",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA2OGRSUm1YX0FGSEJERFZWd3JYWERaSFozTWZOR3EwSG1aUld0ZkFJeDJVQmxnajdlVUQxVE1SOFhvMkdBR0JuR3N5ZWpENzdWelIyZzU3enRGa2RPaUE?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1Bamt2NWFyNlFlX1duY3JqSkxHUG5mQ3k3X0tXVnZkREFtclZUN3FueXlEcVZRazBqQndHb2huUmhvUGZaWkh1clBuZ2Joc0x4SXFKUm9SRjh4TEppaWc?oc=5"
         }
       ],
-      "updatedAt": "2026-07-17T13:50:41+07:00"
+      "updatedAt": "2026-07-21T16:27:11+07:00"
     },
     {
       "id": "mindset-b67a219bbb",
@@ -1231,10 +1223,6 @@
       "riskNote": "Medium risk ควรอ้างอิงแหล่งทางการและเตือนให้ระวังลิงก์ปลอมหรือข้อมูลผิด",
       "sources": [
         {
-          "title": "TrueID",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9mRE9vNTZpOGFoLTcyRTRVckNxajlxNl9xZHVIMVB3MjI3RklVbkI3WTdYUmRaaUtQem5SYUNzRVBRNHJEbEc4T3BEeHVpWlN6MGJaZkJONXA?oc=5"
-        },
-        {
           "title": "TQM Insurance Broker",
           "url": "https://news.google.com/rss/articles/CBMiowNBVV95cUxNRG1rN21TbzFaT2VnVFd5QnR0MEE5a04zRjYtZVdidHpKbGtKNGZQOXh6VkpjY0VYNEU2blE0SjBpMnRXVDNqYjlYQ3RKaGk1bUNOdmIwQXJtYi1yRmI2V0lGRXNSOTZjeDRJVXF1YVZtbHdzYk5Gc0pQZzE0ck01aG1pZlMyRHBpUFVDaDNscVZDOXBzNTVjWWw1TF8xdk04eHA5RzVPamZXQTNDdURxLThtc3hEaHBJaVVaMUJFdnNzbl91U1hjekp1S0psb1ctLWpSdk5idjZ2V2VPMmpRa0hSc0tsQUhFUVFvMF9ySDhBcUFsbDZ4b3JjSGxpLTJfTl92eXB5S0VtNmFLMUdTejJydll0Y1JsQVRwb1BCYi1OdEdVUHZ4dVBqN3IwTXF3bnAyb3RxRlNsOXhmMzRHNXQ5YnI5ckJtQVFXX1RTbHdEM25MM0Y5ak54TmFZcTRzMmExM0VXNjMzTjBfeWlXWGdzRmN3RzJZdkpKQ0U5VHE5YWkwNzREaFE4dVNGT0Y0REhnWU8zSzZkcFlpQ0l5dk5faw?oc=5"
         },
@@ -1249,9 +1237,13 @@
         {
           "title": "Lifestyle Asia",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNX2ZadmgxeVdaeGxuSjBXLVVod01KUDNFNWdyOW01aV9OYVBxa0VuSGFlNjZweWVZdnotUUg2OS1BTXNtRkJicDBuRHZPT1Ezb0dEUnZ4Zk8talhIcW5nU2N3YVB0dUpOQzIwVXZxQmNnWXFmQzFwUXBSZDlKbnhNbzNpajl0WUE0LTltNUtfRdIBlAFBVV95cUxPT2NsVjVxaHQ2YnAwWVBWWVVXU0J3eW40NTAxUUpORFQtd0ptU1JuV2tVQzJOR2lPRHNxV1pheG8yX1JjT0FZUm1wREotb0pndDBLNW5mTUtDMWlGMTBDczZ3dDEwT3NHTjNHaGVfOGhVcVpmOFlELVlNczlndml4SDM4YXdNN0cxX3BvNnlMSUVMS1hu?oc=5"
+        },
+        {
+          "title": "nationtv.tv",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5PdWtfQnlkVUhxeWVGRmhnMDBia1JDTjJYdUtSLXI5QVNmc1dKa29ZcUxlRHk1bzFfVGs2SUtmRU9tanFIRDlqSVFqeUhkclVJMlcxMmtFLUhVdDA?oc=5"
         }
       ],
-      "updatedAt": "2026-07-15T19:39:00+07:00"
+      "updatedAt": "2026-07-16T13:58:11+07:00"
     },
     {
       "id": "mindset-2160981bb5",
