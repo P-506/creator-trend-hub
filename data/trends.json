@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T16:25:46.614129+07:00",
+  "generatedAt": "2026-07-23T18:51:47.934804+07:00",
   "dateRange": "2026-07-16 to 2026-07-23",
   "sourceErrors": [],
   "topics": [
@@ -79,7 +79,7 @@
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9qUWNEOHRWOVUtOUM4U3JsZXprUWhqSHo1eUJHbW0weWk2cWZTVms5T1YwN2NUMjdFY1AxSF9lU3JTejU4T0JTWThxbUhKckVRcVc3VE9DakxBbFA2dlNtei1uaERpTUJvUE5UcVVn?oc=5"
         }
       ],
-      "updatedAt": "2026-07-21T09:03:13+07:00"
+      "updatedAt": "2026-07-23T16:07:59+07:00"
     },
     {
       "id": "east-west-handbag-c9dde81733",
@@ -186,6 +186,32 @@
       "updatedAt": "2026-07-18T15:20:04+07:00"
     },
     {
+      "id": "overdo-5-4470204225",
+      "title": "ก่อนดู Overdo รู้จัก 5 ผลงานที่ทำให้ \"จางหลิงเฮ่อ\" กลายเป็นพระเอกจีนแถวหน้า",
+      "sourceType": "news",
+      "category": "entertainment",
+      "contentPotential": "high",
+      "riskLevel": "low",
+      "summary": "ข่าวจาก Google News keyword: ซีรีส์ / source: L'Officiel Thailand - ก่อนดู Overdo รู้จัก 5 ผลงานที่ทำให้ \"จางหลิงเฮ่อ\" กลายเป็นพระเอกจีนแถวหน้า    L'Officiel Thailand",
+      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
+      "creatorAngle": "เล่า reaction ส่วนตัวต่อกระแส แล้วเปิดคำถามให้คนคุยต่อ",
+      "promptIdea": "กระแสนี้ทุกคนอยู่ทีมไหน?",
+      "hashtags": [
+        "#EntertainmentTH",
+        "#คุยเรื่องบันเทิง",
+        "#กระแสวันนี้",
+        "#ก่อนดูOverdoรู้จัก5ผลงาน"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "L'Officiel Thailand",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1QV9NUzdJT0t3c1VxWGlRTVd6TXpNWVEyWGR2b3BOd0dIVXh6blIwQkJrQ0Q3SlpYejRFZnlZY0k5dHBkbVU1dk1uaW5NSG5HaExybElGLXBwekFuRmJUTVNpenpwQzB4Ykw1LUx0UXF0eGFaUEQxcElVQkg5ZW8?oc=5"
+        }
+      ],
+      "updatedAt": "2026-07-19T10:31:14+07:00"
+    },
+    {
       "id": "like-ep-10-ae045497b5",
       "title": "ข่าว Like สาระ - ลองนาคาเฟ่ Ep.10 พาทัวร์ฟาร์มไก่ใจดี และเกษตรผสมผสานที่จึ้งสุด",
       "sourceType": "news",
@@ -290,13 +316,13 @@
       "updatedAt": "2026-07-17T14:56:24+07:00"
     },
     {
-      "id": "topic-bc6bc4e507",
-      "title": "รีวิวคาเฟ่ลับในอำเภอสร้างคอม ที่พร้อมประโลมใจที่ว้าวุ่น",
+      "id": "arun-community-coffee-60e05ca625",
+      "title": "รีวิวร้าน Arun community coffee คาเฟ่โขงเจียมเปิดใหม่สุดชิค",
       "sourceType": "news",
       "category": "food",
       "contentPotential": "high",
       "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: คาเฟ่ / source: TrueID Food - รีวิวคาเฟ่ลับในอำเภอสร้างคอม ที่พร้อมประโลมใจที่ว้าวุ่น    TrueID Food",
+      "summary": "ข่าวจาก Google News keyword: คาเฟ่ / source: TrueID Food - รีวิวร้าน Arun community coffee คาเฟ่โขงเจียมเปิดใหม่สุดชิค    TrueID Food",
       "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
       "creatorAngle": "ให้ Creator เล่าประสบการณ์ร้าน/เมนูที่อยากลอง แล้วถามคนอื่นว่าคิดเหมือนกันไหม",
       "promptIdea": "เห็นคนพูดถึงเมนูนี้เยอะมาก มีใครลองแล้วบ้าง?",
@@ -304,42 +330,16 @@
         "#FoodTrend",
         "#CafeTH",
         "#รีวิวของกิน",
-        "#รีวิวคาเฟ่ลับในอำเภอสร้า"
+        "#รีวิวร้านAruncommunityco"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
         {
           "title": "TrueID Food",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1KLUFKYTczZE0yU0dwR294cE1pczFlMFhMd2hsR2hSc1VuRGc5TS05dGxKQTVTTjJrWVVNOWRIamQ1VHVEazROWkhVRG5EN0VzcDlpLV93?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9aT0ZxYWNTeEtSNTJwUmJfRVhmbGVrdmpKZER1WXRqUEp5WkQtdTItSFlTcElmazdpUTZicmRFcUF4bzhZbUZqb3Zqb1EwLW9IM0NVeUl3?oc=5"
         }
       ],
-      "updatedAt": "2026-07-23T11:43:41+07:00"
-    },
-    {
-      "id": "topic-433893e4c9",
-      "title": "รู้จัก \"กอมอกซารี\" ภูติจิ๋วในซีรีส์ \"บูรพาอาถรรพ์\" แรงบันดาลใจจากตำนานพื้นบ้านเกาหลี",
-      "sourceType": "news",
-      "category": "entertainment",
-      "contentPotential": "high",
-      "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: ซีรีส์ / source: Thairath.co.th - รู้จัก \"กอมอกซารี\" ภูติจิ๋วในซีรีส์ \"บูรพาอาถรรพ์\" แรงบันดาลใจจากตำนานพื้นบ้านเกาหลี    Thairath.co.th",
-      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
-      "creatorAngle": "เล่า reaction ส่วนตัวต่อกระแส แล้วเปิดคำถามให้คนคุยต่อ",
-      "promptIdea": "กระแสนี้ทุกคนอยู่ทีมไหน?",
-      "hashtags": [
-        "#EntertainmentTH",
-        "#คุยเรื่องบันเทิง",
-        "#กระแสวันนี้",
-        "#รู้จัก\"กอมอกซารี\"ภูติจิ๋"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Thairath.co.th",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE50dVlIR2Z6MXVSU1ZvWi16Rk9lQjc5eDN5Q29KLW1HNVl4emtRWnVBVHBJbmd0WGZiU1ZSZkxobFdOdjhCclZyVGlaczJobUg0Q2UxWHoxUEhCYkJIbkE?oc=5"
-        }
-      ],
-      "updatedAt": "2026-07-20T20:55:47+07:00"
+      "updatedAt": "2026-07-21T14:06:15+07:00"
     },
     {
       "id": "topic-396894bde5",
@@ -576,6 +576,146 @@
       "updatedAt": "2026-07-20T11:29:41+07:00"
     },
     {
+      "id": "aladji-bamba-35f007ee7e",
+      "title": "aladji bamba",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 100+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#aladjibamba"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "Monaco : Aladji Bamba va signer en Angleterre pour plus de 40M€",
+          "url": "https://www.footmercato.net/a6768498712682882926-monaco-aladji-bamba-va-signer-en-angleterre-pour-plus-de-40meur"
+        },
+        {
+          "title": "Mercato : Bamba vers Newcastle",
+          "url": "https://asm-supporters.fr/actualites/66556-mercato-bamba-vers-newcastle"
+        },
+        {
+          "title": "En crise, Monaco vend son crack pour 40 ME",
+          "url": "https://www.foot01.com/monaco/en-crise-monaco-vend-son-crack-pour-40-me"
+        }
+      ],
+      "updatedAt": "2026-07-23T18:00:00+07:00"
+    },
+    {
+      "id": "bitkub-3439b34d06",
+      "title": "bitkub",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 100+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#bitkub"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "ก.ล.ต. กล่าวโทษ Bitkub ฟัน 2 อดีตกรรมการ ปมรายงานเท็จเหตุถูกแฮก 1,700 ล้านบาท",
+          "url": "https://www.thairath.co.th/money/investment/digital_assets/2948238"
+        },
+        {
+          "title": "ก.ล.ต. ฟัน Bitkub ปกปิดถูกแฮก 1.7 พันล้าน พร้อมกล่าวโทษอาญา 2 อดีตกรรมการ",
+          "url": "https://www.matichon.co.th/economy/news_5818916"
+        },
+        {
+          "title": "ก.ล.ต. กล่าวโทษ Bitkub พร้อมอดีตบอร์ด 2 ราย ปมแจ้งข้อมูลเท็จ คดีโจรกรรมคริปโต 1.7 พันลบ.",
+          "url": "https://www.kaohoon.com/news/local/849059"
+        }
+      ],
+      "updatedAt": "2026-07-23T18:20:00+07:00"
+    },
+    {
+      "id": "vietjet-b0c33c77b0",
+      "title": "vietjet",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#vietjet"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        }
+      ],
+      "updatedAt": "2026-07-23T18:10:00+07:00"
+    },
+    {
+      "id": "zim-vs-ind-35aa97712d",
+      "title": "zim vs ind",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 500+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#zimvsind"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "Zimbabwe look to expose vulnerable India searching for winning formula",
+          "url": "https://www.cricinfo.com/series/india-in-zimbabwe-2026-1530058/zimbabwe-vs-india-1st-t20i-1530060/match-preview"
+        },
+        {
+          "title": "Chevrons take on the World Champions",
+          "url": "https://www.heraldonline.co.zw/chevrons-take-on-the-world-champions/"
+        },
+        {
+          "title": "ZIM vs IND: India’s Harare nightmare returns! failed to chase 116, another upset on the cards?",
+          "url": "https://www.cricketcountry.com/news/zim-vs-ind-india-s-harare-nightmare-returns-failed-to-chase-116-another-upset-on-the-cards-1356532/"
+        }
+      ],
+      "updatedAt": "2026-07-23T17:30:00+07:00"
+    },
+    {
       "id": "topic-f6b05284e7",
       "title": "ความสัมพันธ์สามเส้า: ยิ่งแข็งกร้าวต่อกัมพูชายิ่งต้องพึ่งพาจีน",
       "sourceType": "news",
@@ -602,8 +742,8 @@
       "updatedAt": "2026-07-20T16:53:57+07:00"
     },
     {
-      "id": "topic-3510616f8a",
-      "title": "ดวงชะตา",
+      "id": "topic-3812503a7b",
+      "title": "ณเดชน์ คูกิมิยะ",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
@@ -616,7 +756,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#ดวงชะตา"
+        "#ณเดชน์คูกิมิยะ"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -625,19 +765,19 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "ดวงเศรษฐีจับ 6 ราศี เตรียมรับเงินก้อนใหญ่ โชคลาภวิ่งเข้าหา | News In Thailand",
-          "url": "https://today.line.me/th/v3/article/KwVR5Jg"
+          "title": "มดขึ้นเครื่องบิน! \"ณเดชน์-ญาญ่า\" ลัดฟ้าเริ่มทริปฮันนีมูน ลุ้นหนักปลายทางไหนสวีตสุด",
+          "url": "https://www.sanook.com/news/9900342/"
         },
         {
-          "title": "ดาวอาทิตย์มหาจักร 12 ราศีชีวิตพลิกเป็นมหาเศรษฐีใน 30 วัน เช็กเลย!",
-          "url": "https://www.thebangkokinsight.com/news/lifestyle/horoscope/1677160/"
+          "title": "“คิมเบอร์รี่” เผยโมเมนต์แห่งความสุข “ณเดชน์-ญาญ่า” ตอบปมดราม่า ไม่คิดว่าจะเกิดขึ้นในงานแต่ง!",
+          "url": "https://today.line.me/th/v3/article/qoREaKx"
         },
         {
-          "title": "‘หมอเค้กดลบันดาล’ เผย 6 ราศีจะรวย!! การเงินเปิดทาง เงินก้อนใหญ่กำลังมา!",
-          "url": "https://today.line.me/th/v3/article/NvzD5Wm?view=topic&referral=horomoney"
+          "title": "ลิซ่า ร่วมยินดีงานแต่ง ณเดชน์-ญาญ่า แต่ชอตนี้ทำชาวเน็ตจินตนาการไปไกล",
+          "url": "https://women.kapook.com/view302637.html"
         }
       ],
-      "updatedAt": "2026-07-23T15:30:00+07:00"
+      "updatedAt": "2026-07-23T17:50:00+07:00"
     },
     {
       "id": "3-0-sea-v-cup-2-b282d5e329",
@@ -666,6 +806,44 @@
       "updatedAt": "2026-07-22T17:20:55+07:00"
     },
     {
+      "id": "topic-7984724367",
+      "title": "บิตคอยน์",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 100+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#บิตคอยน์"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "เหมืองบิตคอยน์ 2 พันเครื่อง โยงทุนจีนเทา-จนท.รัฐ ใช้ไฟเดือน 22 ล้าน จ่ายจริงหมื่นเดียว",
+          "url": "https://www.matichon.co.th/local/news_5817868"
+        },
+        {
+          "title": "รัฐบาลลุยทลายเหมืองขุดบิตคอยน์เถื่อน สั่ง DSI ยึดทรัพย์-สาวถึงผู้หนุนหลัง คุมเข้มนำเข้าเครื่องขุด",
+          "url": "https://thestandard.co/bitcoin-mining-crackdown-dsi-seize-assets/"
+        },
+        {
+          "title": "นายกฯ นำแถลงเปิดปฏิบัติการ Silent Volt บุกค้น 7 จุด ทลายเครือข่ายลักลอบใช้ไฟหลวงขุดคริปโต",
+          "url": "https://www.thairath.co.th/news/politic/2948106"
+        }
+      ],
+      "updatedAt": "2026-07-23T18:30:00+07:00"
+    },
+    {
       "id": "3-sea-v-cup-2026-1-92768083fa",
       "title": "ผลวอลเลย์บอลสด วอลเลย์บอลชายไทย แซงชนะเวียดนาม คว้าอันดับ 3 SEA V Cup 2026 สนาม 1",
       "sourceType": "news",
@@ -692,84 +870,8 @@
       "updatedAt": "2026-07-19T17:10:05+07:00"
     },
     {
-      "id": "topic-ad51405e84",
-      "title": "มหาวิทยาลัย แม่ โจ้",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 5000+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#มหาวิทยาลัยแม่โจ้"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "อาลัย น้องออม นักศึกษาปี 4 สาขารัฐประศาสนศาสตร์ ม.แม่โจ้ เสียชีวิต",
-          "url": "https://www.khaosod.co.th/around-thailand/news_10334418"
-        },
-        {
-          "title": "อาลัย น้องออม นักศึกษา ปี 4 ม.แม่โจ้ เสียชีวิต",
-          "url": "https://today.line.me/th/v3/article/PG5wRV7"
-        },
-        {
-          "title": "เศร้า ม.ดัง โพสต์อาลัยสุดซึ้ง น้องออม นักศึกษาปี 4 จากไปกะทันหัน",
-          "url": "https://www.siamnews.com/news/social/49500"
-        }
-      ],
-      "updatedAt": "2026-07-23T13:30:00+07:00"
-    },
-    {
-      "id": "topic-7c382604fe",
-      "title": "รถถัง จิตรเมืองนนท์",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 500+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#รถถังจิตรเมืองนนท์"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "สรุปแถลงข่าว \"รถถัง\" จรดปากกาเซ็นสัญญาฉบับใหม่ ONE ร่วมมือ \"จิตรเมืองนนท์\" ดันโปรเจกต์ยักษ์ระดับโลก",
-          "url": "https://www.siamsport.co.th/other-sports/boxing/107017/"
-        },
-        {
-          "title": "ONE Championship : รถถัง จิตรเมืองนนท์ ลงนามเซ็นสัญญาฉบับใหม่กับ ONE",
-          "url": "https://www.ch7.com/one-championship/newsc/886836"
-        },
-        {
-          "title": "\"รถถัง\" จูบปาก ONE เซ็นสัญญาคัมแบ็คขึ้นสังเวียน เป้าหมายทวงคืนความยิ่งใหญ่",
-          "url": "https://mgronline.com/sport/detail/9690000072145"
-        }
-      ],
-      "updatedAt": "2026-07-23T14:10:00+07:00"
-    },
-    {
-      "id": "topic-bb3eb0883c",
-      "title": "รัฐจ่าย",
+      "id": "topic-a304e1eaa2",
+      "title": "รัฐสวัสดิการ",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
@@ -782,7 +884,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#รัฐจ่าย"
+        "#รัฐสวัสดิการ"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -791,61 +893,23 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "ข่าวเงินเพิ่ม 700 รายเดิมผ่านเกณฑ์ เข้าบัตรสวัสดิการฯ 1 ส.ค.นี้",
-          "url": "https://news.ch7.com/detail/886784"
+          "title": "มองเหตุผลค้าน ‘ร่วมจ่าย-แก้ พ.ร.บ.บัตรทอง’ ย้ำ รัฐต้องบริหารจัดการรัฐสวัสดิการ ไม่ใช่ลดทอน",
+          "url": "https://theactive.thaipbs.or.th/news/public-health-20260723"
         },
         {
-          "title": "ช่องทางลงทะเบียนรับสิทธิส่วนลด “ค่าไฟฟ้า” บัตรสวัสดิการแห่งรัฐ 2569",
-          "url": "https://www.thairath.co.th/news/society/2947438"
+          "title": "ดันแก้ไข \"สิทธิบัตรทอง\" ร่วมจ่าย ลดหนี้โรงพยาบาล หรือผลักภาระประชาชน",
+          "url": "https://www.thairath.co.th/scoop/theissue/2948225"
         },
         {
-          "title": "เริ่ม 20 ก.ค.ผู้ได้สิทธิบัตรสวัสดิการแห่งรัฐ ลงทะเบียนรับสิทธิส่วนลด \"ค่าไฟฟ้า\"",
-          "url": "https://www.thaipbs.or.th/news/content/508501"
+          "title": "คอมเมนต์เดือด รัฐเล็งแก้ พ.ร.บ.บัตรทอง สู่ระบบ 'ร่วมจ่าย' เพจแพทย์ชนบทชี้แก้ผิดจุด ระวังคนจนนอนรอความตาย",
+          "url": "https://today.line.me/th/v3/article/DRmRQpw"
         }
       ],
-      "updatedAt": "2026-07-23T15:20:00+07:00"
+      "updatedAt": "2026-07-23T18:20:00+07:00"
     },
     {
-      "id": "topic-b119685c2f",
-      "title": "อากาศร้อนจัด",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 100+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#อากาศร้อนจัด"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "มีการประกาศเตือนถึงความเสี่ยงสูงต่ออุทกภัยฉับพลันและดินถล่มในภาคเหนือ เมื่อวันที่ 23 กรกฎาคม 2569",
-          "url": "https://www.vietnam.vn/th/canh-bao-nguy-co-cao-xay-ra-lu-quet-va-sat-lo-dat-tai-khu-vuc-bac-bo-ngay-23-07-2026"
-        },
-        {
-          "title": "ข่าวน้ำท่วมฉับพลันในเวียดนาม ตาย 4 คน สูญหาย 4 คน",
-          "url": "https://news.ch7.com/detail/885966"
-        },
-        {
-          "title": "ฝนถล่มต่อเนื่องทำน้ำท่วมซัดหมู่บ้านในเวียดนาม เจ้าหน้าที่เร่งช่วยคนติดค้าง",
-          "url": "https://mgronline.com/indochina/detail/9690000070108"
-        }
-      ],
-      "updatedAt": "2026-07-23T14:50:00+07:00"
-    },
-    {
-      "id": "topic-6aa5a00960",
-      "title": "อินฟลูอยุธยา",
+      "id": "topic-3d6366ad4a",
+      "title": "วอลเลย์บอลชายทีมชาติไทย",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
@@ -858,7 +922,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#อินฟลูอยุธยา"
+        "#วอลเลย์บอลชายทีมชาติไทย"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -867,19 +931,57 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "ผัวตำรวจอ้างติดภารกิจระดับชาติ ต้องอยู่หน่วยนับเดือน เมียจ้างนักสืบ พบอยู่กับอินฟลูสาว",
-          "url": "https://www.khaosod.co.th/special-stories/news_10334510"
+          "title": "วอลเลย์ชายไทยคัมแบ็กแซงเวียดนาม 3-2 เซต คว้าแชมป์กลุ่ม SEA V Cup 2026",
+          "url": "https://www.siamsport.co.th/other-sports/volleyball/107032/"
         },
         {
-          "title": "เมียหลวงสุดทนจ้างนักสืบตามจับผัวตำรวจ นปพ. ซุกกิ๊กอินฟลูฯดังอยุธยา",
-          "url": "https://www.amarintv.com/news/social/552644"
+          "title": "ผลวอลเลย์บอลสด วอลเลย์บอลชายไทย ชนะ เมียนมา สบาย SEA V Cup 2026 สนาม 2 นัด 1",
+          "url": "https://www.thairath.co.th/sport/worldsport/volleyball/2948007"
         },
         {
-          "title": "เมียหลวงแฉผัวตำรวจอ้างแต่เฝ้าหน่วย จับโป๊ะแอบเช่าคอนโดนอนกกสาวอินฟลูฯ ดัง",
-          "url": "https://www.dailynews.co.th/news/6049511/"
+          "title": "\"นักตบหนุ่มไทย\" ถล่ม \"เมียนมา\" 3-0 ประเดิมชัย \"SEA V Cup 2026\" สนาม 2 ที่อินโดนีเซีย",
+          "url": "https://www.dailynews.co.th/news/6048862/"
         }
       ],
-      "updatedAt": "2026-07-23T14:10:00+07:00"
+      "updatedAt": "2026-07-23T18:10:00+07:00"
+    },
+    {
+      "id": "topic-91345de73c",
+      "title": "สโมสรฟุตบอลเลสเตอร์ ซิตี้",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#สโมสรฟุตบอลเลสเตอร์ซิตี้"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "สื่อนอกตีข่าว คิงเพาเวอร์ เตรียมขาย เลสเตอร์ซิตี้ ปิดตำนานจิ้งจอกสยาม หลังบริหารได้ 15 ปี",
+          "url": "https://www.matichon.co.th/sport/news_5818229"
+        },
+        {
+          "title": "\"คิง เพาเวอร์\" ศึกษาความเป็นไปได้ขาย เลสเตอร์ ซิตี้ หลังถือครองสโมสรกว่า 15 ปี",
+          "url": "https://thestandard.co/king-power-leicester-city-sale/"
+        },
+        {
+          "title": "ด่วน สื่อดังเผย \"เลสเตอร์\" เตรียมขายทีม ประเมินราคาเรียบร้อย มีกลุ่มแรกรอซื้อแล้ว",
+          "url": "https://www.thairath.co.th/sport/eurofootball/premierleague/2948206"
+        }
+      ],
+      "updatedAt": "2026-07-23T17:50:00+07:00"
     },
     {
       "id": "sea-v-cup-1f82d128d4",
@@ -908,89 +1010,13 @@
       "updatedAt": "2026-07-18T17:58:53+07:00"
     },
     {
-      "id": "topic-6a2499b1f6",
-      "title": "เงิน บำนาญ",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 1000+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#เงินบำนาญ"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "ข่าวกรมบัญชีกลางตอบชัด เงินบำนาญข้าราชการ จะถูกตัดหรือไม่ ?",
-          "url": "https://news.ch7.com/detail/886772"
-        },
-        {
-          "title": "ปกรณ์ แช่แข็ง ‘อัตราข้าราชการ’ ปี’70 ยุบ-เลิกตำแหน่ง-เออร์ลี่รีไทร์",
-          "url": "https://www.prachachat.net/politics/news-2040795"
-        },
-        {
-          "title": "กรมบัญชีกลางย้ำชัด! ข้าราชการเกษียณไม่ถูกตัดเงินบำนาญ สิทธิอยู่ครบตลอดชีวิต",
-          "url": "https://mgronline.com/onlinesection/detail/9690000072191"
-        }
-      ],
-      "updatedAt": "2026-07-23T14:40:00+07:00"
-    },
-    {
-      "id": "topic-ec0fd9f674",
-      "title": "เรด้าฝน",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#เรด้าฝน"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "เย็นที่ฝนตกหนัก! เช็กจราจร กับ เจาะ จุด แจม : 22 กรกฎาคม 2569 | สวพ.FM91",
-          "url": "https://today.line.me/th/v3/article/wJae5mG"
-        },
-        {
-          "title": "มาตามนัด! ระวัง ‘ฝนถล่ม-ลมกระโชกแรง’ หลังเลิกงาน เตือนระวังรถติดหนัก",
-          "url": "https://www.dailynews.co.th/news/6050497/"
-        },
-        {
-          "title": "ฝนกลุ่มใหญ่เข้ม \"จ่อถล่มกรุง\" เตรียมรับมือ ล่าสุด พาดจังหวัดสมุทรสาคร นครชัยศรี เคลื่อนที่ไปทางตะวันออก Cr.เรดาร์ สำนักการระบายน้ำ กทม.",
-          "url": "https://www.facebook.com/fm91trafficpro/posts/%E0%B8%9D%E0%B8%99%E0%B8%81%E0%B8%A5%E0%B8%B8%E0%B9%88%E0%B8%A1%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%A1-%E0%B8%88%E0%B9%88%E0%B8%AD%E0%B8%96%E0%B8%A5%E0%B9%88%E0%B8%A1%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87-%E0%B9%80%E0%B8%95%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%A1%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%A1%E0%B8%B7%E0%B8%AD-%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%AA%E0%B8%B8%E0%B8%94-%E0%B8%9E%E0%B8%B2%E0%B8%94%E0%B8%88%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%97%E0%B8%A3%E0%B8%AA%E0%B8%B2%E0%B8%84%E0%B8%A3-%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%8A%E0%B8%B1%E0%B8%A2%E0%B8%A8%E0%B8%A3%E0%B8%B5-%E0%B9%80%E0%B8%84/1501272432032364/"
-        }
-      ],
-      "updatedAt": "2026-07-23T14:50:00+07:00"
-    },
-    {
       "id": "topic-49b66b40f6",
       "title": "แหล่งโบราณคดีดอนยายทอง",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 500+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 100+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -1007,16 +1033,16 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
+          "title": "พบเครื่องทองเพิ่ม ขณะเคลื่อนย้ายโครงกระดูก ดอนยายทอง จ.เพชรบุรี",
+          "url": "https://www.thairath.co.th/scoop/interview/2947624"
+        },
+        {
           "title": "Photo Gallery พบอีก! เครื่องประดับทองคำดอนยายทอง คาดเป็นต่างหู-ลูกปัด โครงเดียวกับแหวนจารึกพราหมี",
           "url": "https://mgronline.com/local/photo-gallery/9690000071355"
         },
         {
           "title": "ธงทอง จันทรางศุ | วนเวียนในความ ‘หลง’",
           "url": "https://www.matichon.co.th/weekly/column/article_904049"
-        },
-        {
-          "title": "เตรียมยกแท่นดิน หนัก 1 ตัน ย้ายกระดูกมนุษย์โบราณ 2 พันปี แหล่งโบราณคดีดอนยายทอง | Khaosod",
-          "url": "https://today.line.me/th/v3/article/3N5Gryy"
         }
       ],
       "updatedAt": "2026-07-23T15:40:00+07:00"
@@ -1046,44 +1072,6 @@
         }
       ],
       "updatedAt": "2026-07-22T09:39:00+07:00"
-    },
-    {
-      "id": "topic-505a0c032e",
-      "title": "โสภณ ซารัมย์",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 100+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#โสภณซารัมย์"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "ป.ป.ช. เปิดกรุท่านประธาน “โสภณ ซารัมย์” ทรัพย์สินเกิน 55 ล้านบาท",
-          "url": "https://www.thairath.co.th/news/politic/2948013"
-        },
-        {
-          "title": "470 ล.! ทรัพย์สิน 'ภัทรพงศ์ ภัทรประสิทธิ์' พ้น สส. ภรรยาสะสมงาช้าง 20 ชิ้น",
-          "url": "https://www.isranews.org/article/isranews-news/147897-isra-ed-7.html"
-        },
-        {
-          "title": "ทรัพย์สิน 55.8 ล. 'โสภณ ซารัมย์' เข้ารับตำแหน่ง สส. เทียบตอนพ้นเพิ่มขึ้น 7 แสนเศษ",
-          "url": "https://www.isranews.org/article/isranews-news/147974-isra-658.html"
-        }
-      ],
-      "updatedAt": "2026-07-23T15:20:00+07:00"
     },
     {
       "id": "6th-sea-v-cup-2026-1-15-19-2569-4th-5-038592cfe0",
@@ -1138,30 +1126,30 @@
       "updatedAt": "2026-07-20T00:26:00+07:00"
     },
     {
-      "id": "topic-6343b4aafe",
-      "title": "ปมประวัติศาสตร์ถึงดราม่าใบแดง ย้อนรอยอังกฤษ-อาร์เจนฯ คู่ปรับข้ามทวีปในฟุตบอลโลก",
+      "id": "parameter-339751d4df",
+      "title": "สรุปดราม่า PARAMETER “กฤษณ์” แจงทุกปม เจลาโต้แพง-กฎร้าน พร้อมขอโทษสังคม",
       "sourceType": "news",
-      "category": "social_topic",
-      "contentPotential": "medium",
+      "category": "food",
+      "contentPotential": "high",
       "riskLevel": "medium",
-      "summary": "ข่าวจาก Google News keyword: ดราม่า / source: Marketeer Online - ปมประวัติศาสตร์ถึงดราม่าใบแดง ย้อนรอยอังกฤษ-อาร์เจนฯ คู่ปรับข้ามทวีปในฟุตบอลโลก    Marketeer Online",
-      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "summary": "ข่าวจาก Google News keyword: ดราม่า / source: สยามรัฐ - สรุปดราม่า PARAMETER “กฤษณ์” แจงทุกปม เจลาโต้แพง-กฎร้าน พร้อมขอโทษสังคม    สยามรัฐ",
+      "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
+      "creatorAngle": "ให้ Creator เล่าประสบการณ์ร้าน/เมนูที่อยากลอง แล้วถามคนอื่นว่าคิดเหมือนกันไหม",
+      "promptIdea": "เห็นคนพูดถึงเมนูนี้เยอะมาก มีใครลองแล้วบ้าง?",
       "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#ปมประวัติศาสตร์ถึงดราม่า"
+        "#FoodTrend",
+        "#CafeTH",
+        "#รีวิวของกิน",
+        "#สรุปดราม่าPARAMETER“กฤษณ"
       ],
       "riskNote": "Medium risk ควรเลี่ยงการพาดพิงบุคคลจริงและใช้คำถามเชิงสร้างสรรค์",
       "sources": [
         {
-          "title": "Marketeer Online",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBNdWRhblpOZkw5a0swZEZuUzNSQUZYVVJNN2NfelVFSUQ5ai1hT0IyYkc3dXpFaWZyR0p6eWx5QnJ6cEN5VU1hd3lwLTI4ZHdNSkstTw?oc=5"
+          "title": "สยามรัฐ",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB0Rk1iRGdISmFhZVhERUJOYzNQaEtWZllqOGY1ZmROMEJKUDdUUmRPRjdIckdTTWNuWHZvX29LMEdSQjg0NDBsVzU2U0ZjVmotNHZmNg?oc=5"
         }
       ],
-      "updatedAt": "2026-07-20T14:00:00+07:00"
+      "updatedAt": "2026-07-19T20:55:57+07:00"
     },
     {
       "id": "topic-1330d06689",
@@ -1258,13 +1246,13 @@
       "updatedAt": "2026-07-17T21:23:59+07:00"
     },
     {
-      "id": "topic-99eda942f1",
-      "title": "📣 อัปเดตดราม่าล่าสุด! \"แอลลี่\" เปิดใจสาเหตุชวดเป็นหมอฟันเพราะ \"แพ้ถุงมือ\" พร้อมขอโทษสังคมที่พูดตรงไป ใดๆ วันนี้ ปูเสื่อรอเลย! เพราะเธอเตรียมออก \"โหนกระแส\" . ล่าสุดคุณห...",
+      "id": "mindset-2160981bb5",
+      "title": "‘กฤษณ์ ศรีภูมิเศรษฐ์’ เจอดราม่าถล่มปมไอศกรีมแพง ลั่น Mindset คนไทยไม่พัฒนา-อยู่แต่ในกะลา",
       "sourceType": "news",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "medium",
-      "summary": "ข่าวจาก Google News keyword: ดราม่า / source: facebook.com - 📣 อัปเดตดราม่าล่าสุด! \"แอลลี่\" เปิดใจสาเหตุชวดเป็นหมอฟันเพราะ \"แพ้ถุงมือ\" พร้อมขอโทษสังคมที่พูดตรงไป ใดๆ วันนี้ ปูเสื่อรอเลย! เพราะเธอเตรียมออก \"โหนกระแส\" . ล่าสุดคุณหนูแอลลี่ได้เด",
+      "summary": "ข่าวจาก Google News keyword: ดราม่า / source: เดลินิวส์ - ‘กฤษณ์ ศรีภูมิเศรษฐ์’ เจอดราม่าถล่มปมไอศกรีมแพง ลั่น Mindset คนไทยไม่พัฒนา-อยู่แต่ในกะลา    เดลินิวส์",
       "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -1272,16 +1260,16 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#📣อัปเดตดราม่าล่าสุด!\"แอล"
+        "#‘กฤษณ์ศรีภูมิเศรษฐ์’เจอด"
       ],
       "riskNote": "Medium risk ควรเลี่ยงการพาดพิงบุคคลจริงและใช้คำถามเชิงสร้างสรรค์",
       "sources": [
         {
-          "title": "facebook.com",
-          "url": "https://news.google.com/rss/articles/CBMi9gdBVV95cUxNM19HX01EaW5TUnZ6TEUyeXVOV3JDQWZhM2R1SWlCcFhPMHp5d0FMZ2U0OXIzRkVhRG94TEdJcjktR1BrRFU1Z1dWZURkT2xCQ3YyaW1PalBiY2x0WElzZmFybXFabHFTdWpJcDVkTlpsTTZDSFVLTzdKSUZqa0JTM25kTV91MnVxU3FnWmJwQ0ZtWDh0MGJYZFd4bmg2VjZFVzdDdVBrMjh5VTRvTnJTcWZybktWSWVoSGlXZXpBWl9nVmhkMEN6cFpvZ1Qta1d5NE1ad0NxR3ZuM19MUmJFZ2NHVURQWF9ZMi1qMnVpQ0QzczZOeFh3SFZQUjF1M2FOdkptdFJJQUlaRHYyRHpKUWNHeDV5XzJQOWRtcmQzRllYa2Zpd2pWVUJVa2pBS3RHSGF5TVEyOFpKbHdZZXhiM2V2cTV1YU1rZkI5TkoxSnlnTTd4dzZlTXN0XzhzTXdXTFhGdVlqUlZHMVptVjZId3RzTHV3UjB3amRqZ2dtNDlseXlaWWEtcGhXbFJsOTRMcjF1dTBtcm1KM3R0Um5qN1FSclk2WTFzNTFyNEJTZjNSdHBFR1JROEQ4UHAyMk9RM0NEbW52a1Y5Tzh5M2lLSmM2WUJTVV9YZ2hNdzhjWmppc3JZOFVXblhRRmtITk1SOGVtVGQwdDhuMHpUVTFIZGVWZFFVQWxzTkZ1YjJlRjQ0SGNNWG50dXlGTnFwdUw2ZFNNMHFJaGtpM1NlVDZvRy1ZTjIzaDZBR0k2OFJWMlZ2V0EyMXJTQVJZd3Z6dmV3cUFPYUQxWUxUUHFCc3ZieElVQlk5dWZNSFoyNkRGaV9BT0MyU0tjOFREYlpGN2RZa0hfcFRMRW9UUGFFSGpfRy1nTjlPbWxlbTNaVlc0TTVCOTRrel9zeF85Z2R6eGE4RV9STXFvSDBMOGdad0loRC1vWkhjTmhjdDhrTWFlTDVleE81U2hCdHMzQUZVSnFQME9OUXU2Z0ZNYTdoQ2VlQ0VkeUxGWnQ5Z3FkRUJYR0hFWWtEZXhGcGV1bXlTeGJBUXVwajRHZUlPY1pkaTM2WmNTbktBcEloYzgtUGpvaTVsVFl2VVpvOW1NU3RDbkxKd2hMYl8wRVdWNnZ1ZGNsZXJlbVVQbTFsZ3dkY3pHeFRsd2tjYmZnSVdrT2NSTGpyM0FQYTkzTllJaWtacGNRWlotVlFmUjlQMnpuNzZITl9TSG1xMnJqNUUwRnNHUTJiMDl4aU5BaVM3X3VTWTN3VGoyX3dNTXd4cWJwR3Q3UUlqeWtwS2FRb0w3ckpqYUM0SUhEVFAyY1lBMFEzSFJTWHN1Umx6NGlUN1RRbmFWbkVRMnMwRFE?oc=5"
+          "title": "เดลินิวส์",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9xMlkwRWFHSzlXVG10aE56UmlVXzlxYjZ1SDdZSnNsYk1pQVZJWlV4cGI0TDkzV3FMbmtMYVpId3BZVW9wS19STm94N0drbkdPU2kw?oc=5"
         }
       ],
-      "updatedAt": "2026-07-23T10:04:48+07:00"
+      "updatedAt": "2026-07-17T18:04:00+07:00"
     },
     {
       "id": "politics-c37d7d76ee",
