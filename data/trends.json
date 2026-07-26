@@ -1,7 +1,9 @@
 {
-  "generatedAt": "2026-07-26T16:15:36.386554+07:00",
+  "generatedAt": "2026-07-26T18:21:26.004178+07:00",
   "dateRange": "2026-07-19 to 2026-07-26",
-  "sourceErrors": [],
+  "sourceErrors": [
+    "google_news: HTTP Error 503: Service Unavailable"
+  ],
   "topics": [
     {
       "id": "5-18-5-a1108cffc8",
@@ -322,7 +324,7 @@
       "category": "food",
       "contentPotential": "high",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 500+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 1000+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "ให้ Creator เล่าประสบการณ์ร้าน/เมนูที่อยากลอง แล้วถามคนอื่นว่าคิดเหมือนกันไหม",
       "promptIdea": "เห็นคนพูดถึงเมนูนี้เยอะมาก มีใครลองแล้วบ้าง?",
@@ -347,8 +349,8 @@
           "url": "https://www.dailynews.co.th/news/6057141/"
         },
         {
-          "title": "มาแล้ว เลขเด็ดปฏิทินจีน 1 ส.ค.2569 ซูมเลขปฏิทินครอบครัวข่าว 3 เลขเน้นๆ 2 ตัว 3 ตัว",
-          "url": "https://www.khaosod.co.th/lottery/news_10337060"
+          "title": "เปิดสถิติหวย 1 ส.ค. ย้อนหลัง 20 ปี ตรวจหวย ส่องเลขเบิ้ล เลขเด็ดงวดนี้ที่นี่! | The Bangkok Insight",
+          "url": "https://today.line.me/th/v3/article/gzRawrX"
         }
       ],
       "updatedAt": "2026-07-26T15:40:00+07:00"
@@ -510,13 +512,13 @@
       "updatedAt": "2026-07-25T08:13:28+07:00"
     },
     {
-      "id": "konami-4e3b4d894f",
-      "title": "konami",
+      "id": "eva-mendes-feb37bae53",
+      "title": "eva mendes",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 2000+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -524,7 +526,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#konami"
+        "#evamendes"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -533,19 +535,19 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "Castlevania Belmont's Curse could just be a gaming classic whipped back into shape",
-          "url": "https://www.eurogamer.net/castlevania-belmonts-curse-preview"
+          "title": "Eva Mendes Counting on Ryan Gosling to ‘Pick Up the Slack at Home’ as She Pursues an Acting Comeback",
+          "url": "https://www.yahoo.com/entertainment/celebrity/articles/eva-mendes-counting-ryan-gosling-113044228.html"
         },
         {
-          "title": "Castlevania: Belmont's Curse – How KONAMI and Evil Empire Reimagined Castlevania's Return",
-          "url": "https://news.xbox.com/en-us/2026/07/24/castlevania-belmonts-curse-xbox/"
+          "title": "Eva Mendes Reportedly ‘Leaning On’ Husband Ryan Gosling To ‘Pick Up The Slack At Home’ As She Eyes Major Acting Return",
+          "url": "https://uk.news.yahoo.com/eva-mendes-reportedly-leaning-husband-221000337.html"
         },
         {
-          "title": "Castlevania: Belmont's Curse Will Run At 30fps On Switch",
-          "url": "https://www.nintendolife.com/news/2026/07/castlevania-belmonts-curse-will-run-at-30fps-on-switch"
+          "title": "All the Marvel Studios News from Hall H at San Diego Comic-Con 2026",
+          "url": "https://www.marvel.com/articles/live-events/marvel-studios-san-diego-comic-con-2026-hall-h-recap"
         }
       ],
-      "updatedAt": "2026-07-26T11:50:00+07:00"
+      "updatedAt": "2026-07-26T15:20:00+07:00"
     },
     {
       "id": "stuart-big-bang-theory-af1ce74bb0",
@@ -571,28 +573,28 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
+          "title": "Stuart Fails To Save The Universe Team Breaks Down [Spoiler]'s Surprise Return And Grim Fate In Episode 1 Of The Big Bang Theory Spin-Off",
+          "url": "https://www.tvline.com/2222082/stuart-fails-to-save-the-universe-raj-death-kunal-nayyar-episode-1-explained/"
+        },
+        {
           "title": "‘Stuart Fails To Save The Universe’ Creators & Stars On Premiere’s Shocking OG Death & Its Aftermath",
           "url": "https://deadline.com/2026/07/big-bang-theory-spinoff-stuart-creators-premiere-raj-death-1236979878/"
         },
         {
-          "title": "‘Stuart Fails to Save the Universe’ Review: Exactly What ‘Big Bang Theory’ Fans Deserve",
-          "url": "https://www.thewrap.com/creative-content/reviews/stuart-fails-to-save-the-universe-review-big-bang-theory-spinoff-hbo-max/"
-        },
-        {
-          "title": "'Big Bang Theory' stars reveal what's next for Stuart and Denise in spinoff",
-          "url": "https://www.aol.com/articles/big-bang-theory-stars-reveal-140044000.html"
+          "title": "‘Stuart Fails to Save the Universe’ Review: HBO Max’s Sour ‘Big Bang Theory’ Spinoff Isn’t a Dimension Worth Visiting",
+          "url": "https://www.hollywoodreporter.com/tv/tv-reviews/stuart-fails-to-save-the-universe-review-hbo-max-1236648856/"
         }
       ],
       "updatedAt": "2026-07-26T12:00:00+07:00"
     },
     {
-      "id": "topic-ca2280d081",
-      "title": "ข้าราชการไทย",
+      "id": "zim-vs-ind-35aa97712d",
+      "title": "zim vs ind",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 5000+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 500+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -600,7 +602,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#ข้าราชการไทย"
+        "#zimvsind"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -609,19 +611,19 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "'ปกรณ์' จ่อชง ครม.คุมอัตราข้าราชการ ลุยเออรี่รีไทร์ ปูทางปรับเงินเดือน",
-          "url": "https://www.thaipost.net/hi-light/1038470/"
+          "title": "ZIM vs IND Cricket Scorecard, 2nd T20I at Harare, July 25, 2026",
+          "url": "https://www.cricinfo.com/series/india-in-zimbabwe-2026-1530058/zimbabwe-vs-india-2nd-t20i-1530061/full-scorecard"
         },
         {
-          "title": "ปกรณ์ย้ำต้องเดินหน้าปฏิรูปภาครัฐ เล็งยุบหน่วยงานซ้ำซ้อน ประเดิม ก.ย. นี้",
-          "url": "https://thestandard.co/pakorn-government-reform-dissolve-agencies/"
+          "title": "India Secures 90-Run Victory Over Zimbabwe in Series Finale",
+          "url": "https://www.indianewsnetwork.com/en/india-secures-90-run-victory-over-zimbabwe-series-finale-20260726"
         },
         {
-          "title": "เปิดรับฟังความเห็นมาตรการเกษียณอายุราชการก่อนกำหนด ถึง 5 ส.ค.นี้",
-          "url": "https://mgronline.com/politics/detail/9690000073054"
+          "title": "Ishan Kishan receives special India Team award after match-winning knock vs Zimbabwe",
+          "url": "https://www.cricketcountry.com/news/ishan-kishan-receives-special-india-team-award-after-match-winning-knock-vs-zimbabwe-1357153/"
         }
       ],
-      "updatedAt": "2026-07-26T11:50:00+07:00"
+      "updatedAt": "2026-07-26T17:20:00+07:00"
     },
     {
       "id": "topic-f6b05284e7",
@@ -711,16 +713,16 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "โบว์-อาเล็ก-จีน่า เตรียมประชันฝีมือการแสดงใน ‘กรงรักเกมแค้น’",
-          "url": "https://thestandard.co/the-payback-bow-alek-gina/"
+          "title": "นักแสดงจากซีรีส์เรื่อง 'Family is Number 1' ยังคงโด่งดังอยู่แม้เวลาจะผ่านไป 17 ปีแล้ว",
+          "url": "https://www.vietnam.vn/th/dien-vien-gia-dinh-la-so-1-sau-17-nam-noi-tieng"
         },
         {
-          "title": "ภาพแรก \"กรงรักเกมแค้น\" อาเล็ก-โบว์-จีน่า ปะทะกันครั้งแรก เคมีเดือด!",
-          "url": "https://www.sanook.com/movie/189194/"
+          "title": "จัดเต็มนักแสดงแถวหน้าของวงการ ประชันบทบาทสุดเข้มข้น ในซีรีส์วิมานอากาศ Sky Castle Thailand",
+          "url": "https://www.one31.net/news/detail/79773"
         },
         {
-          "title": "สิ้นสุดการรอคอย “อาเล็ก-โบว์” เปิดศึกเกมรักสุดเดือด ใน “กรงรักเกมแค้น”",
-          "url": "https://www.tnnthailand.com/entertainment/242045/"
+          "title": "ทำความรู้จักครอบครัว “โสภารังสี” จากซีรีส์วิมานอากาศ Sky Castle Thailand",
+          "url": "https://www.one31.net/news/detail/79772"
         }
       ],
       "updatedAt": "2026-07-26T14:10:00+07:00"
@@ -752,44 +754,6 @@
       "updatedAt": "2026-07-20T15:09:41+07:00"
     },
     {
-      "id": "topic-8ea21649e8",
-      "title": "บังแจ็ค",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#บังแจ็ค"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "'บังแจ็ค'ยังไม่ตาย! เพจ CSI LA ยันถูก ตม.สหรัฐฯ จับ ส่งศูนย์กักตัวรัฐวอชิงตัน",
-          "url": "https://mgronline.com/crime/detail/9690000073335"
-        },
-        {
-          "title": "“บังแจ็ค” หายไปไหน? หลังเงียบนานกว่า 2 สัปดาห์ ไร้โพสต์-ไร้การติดต่อ แฟนคลับแห่ถามเกิดอะไรขึ้น",
-          "url": "https://today.line.me/th/v3/article/60Lgp5B"
-        },
-        {
-          "title": "ข่าว Like สาระ - CSI LA เผยเจอ บังแจ็ค หลังลือหึ่งโดนอุ้มหาย พบโดน ตม.สหรัฐฯ คุมตัว",
-          "url": "https://www.naewna.com/likesara/979640"
-        }
-      ],
-      "updatedAt": "2026-07-26T09:50:00+07:00"
-    },
-    {
       "id": "sea-v-cup-2026-2-2-c81abc6e0c",
       "title": "ผลวอลเลย์บอลสด วอลเลย์บอลชายไทย แซงชนะเวียดนาม สุดระทึก SEA V Cup 2026 สนาม 2 นัด 2",
       "sourceType": "news",
@@ -814,6 +778,82 @@
         }
       ],
       "updatedAt": "2026-07-23T18:59:36+07:00"
+    },
+    {
+      "id": "topic-6261809129",
+      "title": "พรรคประชาชน",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 100+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#พรรคประชาชน"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "\"หมอชุตินาถ\" ลั่นคนพูดแก้พ.ร.บ. คือล้ม 30 บาท เป็นการพูดมากเกินไป หยุดพยายามให้หน่วยบริการเป็นผู้ร้าย",
+          "url": "https://www.hfocus.org/content/2026/07/38876"
+        },
+        {
+          "title": "ปชน.ปัดล้มโครงการ 30 บ. ชี้แก้บัตรทองเพื่อความยั่งยืนไม่ลดสิทธิเพิ่มภาระ ปฏิรูปสปสช.ให้ปชช.มีส่วนเพิ่ม",
+          "url": "https://mgronline.com/politics/detail/9690000073450"
+        },
+        {
+          "title": "ใครค้าน-หนุน “ร่วมจ่ายบัตรทอง” กับทางรอดระบบสุขภาพ",
+          "url": "https://policywatch.thaipbs.or.th/article/life-349"
+        }
+      ],
+      "updatedAt": "2026-07-26T15:40:00+07:00"
+    },
+    {
+      "id": "topic-6be89d59d3",
+      "title": "พิธาลิ้มเจริญรัตน์",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 100+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#พิธาลิ้มเจริญรัตน์"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "พิธา เปิดใจเรื่องรัก ก้อย อรัชพร ยอมรับเรียก \"ที่รัก\" เผยที่มา Promise Ring (คลิป)",
+          "url": "https://www.thairath.co.th/entertain/news/2948422"
+        },
+        {
+          "title": "ให้มันขมแค่เรา! \"ทิม พิธา\" ลงรูปหวาน \"ก้อย อรัชพร\" ให้หัวใจกลางร้าน",
+          "url": "https://www.sanook.com/news/9900586/"
+        },
+        {
+          "title": "“ทิม พิธา” สวมแหวน promise ring ที่นิ้วนางข้างขวาให้ “ก้อย อรัชพร” แทนคำมั่นสัญญาถึงหัวใจที่หนักแน่น",
+          "url": "https://mgronline.com/entertainment/photo-gallery/9690000072712"
+        }
+      ],
+      "updatedAt": "2026-07-26T18:00:00+07:00"
     },
     {
       "id": "3-0-sea-v-cup-2026-2-2281ad576d",
@@ -878,44 +918,6 @@
         }
       ],
       "updatedAt": "2026-07-26T13:10:00+07:00"
-    },
-    {
-      "id": "topic-87ddf3d39e",
-      "title": "สเปอร์ส",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 500+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#สเปอร์ส"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "วิเคราะห์บอล โอ๊คแลนด์ เอฟซี vs สเปอร์ส 26 ก.ค. 69 : ไก่เดือยทองบินไกล ลุ้นเฮ 2 นัดติด",
-          "url": "https://www.siamsport.co.th/football-international/premierleague/107107/"
-        },
-        {
-          "title": "สถิติการแข่งขัน อ็อคแลนด์ 0-2 ท็อตแนม ฮอตสเปอร์: ริชาร์ลิสัน โชว์ฟอร์มยอดเยี่ยม ท็อตแนม ฮอตสเปอร์ เก็บ 3 แต้มเต็ม",
-          "url": "https://www.vietnam.vn/th/thong-ke-tran-dau-auckland-0-2-tottenham-hotspur-richarlison-toa-sang-tottenham-hotspur-gianh-tron-3-diem"
-        },
-        {
-          "title": "สเปอร์ส ส่งแข้งใหม่เคาะสนิม อุ่นเครื่องปรีซีซั่น 2026/27 เฉือนชนะ เอ็มเค ดอนส์ ทีมในลีกวัน 1-0",
-          "url": "https://mainstand.co.th/th/news/1/article/26188"
-        }
-      ],
-      "updatedAt": "2026-07-26T10:10:00+07:00"
     },
     {
       "id": "topic-5dd27ffa34",
@@ -1075,12 +1077,12 @@
           "url": "https://www.thairath.co.th/news/society/2948600"
         },
         {
-          "title": "26 ก.ค. 69! กฟน. ประกาศดับไฟ 24 จุด ในกรุงเทพฯ สมุทรปราการ นนทบุรี",
-          "url": "https://www.pptvhd36.com/news/%E0%B8%AA%E0%B8%B1%E0%B8%87%E0%B8%84%E0%B8%A1/280302"
+          "title": "27 ก.ค. 69! กฟน. ประกาศดับไฟ 2 จุด ในกรุงเทพมหานคร",
+          "url": "https://www.pptvhd36.com/news/%E0%B8%AA%E0%B8%B1%E0%B8%87%E0%B8%84%E0%B8%A1/280345"
         },
         {
-          "title": "กฟน. แจ้งพื้นที่ดับไฟ 27 ก.ค. 69 ไฟดับบางจุดในพื้นที่กรุงเทพฯ",
-          "url": "https://www.thairath.co.th/news/society/2948716"
+          "title": "เช็กเลย มีพื้นที่ไหนบ้าง \"กฟน.\" แจ้งดับไฟ 7 จุด ซ่อมบำรุงรักษาระบบ 20 ก.ค.นี้ ในกรุงเทพฯ-นนทบุรี-สมุทรปราการ",
+          "url": "https://www.topnews.co.th/news/1635732"
         }
       ],
       "updatedAt": "2026-07-26T15:40:00+07:00"
