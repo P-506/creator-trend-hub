@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-27T22:44:03.264438+07:00",
-  "dateRange": "2026-07-20 to 2026-07-27",
+  "generatedAt": "2026-07-28T00:44:45.757153+07:00",
+  "dateRange": "2026-07-21 to 2026-07-28",
   "sourceErrors": [],
   "topics": [
     {
@@ -394,32 +394,6 @@
       "updatedAt": "2026-07-21T14:14:44+07:00"
     },
     {
-      "id": "thai-select-6c12ee1f1e",
-      "title": "“Thai SELECT” ชี้เป้าความอร่อยอาหารไทยสู่ผู้บริโภคชาวกวางตุ้ง",
-      "sourceType": "news",
-      "category": "food",
-      "contentPotential": "high",
-      "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: อาหาร / source: ditp.go.th - “Thai SELECT” ชี้เป้าความอร่อยอาหารไทยสู่ผู้บริโภคชาวกวางตุ้ง    ditp.go.th",
-      "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
-      "creatorAngle": "ให้ Creator เล่าประสบการณ์ร้าน/เมนูที่อยากลอง แล้วถามคนอื่นว่าคิดเหมือนกันไหม",
-      "promptIdea": "เห็นคนพูดถึงเมนูนี้เยอะมาก มีใครลองแล้วบ้าง?",
-      "hashtags": [
-        "#FoodTrend",
-        "#CafeTH",
-        "#รีวิวของกิน",
-        "#“ThaiSELECT”ชี้เป้าความอ"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "ditp.go.th",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9oeWNaUjFRSzU5RmpIQmJqMmpwYjVEbzI1WWZsN0I4eS03RVl0blZ0Y1M0UXNxa1dIMkE5bXdqMC1YdzZvOGxvVDhRVkN5WkJMdjFzSWhCYWp5T3VveHExNm1R?oc=5"
-        }
-      ],
-      "updatedAt": "2026-07-24T13:25:00+07:00"
-    },
-    {
       "id": "24-d3793c5ea2",
       "title": "“ฟ้า พรหมศร” คุยเรื่องสูตรอาหารพิเศษ ในวันที่ยัง “อดอาหาร” ผ่านวันที่ 24",
       "sourceType": "news",
@@ -504,7 +478,7 @@
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 500+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -525,50 +499,12 @@
           "url": "https://www.npr.org/2026/07/26/nx-s1-5896202/house-of-the-dragon-recap-season-3-episode-6"
         },
         {
-          "title": "‘House of the Dragon’ Fans Are Thrilled About Episode 6’s Death",
-          "url": "https://www.esquire.com/entertainment/tv/a73272144/house-of-the-dragon-episode-6-death/"
-        },
-        {
           "title": "‘House of the Dragon’: Fabien Frankel on One of Ser Criston’s Happiest Moments",
           "url": "https://www.nytimes.com/2026/07/26/arts/television/house-of-the-dragon-fabien-frankel-criston-cole.html"
-        }
-      ],
-      "updatedAt": "2026-07-27T18:30:00+07:00"
-    },
-    {
-      "id": "keigo-higashino-c8034a208e",
-      "title": "keigo higashino",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 500+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#keigohigashino"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "Japanese author Keigo Higashino, known for penning intricate mystery novels, dies at 68",
-          "url": "https://www.japantimes.co.jp/culture/2026/07/27/books/keigo-higashino-obituary/"
-        },
-        {
-          "title": "Mystery Writer Keigo Higashino Dies at 68; Dominated Genre with Works Including “The Devotion of Suspect X”",
-          "url": "https://japannews.yomiuri.co.jp/society/obituaries/20260727-340298/"
-        },
-        {
-          "title": "Bestselling Japanese mystery writer Keigo Higashino dies at 68",
-          "url": "https://www.thestandard.com.hk/world/article/338322/Bestselling-Japanese-mystery-writer-Keigo-Higashino-dies-at-68"
+          "title": "'House of the Dragon' Just Unceremoniously Killed Off a Main Character.",
+          "url": "https://time.com/article/2026/07/22/house-of-the-dragon-season-3-episode-6-criston-cole-death/"
         }
       ],
       "updatedAt": "2026-07-27T18:30:00+07:00"
@@ -627,12 +563,12 @@
           "url": "https://policywatch.thaipbs.or.th/article/government-360"
         },
         {
-          "title": "คืบหน้ารั้วชายแดนไทย-กัมพูชา จากกองทุนหทัยทิพย์ บก.ทท.-ทบ.เข้าเฝ้าฯ 10 ส.ค.นี้",
-          "url": "https://mgronline.com/onlinesection/detail/9690000073364"
+          "title": "บิ๊กโก๋ ผอ.JIC ไทย ซัด CMAC เขมร \"โกหกทุกหน่วยงาน\" อ้างไทยยิงแสนกว่านัดไร้หลักฐาน",
+          "url": "https://mgronline.com/news1/detail/9690000073476"
         },
         {
-          "title": "ส่งกำลังทหาร คุ้มกันทีมก่อสร้างถนนเลียบชายแดน",
-          "url": "https://www.bugaboo.tv/th/news/164478/"
+          "title": "“พล.อ.อ.ประภาส” โต้กัมพูชา กล่าวหาไทยใช้กระสุนคลัสเตอร์",
+          "url": "https://www.pptvhd36.com/news/%E0%B8%AA%E0%B8%B1%E0%B8%87%E0%B8%84%E0%B8%A1/280418"
         }
       ],
       "updatedAt": "2026-07-27T18:20:00+07:00"
@@ -661,7 +597,7 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "สรุปกระดานรายใหญ่วันนี้ QQQM19 มูลค่าสูงสุด 170.16 ล้านบาท",
+          "title": "สรุปกระดานรายใหญ่วันนี้ QQQM19 มูลค่าสูงสุด 170.16 ล้านบาท | ข่าวหุ้นธุรกิจ",
           "url": "https://today.line.me/th/v3/article/PG5O70j"
         },
         {
@@ -669,8 +605,8 @@
           "url": "https://www.efinancethai.com/LastestNews/LatestNewsMain.aspx?id=QzlPNmdXaTJ4U3c9"
         },
         {
-          "title": "BIG LOT: รายการซื้อขายบิ๊กล็อตตลาดหุ้นไทยวันนี้ (By Time)",
-          "url": "https://www.infoquest.co.th/2026/622587"
+          "title": "BIG LOT: รายการซื้อขายบิ๊กล็อตตลาดหุ้นไทยเช้านี้ (By Time)",
+          "url": "https://www.infoquest.co.th/2026/622327"
         }
       ],
       "updatedAt": "2026-07-27T18:40:00+07:00"
@@ -707,8 +643,8 @@
           "url": "https://entertain.teenee.com/thaistar/322804.html"
         },
         {
-          "title": "“นก อุษณีย์” เซอร์ไพรส์คุกเข่าขอ “ม่วย นิธิตรา” แฟนสาวแต่งงาน คนร่วมยินดี",
-          "url": "https://www.thairath.co.th/entertain/news/2948986"
+          "title": "\"นก อุษณีย์\" เซอร์ไพรส์คุกเข่าขอแฟนสาว \"ม่วย นิธิตรา\" แต่งงานสุดโรแมนติก",
+          "url": "https://www.sanook.com/news/9901006/"
         }
       ],
       "updatedAt": "2026-07-27T19:50:00+07:00"
@@ -857,12 +793,12 @@
           "url": "https://www.thaipbs.or.th/live/special/283850"
         },
         {
-          "title": "การเมือง - เช็กรายชื่อ! ครม.มีมติแต่งตั้งข้าราชการหลายตำแหน่ง",
-          "url": "https://www.naewna.com/politic/979818"
-        },
-        {
           "title": "ครม.เคาะโยกย้ายบิ๊กกระทรวงเกษตรฯ 9 ตำแหน่ง เด้งอธิบดีกรมชลฯ นั่งผู้ตรวจ โยก ‘วิทยา แก้วมี’ นั่งแทน",
           "url": "https://thestandard.co/agriculture-ministry-officials-transfer/"
+        },
+        {
+          "title": "“สุริยะ” โบ้ยรอดูผลประชุม ครม.วันนี้ หลังเสนอย้ายใหญ่ ก.เกษตรฯ ยอมรับมีอธิบดี-รองปลัดฯ",
+          "url": "https://mgronline.com/politics/detail/9690000073675"
         }
       ],
       "updatedAt": "2026-07-27T19:50:00+07:00"
@@ -932,13 +868,13 @@
       "updatedAt": "2026-07-23T19:26:13+07:00"
     },
     {
-      "id": "27-7-69-6a027a13a1",
-      "title": "หวยลาว27/7/69",
+      "id": "topic-85ee42cce9",
+      "title": "หวยพัฒนา",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 5000+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 2000+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -946,7 +882,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#หวยลาว27/7/69"
+        "#หวยพัฒนา"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -968,32 +904,6 @@
         }
       ],
       "updatedAt": "2026-07-27T20:20:00+07:00"
-    },
-    {
-      "id": "topic-f9285433da",
-      "title": "อธิบดีกรมยุโรปพบหารือรองอธิบดีกรมยุทธศาสตร์และความสัมพันธ์ทางการค้ากับเอเชีย-แปซิฟิก กระทรวงธุรกิจ นวัตกรรม วิทยาศาสตร์ และการค้าสหราชอาณาจักร",
-      "sourceType": "news",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: ความสัมพันธ์ / source: กระทรวงการต่างประเทศ - อธิบดีกรมยุโรปพบหารือรองอธิบดีกรมยุทธศาสตร์และความสัมพันธ์ทางการค้ากับเอเชีย-แปซิฟิก กระทรวงธุรกิจ นวัตกรรม วิทยาศาสตร์ และการค้าสหราชอาณาจักร    กระทรวงการต่างประเทศ",
-      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#อธิบดีกรมยุโรปพบหารือรอง"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "กระทรวงการต่างประเทศ",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1rMFp5dmF1RFpxOG9iWlVpdHRxcng4R1VyaTB1NEJLZXo5YU5qTHJYTmRRNmk4WFhRQW9uWE1uQ3dMSDNYZ3IweF8yb1VuYlljQVJXNDBaeVFZc0VJcTZrLTkyQkRLM2lWLUpWTDZQLWVlUmdSSjBDOQ?oc=5"
-        }
-      ],
-      "updatedAt": "2026-07-25T01:43:39+07:00"
     },
     {
       "id": "topic-1f8019d132",
@@ -1027,8 +937,8 @@
           "url": "https://sport.trueid.net/detail/jlvx9Qg9WekO"
         },
         {
-          "title": "ลิงก์ถ่ายทอดสดการแข่งขันระหว่างอินโดนีเซียกับกัมพูชา (20:30 น. วันที่ 27 กรกฎาคม) กลุ่ม A เอเอฟเอฟ คัพ 2026",
-          "url": "https://www.vietnam.vn/th/link-xem-truc-tiep-indonesia-vs-campuchia-20h30-ngay-27-7-bang-a-aff-cup-2026"
+          "title": "วิดีโอ: แฮตทริกสุดคลาสสิกของกองหน้าชาวอินโดนีเซียร่างสูง 1.96 เมตร",
+          "url": "https://www.vietnam.vn/th/video-cu-hat-trick-dang-cap-cua-tien-dao-1m96-tuyen-indonesia"
         }
       ],
       "updatedAt": "2026-07-27T20:00:00+07:00"
@@ -1084,6 +994,44 @@
         }
       ],
       "updatedAt": "2026-07-22T09:39:00+07:00"
+    },
+    {
+      "id": "topic-6b068d525c",
+      "title": "โรเซนบอร์ก",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#โรเซนบอร์ก"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "เมสัน เมาท์ พูดถึง อันเดรย์ ซานโตส หลัง แมนยู ยำ โรเซนบอร์ก",
+          "url": "https://www.thairath.co.th/sport/eurofootball/premierleague/2948530"
+        },
+        {
+          "title": "คาร์ริค ปลื้ม แมนยู ถล่ม โรเซนบอร์ก 5-0 ชูดาวรุ่งฟอร์มเด่นปรีซีซั่น",
+          "url": "https://www.siamsport.co.th/football-international/premierleague/107092/"
+        },
+        {
+          "title": "ของดี! เมาท์ ชม ซานโตส ฟอร์มแจ่มแมวมากหลังผีถล่มโรเซนบอร์ก 5-0 | Soccersuck",
+          "url": "https://today.line.me/th/v3/article/3NPQY1r"
+        }
+      ],
+      "updatedAt": "2026-07-27T23:10:00+07:00"
     },
     {
       "id": "3-0-25-18-25-19-25-18-sea-v-cup-2026-8b3f07be7a",
@@ -1261,10 +1209,6 @@
       "riskNote": "Medium risk ควรอ้างอิงแหล่งทางการและเตือนให้ระวังลิงก์ปลอมหรือข้อมูลผิด",
       "sources": [
         {
-          "title": "Marketeer Online",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE03V1N5dDFWb2hxaUdQUkJwWDg2cEVERE9FaGFOOHVBeG1DQTJleHVsSjcwLWIyMFlST0I3c0JkQVUwSkQ1emxnMmVCSFRTZ05uS3RObA?oc=5"
-        },
-        {
           "title": "LINE TODAY",
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBpamRaM180RkNVVy1oSVRsZ0duY1hocHlBcW82Z3NEUmg2TDk2M0gzREt5NGF3RjNoaTdZelYzN3M5TFVGM3U4V1hjR0JyeDNRNjZXZnhzTHdaZ1lDcER0TlV2NHM?oc=5"
         },
@@ -1279,9 +1223,39 @@
         {
           "title": "แนวหน้า",
           "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5OdEtJeVJ4RTVTaDN2NjZrOW9GRUlQRzNsTXg3aVZXZHlTdmdXb2ZaXzZvX3d5UmtQVUdHamRCbi1zZjFPamNQXzZHbVk2ZjQ?oc=5"
+        },
+        {
+          "title": "topnews.co.th",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9xZlgwQUYxd1pxX3JTeGNNdlZQN2lOYXY1a3duZnZrVWhoU0t3SWJjTm1BR3V3ZU5oWnZ0TGY1ZXRJMTFpcHpQVnJ3cVpza0k?oc=5"
         }
       ],
-      "updatedAt": "2026-07-24T14:00:00+07:00"
+      "updatedAt": "2026-07-22T06:05:13+07:00"
+    },
+    {
+      "id": "thailand-china-cooperation-expo-2026-ed3833b605",
+      "title": "การเมือง - นายกฯ เปิดงาน Thailand China Cooperation Expo 2026 ย้ำความสัมพันธ์ไทยจีน มั่นคงแข็งแกร่ง",
+      "sourceType": "news",
+      "category": "social_topic",
+      "contentPotential": "low",
+      "riskLevel": "high",
+      "summary": "ข่าวจาก Google News keyword: ความสัมพันธ์ / source: แนวหน้า - การเมือง - นายกฯ เปิดงาน Thailand China Cooperation Expo 2026 ย้ำความสัมพันธ์ไทยจีน มั่นคงแข็งแกร่ง    แนวหน้า",
+      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
+      "creatorAngle": "ใช้เป็นข้อมูลเฝ้าระวังมากกว่าบรีฟโพสต์ หากต้องใช้ควรให้ทีม review ก่อน",
+      "promptIdea": "เรื่องนี้ควรเช็กข้อมูลก่อนแชร์ ทุกคนคิดว่าเราควรระวังอะไรบ้าง?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#การเมือง-นายกฯเปิดงานTha"
+      ],
+      "riskNote": "High risk ควรให้ทีม review ก่อนนำไป brief Creator และไม่ควรชวนดราม่า",
+      "sources": [
+        {
+          "title": "แนวหน้า",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBNcUN2OExGdmVvcE56blcxa1NzV2wtUHJPUHlfVUgxVkJKTy1qalhPbGJtbjZrelFZNGxVcU5peFRPY0FaN2RoS2RvMk5Pdw?oc=5"
+        }
+      ],
+      "updatedAt": "2026-07-22T19:12:00+07:00"
     },
     {
       "id": "7-68013b3372",
@@ -1334,6 +1308,32 @@
         }
       ],
       "updatedAt": "2026-07-24T15:49:32+07:00"
+    },
+    {
+      "id": "3-fd10064f2a",
+      "title": "สหรัฐฯ ล่าตัวมือยิงงานเทศกาลอาหารที่ซีแอตเทิล มีผู้เสียชีวิต 3 คน",
+      "sourceType": "news",
+      "category": "food",
+      "contentPotential": "low",
+      "riskLevel": "high",
+      "summary": "ข่าวจาก Google News keyword: อาหาร / source: thaipbs.or.th - สหรัฐฯ ล่าตัวมือยิงงานเทศกาลอาหารที่ซีแอตเทิล มีผู้เสียชีวิต 3 คน    thaipbs.or.th",
+      "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
+      "creatorAngle": "ใช้เป็นข้อมูลเฝ้าระวังมากกว่าบรีฟโพสต์ หากต้องใช้ควรให้ทีม review ก่อน",
+      "promptIdea": "เรื่องนี้ควรเช็กข้อมูลก่อนแชร์ ทุกคนคิดว่าเราควรระวังอะไรบ้าง?",
+      "hashtags": [
+        "#FoodTrend",
+        "#CafeTH",
+        "#รีวิวของกิน",
+        "#สหรัฐฯล่าตัวมือยิงงานเทศ"
+      ],
+      "riskNote": "High risk ควรให้ทีม review ก่อนนำไป brief Creator และไม่ควรชวนดราม่า",
+      "sources": [
+        {
+          "title": "thaipbs.or.th",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9LOFk5WlRuMXVDc043TEhZZDRBSU9CVzZObnFMTFktdS1KY1NlWnJpeTF3b3Z2RFdPcEFhVnhMTVUxMDJ4RDdjejVMdU1uR2JSQk1GV0RiMHc?oc=5"
+        }
+      ],
+      "updatedAt": "2026-07-27T16:50:40+07:00"
     }
   ]
 }
