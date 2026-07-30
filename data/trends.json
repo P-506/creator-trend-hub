@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T18:53:33.279710+07:00",
+  "generatedAt": "2026-07-30T22:12:28.776798+07:00",
   "dateRange": "2026-07-23 to 2026-07-30",
   "sourceErrors": [],
   "topics": [
@@ -498,13 +498,13 @@
       "updatedAt": "2026-07-25T14:54:00+07:00"
     },
     {
-      "id": "fed-dfeefa6a51",
-      "title": "fed ดอกเบี้ย",
+      "id": "bmw-c034ffd948",
+      "title": "bmw",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 500+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 100+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -512,7 +512,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#fedดอกเบี้ย"
+        "#bmw"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -521,23 +521,137 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "ธนาคารกลางสหรัฐฯ คงดอกเบี้ยที่ 3.50–3.75% หลังสงครามดันเงินเฟ้อพุ่งสูง",
-          "url": "https://www.thairath.co.th/news/foreign/2949403"
+          "title": "BMW to review practices once deemed 'untouchable' as profit slumps",
+          "url": "https://www.reuters.com/business/autos-transportation/bmw-reports-second-quarter-earnings-slump-it-cuts-jobs-2026-07-30/"
         },
         {
-          "title": "เปิดกลยุทธ์ลงทุน หลังเฟด เสียงแตก 9 ต่อ 3 คงดอกเบี้ย 3.50-3.75%",
-          "url": "https://www.pptvhd36.com/wealth/economic/280535"
+          "title": "BMW Offers Severance Packages to Employees to Cut 8,000 Jobs",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-29/bmw-offers-buyouts-to-thousands-of-german-workers-to-cut-costs"
         },
         {
-          "title": "สรุปผลประชุม Fed คงดอกเบี้ย 3.50-3.75% ส่งสัญญาณอย่างไรต่อทิศทางดอกเบี้ยและเงินบาท",
-          "url": "https://thestandard.co/fed-holds-interest-rate-baht/"
+          "title": "BMW to cut ‘as many as 8,000 jobs’ under pressure from Chinese rivals",
+          "url": "https://www.theguardian.com/business/2026/jul/29/bmw-cut-jobs-germany-pressure-chinese-rivals"
         }
       ],
-      "updatedAt": "2026-07-30T16:50:00+07:00"
+      "updatedAt": "2026-07-30T19:50:00+07:00"
     },
     {
-      "id": "lpga-3752fbe7fa",
-      "title": "lpga",
+      "id": "kick-eac6136556",
+      "title": "kick",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 2000+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#kick"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "Storm co-owner suspended, Sophie Cunningham comments after fan incident",
+          "url": "https://www.seattletimes.com/sports/storm/storm-owner-suspended-sophie-cunningham-after-fan-incident/"
+        },
+        {
+          "title": "Storm co-owner suspended after incident with Sophie Cunningham fans as star breaks silence on controversy",
+          "url": "https://www.foxnews.com/outkick-sports/storm-co-owner-suspended-incident-sophie-cunningham-fans-star-breaks-silence-controversy"
+        },
+        {
+          "title": "Storm apologize after co-owner confronts fans for Cunningham support",
+          "url": "https://www.espn.com/wnba/story/_/id/49483396/storm-apologize-co-owner-confronts-fans-cunningham-support"
+        }
+      ],
+      "updatedAt": "2026-07-30T18:50:00+07:00"
+    },
+    {
+      "id": "kick-stream-a8b77c3f0d",
+      "title": "kick stream",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 100+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#kickstream"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "Victory on penalties after Tel stunner against Sydney",
+          "url": "https://www.tottenhamhotspur.com/news/1080518/victory-on-penalties-after-tel-stunner-against-sydney"
+        },
+        {
+          "title": "Tottenham Hotspur vs Sydney: Sydney Super Cup stats & head-to-head",
+          "url": "https://www.bbc.com/sport/football/live/c86np7j9x5jt?page=2"
+        },
+        {
+          "title": "Punizione da manuale di Tel nel test di Spurs a Sydney",
+          "url": "https://onefootball.com/en/video/punizione-da-manuale-di-tel-nel-test-di-spurs-a-sydney-3HBULSSzC00IPnUksS69CwImjdK"
+        }
+      ],
+      "updatedAt": "2026-07-30T19:20:00+07:00"
+    },
+    {
+      "id": "spider-man-brand-new-day-454b9be045",
+      "title": "spider-man: brand new day",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 100+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#spider-man:brandnewday"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "‘Spider-Man: Brand New Day’ Review: Can We Do Whatever a Spider Can?",
+          "url": "https://www.nytimes.com/2026/07/28/movies/spider-man-brand-new-day-review.html"
+        },
+        {
+          "title": "‘Spider-Man: Brand New Day’ Ties An MCU Rotten Tomatoes Review Score Record",
+          "url": "https://www.forbes.com/sites/paultassi/2026/07/30/spider-man-brand-new-day-ties-an-mcu-rotten-tomatoes-review-score-record/"
+        },
+        {
+          "title": "Spider-Man: Brand New Day First Reviews: The Most Grounded, Mature Spider-Man Story Yet",
+          "url": "https://editorial.rottentomatoes.com/article/spider-man-brand-new-day-first-reviews/"
+        }
+      ],
+      "updatedAt": "2026-07-30T20:00:00+07:00"
+    },
+    {
+      "id": "vct-pacific-stage-2-b519eff858",
+      "title": "vct pacific stage 2",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
@@ -550,7 +664,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#lpga"
+        "#vctpacificstage2"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -559,104 +673,28 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "How to Watch 2026 AIG Women's Open",
-          "url": "https://www.lpga.com/news/2026/how-to-watch-2026-aig-womens-open"
+          "title": "VALORANT Challengers Japan 2026 Season Finals 結果発表",
+          "url": "https://valorantesports.com/ja-jp/news/valorant-challengers-japan-2026-season-finals-result"
         },
         {
-          "title": "Tiger and Phil vanished from this major season. But at Lytham, history lingers",
-          "url": "https://golf.com/news/tiger-and-phil-vanished-from-this-major-season-but-at-lytham-history-lingers/"
+          "title": "これであなたもVCTウォッチer！大会観戦の不安を消し去る即効性、超便利ツール5選！！！",
+          "url": "https://e-sportsgg.com/News/cvCcEXUb"
         },
         {
-          "title": "Here’s the record prize money payout for each player at the 2026 AIG Women’s British Open",
-          "url": "https://www.golfdigest.com/story/heres-record-prize-money-payout-for-each-player-at-2026-aig-womens-british-open"
+          "title": "「新規層を沼らせる立役者になりたい」CR Adeさんが語る注目選手や強豪の共通点、今後のVALORANTシーンへの期待とは？",
+          "url": "https://news.nicovideo.jp/watch/nw19597020?news_ref=top_newComments"
         }
       ],
-      "updatedAt": "2026-07-30T16:30:00+07:00"
+      "updatedAt": "2026-07-30T21:30:00+07:00"
     },
     {
-      "id": "sadie-sink-8a26ad79e2",
-      "title": "sadie sink",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 500+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#sadiesink"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "Marvel’s Kevin Feige says Sadie Sink’s name ‘solidified the idea’ of her Spider-Man character",
-          "url": "https://ew.com/saide-sink-spider-man-soldified-the-idea-of-her-character-12027953"
-        },
-        {
-          "title": "Steve Lacy Reportedly Dropped by Kevin Feige;…",
-          "url": "https://www.inkl.com/news/steve-lacy-reportedly-dropped-by-kevin-feige-unverified-reports-swirl-over-spider-man-brand-new-day-spoiler-drama"
-        },
-        {
-          "title": "They’ve blown the spoiler for ‘Spider-man: Brand New Day’ that Marvel had been guarding closely. Kevin Feige isn’t going to like it one bit.",
-          "url": "https://en.softonic.com/articles/theyve-blown-the-spoiler-for-spider-man-brand-new-day-that-marvel-had-been-guarding-closely-kevin-feige-isnt-going-to-like-it-one-bit"
-        }
-      ],
-      "updatedAt": "2026-07-30T15:20:00+07:00"
-    },
-    {
-      "id": "tom-holland-ec8768cbae",
-      "title": "tom holland",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 500+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#tomholland"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "Zendaya on working with Tom Holland in Spider-Man: ‘When you’re best friends it’s easy’",
-          "url": "https://www.bbc.com/news/articles/c0km3d2j6mko"
-        },
-        {
-          "title": "Zendaya Brings Fairytale Glamour To Spider-Man: Brand New Day Premiere In Dreamy Ivory Couture",
-          "url": "https://www.ndtvprofit.com/lifestyle/entertainment-fashion-zendaya-brings-fairytale-glamour-to-spider-man-brand-new-day-premiere-in-dreamy-ivory-couture-11843272"
-        },
-        {
-          "title": "The stars of Spider-Man - Tom Holland, Zendaya and Jacob Batalon",
-          "url": "https://www.itv.com/thismorning/articles/the-stars-of-spider-man-tom-holland-zendaya-and-jacob-batalon"
-        }
-      ],
-      "updatedAt": "2026-07-30T15:20:00+07:00"
-    },
-    {
-      "id": "deep-talk-62283c34da",
-      "title": "กรุงเทพธุรกิจ. . 'แม่น้ำกก-ทุนเทา-อธิปไตย' เกมวัดใจมิตรภาพ 'ไทย-จีน'| DEEP Talk . เมื่อความสัมพันธ์ไทย-จีนขยับสู่ \"หุ้นส่วนยุทธศาสตร์รูปแบบพิเศษ\" พร้อมเม็ดเงินลงทุนมหา...",
+      "id": "topic-2d650bc1d9",
+      "title": "ความสัมพันธ์ไทย-จีน เกิดอะไรขึ้นกันแน่",
       "sourceType": "news",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: ความสัมพันธ์ / source: facebook.com - กรุงเทพธุรกิจ. . 'แม่น้ำกก-ทุนเทา-อธิปไตย' เกมวัดใจมิตรภาพ 'ไทย-จีน'| DEEP Talk . เมื่อความสัมพันธ์ไทย-จีนขยับสู่ \"หุ้นส่วนยุทธศาสตร์รูปแบบพิเศษ\" พร้อมเม็ดเงินลงทุนมหาศาลกว่า 7 หมื",
+      "summary": "ข่าวจาก Google News keyword: ความสัมพันธ์ / source: มติชนออนไลน์ - ความสัมพันธ์ไทย-จีน เกิดอะไรขึ้นกันแน่    มติชนออนไลน์",
       "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -664,16 +702,16 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#กรุงเทพธุรกิจ..'แม่น้ำกก"
+        "#ความสัมพันธ์ไทย-จีนเกิดอ"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
         {
-          "title": "facebook.com",
-          "url": "https://news.google.com/rss/articles/CBMiiAdBVV95cUxPRWdoeGJhMi00YjNKS2NzQml2QVJ1MXNFZm1vbE12dV9JMTJoZVRyTW9MRnY1R1I2SkxFVE91SHZoNkdSZC1YMWZnUDZZcWpadnVJSWYyRkd5LXFhaGw3M25rcHJwdmc2VjIySHhHTWozd1EzTTFvY0NxZmZILVBZQmRYNXBha280Szk5eThOdExtdWdHNDJOSEc4Q3hiUVUzamxuS3EwTEpUU0drMWNrdHM4UmFIaG9lWmRxaEx4Und0Q0NzM2I2TlJlZ0FJemt3cHUtUi1PVE1iYXRmdWItUWFCSC1tcG5nczBmbEdaTE5KWWFVcU5fT3ZKeW1Jb0RkSW1VYzhRdUpaYTBiTEE4MS0xR0JicDJfNlRrOFBiOUEtcEY2WlQ1cno5NS1WcDk3dmEzNWh0SmU2WTI5eW8tYkFDbF9TQWtCcFNXbkV5TmxrNUEtY1pSdW15T1dCeHdRMHpqcVBYUzRCcnBVTFBLQlhSSWlSckxJWVhDRzVKZy1VVlM3clJSYndrYThIc2x6TlNROXlHcTRieGY3UWdJRk9MMU5qWkNmbklXZ1Jod1BrSlRRNmx3SGwyM0RQeFhPUzYzZGp4LUlibUp5cnF6YWMzQjdYNWRGZHdET0swZjNDM3YzOFRJSmpkTUxRbDE5UWsxZ2FNVVFFNHFTZGgyc3JjSVVrWDh3aEJpbmt5QlBHSm1XdVBtVml2Q29fYXpXdl92eWZHTUhZM2FRMVY4MWwyckFuRmhKTTBoQkNhNmM5dmZqYm4zdzVYa2JwUlZzUG5mZGJlYXdBOHNiSlhuVzlGYnZadFQybTNhcW5yQ1J5U2hrYkc1dXNrNFZxTWZMemkxaEUycDVhaWQxQmlfZWx0cDZnNEdMMnRoY3Q0WkpKbXBZLU5uXzFBUjR3Q0Q2Sno0eXViRk9jOGcteExsdm5JQmRpdDVOX0tqUjc4bnpMQTVwSXVXVzJoSWtOdnViREd0czRUOGZJVVdabjFGQ3lDdmp3UWpBQjUtOUl3bndSYmdiUjhSYTJCSDd4TlRCUHI4TGxqekxKMnZsa3pBRTlTWHZ1YzJodmFXYmNudV9XSXRrQU1ERDBMU1ktV3IxM3NFdDB2N09JdjNESXhMLVFOZ1VpaXZ4T21OM3RMM2ZoRzJfbFh0WWZhbl9HOVNzZ3A5MFQ2VndIS0dyWUpWQ29Ka0JydkU4?oc=5"
+          "title": "มติชนออนไลน์",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9tWEhxQ0gxd09sODlFdm9OeERucHRqc0VaSzNBOENfTzFhZ295eV9xV0ZnQUJoTWpLVWVlZlRiLXlhSDRKTHowU0w4eWJjSlpyWjFzVXFBbHBkd0h2Rm1jX3M5Qk4?oc=5"
         }
       ],
-      "updatedAt": "2026-07-23T19:15:52+07:00"
+      "updatedAt": "2026-07-24T07:45:00+07:00"
     },
     {
       "id": "topic-110bd407e1",
@@ -682,7 +720,7 @@
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 500+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -699,23 +737,23 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "รัฐราชการไทย ต้องหยุดคิดเป็น ‘เดอะแบก’ กับทุกๆ เรื่องในสังคม",
-          "url": "https://www.matichon.co.th/weekly/featured/article_905257"
+          "title": "สำนักงานประกันสังคมชี้แจงปมใช้งบ 275 ล้านจัดเลือกตั้งบอร์ดประกันสังคม",
+          "url": "https://www.thaipbs.or.th/news/content/508857"
         },
         {
-          "title": "รัฐควร 'ลด' รายจ่ายในงบประมาณแผ่นดิน….อย่างไร",
-          "url": "https://www.thaipost.net/economy-news/1039673/"
+          "title": "รัฐบาลยันไม่ได้อ้างศาลฯ เลื่อนเลือกตั้งบอร์ดประกันสังคม แต่ใช้อำนาจตามระเบียบป้องกันเลือกตั้งโมฆะ",
+          "url": "https://www.thairath.co.th/news/politic/2949431"
         },
         {
-          "title": "นักวิชาการผ่าแผนงบปี 70 วงเงิน 3.7 ล้านล้าน! ต้องเลิก ‘แบ่งเค้กทางการเมือง’",
-          "url": "https://www.dailynews.co.th/news/6062354/"
+          "title": "โฆษกกระทรวงแรงงานแจงปมชะลอเลือกตั้งบอร์ดประกันสังคม ย้ำปฏิบัติตามคำสั่งศาลฯ พร้อมโต้กระแสการเมืองครอบงำ",
+          "url": "https://thestandard.co/labour-ministry-social-security-election-delay/"
         }
       ],
       "updatedAt": "2026-07-30T17:10:00+07:00"
     },
     {
-      "id": "topic-3510616f8a",
-      "title": "ดวงชะตา",
+      "id": "3-99dcfc8c15",
+      "title": "ช่อง3",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
@@ -728,7 +766,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#ดวงชะตา"
+        "#ช่อง3"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -737,28 +775,28 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "ดาวดวงย้ายหนุน 3 ราศี การเงินลื่นไหล-รับทรัพย์จัดเต็มโชคใหญ่ งวด 1/8/69",
-          "url": "https://www.thairath.co.th/horoscope/interesting/2949078"
+          "title": "ตีท้ายครัว เปิดใจ กิ๊ก สุวัจนี นางร้ายยุค 90 กลับมารับงาน สวยเซี๊ยะไม่เบา!",
+          "url": "https://entertainment.trueid.net/detail/A9LDB7DRLB19"
         },
         {
-          "title": "ดูดวง ราศีหลังวันเข้าพรรษา พลิกชะตาชีวิต เศรษฐีประทับร่าง มาดามรวยล้นฟ้า มีกินไม่หมด | Khaosod",
-          "url": "https://today.line.me/th/v3/article/3NP6O6Z"
+          "title": "“พี่ปิ่น ทีวีซีน” คว้า “เก้า นพเก้า” ประกบคู่นางเอกคนสวย",
+          "url": "https://entertainment.trueid.net/detail/bvwqb8xeD0NX"
         },
         {
-          "title": "‘หมอดูโอปป้า’ เปิด 5 ราศีดาวอาทิตย์ย้ายมหาจักร เตรียมรับทรัพย์ก้อนโต!",
-          "url": "https://www.thebangkokinsight.com/news/lifestyle/horoscope/1679643/"
+          "title": "ลือสะพัด! ละครใหม่ช่อง3 ซุ่มเปิดกล้อง? จับคู่พระนางคู่นี้!!",
+          "url": "https://entertain.teenee.com/series/322867.html"
         }
       ],
-      "updatedAt": "2026-07-30T16:40:00+07:00"
+      "updatedAt": "2026-07-30T20:50:00+07:00"
     },
     {
-      "id": "topic-9270e42c26",
-      "title": "น้ำท่วม",
+      "id": "topic-126643c993",
+      "title": "ช่องวัน",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 500+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 100+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -766,7 +804,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#น้ำท่วม"
+        "#ช่องวัน"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -775,19 +813,19 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "\"แม่อาย\" ฝนหนักต่อเนื่อง เกิดน้ำไหลหลากเข้าท่วมบ้านเรือนปชช. อปท.ท้องถิ่นเร่งสำรวจช่วยเหลือ",
-          "url": "https://today.line.me/th/v3/article/wJarMLr"
+          "title": "\"วิมานอากาศ Sky Castle Thailand\" สงครามพ่อแม่ชนชั้นสูง ฟาดกันด้วยเกมการศึกษา",
+          "url": "https://www.sanook.com/movie/189242/"
         },
         {
-          "title": "ผบช.ตชด. สั่งกำลังพล เร่งช่วยเหลือชาวบ้านแม่อาย ได้รับผลกระทบจากอุทกภัย",
-          "url": "https://www.khaosod.co.th/around-thailand/news_10342587"
+          "title": "\"ก้อย กรกช\" นักบินสาวสวย หวนคืนจออีกครั้งใน \"วิมานอากาศ Sky Castle Thailand\"",
+          "url": "https://entertainment.trueid.net/detail/eJeWa8ObMog7"
         },
         {
-          "title": "ฝนตกหนัก ดินสไลด์ ทล.107 ฝาง-แม่สลัก",
-          "url": "https://www.fm91bkk.com/newsarticle/76453"
+          "title": "“นุ่น-อ้อม-ออกัส-เล้ง-ริว-น้ำฟ้า-ชิงชิง-แทน” นำทีมเสิร์ฟมหกรรมรีเมค! | daradaily",
+          "url": "https://today.line.me/th/v3/article/gzRa1MG"
         }
       ],
-      "updatedAt": "2026-07-30T16:10:00+07:00"
+      "updatedAt": "2026-07-30T21:10:00+07:00"
     },
     {
       "id": "sea-v-cup-2026-2-12f12a0422",
@@ -848,7 +886,7 @@
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: วอลเลย์บอล / source: Sanook - ลุ้นเดือด 5 เซต! วอลเลย์บอลชายไทย แผ่วปลายพ่าย เวียดนาม ศึกซี วี คัพ 2026    Sanook",
+      "summary": "ข่าวจาก Google News keyword: วอลเลย์บอล / source: sanook.com - ลุ้นเดือด 5 เซต! วอลเลย์บอลชายไทย แผ่วปลายพ่าย เวียดนาม ศึกซี วี คัพ 2026    sanook.com",
       "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -861,7 +899,7 @@
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
         {
-          "title": "Sanook",
+          "title": "sanook.com",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1SdF9oeG9aYWdVNDdnaWwzdGo5a1ptLVNzWkRUdkdfRFhVbk9BX0lsOXFLeEd5M1NnekNKQXlYREJ6QWp6eE4ycUtPS0otdw?oc=5"
         }
       ],
@@ -874,7 +912,7 @@
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 2000+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 1000+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -895,8 +933,8 @@
           "url": "https://www.sanook.com/sport/1666881/"
         },
         {
-          "title": "เปิดโปรแกรมวอลเลย์บอลชายเนชันส์ ลีก VNL 2026 รอบ 8 ทีมสุดท้าย รอบไฟนอลส์",
-          "url": "https://www.pptvhd36.com/sport/news/280469"
+          "title": "มีไทยด้วย สรุปทุกคะแนน \"วาร์กัส\" ใน VNL 2026 มีเหยื่อ 10 ทีม พาตุรกีคว้าแชมป์ ควบ MVP",
+          "url": "https://www.thairath.co.th/sport/worldsport/volleyball/2948840"
         },
         {
           "title": "ดูสดวอลเลย์บอลชาย อิตาลี vs สหรัฐอเมริกา VNL 2026 รอบ 8 ทีม",
@@ -906,8 +944,8 @@
       "updatedAt": "2026-07-30T16:50:00+07:00"
     },
     {
-      "id": "topic-636f5f4492",
-      "title": "วันนี้ขายเหล้าได้ไหม",
+      "id": "topic-f7a121a858",
+      "title": "หลักทรัพย์",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
@@ -920,7 +958,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#วันนี้ขายเหล้าได้ไหม"
+        "#หลักทรัพย์"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -929,83 +967,19 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "สมเด็จพระสังฆราช ประทานพระคติธรรม เนื่องในงดดื่มสุราแห่งชาติ",
-          "url": "https://news.ch7.com/detail/888093"
+          "title": "ภาวะตลาดหุ้นไทย ปิดเช้าดิ่งหนัก 31.44 จุดหลุด 1,600 แรงขาย DELTA-IVL บอนด์ยีลด์พุ่งกดดัน",
+          "url": "https://www.ryt9.com/s/iq/12833407"
         },
         {
-          "title": "ตำรวจเตือน ห้ามขายเครื่องดื่มแอลกอฮอล์ วันพระใหญ่ 29-30 ก.ค.นี้ | The Bangkok Insight",
-          "url": "https://today.line.me/th/v3/article/EXrRqg2"
+          "title": "“โรบอทเทรด” กินวอลุ่มตลาด 50% แรงขาย DELTA กดราคาหุ้นปิดร่วง 7% | ข่าวหุ้นธุรกิจ",
+          "url": "https://today.line.me/th/v3/article/oqR1xpj"
         },
         {
-          "title": "ตร.ย้ำ \"วันอาสาฬหบูชา-วันเข้าพรรษา\" งดขายสุรา 48 ชั่วโมง ฝ่าฝืนมีโทษทั้งจำทั้งปรับ",
-          "url": "https://www.thairath.co.th/news/local/2949009"
+          "title": "ตลาดหุ้นไทยปิดลบ 26.36 จุด จากราคาน้ำมันผันผวน",
+          "url": "https://www.dailynews.co.th/news/6068141/"
         }
       ],
-      "updatedAt": "2026-07-30T16:40:00+07:00"
-    },
-    {
-      "id": "topic-5dd27ffa34",
-      "title": "ส่องความสัมพันธ์ไทย-จีน ยุค \"อนุทิน\" ไทยกำลังเป็นส่วนขยายการใช้อำนาจทางกฎหมายของจีนหรือไม่",
-      "sourceType": "news",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: ความสัมพันธ์ / source: BBC - ส่องความสัมพันธ์ไทย-จีน ยุค \"อนุทิน\" ไทยกำลังเป็นส่วนขยายการใช้อำนาจทางกฎหมายของจีนหรือไม่    BBC",
-      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#ส่องความสัมพันธ์ไทย-จีนย"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "BBC",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBtM1NKd2hoYS1ZckkwdTRsTmp5TFl3SXNGYTlNWE5uYWlSX3htSl8zRGlVaXJPeU8tOS1QV29ncktYRW5xcjNKMXNiM0ZLb2xRN3RzdkdhemNPd9IBX0FVX3lxTE1lUGNGNzlsVTg1dWFzQ3hua2JGZ3dDN0ZoTzRqcnhLczZOYWV3UFphcXI5Rzc3eURLWTlvQTJnd0M5X19lS1l5SFZ2YzdSRlN4eU9KTzZMRWRJQXc3eFAw?oc=5"
-        }
-      ],
-      "updatedAt": "2026-07-23T19:26:13+07:00"
-    },
-    {
-      "id": "topic-9341964ef1",
-      "title": "เชิญยิ้ม",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 500+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#เชิญยิ้ม"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "บอล เชิญยิ้ม จัดโต๊ะเครื่องไหว้เจ้าที่ชุดใหญ่ พร้อมเปิดเลขจากหางประทัด (คลิป)",
-          "url": "https://www.thairath.co.th/entertain/news/2949303"
-        },
-        {
-          "title": "พ่อบอลเอาอีกแล้ว เผย เลขประทัดไหว้เจ้าที่บ้านสวน ชาวเน็ตแห่ซูมตาแตก | แนวหน้า",
-          "url": "https://today.line.me/th/v3/article/nXRqVPK?view=topic&referral=viralnewshub"
-        },
-        {
-          "title": "\"บอล เชิญยิ้ม\" จัดโต๊ะไหว้เจ้าที่ชุดใหญ่ งวดก่อนให้โชค เปิดเลขเด็ดงวดนี้จดเลย",
-          "url": "https://www.sanook.com/news/9901174/gallery/"
-        }
-      ],
-      "updatedAt": "2026-07-30T15:20:00+07:00"
+      "updatedAt": "2026-07-30T18:50:00+07:00"
     },
     {
       "id": "topic-c7059460e2",
@@ -1066,7 +1040,7 @@
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: วอลเลย์บอล / source: siamsport.co.th - เปิดโผ 14 วอลเลย์บอลหญิงไทย ลุย SEA V Cup 2026 สนามแรกที่เวียดนาม    siamsport.co.th",
+      "summary": "ข่าวจาก Google News keyword: วอลเลย์บอล / source: Siamsport - เปิดโผ 14 วอลเลย์บอลหญิงไทย ลุย SEA V Cup 2026 สนามแรกที่เวียดนาม    Siamsport",
       "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -1079,7 +1053,7 @@
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
         {
-          "title": "siamsport.co.th",
+          "title": "Siamsport",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE02QUJUS1piRmlYZEFOSTVhMnZPNG1DUXpnVVRwM2Z2dTJPMW1XdEl0ckZaQ3R3T3FVWTZtWHhjbmJsbVlsOEpISkhhNzdrbzNkOGR5cEpiNWtWam8waDBNYUpQMWx2NmhaeVhz?oc=5"
         }
       ],
@@ -1282,6 +1256,32 @@
         }
       ],
       "updatedAt": "2026-07-29T21:12:37+07:00"
+    },
+    {
+      "id": "topic-0cf8f291f4",
+      "title": "การเมือง - นายกฯ ชี้ ไทย-มาเลเซีย ความสัมพันธ์การทูตดีมาก เดินหน้าแก้ปัญหาชายแดนใต้",
+      "sourceType": "news",
+      "category": "social_topic",
+      "contentPotential": "low",
+      "riskLevel": "high",
+      "summary": "ข่าวจาก Google News keyword: ความสัมพันธ์ / source: แนวหน้า - การเมือง - นายกฯ ชี้ ไทย-มาเลเซีย ความสัมพันธ์การทูตดีมาก เดินหน้าแก้ปัญหาชายแดนใต้    แนวหน้า",
+      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
+      "creatorAngle": "ใช้เป็นข้อมูลเฝ้าระวังมากกว่าบรีฟโพสต์ หากต้องใช้ควรให้ทีม review ก่อน",
+      "promptIdea": "เรื่องนี้ควรเช็กข้อมูลก่อนแชร์ ทุกคนคิดว่าเราควรระวังอะไรบ้าง?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#การเมือง-นายกฯชี้ไทย-มาเ"
+      ],
+      "riskNote": "High risk ควรให้ทีม review ก่อนนำไป brief Creator และไม่ควรชวนดราม่า",
+      "sources": [
+        {
+          "title": "แนวหน้า",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE80ZG1XeWJfRUR5R1drVkI4Y1FQdTB6ZjBJeFhjbnFMRWtFSjJXcktaZ2tHME95UDN2cGV5eFR2MDA4SmMtVmlPSDRIZDQyZw?oc=5"
+        }
+      ],
+      "updatedAt": "2026-07-30T09:41:00+07:00"
     },
     {
       "id": "7-68013b3372",
