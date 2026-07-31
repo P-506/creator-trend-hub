@@ -1,34 +1,8 @@
 {
-  "generatedAt": "2026-07-31T00:37:52.542411+07:00",
+  "generatedAt": "2026-07-31T11:24:12.502321+07:00",
   "dateRange": "2026-07-24 to 2026-07-31",
   "sourceErrors": [],
   "topics": [
-    {
-      "id": "mute-toxic-d4d47730bc",
-      "title": "\"mute.\" ปล่อย \"ช่วยพูดว่ารัก\" ซิงเกิลแทนความสัมพันธ์ Toxic ร้องขอความรักจากคนหมดใจ",
-      "sourceType": "news",
-      "category": "relationship",
-      "contentPotential": "high",
-      "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: ความสัมพันธ์ / source: TrueID - \"mute.\" ปล่อย \"ช่วยพูดว่ารัก\" ซิงเกิลแทนความสัมพันธ์ Toxic ร้องขอความรักจากคนหมดใจ    TrueID",
-      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
-      "creatorAngle": "ตั้งเป็นสถานการณ์สมมติหรือมุมมองทั่วไปเพื่อชวนแลกเปลี่ยน",
-      "promptIdea": "ถ้าเป็นคุณ จะรับมือกับสถานการณ์แบบนี้ยังไง?",
-      "hashtags": [
-        "#RelationshipTalk",
-        "#คุยกันหน่อย",
-        "#SocialTopic",
-        "#\"mute.\"ปล่อย\"ช่วยพูดว่าร"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "TrueID",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBoSUJqMW5JSFVRaWUyQjE0cUgzYlZYeVc5aWdhUk54OVlBZXhMWU9uYVIzZmxrRTYxaWFveDJZNG9XbVdfZTM3V0REVFBUZEtBNzRfb0lHc25oR0pVeGVN?oc=5"
-        }
-      ],
-      "updatedAt": "2026-07-24T11:00:00+07:00"
-    },
     {
       "id": "legacy-of-thai-textiles-fashion-07901f6fea",
       "title": "'กรมประชาสัมพันธ์' จัดงาน Legacy of Thai Textiles & Fashion ดันผ้าไทยสู่แฟชั่นร่วมสมัย",
@@ -108,6 +82,32 @@
       "updatedAt": "2026-07-29T17:12:32+07:00"
     },
     {
+      "id": "caf-amazon-experience-4a1cb1d4fa",
+      "title": "Café Amazon Experience แลนด์มาร์กใหม่แห่ง ‘อารีย์’ พา ‘คาเฟ่ อเมซอน’ สู่เชนร้านกาแฟระดับโลก",
+      "sourceType": "news",
+      "category": "food",
+      "contentPotential": "high",
+      "riskLevel": "low",
+      "summary": "ข่าวจาก Google News keyword: คาเฟ่ / source: Marketeer Online - Café Amazon Experience แลนด์มาร์กใหม่แห่ง ‘อารีย์’ พา ‘คาเฟ่ อเมซอน’ สู่เชนร้านกาแฟระดับโลก    Marketeer Online",
+      "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
+      "creatorAngle": "ให้ Creator เล่าประสบการณ์ร้าน/เมนูที่อยากลอง แล้วถามคนอื่นว่าคิดเหมือนกันไหม",
+      "promptIdea": "เห็นคนพูดถึงเมนูนี้เยอะมาก มีใครลองแล้วบ้าง?",
+      "hashtags": [
+        "#FoodTrend",
+        "#CafeTH",
+        "#รีวิวของกิน",
+        "#CaféAmazonExperienceแลนด"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Marketeer Online",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBYaTYxUU5OdWRHTElOWnpEa1QycmFzTlh3U251NU5BTTB1elc5T0dNTkpzSWhKVUxPMkZ6OHk1WXp2QktwR1ItdXp2Y3RYOTJYb2JlOA?oc=5"
+        }
+      ],
+      "updatedAt": "2026-07-27T14:00:00+07:00"
+    },
+    {
       "id": "duang-with-you-series-limited-version-ne-0d56a8cbe8",
       "title": "Duang With You Series – Limited Version มีให้ชมแล้วทาง Netflix",
       "sourceType": "news",
@@ -184,58 +184,6 @@
         }
       ],
       "updatedAt": "2026-07-30T21:01:10+07:00"
-    },
-    {
-      "id": "justin-lee-our-place-d86cc4e0d7",
-      "title": "กรุงเทพมหานคร. Justin Lee · Our Place. 🌿 ฮีลใจริมน้ำ... จิบกาแฟในอาคารประวัติศาสตร์สุดคลาสสิกที่ไม่ได้เปิดบ่อยๆ! ✨ พาตัวเองมาพักผ่อนกับ \"ฮีลใจคาเฟ่ & เบเกอรี่\" สัมผัสเ...",
-      "sourceType": "news",
-      "category": "food",
-      "contentPotential": "high",
-      "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: คาเฟ่ / source: facebook.com - กรุงเทพมหานคร. Justin Lee · Our Place. 🌿 ฮีลใจริมน้ำ... จิบกาแฟในอาคารประวัติศาสตร์สุดคลาสสิกที่ไม่ได้เปิดบ่อยๆ! ✨ พาตัวเองมาพักผ่อนกับ \"ฮีลใจคาเฟ่ & เบเกอรี่\" สัมผัสเสน่ห์จุดบรรจบ",
-      "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
-      "creatorAngle": "ให้ Creator เล่าประสบการณ์ร้าน/เมนูที่อยากลอง แล้วถามคนอื่นว่าคิดเหมือนกันไหม",
-      "promptIdea": "เห็นคนพูดถึงเมนูนี้เยอะมาก มีใครลองแล้วบ้าง?",
-      "hashtags": [
-        "#FoodTrend",
-        "#CafeTH",
-        "#รีวิวของกิน",
-        "#กรุงเทพมหานคร.JustinLee·"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "facebook.com",
-          "url": "https://news.google.com/rss/articles/CBMijghBVV95cUxNSUhiRk9lblA0SzhVMm9HZjJPVURMMEN1b25FajBheDh6Wm5KQ3EzZTJWc2JkSFlvYVpPMjBUZEtzUERRMTB4VXBsYUxpM3Y5ZXpPLVM1bHVrLXNsYkVMd0NVY1pDZzBUQklodUx1dUNmMVhCYTMya01QSElNdGVOcDdNVmp0anBBTFFPZ3F6cndHbU1meGd6WHYtNGFaekZaLWFiVzJKS1lqY19BcDBsa0haVWozY1VjS1JYemx6MkdmQnRTek1ycmkwOGNfWHl4R1FsY0dvRDdhWndIT0tDV3I0RE9malp2aXhCZ3daYmszdExWYk45cWFSYzd0T0o2QTVvWmszWkYtY25vX2QydlVaU0ZZM3NBZ255MV9hQ2dWTE50S1JfT0pZYk5ZcFhMWXdYZVIyUmdGNzNZbElQbXlZZTVrM1hBYWZfd0ppNWdsd1ZjcjJYbURLZWhFYk5XOTVPRWc4X1NTQ3N2T0NRd3ZnUktHU3VVbFVMOFpVT1pUb3pVLW9mQTFYaHN6Q2d4NUZYQ1pJa185YzNyY25adnIyb21OUl8yNGVTeWxvN2lmWkoxdVlhWmVVRS02UXhUaC1GVDFBTzRoNlpCbnJPQnlyaVVmSkItclVFaWVoUnFLNlVLQWJhWDAyRTlNbXN6b2otcXdta1d6cVhxQmVVV3pZcmZJTERfaUQ3LUMxbjIteHNlODV2Z2x3TUR4bjVGWUhfdnBzdnZUT1VyOHE3Sm5tbkp5dTRuZnpCZVpSTy1lWURHZXZvN291dWswRnE1alRxWVZCWEJsWV8xMWtoc0w1TUdFM0xzeGdrNzdqSkpMaDZsTWgycE9JdmRwSnctVVMzSE1LejhHRlNfZjlrUmhXSzlxQjNPUjVIYUZGY0dnWFZuLVdCNEtkZW9xaloxTmQwdlA5YzFQM0pSbzZjd0JXN00tdkJQVWR2WmlzQnlYUDBGNzZYR0hYM3J3dER6QkxwMDcxYThPUXBzM3BYU29RSEVhaDR1eVBLVlRNX1ZmSlRkQXRXcDJpYmVCdmJFcmJmS1dzY2dXOHR1cWdvbk1NRVhCdE41ZXhmeF9vbWVGMUlVVlRzWmJYdk44ZnhHOFZSSW10RHVFTWpXeTFJY240MVZJNlk2TDNhaGtpUThxX0hXSm9LYWk2NGRPdjVhTHBWZl9Ha1IzV0F6UndUdG5MSGRJOXBqUzQweEJQNUtsbVBhc1psZ1MtaEpNb1hUNDUtX3h6UkdVbFhUUHUtMm1nY0JtUGVuZDI5TFE0Q184Zmp1Vi1XWndwQndfYWZHdzczbENQWi10MTNKd2hKaFlTZERjTzEwc2REM00tX2NyMXlUX2VOTXpOUUd2RUdZZko0WGdRVEJ6ZEthNFE?oc=5"
-        }
-      ],
-      "updatedAt": "2026-07-29T09:53:26+07:00"
-    },
-    {
-      "id": "topic-7e3efd12a9",
-      "title": "คาเฟ่ อเมซอน ทำไมจึงยืนหนึ่งในใจคอกาแฟชาวไทย (วิเคราะห์)",
-      "sourceType": "news",
-      "category": "food",
-      "contentPotential": "high",
-      "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: คาเฟ่ / source: Marketeer Online - คาเฟ่ อเมซอน ทำไมจึงยืนหนึ่งในใจคอกาแฟชาวไทย (วิเคราะห์)    Marketeer Online",
-      "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
-      "creatorAngle": "ให้ Creator เล่าประสบการณ์ร้าน/เมนูที่อยากลอง แล้วถามคนอื่นว่าคิดเหมือนกันไหม",
-      "promptIdea": "เห็นคนพูดถึงเมนูนี้เยอะมาก มีใครลองแล้วบ้าง?",
-      "hashtags": [
-        "#FoodTrend",
-        "#CafeTH",
-        "#รีวิวของกิน",
-        "#คาเฟ่อเมซอนทำไมจึงยืนหนึ"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Marketeer Online",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBIcDFhb2NMMmQxTDBYUDNrOTU3VXpkYm5OVmlQVmZvSkxxcktaZFhuNW9wU0xBeDA0V01UR1I3OU5DSk53ZE5CbUE2aUFhaVZsVnl1OQ?oc=5"
-        }
-      ],
-      "updatedAt": "2026-07-27T14:00:00+07:00"
     },
     {
       "id": "topic-6abd734433",
@@ -498,8 +446,34 @@
       "updatedAt": "2026-07-25T14:54:00+07:00"
     },
     {
-      "id": "leopold-aschenbrenner-c139ac82d3",
-      "title": "leopold aschenbrenner",
+      "id": "jennie-less-than-a-lover-158a67bf42",
+      "title": "JENNIE ปล่อยซิงเกิล Less than a Lover ที่เล่าถึงความสัมพันธ์ช่วงหน้าร้อน",
+      "sourceType": "news",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "ข่าวจาก Google News keyword: ความสัมพันธ์ / source: thestandard.co - JENNIE ปล่อยซิงเกิล Less than a Lover ที่เล่าถึงความสัมพันธ์ช่วงหน้าร้อน    thestandard.co",
+      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#JENNIEปล่อยซิงเกิลLessth"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "thestandard.co",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBmdnFfSWFaS0ZjNFI1YWZGS1lPdkdaRngtWV9SMG10OUZBbm1wT2lHbDJhWjdYX0E3ZGs3cGsyOUZrMzNqSTc0cEtETVI5XzhSUWpFb2VTQm9DdGplVWY1a182NlpkSzFhU0owbTF3?oc=5"
+        }
+      ],
+      "updatedAt": "2026-07-31T08:07:14+07:00"
+    },
+    {
+      "id": "ceuta-572b0f8c10",
+      "title": "ceuta",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
@@ -512,7 +486,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#leopoldaschenbrenner"
+        "#ceuta"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -521,23 +495,23 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "Situational Awareness: KI-Verluste bringen prominenten Hedgefonds in Not",
-          "url": "https://www.handelsblatt.com/finanzen/maerkte/boerse-inside/situational-awareness-ki-verluste-bringen-prominenten-hedgefonds-in-not/100244077.html"
+          "title": "Máxima alerta en Ceuta tras el cruce descontrolado de miles de personas desde Marruecos que deja al menos 18 muertos",
+          "url": "https://elpais.com/espana/2026-07-30/otra-manana-de-centenares-de-entradas-de-inmigrantes-a-ceuta-pone-en-jaque-a-la-ciudad-autonoma.html"
         },
         {
-          "title": "Asien-Aktienfonds unter Stock-Pickern steuern auf Rekordverlust im Monat zu, sagt Goldman",
-          "url": "https://de.marketscreener.com/boerse-nachrichten/asien-aktienfonds-unter-stock-pickern-steuern-auf-rekordverlust-im-monat-zu-sagt-goldman-ce7f50dad98cf620"
+          "title": "Si el Ejército apaga incendios, ¿por qué no puede proteger la frontera de Ceuta?",
+          "url": "https://okdiario.com/opinion/si-ejercito-apaga-incendios-que-no-puede-proteger-frontera-ceuta-19100070"
         },
         {
-          "title": "Ehemaliger OpenAI-Forscher setzt bei Hedgefonds auf fallende Kurse von KI-Chip-Aktien",
-          "url": "https://www.cryptopolitan.com/de/ex-openai-researcher-bets-against-ai-stocks/"
+          "title": "Del líder saharaui al gas de Argelia: los gestos de España que han precedido a entradas masivas de migrantes desde Marruecos",
+          "url": "https://www.20minutos.es/nacional/lider-saharaui-gas-argelia-los-gestos-espana-que-han-precedido-entradas-masivas-migrantes-desde-marruecos_7021080_0.html"
         }
       ],
-      "updatedAt": "2026-07-30T22:50:00+07:00"
+      "updatedAt": "2026-07-31T08:00:00+07:00"
     },
     {
-      "id": "the-punisher-0eef8f63ce",
-      "title": "the punisher",
+      "id": "fc-bayern-munich-d7a6ab38e4",
+      "title": "fc bayern munich",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
@@ -550,7 +524,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#thepunisher"
+        "#fcbayernmunich"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -559,23 +533,23 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "Do Spider-Man & Punisher Recreate Civil War’s Iconic Panel? Tom Holland Answers",
-          "url": "https://www.yahoo.com/entertainment/movies/articles/spider-man-punisher-recreate-civil-034150343.html"
+          "title": "How & Where to Watch Rottach-Egern vs. Bayern Munich? Start Time, Live Streaming and TV Channels for Pre-Season Friendly",
+          "url": "https://athlonsports.com/soccer/how-where-to-watch-rottach-egern-vs-bayern-munich-time-live-streaming-tv-channels"
         },
         {
-          "title": "Why Spider-Man: Brand New Day Wouldn’t Work Without Jon Bernthal’s Punisher",
-          "url": "https://www.aol.com/articles/why-spider-man-brand-day-125800000.html"
+          "title": "Jonathan Tah happy with 15-0 win, wants to turn the page on the World Cup",
+          "url": "https://www.bavarianfootballworks.com/bayern-munich-bundesliga/237459/jonathan-tah-happy-with-15-0-win-wants-to-turn-the-page-on-the-world-cup"
         },
         {
-          "title": "Spider-Man & Punisher Remaking Iconic Civil War Panel Teased By Tom Holland",
-          "url": "https://screenrant.com/spiderman-punisher-civil-war-panel-mcu-recreation-tease-tom-holland/"
+          "title": "First World Cup participants start pre-season with performance diagnostics tests",
+          "url": "https://fcbayern.com/en/news/2026/07/first-world-cup-participants-start-pre-season-with-performance-diagnostics-tests"
         }
       ],
-      "updatedAt": "2026-07-30T22:50:00+07:00"
+      "updatedAt": "2026-07-31T08:00:00+07:00"
     },
     {
-      "id": "vct-pacific-stage-2-b519eff858",
-      "title": "vct pacific stage 2",
+      "id": "kospi-index-34683bcc4c",
+      "title": "kospi index",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
@@ -588,7 +562,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#vctpacificstage2"
+        "#kospiindex"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -597,49 +571,23 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "VALORANT Challengers Japan 2026 Season Finals 結果発表",
-          "url": "https://valorantesports.com/ja-jp/news/valorant-challengers-japan-2026-season-finals-result"
+          "title": "SK Hynix shares surge 25%, while Samsung soars over 20% as AI rally roars back",
+          "url": "https://www.cnbc.com/2026/07/31/sk-hynix-samsung-ai-rally-chipmakers.html"
         },
         {
-          "title": "これであなたもVCTウォッチer！大会観戦の不安を消し去る即効性、超便利ツール5選！！！",
-          "url": "https://e-sportsgg.com/News/cvCcEXUb"
+          "title": "South Korea's Kospi rises 14%",
+          "url": "https://investinglive.com/stocks/south-korea-s-kospi-rises-14/"
         },
         {
-          "title": "「新規層を沼らせる立役者になりたい」CR Adeさんが語る注目選手や強豪の共通点、今後のVALORANTシーンへの期待とは？",
-          "url": "https://news.nicovideo.jp/watch/nw19597020?news_ref=top_newComments"
+          "title": "Seoul shares start 13% higher on US tech gains driven by Microsoft's strong earnings",
+          "url": "https://www.koreaherald.com/article/10826596"
         }
       ],
-      "updatedAt": "2026-07-30T21:30:00+07:00"
+      "updatedAt": "2026-07-31T08:00:00+07:00"
     },
     {
-      "id": "topic-2d650bc1d9",
-      "title": "ความสัมพันธ์ไทย-จีน เกิดอะไรขึ้นกันแน่",
-      "sourceType": "news",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: ความสัมพันธ์ / source: มติชนออนไลน์ - ความสัมพันธ์ไทย-จีน เกิดอะไรขึ้นกันแน่    มติชนออนไลน์",
-      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#ความสัมพันธ์ไทย-จีนเกิดอ"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "มติชนออนไลน์",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9tWEhxQ0gxd09sODlFdm9OeERucHRqc0VaSzNBOENfTzFhZ295eV9xV0ZnQUJoTWpLVWVlZlRiLXlhSDRKTHowU0w4eWJjSlpyWjFzVXFBbHBkd0h2Rm1jX3M5Qk4?oc=5"
-        }
-      ],
-      "updatedAt": "2026-07-24T07:45:00+07:00"
-    },
-    {
-      "id": "3-99dcfc8c15",
-      "title": "ช่อง3",
+      "id": "leeds-vs-sunderland-11dd20c8b6",
+      "title": "leeds vs sunderland",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
@@ -652,7 +600,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#ช่อง3"
+        "#leedsvssunderland"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -661,23 +609,61 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "ตีท้ายครัว เปิดใจ กิ๊ก สุวัจนี นางร้ายยุค 90 กลับมารับงาน สวยเซี๊ยะไม่เบา!",
-          "url": "https://entertainment.trueid.net/detail/A9LDB7DRLB19"
+          "title": "Pre-Season Report: Leeds United 1-0 Sunderland",
+          "url": "https://www.leedsunited.com/en/news/pre-season-report-leeds-united-1-0-sunderland"
         },
         {
-          "title": "“พี่ปิ่น ทีวีซีน” คว้า “เก้า นพเก้า” ประกบคู่นางเอกคนสวย",
-          "url": "https://entertainment.trueid.net/detail/bvwqb8xeD0NX"
+          "title": "Licensable picture: Soccer: Leeds United at Sunderland AFC",
+          "url": "https://www.reutersconnect.com/item/soccer-leeds-united-at-sunderland-afc/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMjk0ODUyOTg"
         },
         {
-          "title": "ลือสะพัด! ละครใหม่ช่อง3 ซุ่มเปิดกล้อง? จับคู่พระนางคู่นี้!!",
-          "url": "https://entertain.teenee.com/series/322867.html"
+          "title": "Leeds United predicted XI vs Sunderland, triple injury worry and Tarik Muharemovic decision",
+          "url": "https://onefootball.com/fr/news/leeds-united-predicted-xi-vs-sunderland-triple-injury-worry-and-tarik-muharemovic-decision-43208135"
         }
       ],
-      "updatedAt": "2026-07-30T20:50:00+07:00"
+      "updatedAt": "2026-07-31T07:20:00+07:00"
     },
     {
-      "id": "31-6b2865daa3",
-      "title": "ช่อง31",
+      "id": "topic-bb5c6b26d3",
+      "title": "กระทรวงมหาดไทย",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 1000+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#กระทรวงมหาดไทย"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "จ่อย้ายใหญ่บิ๊กมท. อนุทินจัดทัพใหม่กู้ภาพลักษณ์ ทดแทน 18 เก้าอี้เกษียณอายุพรึบ",
+          "url": "https://www.matichon.co.th/politics/news_5827602"
+        },
+        {
+          "title": "วรศิษฎ์ เผยข้อมูลทุจริตสอบท้องถิ่นครบแล้ว รรอ กสถ. เคาะสัปดาห์หน้า",
+          "url": "https://thestandard.co/worrasit-local-exam-fraud-complete/"
+        },
+        {
+          "title": "กองปราบฯ ขีดเส้น 31 ก.ค. ให้ 13 ผู้ต้องหาคดีทุจริตสอบท้องถิ่น เข้ารับทราบข้อกล่าวหา",
+          "url": "https://www.thaipbs.or.th/news/content/508843"
+        }
+      ],
+      "updatedAt": "2026-07-31T10:40:00+07:00"
+    },
+    {
+      "id": "topic-44347b114f",
+      "title": "กุลวุฒิวิทิตศานต์",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
@@ -690,7 +676,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#ช่อง31"
+        "#กุลวุฒิวิทิตศานต์"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -699,99 +685,23 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "เจ๊ทแหลก 2 ย้อนหลัง EP.14 ความสัมพันธ์เชิงซ้อน",
-          "url": "https://www.one31.net/shows/video/26493"
+          "title": "ผลงานไม่ปังส่งผล! อันดับโลกล่าสุด \"วิว กุลวุฒิ\" ของ สหพันธ์แบดมินตันโลก (BWF)",
+          "url": "https://www.sanook.com/sport/1666904/"
         },
         {
-          "title": "Club Friday รักไร้ร่องรอยย้อนหลัง EP.4 (Full.EP)",
-          "url": "https://www.one31.net/shows/video/26488"
+          "title": "อะไรใหม่ๆ! กุลวุฒิ นักแบดมือ2โลก เจอ FC ขอลายเซ็นสุดแปลก (คลิป)",
+          "url": "https://www.khaosod.co.th/sports/news_10341426"
         },
         {
-          "title": "📌 เรื่องย่อ ติวเธอร์ที่รัก EP.12 วันพฤหัสบดีที่ 30 กรกฎาคม 2569",
-          "url": "https://www.one31.net/news/detail/79830"
+          "title": "อะไรใหม่ๆ! กุลวุฒิ นักแบดมือ2โลก เจอ FC ขอลายเซ็นสุดแปลก (คลิป) | Khaosod",
+          "url": "https://today.line.me/th/v3/article/1DlYvyM"
         }
       ],
-      "updatedAt": "2026-07-30T21:10:00+07:00"
+      "updatedAt": "2026-07-31T11:00:00+07:00"
     },
     {
-      "id": "topic-126643c993",
-      "title": "ช่องวัน",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#ช่องวัน"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "\"วิมานอากาศ Sky Castle Thailand\" สงครามพ่อแม่ชนชั้นสูง ฟาดกันด้วยเกมการศึกษา",
-          "url": "https://www.sanook.com/movie/189242/"
-        },
-        {
-          "title": "\"ก้อย กรกช\" นักบินสาวสวย หวนคืนจออีกครั้งใน \"วิมานอากาศ Sky Castle Thailand\"",
-          "url": "https://entertainment.trueid.net/detail/eJeWa8ObMog7"
-        },
-        {
-          "title": "“นุ่น-อ้อม-ออกัส-เล้ง-ริว-น้ำฟ้า-ชิงชิง-แทน” นำทีมเสิร์ฟมหกรรมรีเมค! | daradaily",
-          "url": "https://today.line.me/th/v3/article/gzRa1MG"
-        }
-      ],
-      "updatedAt": "2026-07-30T21:10:00+07:00"
-    },
-    {
-      "id": "topic-61b3b3da3d",
-      "title": "ถ่ายทอดสดหวยลาววันนี้",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 10000+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#ถ่ายทอดสดหวยลาววันนี้"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "หวยลาววันนี้ 30/07/69 ถ่ายทอดสดหวยลาว หวยลาวพัฒนา 30 กรกฎาคม 2569",
-          "url": "https://www.komchadluek.net/lottery/check-lottery/620544"
-        },
-        {
-          "title": "หวยลาววันนี้ งวดประจำวันที่ 28 กรกฎาคม 2569 ผลหวยพัฒนา ตรวจรางวัล ล่าสุด หวยลาว ออกอะไร",
-          "url": "https://www.khaosod.co.th/laolottery/news_10340707"
-        },
-        {
-          "title": "หวยลาววันนี้ 28/7/69 ออกเลข 950480 เช็กผลสลากพัฒนา",
-          "url": "https://readthecloud.co/%E0%B8%AB%E0%B8%A7%E0%B8%A2%E0%B8%A5%E0%B8%B2%E0%B8%A7%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%99%E0%B8%B5%E0%B9%89-28-7-69/"
-        }
-      ],
-      "updatedAt": "2026-07-30T20:50:00+07:00"
-    },
-    {
-      "id": "topic-43f63f24ff",
-      "title": "บาเยิร์น",
+      "id": "topic-2f899375e9",
+      "title": "ทับทิมอัญรินทร์",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
@@ -804,7 +714,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#บาเยิร์น"
+        "#ทับทิมอัญรินทร์"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -813,19 +723,19 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "การทำนายของ Rottach-Egern vs FC Bayern München: ผู้เล่นตัวจริงที่คาดหวัง",
-          "url": "https://www.vietnam.vn/th/nhan-dinh-rottach-egern-vs-fc-bayern-munchen-doi-hinh-du-kien"
+          "title": "สลิ้งแตก! \"ไทด์ เอกพันธ์\" วอนงดส่งคลิป “ทับทิม” เล่นเลิฟซีนขยี้ปากชายอื่น",
+          "url": "https://www.thairath.co.th/entertain/news/2949423"
         },
         {
-          "title": "\"นอยเออร์\" นายทวารบาเยิร์น เตรียมแขวนถุงมือเมื่อจบฤดูกาล 2026-27",
-          "url": "https://www.pptvhd36.com/sport/news/280515"
+          "title": "“ทับทิม-ไทด์” ควงกันเที่ยวออสเตรเลีย คุณแม่คุมเข้ม เผยเหตุผลที่ไม่เคยให้อยู่กัน 2 คน",
+          "url": "https://today.line.me/th/v3/posts/list/article/vX8w5aj"
         },
         {
-          "title": "นายทวารจอมเก๋า มานูเอล นอยเออร์ แย้มแขวนถุงมือหลังจบฤดูกาล 2026-27 | Khaosod",
-          "url": "https://today.line.me/th/v3/article/YaRk6aL"
+          "title": "ไทด์ จี๊ด รับไม่ได้! เห็นฉากจูบเดือดของ ทับทิม วอนอย่าส่งคลิปมายั่ว ขออย่าเล่นเลิฟซีนดูดดื่มอีก",
+          "url": "https://www.khaosod.co.th/entertainment/news_10341959"
         }
       ],
-      "updatedAt": "2026-07-31T00:00:00+07:00"
+      "updatedAt": "2026-07-31T08:40:00+07:00"
     },
     {
       "id": "sea-v-cup-2026-2-12f12a0422",
@@ -880,6 +790,44 @@
       "updatedAt": "2026-07-27T14:30:00+07:00"
     },
     {
+      "id": "topic-7c382604fe",
+      "title": "รถถัง จิตรเมืองนนท์",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 100+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#รถถังจิตรเมืองนนท์"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "รถถัง ขอโทษ ONE ยอมรับเดินผิดทาง ลั่นขอกลับมาคว้าแชมป์โลกอีกครั้ง",
+          "url": "https://www.siamsport.co.th/other-sports/boxing/107322/"
+        },
+        {
+          "title": "\"รถถัง\" โพสต์เคลียร์ทุกดราม่ากับ \"ONE\" หนสุดท้าย-หวังกลับมาคว้าแชมป์โลก",
+          "url": "https://www.thairath.co.th/sport/fightsport/muaythai/2949591"
+        },
+        {
+          "title": "พูดคุยกับ ซ้อเอ๋ หลัง รถถัง จิตรเมืองนนท์ เคลียร์ใจ ONE Championship สำเร็จ",
+          "url": "https://www.ch7.com/one-championship/newsc/887897"
+        }
+      ],
+      "updatedAt": "2026-07-31T08:10:00+07:00"
+    },
+    {
       "id": "5-2026-b9db69f57a",
       "title": "ลุ้นเดือด 5 เซต! วอลเลย์บอลชายไทย แผ่วปลายพ่าย เวียดนาม ศึกซี วี คัพ 2026",
       "sourceType": "news",
@@ -906,13 +854,13 @@
       "updatedAt": "2026-07-26T21:30:00+07:00"
     },
     {
-      "id": "topic-27a8b37785",
-      "title": "อธิบดี",
+      "id": "2569-7ec7d79d94",
+      "title": "วันหยุดเดือนสิงหาคม 2569",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 500+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 100+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -920,7 +868,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#อธิบดี"
+        "#วันหยุดเดือนสิงหาคม2569"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -929,19 +877,83 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "กุลยา ตันติเตมิท อดีตอธิบดีสรรพากร รวย 381 ล้าน เงินลงทุนเพียบ มีห้องชุดอารีย์",
-          "url": "https://www.matichon.co.th/politics/news_5827376"
+          "title": "วันหยุดเดือนสิงหาคม 2569 วันหยุดราชการ วันหยุดธนาคาร เช็กเลยหยุดวันไหนบ้าง",
+          "url": "https://www.thairath.co.th/news/society/2949436"
         },
         {
-          "title": "การเมือง - เช็กรายชื่อที่นี่! ครม.ไฟเขียวแต่งตั้ง บิ๊กก.เกษตรฯ 9 ตำแหน่ง อธิบดี-รองปลัด-ผู้ตรวจฯ",
-          "url": "https://www.naewna.com/politic/979773"
+          "title": "วันเข้าพรรษา 30 กรกฎาคม 2569 ธนาคารหยุดไหม เช็กด่วน",
+          "url": "https://www.sanook.com/money/954847/"
         },
         {
-          "title": "ล้างบางเกษตร! “สุริยะ” เข็นโผย้ายใหญ่ระดับบิ๊กเข้า ครม.วันนี้ อ้างปรับทัพเร่งทำผลงาน กลัวฝ่ายค้านซักฟอก",
-          "url": "https://mgronline.com/politics/detail/9690000073599"
+          "title": "เช็กปฏิทินวันหยุดสิงหาคม 2569 วันสำคัญ กิจกรรมท่องเที่ยว",
+          "url": "https://www.thaipbs.or.th/now/content/4253"
         }
       ],
-      "updatedAt": "2026-07-30T22:00:00+07:00"
+      "updatedAt": "2026-07-31T09:20:00+07:00"
+    },
+    {
+      "id": "topic-0f7f0c07f1",
+      "title": "อินเดียและอินโดนีเซียกระชับความสัมพันธ์ด้านกลาโหมและความร่วมมือด้านความมั่นคงทางทะเล",
+      "sourceType": "news",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "ข่าวจาก Google News keyword: ความสัมพันธ์ / source: Indo-Pacific Defense FORUM - อินเดียและอินโดนีเซียกระชับความสัมพันธ์ด้านกลาโหมและความร่วมมือด้านความมั่นคงทางทะเล    Indo-Pacific Defense FORUM",
+      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#อินเดียและอินโดนีเซียกระ"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Indo-Pacific Defense FORUM",
+          "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxOaVFYb2FEZElxeEtwcEZ0Y04zeEMwVWlsb0hKUmFidXRVUUtEaWM5ZC0tTGpxUmdOLWluR3J0ejFFbWFWenZxUnJmeG5ncmdqeTZfLXlNX2lkSkFKNWZGY3VlRjRVNVgzbXgzZzY2d2FFQjh1R2tnR2hQUmpnS2dVNjBkaDB3RnRFcldJX2NhZFAtMllpVFUtSF81T2tIUGR4TG9tTVVrRjd4ZzA2Uk9UVzFQRGdmTmxUeGxLQ3RMRHplSjlzUkJmQ25yOG1tRnllc3pTektfV1VXSi1rbWktUVJURlBYTFdISzhubHV1VS1BVVg0YmNJNUl2MGlYQVlYaElJQUprci0tU0ZIRUEtQkxfY2ktWWIwMmVNTFVTTU1xWTVyM0lsQ3JOaGE2NDdncmxpcDAtcW53akRyWXdmUW0xTjh5SXRWRWhNeVFhWVc4b1UyV2xNay1PMA?oc=5"
+        }
+      ],
+      "updatedAt": "2026-07-28T22:51:53+07:00"
+    },
+    {
+      "id": "topic-55af03bcf2",
+      "title": "เขต ธาราเขต",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 100+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#เขตธาราเขต"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "เลิกอีกคู่! \"เขตต์ ธาราเขต\" เลิก \"เพลง ชนารดี\" ฝ่ายหญิงโพสต์เศร้าปิดฉากรัก 7 ปีจบบริบูรณ์",
+          "url": "https://www.thairath.co.th/entertain/news/2949585"
+        },
+        {
+          "title": "เลิกอีกคู่จบรัก7ปี! อดีตพระเอก เขต - เพลง ดาราสาว ฝ่ายหญิงโพสต์จบบริบูรณ์",
+          "url": "https://www.khaosod.co.th/entertainment/news_10342876"
+        },
+        {
+          "title": "เลิกอีกคู่! นักแสดงสาว ปิดฉากรัก 7 ปีกับพระเอกหนุ่ม",
+          "url": "https://today.line.me/th/v3/article/OpBm2ov?referral=goldupdate"
+        }
+      ],
+      "updatedAt": "2026-07-31T09:10:00+07:00"
     },
     {
       "id": "topic-c7059460e2",
@@ -1022,44 +1034,6 @@
       "updatedAt": "2026-07-27T19:33:29+07:00"
     },
     {
-      "id": "topic-4417738cd8",
-      "title": "โปรแกรมวอลเลย์บอลหญิง",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 100+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#โปรแกรมวอลเลย์บอลหญิง"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "เวียดนามจัดไทย-คู่แข่งพักไกลสนาม “โค้ชอ็อด” โวยไป-กลับ 3 ชม. ชี้ผิดหลักสากล ฝั่งเจ้าภาพได้นอนใกล้สนาม",
-          "url": "https://mgronline.com/sport/detail/9690000074850"
-        },
-        {
-          "title": "“กัปตันนุกนิก” ลั่นพร้อมนำทัพวอลเลย์บอลหญิงไทยเก็บชัยทุกแมตช์ ลุยศึกซี วี คัพ เลกแรก",
-          "url": "https://www.siamsport.co.th/other-sports/volleyball/107258/"
-        },
-        {
-          "title": "นักตบลูกยางสาวไทย ออกเดินทางสู่ฮานอย ลุยศึก SEA V Cup 2026 เลกแรก ประเดิมสนามพบอินโดนีเซีย 31 ก.ย.นี้",
-          "url": "https://news.ch7.com/detail/888070"
-        }
-      ],
-      "updatedAt": "2026-07-30T23:10:00+07:00"
-    },
-    {
       "id": "sea-v-cup-2026-2-3-fb84ff6b07",
       "title": "🏐นักตบหนุ่มไทย 🥈คว้ารองแชมป์ วอลเลย์บอลชาย \"SEA V CUP 2026\" สนาม 2 กรุงจาการ์ตา อินโดนีเซีย 🎉ส่วนรางวัลผู้เล่นยอดเยี่ยมในแต่ละตำแหน่ง หนุ่มนักตบลูกย่างไทยคว้า 3 รางวัล...",
       "sourceType": "news",
@@ -1110,32 +1084,6 @@
         }
       ],
       "updatedAt": "2026-07-28T10:46:00+07:00"
-    },
-    {
-      "id": "bts-31ab6d89fa",
-      "title": "ดราม่าลามต่างประเทศ! \"บริษัททัวร์อิตาลี\" รีบขอโทษคนไทย หลังคลิปวัยรุ่นโชว์กร่างบน BTS แจงเป็นเยาวชน แต่ไม่ใช่ข้ออ้าง",
-      "sourceType": "news",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "medium",
-      "summary": "ข่าวจาก Google News keyword: ดราม่า / source: topnews.co.th - ดราม่าลามต่างประเทศ! \"บริษัททัวร์อิตาลี\" รีบขอโทษคนไทย หลังคลิปวัยรุ่นโชว์กร่างบน BTS แจงเป็นเยาวชน แต่ไม่ใช่ข้ออ้าง    topnews.co.th",
-      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#ดราม่าลามต่างประเทศ!\"บริ"
-      ],
-      "riskNote": "Medium risk ควรเลี่ยงการพาดพิงบุคคลจริงและใช้คำถามเชิงสร้างสรรค์",
-      "sources": [
-        {
-          "title": "topnews.co.th",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB2UGlBTTlrQkYzNXdURDNZV3A1T2ZKQ1JZc0ZQX2JlaDRqQmFBal9NRGhZNTRRQ041b3RhQ011YnpKZElkTDVYa3VFSlQ1d2s?oc=5"
-        }
-      ],
-      "updatedAt": "2026-07-24T19:00:52+07:00"
     },
     {
       "id": "topic-93bf35decf",
@@ -1232,6 +1180,32 @@
       "updatedAt": "2026-07-26T17:58:00+07:00"
     },
     {
+      "id": "topic-7cb02ffda9",
+      "title": "“จ่าพิชิต” ขอรับจบคนเดียว! ขอโทษ “ว่านไฉ” อีกครั้ง และขออภัยชาวเน็ตที่ทำให้เกิดดรามา กล่าวหาว่า “หาแสง”",
+      "sourceType": "news",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "medium",
+      "summary": "ข่าวจาก Google News keyword: ดราม่า / source: ผู้จัดการออนไลน์ - “จ่าพิชิต” ขอรับจบคนเดียว! ขอโทษ “ว่านไฉ” อีกครั้ง และขออภัยชาวเน็ตที่ทำให้เกิดดรามา กล่าวหาว่า “หาแสง”    ผู้จัดการออนไลน์",
+      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#“จ่าพิชิต”ขอรับจบคนเดียว"
+      ],
+      "riskNote": "Medium risk ควรเลี่ยงการพาดพิงบุคคลจริงและใช้คำถามเชิงสร้างสรรค์",
+      "sources": [
+        {
+          "title": "ผู้จัดการออนไลน์",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1lOC10MjBpVjVrR2NWSERrX0stdjQ5d3ZQWGdKSFVvYjdXa1NXcDdvaGE4Sm04TldaYXB0eHp5dHdJcE5hUmxHeGRIVFQ5cFd3VTNtWUI1Sk5FbzdPWWh5WDhtTWluTWs?oc=5"
+        }
+      ],
+      "updatedAt": "2026-07-30T16:03:00+07:00"
+    },
+    {
       "id": "topic-a0c9693fde",
       "title": "“ว่านไฉ อาสาพาไปหลง” ชี้แจง หลังมีดราม่าแจ้งข่าว “ฮลุน โซโล่” ก่อนคนหน้างานที่ดำเนินเรื่อง",
       "sourceType": "news",
@@ -1282,6 +1256,32 @@
         }
       ],
       "updatedAt": "2026-07-30T09:41:00+07:00"
+    },
+    {
+      "id": "7-c4f44dac2c",
+      "title": "ช่วย 7 ขวบพ้นนรก! ตร.บุกทลายคาเฟ่ยานรก แม่ใจร้ายเสพยาพ่นควันใส่หน้าลูกโชว์ลูกค้า",
+      "sourceType": "news",
+      "category": "food",
+      "contentPotential": "low",
+      "riskLevel": "high",
+      "summary": "ข่าวจาก Google News keyword: คาเฟ่ / source: เดลินิวส์ - ช่วย 7 ขวบพ้นนรก! ตร.บุกทลายคาเฟ่ยานรก แม่ใจร้ายเสพยาพ่นควันใส่หน้าลูกโชว์ลูกค้า    เดลินิวส์",
+      "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
+      "creatorAngle": "ใช้เป็นข้อมูลเฝ้าระวังมากกว่าบรีฟโพสต์ หากต้องใช้ควรให้ทีม review ก่อน",
+      "promptIdea": "เรื่องนี้ควรเช็กข้อมูลก่อนแชร์ ทุกคนคิดว่าเราควรระวังอะไรบ้าง?",
+      "hashtags": [
+        "#FoodTrend",
+        "#CafeTH",
+        "#รีวิวของกิน",
+        "#ช่วย7ขวบพ้นนรก!ตร.บุกทลา"
+      ],
+      "riskNote": "High risk ควรให้ทีม review ก่อนนำไป brief Creator และไม่ควรชวนดราม่า",
+      "sources": [
+        {
+          "title": "เดลินิวส์",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1OYnF5dEc2Nl80VHktZjZIWVFFX1RNUWMyR2JReE5xLUV1RTRSTUdaeHMwZnlJcTFULURNRk41V3d1RWRlOXdOT3A1NzNsM0VOX1Rv?oc=5"
+        }
+      ],
+      "updatedAt": "2026-07-24T12:23:00+07:00"
     },
     {
       "id": "7-68013b3372",
