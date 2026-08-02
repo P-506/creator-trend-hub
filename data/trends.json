@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T16:10:18.891759+07:00",
+  "generatedAt": "2026-08-02T18:17:55.736770+07:00",
   "dateRange": "2026-07-26 to 2026-08-02",
   "sourceErrors": [],
   "topics": [
@@ -342,6 +342,32 @@
       "updatedAt": "2026-08-01T17:20:04+07:00"
     },
     {
+      "id": "the-stone-minor-food-50-000-21156c6354",
+      "title": "มาแล้ว “The Stone” ร้านอาหารญี่ปุ่นแบรนด์แรกของ Minor Food ท้าตลาด 50,000 ล้าน ด้วยเกมใหม่ “อุด้งหม้อหินร้อน”",
+      "sourceType": "news",
+      "category": "food",
+      "contentPotential": "high",
+      "riskLevel": "low",
+      "summary": "ข่าวจาก Google News keyword: อาหาร / source: Marketeer Online - มาแล้ว “The Stone” ร้านอาหารญี่ปุ่นแบรนด์แรกของ Minor Food ท้าตลาด 50,000 ล้าน ด้วยเกมใหม่ “อุด้งหม้อหินร้อน”    Marketeer Online",
+      "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
+      "creatorAngle": "ให้ Creator เล่าประสบการณ์ร้าน/เมนูที่อยากลอง แล้วถามคนอื่นว่าคิดเหมือนกันไหม",
+      "promptIdea": "เห็นคนพูดถึงเมนูนี้เยอะมาก มีใครลองแล้วบ้าง?",
+      "hashtags": [
+        "#FoodTrend",
+        "#CafeTH",
+        "#รีวิวของกิน",
+        "#มาแล้ว“TheStone”ร้านอาหา"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Marketeer Online",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE94WTZiRUJMdUxYa283V2N4Tl91MUw1eXQ4S1RFUTlkSXo4bTRaUUpoUE9nQzU5bXVULWg5RFYtQ1hXYm5ySE55MTctUHBNU2ltVGV6Xw?oc=5"
+        }
+      ],
+      "updatedAt": "2026-07-31T14:00:00+07:00"
+    },
+    {
       "id": "landscape-cafe-and-eatery-734dbdc279",
       "title": "รีวิว Landscape CAFE and Eatery บ้านบึง ชลบุรี",
       "sourceType": "news",
@@ -472,8 +498,34 @@
       "updatedAt": "2026-07-27T14:00:00+07:00"
     },
     {
-      "id": "click-b93ec56608",
-      "title": "click",
+      "id": "jennie-less-than-a-lover-158a67bf42",
+      "title": "JENNIE ปล่อยซิงเกิล Less than a Lover ที่เล่าถึงความสัมพันธ์ช่วงหน้าร้อน",
+      "sourceType": "news",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "ข่าวจาก Google News keyword: ความสัมพันธ์ / source: thestandard.co - JENNIE ปล่อยซิงเกิล Less than a Lover ที่เล่าถึงความสัมพันธ์ช่วงหน้าร้อน    thestandard.co",
+      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#JENNIEปล่อยซิงเกิลLessth"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "thestandard.co",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBmdnFfSWFaS0ZjNFI1YWZGS1lPdkdaRngtWV9SMG10OUZBbm1wT2lHbDJhWjdYX0E3ZGs3cGsyOUZrMzNqSTc0cEtETVI5XzhSUWpFb2VTQm9DdGplVWY1a182NlpkSzFhU0owbTF3?oc=5"
+        }
+      ],
+      "updatedAt": "2026-08-02T08:10:08+07:00"
+    },
+    {
+      "id": "vnl-2026-men-584c644831",
+      "title": "vnl 2026 men",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
@@ -486,7 +538,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#click"
+        "#vnl2026men"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -495,61 +547,23 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "ลุ้นเปิดตัว Honda Click EVO 160 โฉมใหม่ ในไทย 4 สิงหาคมนี้",
-          "url": "https://www.greatbiker.com/honda-click-evo-160-thailand/"
+          "title": "Poland and USA to determine VNL 2026 champions in remake of 2023 final",
+          "url": "https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/news/poland-and-usa-to-determine-vnl-2026-champions-in-remake-of-2023-final"
         },
         {
-          "title": "Honda เปิด 3 รุ่น วันที่ 4 สิงหาคม มีรุ่นไหนบ้าง?",
-          "url": "https://www.motorival.com/honda-launch-additional-new-models-2026/"
+          "title": "U.S. Men to Play for 2026 VNL Gold After Dramatic Win over Previously Unbeaten Japan",
+          "url": "https://usavolleyball.org/story/u-s-men-to-play-for-2026-vnl-gold-after-dramatic-win-over-previously-unbeaten-japan/"
         },
         {
-          "title": "เจาะลึก Honda Stylo 160 2026 สกู๊ตเตอร์แนวคลาสสิก-โมเดิร์น รุ่นใหม่",
-          "url": "https://www.greatbiker.com/honda-stylo-160-2026-scooter-detail/"
+          "title": "2026 Men's Volleyball Nations League: Semifinal - Japan vs USA",
+          "url": "https://www.cbc.ca/player/play/video/9.7288322"
         }
       ],
-      "updatedAt": "2026-08-02T12:30:00+07:00"
+      "updatedAt": "2026-08-02T17:10:00+07:00"
     },
     {
-      "id": "el-ni-o-7ce64f6bee",
-      "title": "el niño",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#elniño"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "Intensificación de un fuerte episodio de El Niño en un contexto de temperaturas superiores a lo normal y cambios drásticos en las pautas de precipitación en gran parte del planeta",
-          "url": "https://wmo.int/es/media/news/intensificacion-de-un-fuerte-episodio-de-el-nino-en-un-contexto-de-temperaturas-superiores-lo-normal"
-        },
-        {
-          "title": "“Niño Godzilla”: advierten que un preocupante fenómeno amenaza al principal sector económico de la Argentina",
-          "url": "https://www.infobae.com/economia/2026/08/01/nino-godzilla-advierten-que-un-preocupante-fenomeno-amenaza-al-principal-sector-economico-de-la-argentina/"
-        },
-        {
-          "title": "La ONU alerta: El Niño amplificará los extremos tras los incendios en Europa",
-          "url": "https://aviaciondigital.com/el-nino-incendios-forestales-europa-2026/"
-        }
-      ],
-      "updatedAt": "2026-08-02T12:10:00+07:00"
-    },
-    {
-      "id": "weather-f98669cc9b",
-      "title": "weather",
+      "id": "vnl-4969d60d5a",
+      "title": "vnl ชาย",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
@@ -562,7 +576,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#weather"
+        "#vnlชาย"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -571,19 +585,19 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "Hotter than July? Here's what the UAE can expect this August",
-          "url": "https://gulfnews.com/uae/weather/what-august-will-bring-to-the-uae-heat-humidity-and-rain-1.500628218"
+          "title": "ได้ 2 ทีมแกร่ง! เปิดชื่อคู่ชิงชนะเลิศ วอลเลย์บอลชาย เนชันส์ลีก 2026",
+          "url": "https://www.sanook.com/sport/1667014/"
         },
         {
-          "title": "Abu Dhabi Sizzles: Temperatures Hit 55°C Amidst Heatwave",
-          "url": "https://lovin.co/abudhabi/en/news/temperatures-have-reached-55c-in-abu-dhabi/"
+          "title": "เปิดโปรแกรมวอลเลย์บอลชายเนชันส์ ลีก VNL 2026 นัดชิงชนะเลิศ",
+          "url": "https://www.pptvhd36.com/sport/news/280704"
         },
         {
-          "title": "NCM: Clear to partly cloudy skies, eastern clouds Sunday",
-          "url": "https://sharjah24.ae/en/Articles/2026/08/01/a3"
+          "title": "ดูวอลเลย์บอลชายสด สหรัฐอเมริกา พบ โปแลนด์ ถ่ายทอดสดวอลเลย์บอลชาย เนชันส์ลีก 2026 วันที่ 2 ส.ค. 69 เช็กเวลาแข่ง-ช่องถ่ายทอดสด",
+          "url": "https://www.siamsport.co.th/other-sports/volleyball/107444/"
         }
       ],
-      "updatedAt": "2026-08-02T12:10:00+07:00"
+      "updatedAt": "2026-08-02T14:40:00+07:00"
     },
     {
       "id": "7-e95fc6578e",
@@ -592,7 +606,7 @@
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 100+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -624,13 +638,51 @@
       "updatedAt": "2026-08-02T15:00:00+07:00"
     },
     {
+      "id": "topic-99df6ba1f2",
+      "title": "ซีพี ออลล์",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#ซีพีออลล์"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "เซเว่นฯ คุมเข้มสินค้ารีเซล ร่อนประกาศห้ามขายต่อ ALL Café ฝ่าฝืนเจอดำเนินคดี",
+          "url": "https://www.thansettakij.com/business/665411"
+        },
+        {
+          "title": "ข่าว Like สาระ - CP ALL ชี้แจงช่องทางจำหน่าย ALL Café ย้ำไม่รับรองคุณภาพสินค้านอกระบบ",
+          "url": "https://www.naewna.com/likesara/980915"
+        },
+        {
+          "title": "ซีพี ออลล์ เตือนห้ามนำสินค้า ALL Cafe ขายผ่านออนไลน์ที่ไม่ได้รับอนุญาต ขู่ฟ้องตามกฎหมาย",
+          "url": "https://brickinfotv.com/news/318977"
+        }
+      ],
+      "updatedAt": "2026-08-02T16:40:00+07:00"
+    },
+    {
       "id": "tiktok-0f72849d29",
       "title": "ทำไมคอนเทนต์ ทฤษฎีความผูกพัน ใน TikTok อาจกำลังอธิบายเรื่องนี้แบบคลาดเคลื่อน",
       "sourceType": "news",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: ความสัมพันธ์ / source: BBC - ทำไมคอนเทนต์ ทฤษฎีความผูกพัน ใน TikTok อาจกำลังอธิบายเรื่องนี้แบบคลาดเคลื่อน    BBC",
+      "summary": "ข่าวจาก Google News keyword: ความสัมพันธ์ / source: bbc.com - ทำไมคอนเทนต์ ทฤษฎีความผูกพัน ใน TikTok อาจกำลังอธิบายเรื่องนี้แบบคลาดเคลื่อน    bbc.com",
       "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -643,49 +695,37 @@
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
         {
-          "title": "BBC",
+          "title": "bbc.com",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBlVUNQWVlERHk1RHE5QXFZb3VCaDh2Y3ZDbWg1MjZIUk1OemxNUmJtcFExWnNEV01TWThEZFZYRi1oZzNELVdXUzlHaDBic3NaMm9lQnhqdWRSQdIBX0FVX3lxTE1KYzNuUTJ1UFdSbXpLd3d2aFdjSWxsQzlYNk85VWk0RDYtT0tYbkx2TlU4RkhrVEprSi1SYjRickgxbFFHOEJUWFZPc01tNFlyWjBERHlJbFRwclpKeVNz?oc=5"
         }
       ],
       "updatedAt": "2026-07-29T17:05:31+07:00"
     },
     {
-      "id": "1-69-68af68fb66",
-      "title": "ผล สลาก ออมสิน วัน ที่ 1 สิงหาคม 69",
-      "sourceType": "trends",
+      "id": "3-1-sea-v-cup-2026-e545fb27cf",
+      "title": "ผลวอลเลย์บอลหญิงไทย ชนะ อินโดนีเซีย 3-1 นัดประเดิมสนาม SEA V Cup 2026",
+      "sourceType": "news",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 1000+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "summary": "ข่าวจาก Google News keyword: วอลเลย์บอล / source: pptvhd36 - ผลวอลเลย์บอลหญิงไทย ชนะ อินโดนีเซีย 3-1 นัดประเดิมสนาม SEA V Cup 2026    pptvhd36",
+      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
       "hashtags": [
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#ผลสลากออมสินวันที่1สิงหา"
+        "#ผลวอลเลย์บอลหญิงไทยชนะอิ"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
         {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "ตรวจผลรางวัลสลากออมสินพิเศษ 2 ปี วันที่ 1 สิงหาคม 2569",
-          "url": "https://www.pptvhd36.com/news/%E0%B8%A5%E0%B8%AD%E0%B8%95%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B8%B5%E0%B9%88/280634"
-        },
-        {
-          "title": "สถิติหวยออมสิน 1 สิงหาคม 2569 ผลสลากออมสิน 1/8/69 วันนี้",
-          "url": "https://www.sanook.com/money/954875/"
-        },
-        {
-          "title": "ตรวจหวยออมสิน สลากกินแบ่งรัฐบาล หวยงวดนี้ 1 สิงหาคม 69 เช็กรางวัลที่ 1",
-          "url": "https://www.thansettakij.com/thai-lottery/665388"
+          "title": "pptvhd36",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE43Znp0eFh3M2NiUE5KVUxVajlXSFU4SXNiZGtYd05mQURoaWRwWS1Sdkd4Qnl4MlR3UWtBeEhiTmtMNUdTSUNWTE52WnNZaUQwanpteQ?oc=5"
         }
       ],
-      "updatedAt": "2026-08-02T12:20:00+07:00"
+      "updatedAt": "2026-07-31T18:15:00+07:00"
     },
     {
       "id": "topic-86e9c4f8cb",
@@ -714,13 +754,51 @@
       "updatedAt": "2026-07-27T14:30:00+07:00"
     },
     {
+      "id": "topic-0987b21ffa",
+      "title": "พลอย หอวัง",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 1000+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#พลอยหอวัง"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "\"พลอย หอวัง\" เผยข่าวดีตั้งท้องเบบี๋ \"คริส หอวัง\" ขึ้นแท่นว่าที่คุณป้าพร้อมมรดกให้หลาน",
+          "url": "https://www.sanook.com/news/9901802/"
+        },
+        {
+          "title": "\"พลอย หอวัง-Three Man Down\" เซอร์ไพรส์ข่าวดีแบบสุดเท่ เบบี๋มาแล้ว",
+          "url": "https://www.amarintv.com/news/entertain/553541"
+        },
+        {
+          "title": "‘พลอย หอวัง’ ประกาศข่าวดี อวดภาพอัลตราซาวด์ เบบี๋คนแรกมาแล้วจ้า!",
+          "url": "https://www.dailynews.co.th/news/6074663/"
+        }
+      ],
+      "updatedAt": "2026-08-02T15:40:00+07:00"
+    },
+    {
       "id": "topic-e44623f24f",
       "title": "ราคาน้ำมันวันนี้",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 1000+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 2000+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -745,49 +823,11 @@
           "url": "https://www.sanook.com/money/954931/"
         },
         {
-          "title": "ราคาน้ำมันพรุ่งนี้2569 (2 ส.ค. 69) ปตท. บางจาก อัปเดตราคาล่าสุด",
-          "url": "https://www.thansettakij.com/economy/energy/665389"
+          "title": "ราคาน้ำมันพรุ่งนี้ (3 ส.ค. 69) อัปเดต ราคาน้ำมันล่าสุด จากปั๊มใหญ่",
+          "url": "https://www.nationtv.tv/business/economy/378981101"
         }
       ],
       "updatedAt": "2026-08-02T15:30:00+07:00"
-    },
-    {
-      "id": "topic-eec176354b",
-      "title": "วอลเลย์บอลวันนี้",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 2000+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#วอลเลย์บอลวันนี้"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "โปรแกรมถ่ายทอดสด วอลเลย์บอลชาย เนชันส์ลีก 2026 ประจำวันที่ 2 ส.ค. 69",
-          "url": "https://www.sanook.com/sport/1667079/"
-        },
-        {
-          "title": "เปิดโปรแกรมวอลเลย์บอลชายเนชันส์ ลีก VNL 2026 นัดชิงชนะเลิศ",
-          "url": "https://www.pptvhd36.com/sport/news/280704"
-        },
-        {
-          "title": "ดูวอลเลย์บอลชายสด สหรัฐอเมริกา พบ โปแลนด์ ถ่ายทอดสดวอลเลย์บอลชาย เนชันส์ลีก 2026 วันที่ 2 ส.ค. 69 เช็กเวลาแข่ง-ช่องถ่ายทอดสด",
-          "url": "https://www.siamsport.co.th/other-sports/volleyball/107444/"
-        }
-      ],
-      "updatedAt": "2026-08-02T14:40:00+07:00"
     },
     {
       "id": "2026-17-vnl-1-b4817536f0",
@@ -816,30 +856,42 @@
       "updatedAt": "2026-07-27T11:32:41+07:00"
     },
     {
-      "id": "3-1-31c484681e",
-      "title": "วอลเลย์บอลหญิงไทยประเดิมหรู บดชนะ อินโดนีเซีย 3-1 เซต ศึก ซี วี คัพ เลกแรก",
-      "sourceType": "news",
+      "id": "topic-ef81428ee7",
+      "title": "วิศรุต รังษีสิงห์พิพัฒน์",
+      "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: วอลเลย์บอล / source: Siamsport - วอลเลย์บอลหญิงไทยประเดิมหรู บดชนะ อินโดนีเซีย 3-1 เซต ศึก ซี วี คัพ เลกแรก    Siamsport",
-      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
       "hashtags": [
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#วอลเลย์บอลหญิงไทยประเดิม"
+        "#วิศรุตรังษีสิงห์พิพัฒน์"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
         {
-          "title": "Siamsport",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5sM1lFU182WlVXMm1iRXFYQW1BSjNQQnJ0WTBHd093anZaSDRBYVNmeVNpWHQ4NURSTWtKdzBoWEljWFhaSEprN1dPazFWTEdZLWpJTTRyNTE1dW5KRXdabXVzbzNIRVRfbklr?oc=5"
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "เปิดภาพ \"น้องเอิร์น\" หลานสาว \"น็อต วิศรุต\" เรียนจบจากอังกฤษ สวยน่ารักมาก",
+          "url": "https://www.sanook.com/news/9901702/"
+        },
+        {
+          "title": "คุณยายยิ้มไม่หุบ น้องเอิร์น หลานสาวคนสวย บ้านรังษีสิงห์พิพัฒน์เรียนจบแล้ว | News In Thailand",
+          "url": "https://today.line.me/th/v3/article/2DqpRpO"
+        },
+        {
+          "title": "เคยเห็นกันมั้ย น้องเอิร์น อีกหนึ่งหลานสุดที่รักบ้านรังษีสิงห์พิพัฒน์",
+          "url": "https://entertain.teenee.com/thaistarphoto/323006.html"
         }
       ],
-      "updatedAt": "2026-07-31T13:53:44+07:00"
+      "updatedAt": "2026-08-02T16:20:00+07:00"
     },
     {
       "id": "topic-d6f6574cbf",
@@ -865,16 +917,16 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "วิเคราะห์บอล ลิเวอร์พูล vs ลีดส์ 2 ส.ค. 69 - หงส์ลุ้นเฮ 3 นัดติด ปิดฉากทัวร์สหรัฐ",
-          "url": "https://www.siamsport.co.th/football-international/premierleague/107427/"
+          "title": "กุนซือใหม่พรีเมียร์ลีก",
+          "url": "https://www.siamsport.co.th/football-international/premierleague/107440/"
         },
         {
-          "title": "เวียตซ์ ยืนยันมีคุย อิราโอล่า กุนซือลิเวอร์พูล กับบทบาทหมายเลข 10",
-          "url": "https://www.pptvhd36.com/sport/news/280725"
+          "title": "หงส์แดงทำฟอร์มพรีซีซั่น แท็กติก อิราโอล่า ! ดีล บาร์โคล่า หรือไม่?",
+          "url": "https://www.thairath.co.th/video/football-fact-clarify/1187285"
         },
         {
-          "title": "มีคู่มือ! AI รับมีวิธีใช้งานคู่หู 100 ล้าน เวียร์ตและอิซัคแล้ว | Soccersuck",
-          "url": "https://today.line.me/th/v3/article/aGRBGJP"
+          "title": "อิราโอล่า ยืนยัน โกเมซ เจ็บพลาดช่วยลิเวอร์พูลนัดเปิดฤดูกาลพรีเมียร์ลีก",
+          "url": "https://www.pptvhd36.com/sport/news/280607"
         }
       ],
       "updatedAt": "2026-08-02T15:40:00+07:00"
@@ -907,15 +959,53 @@
           "url": "https://www.sanook.com/money/954983/"
         },
         {
-          "title": "เปิดรายได้ \"ข้าราชการไทย ปี 2569\" เงินเดือนจริงมากหรือน้อย",
-          "url": "https://postjung.com/tag/%E0%B9%80%E0%B8%9B%E0%B8%B4%E0%B8%94%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%94%E0%B9%89%20%22%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%84%E0%B8%97%E0%B8%A2%20%E0%B8%9B%E0%B8%B5%202569%22%20%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%B7%E0%B8%AD%E0%B8%99%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%87%E0%B8%A1%E0%B8%B2%E0%B8%81%E0%B8%AB%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2"
-        },
-        {
           "title": "เงินเดือนข้าราชการ สิงหาคม 69 เข้าไม่พร้อมกัน เช็กด่วนได้วันที่ 14 หรือ 26",
           "url": "https://thethaiger.com/th/news/1593423/"
+        },
+        {
+          "title": "ประกาศแล้ว! วันเงินเดือนข้าราชการเข้า เดือน สิงหาคม 2569",
+          "url": "https://www.siamnews.com/news/economy/50120"
         }
       ],
       "updatedAt": "2026-08-02T13:30:00+07:00"
+    },
+    {
+      "id": "topic-492b360ae9",
+      "title": "เนวิน ชิดชอบ",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 100+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#เนวินชิดชอบ"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "ทัวร์ลงยับ ‘เนวิน’ ไม่รู้กาลเทศะ ใส่ขาสั้นร่วมบางสรวงศาลหลักเมือง นครศรีธรรมราช",
+          "url": "https://mgronline.com/politics/detail/9690000075567"
+        },
+        {
+          "title": "อนุทิน โพสต์นุ่งขาสั้นชิลๆ กับครอบครัว สยบดราม่า เนวิน ใส่ขาสั้น ร่วมพิธีศาลหลักเมือง",
+          "url": "https://www.matichon.co.th/politics/news_5830264"
+        },
+        {
+          "title": "“เนวิน” ควง “พิพัฒน์” เยือนถิ่นใต้ ร่วมพิธีสักการะศาลหลักเมืองนครศรีธรรมราช",
+          "url": "https://www.thairath.co.th/news/politic/2949966"
+        }
+      ],
+      "updatedAt": "2026-08-02T18:00:00+07:00"
     },
     {
       "id": "14-sea-v-cup-2026-e30237fcfb",
@@ -944,51 +1034,13 @@
       "updatedAt": "2026-07-27T18:25:58+07:00"
     },
     {
-      "id": "topic-d2dff1a613",
-      "title": "แอ๊น วัยย์ธยา",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#แอ๊นวัยย์ธยา"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "ข่าวญาติจี้ผู้รับเหมารับผิดชอบ หนุ่มตกหลุมวางท่อประปา",
-          "url": "https://news.ch7.com/detail/888660"
-        },
-        {
-          "title": "เปิดโพสต์สุดท้ายสุดเศร้า \"แอ๊น วัยย์ธยา\" ศิลปินแดนใต้ ก่อนประสบอุบัติเหตุเสียชีวิตกะทันหัน",
-          "url": "https://www.thairath.co.th/entertain/news/2950053"
-        },
-        {
-          "title": "ดับสลด! ศิลปินเพลงใต้วัย 29 ขี่ จยย. ตกหลุมวางท่อดับ ญาติจี้สอบผู้รับเหมา ไร้ป้ายเตือน-ไฟส่องสว่าง!",
-          "url": "https://www.dailynews.co.th/news/6073663/"
-        }
-      ],
-      "updatedAt": "2026-08-02T12:20:00+07:00"
-    },
-    {
-      "id": "2026-2-69-7015ebf079",
-      "title": "โปรแกรมถ่ายทอดสด วอลเลย์บอลหญิง ซี วี คัพ 2026 ประจำวันที่ 2 ส.ค. 69",
+      "id": "2026-1-69-06d262a70d",
+      "title": "โปรแกรมถ่ายทอดสด วอลเลย์บอลหญิง ซี วี คัพ 2026 ประจำวันที่ 1 ส.ค. 69",
       "sourceType": "news",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: วอลเลย์บอล / source: Sanook - โปรแกรมถ่ายทอดสด วอลเลย์บอลหญิง ซี วี คัพ 2026 ประจำวันที่ 2 ส.ค. 69    Sanook",
+      "summary": "ข่าวจาก Google News keyword: วอลเลย์บอล / source: sanook.com - โปรแกรมถ่ายทอดสด วอลเลย์บอลหญิง ซี วี คัพ 2026 ประจำวันที่ 1 ส.ค. 69    sanook.com",
       "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -1001,11 +1053,11 @@
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
         {
-          "title": "Sanook",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBKYm9EVHg5eVROZ1Y4Vjh2NnRaTkdjc1RVLXphWm5zdU5uVWVISnRCMExHdzF4X1dSR3dwUkZUMEl0aTdOV082LUNWQ0F5UQ?oc=5"
+          "title": "sanook.com",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBaME5LWkJKcHllUXBKT2lXX0FzSXRURnlES1d6cUNic0s2VmF5NWpXaW5BMS1KSVh5b0dSeVNuVGRoelBaNzdjMDRnRW41dw?oc=5"
         }
       ],
-      "updatedAt": "2026-08-02T08:59:00+07:00"
+      "updatedAt": "2026-08-01T09:05:00+07:00"
     },
     {
       "id": "sea-v-cup-2026-2-3-fb84ff6b07",
@@ -1040,7 +1092,7 @@
       "category": "entertainment",
       "contentPotential": "high",
       "riskLevel": "medium",
-      "summary": "ข่าวจาก Google News keyword: ซีรีส์ / source: Sanook - เรื่องย่อ หากวินาทีนั้นไม่พบเธอ Overdo (2026) ซีรีส์จีนโรแมนติกดราม่ายุคสาธารณรัฐจีน    Sanook",
+      "summary": "ข่าวจาก Google News keyword: ซีรีส์ / source: sanook.com - เรื่องย่อ หากวินาทีนั้นไม่พบเธอ Overdo (2026) ซีรีส์จีนโรแมนติกดราม่ายุคสาธารณรัฐจีน    sanook.com",
       "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
       "creatorAngle": "เล่า reaction ส่วนตัวต่อกระแส แล้วเปิดคำถามให้คนคุยต่อ",
       "promptIdea": "กระแสนี้ทุกคนอยู่ทีมไหน?",
@@ -1053,7 +1105,7 @@
       "riskNote": "Medium risk ควรเลี่ยงการพาดพิงบุคคลจริงและใช้คำถามเชิงสร้างสรรค์",
       "sources": [
         {
-          "title": "Sanook",
+          "title": "sanook.com",
           "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBEaExnS0xicmowLXpQSEkzU3ZabVNCazdibWpOS0tWSm9zWlc1TmFJeHJVdUFzeTl3NkxoYWVUQzhHcjczdmZWZDJRNGQ?oc=5"
         }
       ],
@@ -1157,11 +1209,15 @@
       "riskNote": "Medium risk ควรอ้างอิงแหล่งทางการและเตือนให้ระวังลิงก์ปลอมหรือข้อมูลผิด",
       "sources": [
         {
+          "title": "Thai PBS",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAzMmhScHpwRDFDSDR4V1lhU3laUFBVeXEyV01OckRhZ0FiUk8zZGNPUnMwamtzWm1OT3BIV3c5d1BqeDFTeXRIbk9WVkhjZk1tSVZiYXNSQnk?oc=5"
+        },
+        {
           "title": "Thaigov",
           "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9EMXJVU3hudW01T2YzV1JJQkFlSlhqNlNwbDJ5Nm41amt6NGplSmVPOEw3QVIxNzMyQkNveFUtOW5PaVdwelVEenBBVVdHd3VkLWc?oc=5"
         },
         {
-          "title": "Sanook",
+          "title": "sanook.com",
           "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBkcUdzd2diaVFtSEI4d1dCSDczczZyRUFzR2U0b3BYZGxzLTdxdkQ4TTZkRVQ3TG5URldRU0NrS1FxNTExc09QQ2pIYVY?oc=5"
         },
         {
@@ -1171,13 +1227,9 @@
         {
           "title": "TNN Thailand",
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE00UHUtZzRqdC1kV1c2MkxYVFhzeEdGTm92NXFTNlVwZWRNSzUwMXItU2lMai1mRk03ZkkyLUJQMVVYN1pfZ1VJcUUzZjlFcTY3WExGMg?oc=5"
-        },
-        {
-          "title": "thansettakij",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1WVlQ5eG9XUEpNaDVFMEd3WHg2MURWSFdXczhNdnZnMFpuWXRuSHBGb1podWVhTGhyTWtMNUMtSzRyZlpJcDF6a1FMdkxkSEU2TFRYYzlR?oc=5"
         }
       ],
-      "updatedAt": "2026-08-01T18:53:00+07:00"
+      "updatedAt": "2026-08-02T15:36:27+07:00"
     },
     {
       "id": "topic-7cb02ffda9",
@@ -1232,32 +1284,6 @@
       "updatedAt": "2026-07-29T21:12:37+07:00"
     },
     {
-      "id": "politics-86d5543c82",
-      "title": "POLITICS: นายกฯ เผย 'มิน อ่อง หล่าย' เยือนไทยสัปดาห์หน้า หารือแบบทวิภาคี ถกสารพิษแม่น้ำกก-หมอกควัน-ชนกลุ่มน้อย-ยาเสพติด-สแกมเมอร์ บอกความสัมพันธ์พื้นฐานดีอยู่แล้ว พร้อ...",
-      "sourceType": "news",
-      "category": "social_topic",
-      "contentPotential": "low",
-      "riskLevel": "high",
-      "summary": "ข่าวจาก Google News keyword: ความสัมพันธ์ / source: facebook.com - POLITICS: นายกฯ เผย 'มิน อ่อง หล่าย' เยือนไทยสัปดาห์หน้า หารือแบบทวิภาคี ถกสารพิษแม่น้ำกก-หมอกควัน-ชนกลุ่มน้อย-ยาเสพติด-สแกมเมอร์ บอกความสัมพันธ์พื้นฐานดีอยู่แล้ว พร้อมสนับสนุนเกื้",
-      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
-      "creatorAngle": "ใช้เป็นข้อมูลเฝ้าระวังมากกว่าบรีฟโพสต์ หากต้องใช้ควรให้ทีม review ก่อน",
-      "promptIdea": "เรื่องนี้ควรเช็กข้อมูลก่อนแชร์ ทุกคนคิดว่าเราควรระวังอะไรบ้าง?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#POLITICS:นายกฯเผย'มินอ่อ"
-      ],
-      "riskNote": "High risk ควรให้ทีม review ก่อนนำไป brief Creator และไม่ควรชวนดราม่า",
-      "sources": [
-        {
-          "title": "facebook.com",
-          "url": "https://news.google.com/rss/articles/CBMihwdBVV95cUxNN2w5NlZWQjBxX2JMcXJTamx1cm40SXIyd0M4Q1E2bXhPcS14dGdPYmhoRmFSUko2aHd6UWJWb1lPWTlzQkxBMV9VdXI1SERJT3Vpd3BhS0pFS21BNkhJWng3Y1VyaEgxd05Ma2xLVzJ4a2hja2l2NElmYnk3UWhvZ1psTGtKZzNPTHJiMzEtY2hwbTh4MGFpSGJjVUFpQThJbkZQWjJSeS1fUHhpb2pxRjNzVGVOWUhHeTNjMHpIeWdpMnB1a0IyUGNEYW1hYmZhMW9KOGZjaDJ6Z3Z1cFpuZVEtOEZwODRMaHNxSFdhQ3VZSzVmTVpQRXNEeWFiS0c2dFlxUlV2REpQOXprdjhkX05Vd3hhSGh4Ukd4ZmF5cGNLeVpmWHFPZ1c1LUlpemRIN1JkSlQ5RE9nejNUbHBPbWxub1doUG0wdkVlRHh0cEN4aUU3RnJmLWFhbjdUMHJ5WVJ1ODhESENadFc2STNSRDRyYkloNFFzTlRLZ0NKNUo3NlBlWFM2NEt0VGlRSlptS0hkZ0wzcjFtTG9mdEhDNGt4ZWxaZ2w1eU9ieGgzV1NXTUp6N2dwVktlemhza2JFRXozYXFQeEw2Q0cxd0dGRUlEZ3IzekxvTlBCVWlJRDVLZlI2OVZGNGdURl9tZnZleTNMU29lQV9fcmJLZlIwRS1hYUNEYjZIWVpGWk9qSkNNQW1vVi1JWHQ0SkpfVl9mM2oya0ZmQVhYTG1hRWU5MThNZmxNOEt1VGt0SlJ0QlRqc0o2STVEY0prRThDdDk4S0F1WTBNUmRHUHVOVXZLeE9aemFzcllPNm9VUXZObnB6T3lkeFo3U1E2cUhuTE1fTTNBbE16VERnYnR5c1pnYzhHbURnd0RHVEozM19HOTl3SmJBQ2tGY2F5dG5uZ1ZRMDVsWHZGanpYSTZOTFB4czg0WVJHTG1ocG5iN3lydjE4eWFvWVMzUnpTZTE3WkhoZlhjT2R1ZHk0VERaTFJqLXJLYnJJSFA0NEV3Tm5ZOFlfNHo1UjAyU1dwc2tEYVl4dlJqMXExZnBBclg4QVY5cHNGZUlKdFppeS1VZmxGNDNsMnNLejR1YWwtOHVCNlhKb2NJMWs0NF9fZ2F2a1VxQVB0M3VmWjVSdW5HaGhZNEs0eU8tWVRCZEtiWkthaVlWOE55S21fLXRxS01acllaa0tTR2VLOEE?oc=5"
-        }
-      ],
-      "updatedAt": "2026-07-31T16:08:27+07:00"
-    },
-    {
       "id": "topic-0cf8f291f4",
       "title": "การเมือง - นายกฯ ชี้ ไทย-มาเลเซีย ความสัมพันธ์การทูตดีมาก เดินหน้าแก้ปัญหาชายแดนใต้",
       "sourceType": "news",
@@ -1308,32 +1334,6 @@
         }
       ],
       "updatedAt": "2026-08-02T14:04:10+07:00"
-    },
-    {
-      "id": "2-5-147857f878",
-      "title": "เกิดเหตุยิงกันภายในงานเทศกาลอาหารของซีแอตเทิล ในสหรัฐฯ ทำให้มีผู้เสียชีวิต 2 ราย และได้รับบาดเจ็บ 5 ราย",
-      "sourceType": "news",
-      "category": "food",
-      "contentPotential": "low",
-      "riskLevel": "high",
-      "summary": "ข่าวจาก Google News keyword: อาหาร / source: BBC - เกิดเหตุยิงกันภายในงานเทศกาลอาหารของซีแอตเทิล ในสหรัฐฯ ทำให้มีผู้เสียชีวิต 2 ราย และได้รับบาดเจ็บ 5 ราย    BBC",
-      "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
-      "creatorAngle": "ใช้เป็นข้อมูลเฝ้าระวังมากกว่าบรีฟโพสต์ หากต้องใช้ควรให้ทีม review ก่อน",
-      "promptIdea": "เรื่องนี้ควรเช็กข้อมูลก่อนแชร์ ทุกคนคิดว่าเราควรระวังอะไรบ้าง?",
-      "hashtags": [
-        "#FoodTrend",
-        "#CafeTH",
-        "#รีวิวของกิน",
-        "#เกิดเหตุยิงกันภายในงานเท"
-      ],
-      "riskNote": "High risk ควรให้ทีม review ก่อนนำไป brief Creator และไม่ควรชวนดราม่า",
-      "sources": [
-        {
-          "title": "BBC",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5cUE3SGw1UnJ6Y2lFcWM5SW0xV0tWa25MUHhLSG1abG85ZnJPZDQ2b1ZxdldfOGJEdy0xOEhhbXo3U3hSR1c0eDFlQV82Rnp1NEU2cmhmRThjd9IBX0FVX3lxTFBsd3pNcl9KbGREdUE4akJhUV9vMUxIYTRUUUF5WWlrdU5wblU2X2dqYW9oN0h6LUREajV5NDJCUVNDLWpRZzJHbFF2VG9CQkVuS1pFSV9sYjRBdUVGLU1r?oc=5"
-        }
-      ],
-      "updatedAt": "2026-07-27T12:33:26+07:00"
     }
   ]
 }
