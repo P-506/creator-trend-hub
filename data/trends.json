@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T14:54:32.235818+07:00",
+  "generatedAt": "2026-08-09T17:37:13.293552+07:00",
   "dateRange": "2026-08-02 to 2026-08-09",
   "sourceErrors": [],
   "topics": [
@@ -114,7 +114,7 @@
       "category": "food",
       "contentPotential": "high",
       "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: แฟชั่น / source: dailynews.co.th - Fashion Set: \"ฟารีดา ไหทองคำ\" กัแฟชั่นสไตล์สวย เปรี้ยว เฉี่ยว เซ็กซี่เกินต้านทาน    dailynews.co.th",
+      "summary": "ข่าวจาก Google News keyword: แฟชั่น / source: เดลินิวส์ - Fashion Set: \"ฟารีดา ไหทองคำ\" กัแฟชั่นสไตล์สวย เปรี้ยว เฉี่ยว เซ็กซี่เกินต้านทาน    เดลินิวส์",
       "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
       "creatorAngle": "ให้ Creator เล่าประสบการณ์ร้าน/เมนูที่อยากลอง แล้วถามคนอื่นว่าคิดเหมือนกันไหม",
       "promptIdea": "เห็นคนพูดถึงเมนูนี้เยอะมาก มีใครลองแล้วบ้าง?",
@@ -127,37 +127,11 @@
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
         {
-          "title": "dailynews.co.th",
+          "title": "เดลินิวส์",
           "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBPbmFrS1JkSHRZOEUzaF9VUU1FYy00cEJWc0hWSVd0YmdLYkFHeEtQdWJJcFFYXzRodEhoajJ4bE9QZWVBQVN1TTMtYW03Q1ZWVTBFdjZTbkg?oc=5"
         }
       ],
       "updatedAt": "2026-08-06T09:00:00+07:00"
-    },
-    {
-      "id": "karl-lagerfeld-2d80a0c895",
-      "title": "Karl Lagerfeld เปิดคาเฟ่แรกของแบรนด์ที่อัมสเตอร์ดัม",
-      "sourceType": "news",
-      "category": "food",
-      "contentPotential": "high",
-      "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: คาเฟ่ / source: thestandard.co - Karl Lagerfeld เปิดคาเฟ่แรกของแบรนด์ที่อัมสเตอร์ดัม    thestandard.co",
-      "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
-      "creatorAngle": "ให้ Creator เล่าประสบการณ์ร้าน/เมนูที่อยากลอง แล้วถามคนอื่นว่าคิดเหมือนกันไหม",
-      "promptIdea": "เห็นคนพูดถึงเมนูนี้เยอะมาก มีใครลองแล้วบ้าง?",
-      "hashtags": [
-        "#FoodTrend",
-        "#CafeTH",
-        "#รีวิวของกิน",
-        "#KarlLagerfeldเปิดคาเฟ่แร"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "thestandard.co",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAzYnZqTTNna0FJeEJYNG5OUXJOcHRPMnpJZ2VaQmU2Vm9WWU80UGg3c0RNV1N5Ujc2LUJJZklCWEliUHR1azZWSUo0dXYybjhwbGYzWEhQTS0ycVhKY2c2T3VBMA?oc=5"
-        }
-      ],
-      "updatedAt": "2026-08-09T10:03:32+07:00"
     },
     {
       "id": "maguro-group-103bedbd96",
@@ -210,6 +184,32 @@
         }
       ],
       "updatedAt": "2026-08-06T18:42:21+07:00"
+    },
+    {
+      "id": "openface-12b645788e",
+      "title": "Openface คาเฟ่บรันช์เปิดใหม่ย่านรามคำแหง ที่นำกลิ่นอายอิกซอนดงมาไว้ในบ้านหลังใหญ่",
+      "sourceType": "news",
+      "category": "food",
+      "contentPotential": "high",
+      "riskLevel": "low",
+      "summary": "ข่าวจาก Google News keyword: คาเฟ่ / source: thestandard.co - Openface คาเฟ่บรันช์เปิดใหม่ย่านรามคำแหง ที่นำกลิ่นอายอิกซอนดงมาไว้ในบ้านหลังใหญ่    thestandard.co",
+      "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
+      "creatorAngle": "ให้ Creator เล่าประสบการณ์ร้าน/เมนูที่อยากลอง แล้วถามคนอื่นว่าคิดเหมือนกันไหม",
+      "promptIdea": "เห็นคนพูดถึงเมนูนี้เยอะมาก มีใครลองแล้วบ้าง?",
+      "hashtags": [
+        "#FoodTrend",
+        "#CafeTH",
+        "#รีวิวของกิน",
+        "#Openfaceคาเฟ่บรันช์เปิดใ"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "thestandard.co",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBjYTJnTWx3c3dNT3ZNXy1HZzJ1TFR2TkxEMEdEMFFzV2NMQ2w0cFlNWlh0bHp0MTktUGt1YU5ZaTVNRUNTc0NXRGJmUWgzbzJSQVlsQ0ltaEZPcTUwWjFUQVdEeGJfWDZoc2dpQzJQVQ?oc=5"
+        }
+      ],
+      "updatedAt": "2026-08-06T18:16:17+07:00"
     },
     {
       "id": "7-5c3441764f",
@@ -322,7 +322,7 @@
       "category": "entertainment",
       "contentPotential": "high",
       "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: ซีรีส์ / source: thairath.co.th - รวม 8 หนังเกาหลีน่าดู-ซีรีส์เกาหลี Netflix มาใหม่ ประจำเดือนสิงหาคม 2026    thairath.co.th",
+      "summary": "ข่าวจาก Google News keyword: ซีรีส์ / source: Thairath.co.th - รวม 8 หนังเกาหลีน่าดู-ซีรีส์เกาหลี Netflix มาใหม่ ประจำเดือนสิงหาคม 2026    Thairath.co.th",
       "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
       "creatorAngle": "เล่า reaction ส่วนตัวต่อกระแส แล้วเปิดคำถามให้คนคุยต่อ",
       "promptIdea": "กระแสนี้ทุกคนอยู่ทีมไหน?",
@@ -335,7 +335,7 @@
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
         {
-          "title": "thairath.co.th",
+          "title": "Thairath.co.th",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE04MUdOVzdiSFNkdDhuNFBoclVBMk9ZM1MzWHhqcDA2UkRlaVpEZTdOSjlfeVpITThwb2I1aWI0YkQxVWdfb1dXOEJzalpKcDRESGNKQWJlb0VuLWt2VXc?oc=5"
         }
       ],
@@ -550,13 +550,13 @@
       "updatedAt": "2026-08-08T10:53:38+07:00"
     },
     {
-      "id": "daniel-kinahan-9ee9952ef0",
-      "title": "daniel kinahan",
+      "id": "31-632667547e",
+      "title": "31",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 100+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -564,7 +564,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#danielkinahan"
+        "#31"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -573,28 +573,28 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "Irish government jet travels to UAE for Kinahan extradition",
-          "url": "https://www.bbc.com/news/articles/cly5zvv2kreo"
+          "title": "มทบ.31 ยกระดับศักยภาพ MALS ส่งมอบเสื้อชูชีพ PFD-เรือยาง RIB เสริมทัพรับมืออุทกภัย",
+          "url": "https://siamrath.co.th/regional/news/166281"
         },
         {
-          "title": "Irish government jet flies to Dubai to extradite alleged crime boss Daniel Kinahan",
-          "url": "https://news.sky.com/story/irish-government-jet-en-route-to-dubai-to-fetch-alleged-crime-boss-daniel-kinahan-13570966"
+          "title": "ไทยเหงียนกำลังประมูลขายอาคารสำนักงานส่วนเกิน 31 แห่ง หลังจากการปรับโครงสร้างองค์กร",
+          "url": "https://www.vietnam.vn/th/thai-nguyen-dau-gia-cho-thue-31-tru-so-doi-du-sau-sap-xep"
         },
         {
-          "title": "Daniel Kinahan’s Ireland trial: snipers, decoys, bomb-proof vans",
-          "url": "https://www.thetimes.com/world/ireland-world/article/daniel-kinahan-extradition-ireland-dubai-news-tsn9j9gn3"
+          "title": "29th Neretva Boat Marathon saw 31 crews battle over 22.5km from Metković to Ploče",
+          "url": "https://www.croatiaweek.com/croatia-neretva-boat-marathon-dramatic-finish/"
         }
       ],
-      "updatedAt": "2026-08-09T11:40:00+07:00"
+      "updatedAt": "2026-08-09T16:40:00+07:00"
     },
     {
-      "id": "inter-miami-vs-monterrey-acf48bff25",
-      "title": "inter miami vs monterrey",
+      "id": "iphone-17-2ad6f9f947",
+      "title": "iphone 17 ขึ้นราคา",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 100+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -602,7 +602,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#intermiamivsmonterrey"
+        "#iphone17ขึ้นราคา"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -611,19 +611,19 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "Licensable picture: Leagues Cup 2026: Inter Miami CF vs. Monterrey",
-          "url": "https://www.reutersconnect.com/item/leagues-cup-2026-inter-miami-cf-vs-monterrey/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVNJUEEwMDBQOTZLRkE"
+          "title": "[ลือ] Apple อาจขึ้นราคา iPhone 17 เร็วที่สุดในสัปดาห์หน้า",
+          "url": "https://www.blognone.com/node/151330"
         },
         {
-          "title": "Leagues Cup Monterrey Inter Miami Soccer",
-          "url": "https://www.yakimaherald.com/ap/sports/leagues-cup-monterrey-inter-miami-soccer/image_3b53deb2-ba46-59b3-b0d4-6643f8a541a9.html"
+          "title": "คาดการณ์สเปก iPhone 18 Pro กล้องรูรับแสงปรับได้ แบตใหญ่ขึ้น คุ้มไหมถ้าราคาแตะ 6 หมื่นบาท",
+          "url": "https://www.thairath.co.th/lifestyle/tech/2951483"
         },
         {
-          "title": "Why Is Luis Suarez Not Playing Tonight for Inter Miami vs. Monterrey?",
-          "url": "https://www.yardbarker.com/soccer/articles/why_is_luis_suarez_not_playing_tonight_for_inter_miami_vs_monterrey/s1_17615_44153915"
+          "title": "รีบซื้อก่อนแพงกว่านี้ iPhone 17 ส่อแววถูกปรับราคาขึ้นทุกรุ่นสัปดาห์หน้า",
+          "url": "https://droidsans.com/iphone-17-could-be-get-price-increase-august-2026/"
         }
       ],
-      "updatedAt": "2026-08-09T07:50:00+07:00"
+      "updatedAt": "2026-08-09T17:10:00+07:00"
     },
     {
       "id": "neil-young-second-song-3ae2dfd689",
@@ -649,16 +649,16 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "Neil Young Releases Wistful, 11-Minute Title Track From New Album ‘Second Song’",
-          "url": "https://www.rollingstone.com/music/music-news/neil-young-title-track-second-song-1235605130/"
-        },
-        {
-          "title": "'70s Rock Legend, Ranked one of the Greatest Guitarists Ever, Announces Brand New Album, 'Second Song'",
-          "url": "https://parade.com/news/70s-rock-legend-ranked-one-of-the-greatest-guitarists-ever-announces-brand-new-album-second-song"
+          "title": "Neil Young & The Chrome Hearts announce Second Song LP",
+          "url": "https://northerntransmissions.com/neil-young-the-chrome-hearts-announce-second-song-lp/"
         },
         {
           "title": "KRVN 880 – KRVN 93.1 – KAMI - Neil Young details upcoming Chrome Hearts album, ‘﻿Second Song’",
           "url": "https://ruralradio.com/krvn/abc_news/neil-young-details-upcoming-chrome-hearts-album-second-song-abcidf6f48312/"
+        },
+        {
+          "title": "'70s Rock Legend, Ranked one of the Greatest Guitarists Ever, Announces Brand New Album, 'Second Song'",
+          "url": "https://parade.com/news/70s-rock-legend-ranked-one-of-the-greatest-guitarists-ever-announces-brand-new-album-second-song"
         }
       ],
       "updatedAt": "2026-08-09T12:30:00+07:00"
@@ -696,7 +696,7 @@
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 1000+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 2000+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -717,24 +717,24 @@
           "url": "https://mgronline.com/entertainment/detail/9690000077918"
         },
         {
-          "title": "ไทยบันเทิง",
-          "url": "https://www.thaipbs.or.th/program/ArtandCultureThaiPBS/watch/rapiaoavg2ed"
-        },
-        {
           "title": "ดราม่าเต๋า ดราก้อนไฟว์ ไม่ไปงานเต้ จนแอนดี้ เขมพิมุก ต้องออกโรงแจง เพราะอะไร",
           "url": "https://women.kapook.com/view302979.html"
+        },
+        {
+          "title": "ไทยบันเทิง",
+          "url": "https://www.thaipbs.or.th/program/ArtandCultureThaiPBS/watch/284888"
         }
       ],
       "updatedAt": "2026-08-09T13:40:00+07:00"
     },
     {
-      "id": "topic-6406c083b2",
-      "title": "นิวเป๊ก",
+      "id": "topic-18d2ce007d",
+      "title": "งาน",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 500+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 100+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -742,7 +742,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#นิวเป๊ก"
+        "#งาน"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -751,19 +751,209 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "\"นิว นภัสสร\" ตอบแล้ว หลังโดนโยงคำใบ้ ดาราหนุ่มสามีนักร้องดัง แอบแซ่บนักธุรกิจสาว",
-          "url": "https://www.thairath.co.th/entertain/news/2951576"
+          "title": "กรมทางหลวง แจงเหตุอุบัติเหตุบน M6 ยืนยัน “รถเทรลเลอร์” ได้รับอนุมัติเข้าพื้นที่ไซต์งานถูกต้อง",
+          "url": "https://today.line.me/th/v3/article/j7R2Grx"
         },
         {
-          "title": "งานเข้าแบบงงๆ! “เป๊ก-นิว” ถูกจับโยงข่าวฉาว ผู้จัดการยันไม่ใช่ เมื่อวานยังควงกันออกงาน | Khaosod",
-          "url": "https://today.line.me/th/v3/article/peZgoGe"
+          "title": "ระทึก กระบะขนทุเรียน คาดบรรทุกหนักเกิน แหกโค้งตกทางต่างระดับ M6 หวิดดับยกครัว",
+          "url": "https://www.matichon.co.th/region/news_5832357"
         },
         {
-          "title": "แฉสามีดารานอกใจนักร้องดัง แอบแซบนักธุรกิจสาวเซ็กซี่ ชาวเน็ตแห่ทายอักษรย่อสนั่น",
-          "url": "https://mgronline.com/entertainment/detail/9690000077761"
+          "title": "“หญิง กัญญา” ต่อว่า “เต้ ดราก้อนไฟว์” หน้าโลง ทำไมไม่โทร.! ปล่อยโฮหนัก เราทำหน้าที่เพื่อนไม่ดีพอหรือเปล่า?",
+          "url": "https://mgronline.com/entertainment/detail/9690000077918"
         }
       ],
-      "updatedAt": "2026-08-09T06:50:00+07:00"
+      "updatedAt": "2026-08-09T16:40:00+07:00"
+    },
+    {
+      "id": "31-ce5e66b77e",
+      "title": "ช่อง 31",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 1000+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#ช่อง31"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "เช็กที่นี่ \"ผลสอบท้องถิ่น\" ทั่วทุกเขตพื้นที่",
+          "url": "https://www.pptvhd36.com/news/%E0%B8%AA%E0%B8%B1%E0%B8%87%E0%B8%84%E0%B8%A1/281137"
+        },
+        {
+          "title": "เช็กที่นี่! กสถ. ประกาศบัญชีรายชื่อใหม่ ผู้สอบได้ท้องถิ่น ปี 2568",
+          "url": "https://www.thairath.co.th/news/politic/2951454"
+        },
+        {
+          "title": "โกงท้องถิ่นต้องไม่จบที่ “บิ๊กขรก.”",
+          "url": "https://www.dailynews.co.th/news/6090973/"
+        }
+      ],
+      "updatedAt": "2026-08-09T16:40:00+07:00"
+    },
+    {
+      "id": "one-31-67ad860499",
+      "title": "ช่อง one 31",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 1000+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#ช่องone31"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "เพื่อนสนิทเล่าอีกมุม! ยันเด็ก 14 กราดยิง ไม่เคยถูกบูลลี่ เผยเคยพกบีบีกันมายิงโชว์ จนครูยึด",
+          "url": "https://www.sanook.com/news/9902786/"
+        },
+        {
+          "title": "สุดเศร้า! รับร่างนักเรียนหญิงชั้น ม.1 เหยื่อความรุนแรง ในโรงเรียนเทพศิรินทร์ นนท์ ตั้งสวดที่วัดลาดปลาดุก",
+          "url": "https://today.line.me/th/v3/article/LXy2jlz"
+        },
+        {
+          "title": "แตกตื่น แชทขู่ลงมือซ้ำ เข้าไลน์กลุ่มผู้ปกครอง เตรียมมาตรการป้องกัน",
+          "url": "https://www.khaosod.co.th/breaking-news/news_10353941"
+        }
+      ],
+      "updatedAt": "2026-08-09T16:30:00+07:00"
+    },
+    {
+      "id": "31-128a58fd3d",
+      "title": "ช่องวัน 31",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#ช่องวัน31"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "GELBOYS 2 EP.1 : วัยรุ่น Gen Z+ ปีลึก เซอร์ไพรส์ \"โทโมะ\" ร่วมจักรวาลเจลบอย",
+          "url": "https://entertainment.trueid.net/detail/4RKGa92JwlAR"
+        },
+        {
+          "title": "สกู๊ปบันเทิง - เชียร-โฟร์มด-บ้าบิ่น-บัว 4 หนุ่มคลั่งรัก เปิดจักรวาลใหม่ GELBOYS 2 | Khaosod",
+          "url": "https://today.line.me/th/v3/article/0M5PrO3"
+        },
+        {
+          "title": "เรื่องย่อ GELBOYS 2 ตกอยู่ในสถานะติ่งแฟน คิดถึงกันไหมเจลบอย",
+          "url": "https://drama.kapook.com/view302973.html"
+        }
+      ],
+      "updatedAt": "2026-08-09T16:30:00+07:00"
+    },
+    {
+      "id": "topic-f4f2f6a60e",
+      "title": "ถ่ายทอดสดวอลเลย์บอลหญิงวันนี้",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 2000+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#ถ่ายทอดสดวอลเลย์บอลหญิงว"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "LIVE ดูวอลเลย์บอลสด ไทย พบ เวียดนาม วันนี้ (9 ส.ค.) 16.30 น. วอลเลย์บอลหญิง ซีวีลีก 2026",
+          "url": "https://www.thairath.co.th/sport/worldsport/volleyball/2950484"
+        },
+        {
+          "title": "\"ทิพย์ แก้วกัลยา\" ปลื้มฉลองวันเกิดสุดอบอุ่นหลังตบคว่ำฟิลิปปินส์ พร้อมหนุน\"บุ๋มบิ๋ม\" คืนสนาม",
+          "url": "https://www.siamsport.co.th/other-sports/volleyball/107697/"
+        },
+        {
+          "title": "เพจดัง 'กับข้าวกับปลาโอ' โพสต์ถามขายตั๋วเกินความจุสนามทำไม? หลังมีตั๋วเข้าชมเกมลูกยางสาวแต่ไร้ที่นั่ง",
+          "url": "https://www.khaosod.co.th/sports/news_10353964"
+        }
+      ],
+      "updatedAt": "2026-08-09T16:10:00+07:00"
+    },
+    {
+      "id": "topic-5830b796a6",
+      "title": "ทหาร",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 1000+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#ทหาร"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "สลด พลทหาร วัย24 เสียชีวิตบนรถทัวร์ หลังเดินทางกลับมาเยี่ยมบ้าน",
+          "url": "https://www.khaosod.co.th/around-thailand/news_10353801"
+        },
+        {
+          "title": "ครั้งสุดท้ายไม่มีสัญญาณเตือน! พลทหารหนุ่มเพิ่งกลับจากเยี่ยมบ้าน เสียชีวิตกะทันหันบนรถทัวร์",
+          "url": "https://today.line.me/th/v3/article/x2EVJV8"
+        },
+        {
+          "title": "ยิ่งเศร้า! เปิดอายุจริง พลทหาร หลังเสียชีวิตบนรถทัวร์",
+          "url": "https://mumkhao.com/news/social1/25001"
+        }
+      ],
+      "updatedAt": "2026-08-09T16:30:00+07:00"
     },
     {
       "id": "2-sea-v-cup-2026-2-f1b289784b",
@@ -790,120 +980,6 @@
         }
       ],
       "updatedAt": "2026-08-08T16:32:00+07:00"
-    },
-    {
-      "id": "topic-ae23f7e74b",
-      "title": "ฟุตบอล ชิง แชมป์ แห่ง ชาติ อาเซียน",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 2000+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#ฟุตบอลชิงแชมป์แห่งชาติอา"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "มาเลเซียเฉือนฟิลิปปินส์ 1-0 เข้ารอบรองฯ อาเซียนคัพ 2026",
-          "url": "https://www.siamsport.co.th/football-thailand/thai-national/107713/"
-        },
-        {
-          "title": "ผลประกบคู่ ฟุตบอล \"อาเซียน คัพ 2026\" รอบรองชนะเลิศ เปิดโปรแกรมแข่ง",
-          "url": "https://www.thairath.co.th/sport/thaifootball/changsuek/2951486"
-        },
-        {
-          "title": "ได้ครบแล้ว! สรุป 4 ทีมเข้ารอบรองชนะเลิศ ฟุตบอล ชิงแชมป์อาเซียน 2026",
-          "url": "https://www.sanook.com/sport/1667867/"
-        }
-      ],
-      "updatedAt": "2026-08-09T12:00:00+07:00"
-    },
-    {
-      "id": "topic-daeed641f5",
-      "title": "ยูอาอิน",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 1000+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#ยูอาอิน"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "Yoo Ah-in kisses male friend, vows love during self-reflection hiatus - CHOSUNBIZ",
-          "url": "https://biz.chosun.com/en/en-entertainment/2026/08/08/6DQJIU4ECBBS3L45K3FXLV7FDQ/"
-        },
-        {
-          "title": "'Drug remorse' Yoo Ah-in, imminent return? 'Hoff' screening → intimate contact with male friend... appearing again and again [Star Issue]",
-          "url": "https://www.starnewskorea.com/en/star/2026/08/09/2026080900400650496"
-        },
-        {
-          "title": "Actor Yoo Ah-in, who was sentenced to probation for taking habitual drugs, was at the center of the",
-          "url": "https://www.mk.co.kr/en/entertain/12121758"
-        }
-      ],
-      "updatedAt": "2026-08-09T08:50:00+07:00"
-    },
-    {
-      "id": "topic-b70d0ac8ac",
-      "title": "ลีกส์คัพ",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 500+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#ลีกส์คัพ"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "การทำนายผลการแข่งขันระหว่าง เรอัล ซอลท์ เลค กับ แอตแลนเต้ เอฟซี: รายชื่อผู้เล่นที่คาดว่าจะลงสนาม",
-          "url": "https://www.vietnam.vn/th/nhan-dinh-real-salt-lake-vs-atlante-fc-doi-hinh-du-kien"
-        },
-        {
-          "title": "การคาดการณ์ผลการแข่งขันระหว่าง ออร์แลนโด ซิตี้ เอสซี กับ ลีออน: รายชื่อผู้เล่นที่คาดว่าจะลงสนาม",
-          "url": "https://www.vietnam.vn/th/nhan-dinh-orlando-city-sc-vs-leon-doi-hinh-du-kien"
-        },
-        {
-          "title": "มันก็ยังคงเป็น AI อยู่ดี",
-          "url": "https://www.vietnam.vn/th/van-la-messi"
-        }
-      ],
-      "updatedAt": "2026-08-09T07:30:00+07:00"
     },
     {
       "id": "3-0-sea-v-cup-2026-2-0c81926b28",
@@ -958,40 +1034,6 @@
       "updatedAt": "2026-08-02T20:34:54+07:00"
     },
     {
-      "id": "topic-8a101a406a",
-      "title": "สุลต่านบรูไน",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 10000+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#สุลต่านบรูไน"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "‘สุลต่านบรูไน’ ถอดพระอิสริยยศพระชายาเจ้าชายอับดุล มาลิก",
-          "url": "https://www.thebangkokinsight.com/news/world-news/1683507/"
-        },
-        {
-          "title": "ราชวังบรูไนสั่งฟ้าผ่า ถอดยศพระชายาเจ้าชายอับดุล มาลิก ทันที อ้างพฤติกรรมกระทบพระเกียรติราชวงศ์",
-          "url": "https://thethaiger.com/th/news/1596033/"
-        }
-      ],
-      "updatedAt": "2026-08-09T09:10:00+07:00"
-    },
-    {
       "id": "2-876a63a18b",
       "title": "อดีตผู้สมัคร สว.เปิดข้อมูลขบวนการฮั้ว สว. จี้ 2 รมต.ตอบความสัมพันธ์",
       "sourceType": "news",
@@ -1016,44 +1058,6 @@
         }
       ],
       "updatedAt": "2026-08-09T13:30:03+07:00"
-    },
-    {
-      "id": "topic-4a3f99bc1b",
-      "title": "อินเตอร์ไมอามี่",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 100+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#อินเตอร์ไมอามี่"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "ลิงก์ถ่ายทอดสดการแข่งขันระหว่าง อินเตอร์ ไมอามี กับ มอนเตร์เรย์ เวลา 7 โมงเช้า วันที่ 9 สิงหาคม: เมสซี ไม่ได้ลงเล่น",
-          "url": "https://www.vietnam.vn/th/link-truc-tiep-inter-miami-vs-monterrey-7h-ngay-9-8-messi-vang-mat"
-        },
-        {
-          "title": "พ่อผู้เปลี่ยนโลกฟุตบอล! ฮอร์เก้ กับสัญญากระดาษเช็ดปากที่สร้างตำนาน เมสซี่",
-          "url": "https://www.siamsport.co.th/football-international/other/107722/"
-        },
-        {
-          "title": "โลกลูกหนังอาลัยบิดาเมสซีสิ้นลมด้วยวัย 68 ปี",
-          "url": "https://www.dailynews.co.th/news/6092636/"
-        }
-      ],
-      "updatedAt": "2026-08-09T09:10:00+07:00"
     },
     {
       "id": "140-2-30ee8fcbd1",
@@ -1088,7 +1092,7 @@
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: ความสัมพันธ์ / source: กระทรวงการต่างประเทศ - เอกอัครราชทูตฯ พบหารือกับรัฐมนตรีการค้า ธุรกิจและความสัมพันธ์กับเอเชีย นอร์เทิร์นเทร์ริทอรี    กระทรวงการต่างประเทศ",
+      "summary": "ข่าวจาก Google News keyword: ความสัมพันธ์ / source: mfa.go.th - เอกอัครราชทูตฯ พบหารือกับรัฐมนตรีการค้า ธุรกิจและความสัมพันธ์กับเอเชีย นอร์เทิร์นเทร์ริทอรี    mfa.go.th",
       "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -1101,7 +1105,7 @@
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
         {
-          "title": "กระทรวงการต่างประเทศ",
+          "title": "mfa.go.th",
           "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQmtqMkRYa3ptZmZhd3l2Q3BvcnoxOVd6bk1ibWxJT05xcTBPaHBUS1hxb3ZMNkZZbjcxMW5GTlFUb3FzdVFlNENZS1RjLVVOWFQyaXZJYlNxMGw0eTJHckQzQm9iZ0ZGaUV5Q2tYdTBIZGxzeXZMU0V6VnlrXzFqcW9R?oc=5"
         }
       ],
@@ -1160,6 +1164,32 @@
       "updatedAt": "2026-08-04T20:33:07+07:00"
     },
     {
+      "id": "topic-b938e1752f",
+      "title": "\"น้องปีใหม่\" ตอบคำถาม \"แม่แอฟ\" เป็นภาษาอังกฤษ แต่เจอดราม่า ถกกันสนั่น",
+      "sourceType": "news",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "medium",
+      "summary": "ข่าวจาก Google News keyword: ดราม่า / source: Sanook.com - \"น้องปีใหม่\" ตอบคำถาม \"แม่แอฟ\" เป็นภาษาอังกฤษ แต่เจอดราม่า ถกกันสนั่น    Sanook.com",
+      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#\"น้องปีใหม่\"ตอบคำถาม\"แม่"
+      ],
+      "riskNote": "Medium risk ควรเลี่ยงการพาดพิงบุคคลจริงและใช้คำถามเชิงสร้างสรรค์",
+      "sources": [
+        {
+          "title": "Sanook.com",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8zVE1BVFhyVUdKeDlIeXVsMFVJUVRLb0VyU0ozV1F0QlBTS3hsUUlKV0hLQW5Jb2VfOXBKSlJlaEpaemxXbmVjVzFJYlI?oc=5"
+        }
+      ],
+      "updatedAt": "2026-08-04T10:41:03+07:00"
+    },
+    {
       "id": "micro-drama-1-gen-z-14-000-793b145c4a",
       "title": "Micro Drama : คอนเทนต์ 1 นาทีสุดฮิตที่ Gen Z ติดใจ อนาคตสดใสโตแตะ 14,000 ล้านดอลลาร์",
       "sourceType": "news",
@@ -1212,32 +1242,6 @@
       "updatedAt": "2026-08-04T14:30:00+07:00"
     },
     {
-      "id": "vs-dc180f8abc",
-      "title": "สรุปดราม่า สุวรรณภูมิ vs แฟนคลับจีน ซาแซงป่วนสนามบิน รปภ.ทำท่าทางเหยียด",
-      "sourceType": "news",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "medium",
-      "summary": "ข่าวจาก Google News keyword: ดราม่า / source: Sanook.com - สรุปดราม่า สุวรรณภูมิ vs แฟนคลับจีน ซาแซงป่วนสนามบิน รปภ.ทำท่าทางเหยียด    Sanook.com",
-      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#สรุปดราม่าสุวรรณภูมิvsแฟ"
-      ],
-      "riskNote": "Medium risk ควรเลี่ยงการพาดพิงบุคคลจริงและใช้คำถามเชิงสร้างสรรค์",
-      "sources": [
-        {
-          "title": "Sanook.com",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5NemJVTVZuOWQ3bzU2NUtJc0pWejdZcmRqYWYzTnV3MXBIWmp6OURDa0lrbmZPYi04MUExQ0YtMzdDR2RFZUxEN1VuM0c?oc=5"
-        }
-      ],
-      "updatedAt": "2026-08-05T07:51:20+07:00"
-    },
-    {
       "id": "topic-80cbf615ae",
       "title": "ใหม่ เจริญปุระ เคลียร์ดราม่าแม่",
       "sourceType": "news",
@@ -1287,20 +1291,20 @@
           "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE94Qy1VbUNPN3g1dkJiMG51UHl4NXBoaEVGTTJaa3J0SXJyZnBZV1pJNnY1LWpTMVR5X2gwQVR2WVl6cE1JWTEta3gwdno?oc=5"
         },
         {
-          "title": "Thai PBS",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAzMmhScHpwRDFDSDR4V1lhU3laUFBVeXEyV01OckRhZ0FiUk8zZGNPUnMwamtzWm1OT3BIV3c5d1BqeDFTeXRIbk9WVkhjZk1tSVZiYXNSQnk?oc=5"
+          "title": "Ch7.com",
+          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9La2xvN0ZnQi1sRTljMldheGNOUC1hd2oyVGIyUEJVSy05blBTOTFSRzluTmR1WC1EY1FCNDR3ZXYybGVlMHRhUHhR?oc=5"
         },
         {
           "title": "ch3plus.com",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5HWGF6RjQxVWZsS2E5dDIxTEtJUXFpbUxRV2pNbHc3YlVMVmp4SF9ya2lVaTlIRTlSM0Rmd2NvN1o0cjJGTWhVMy1qOWJTYXlQMktRVEQ2ckRnM3c?oc=5"
         },
         {
-          "title": "Ch7.com",
-          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5MZnBMMUVmRHdBcVFEYWN0WDRsbVdvcFZZMzM0bmlzUUxnMHRVQmxRSFNwRXFyZVh3UWVIcnJYemJTRlBNMzZCYkRR?oc=5"
-        },
-        {
           "title": "kapook.com",
           "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE90SXRqM0cwdGhMS0xRN2Z1YTV6VEtNbmdyLVA4Rkw2VWV0WkFIay16eXJSc3pBNzZZRFZrOUU0SVlNR3htTGwzU2VGNFZQQWlv?oc=5"
+        },
+        {
+          "title": "js100.com",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ROS1CYzgyanBCQVN2Ry1wRFkwa3F4Q1BTM3RqR1JYN2NLaG1oUE45WlVkbE1qY3kwQ0toN0tqaEV1LW9LNUZBX2J5SWlzZlVyaFlhdXoyeWdGdw?oc=5"
         }
       ],
       "updatedAt": "2026-08-07T17:07:00+07:00"
