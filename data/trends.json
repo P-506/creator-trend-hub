@@ -1,9 +1,7 @@
 {
-  "generatedAt": "2026-08-09T20:51:42.668316+07:00",
+  "generatedAt": "2026-08-09T23:38:12.643316+07:00",
   "dateRange": "2026-08-02 to 2026-08-09",
-  "sourceErrors": [
-    "gdelt: HTTP Error 429: Too Many Requests"
-  ],
+  "sourceErrors": [],
   "topics": [
     {
       "id": "17-c45c5b101b",
@@ -110,6 +108,32 @@
       "updatedAt": "2026-08-06T09:00:00+07:00"
     },
     {
+      "id": "karl-lagerfeld-2d80a0c895",
+      "title": "Karl Lagerfeld เปิดคาเฟ่แรกของแบรนด์ที่อัมสเตอร์ดัม",
+      "sourceType": "news",
+      "category": "food",
+      "contentPotential": "high",
+      "riskLevel": "low",
+      "summary": "ข่าวจาก Google News keyword: คาเฟ่ / source: thestandard.co - Karl Lagerfeld เปิดคาเฟ่แรกของแบรนด์ที่อัมสเตอร์ดัม    thestandard.co",
+      "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
+      "creatorAngle": "ให้ Creator เล่าประสบการณ์ร้าน/เมนูที่อยากลอง แล้วถามคนอื่นว่าคิดเหมือนกันไหม",
+      "promptIdea": "เห็นคนพูดถึงเมนูนี้เยอะมาก มีใครลองแล้วบ้าง?",
+      "hashtags": [
+        "#FoodTrend",
+        "#CafeTH",
+        "#รีวิวของกิน",
+        "#KarlLagerfeldเปิดคาเฟ่แร"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "thestandard.co",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAzYnZqTTNna0FJeEJYNG5OUXJOcHRPMnpJZ2VaQmU2Vm9WWU80UGg3c0RNV1N5Ujc2LUJJZklCWEliUHR1azZWSUo0dXYybjhwbGYzWEhQTS0ycVhKY2c2T3VBMA?oc=5"
+        }
+      ],
+      "updatedAt": "2026-08-09T10:03:32+07:00"
+    },
+    {
       "id": "maguro-group-103bedbd96",
       "title": "Maguro Group เดินเกมส์ลงตลาดอาหารไทย เปิดตัวแบรนด์ \"หลาย\" อาหารอีสานร่วมสมัยรสชาติอีสานแท้ๆ",
       "sourceType": "news",
@@ -162,39 +186,13 @@
       "updatedAt": "2026-08-06T18:42:21+07:00"
     },
     {
-      "id": "openface-12b645788e",
-      "title": "Openface คาเฟ่บรันช์เปิดใหม่ย่านรามคำแหง ที่นำกลิ่นอายอิกซอนดงมาไว้ในบ้านหลังใหญ่",
-      "sourceType": "news",
-      "category": "food",
-      "contentPotential": "high",
-      "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: คาเฟ่ / source: thestandard.co - Openface คาเฟ่บรันช์เปิดใหม่ย่านรามคำแหง ที่นำกลิ่นอายอิกซอนดงมาไว้ในบ้านหลังใหญ่    thestandard.co",
-      "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
-      "creatorAngle": "ให้ Creator เล่าประสบการณ์ร้าน/เมนูที่อยากลอง แล้วถามคนอื่นว่าคิดเหมือนกันไหม",
-      "promptIdea": "เห็นคนพูดถึงเมนูนี้เยอะมาก มีใครลองแล้วบ้าง?",
-      "hashtags": [
-        "#FoodTrend",
-        "#CafeTH",
-        "#รีวิวของกิน",
-        "#Openfaceคาเฟ่บรันช์เปิดใ"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "thestandard.co",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBjYTJnTWx3c3dNT3ZNXy1HZzJ1TFR2TkxEMEdEMFFzV2NMQ2w0cFlNWlh0bHp0MTktUGt1YU5ZaTVNRUNTc0NXRGJmUWgzbzJSQVlsQ0ltaEZPcTUwWjFUQVdEeGJfWDZoc2dpQzJQVQ?oc=5"
-        }
-      ],
-      "updatedAt": "2026-08-06T18:16:17+07:00"
-    },
-    {
       "id": "7-5c3441764f",
       "title": "ของดีใกล้ตัว! 7 อาหาร ตัวช่วยจัดการ \"ไขมันช่องท้อง\" อิ่มนาน ไม่ต้องจ่ายแพง",
       "sourceType": "news",
       "category": "food",
       "contentPotential": "high",
       "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: อาหาร / source: Sanook.com - ของดีใกล้ตัว! 7 อาหาร ตัวช่วยจัดการ \"ไขมันช่องท้อง\" อิ่มนาน ไม่ต้องจ่ายแพง    Sanook.com",
+      "summary": "ข่าวจาก Google News keyword: อาหาร / source: sanook.com - ของดีใกล้ตัว! 7 อาหาร ตัวช่วยจัดการ \"ไขมันช่องท้อง\" อิ่มนาน ไม่ต้องจ่ายแพง    sanook.com",
       "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
       "creatorAngle": "ให้ Creator เล่าประสบการณ์ร้าน/เมนูที่อยากลอง แล้วถามคนอื่นว่าคิดเหมือนกันไหม",
       "promptIdea": "เห็นคนพูดถึงเมนูนี้เยอะมาก มีใครลองแล้วบ้าง?",
@@ -207,7 +205,7 @@
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
         {
-          "title": "Sanook.com",
+          "title": "sanook.com",
           "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA5dGdxaXpUWmZwb0kxQkFBUktNbWd6dmF0R0Z5RTdBUHloX1huV0NYaFV0WUlsN0szVkluNkxIYzZoYlNBSnZWcFpVdmQ?oc=5"
         }
       ],
@@ -298,7 +296,7 @@
       "category": "entertainment",
       "contentPotential": "high",
       "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: ซีรีส์ / source: thairath.co.th - รวม 8 หนังเกาหลีน่าดู-ซีรีส์เกาหลี Netflix มาใหม่ ประจำเดือนสิงหาคม 2026    thairath.co.th",
+      "summary": "ข่าวจาก Google News keyword: ซีรีส์ / source: Thairath.co.th - รวม 8 หนังเกาหลีน่าดู-ซีรีส์เกาหลี Netflix มาใหม่ ประจำเดือนสิงหาคม 2026    Thairath.co.th",
       "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
       "creatorAngle": "เล่า reaction ส่วนตัวต่อกระแส แล้วเปิดคำถามให้คนคุยต่อ",
       "promptIdea": "กระแสนี้ทุกคนอยู่ทีมไหน?",
@@ -311,7 +309,7 @@
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
         {
-          "title": "thairath.co.th",
+          "title": "Thairath.co.th",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE04MUdOVzdiSFNkdDhuNFBoclVBMk9ZM1MzWHhqcDA2UkRlaVpEZTdOSjlfeVpITThwb2I1aWI0YkQxVWdfb1dXOEJzalpKcDRESGNKQWJlb0VuLWt2VXc?oc=5"
         }
       ],
@@ -324,7 +322,7 @@
       "category": "beauty",
       "contentPotential": "high",
       "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: แฟชั่น / source: prd.go.th - สิงหาคม เดือนแห่งวันแม่: ยกระดับ \"ผ้าไทย\" จากภูมิปัญญาท้องถิ่นสู่แฟชั่นระดับสากล    prd.go.th",
+      "summary": "ข่าวจาก Google News keyword: แฟชั่น / source: กรมประชาสัมพันธ์ - สิงหาคม เดือนแห่งวันแม่: ยกระดับ \"ผ้าไทย\" จากภูมิปัญญาท้องถิ่นสู่แฟชั่นระดับสากล    กรมประชาสัมพันธ์",
       "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
       "creatorAngle": "ชวนแชร์สไตล์ ไอเท็ม หรือเทคนิคที่ใช้จริงโดยไม่ขายของแข็งเกินไป",
       "promptIdea": "สไตล์นี้ถ้าแต่งในชีวิตจริงจะรอดไหม?",
@@ -337,7 +335,7 @@
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
         {
-          "title": "prd.go.th",
+          "title": "กรมประชาสัมพันธ์",
           "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAtNm5HY0FLa0JuUUpBYlVSMU9fRjMtSGRpV0lxNGRfMzUyN0FHSUh5TjlOTkk3WUMyS1BKem5HRUV5QlRud2R4SE9DcEd5MVhmcERjM1Q0TkxDbUdqanlfRVd4Nll6Z3d5bno4aXhjRS1zRGc?oc=5"
         }
       ],
@@ -350,7 +348,7 @@
       "category": "beauty",
       "contentPotential": "high",
       "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: แฟชั่น / source: TrueID - ส่อง 7 ลุค แฟชั่น zendaya เซนเดย์อา แฟชั่นไอคอนแห่งยุค    TrueID",
+      "summary": "ข่าวจาก Google News keyword: แฟชั่น / source: women.trueid.net - ส่อง 7 ลุค แฟชั่น zendaya เซนเดย์อา แฟชั่นไอคอนแห่งยุค    women.trueid.net",
       "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
       "creatorAngle": "ชวนแชร์สไตล์ ไอเท็ม หรือเทคนิคที่ใช้จริงโดยไม่ขายของแข็งเกินไป",
       "promptIdea": "สไตล์นี้ถ้าแต่งในชีวิตจริงจะรอดไหม?",
@@ -363,7 +361,7 @@
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
         {
-          "title": "TrueID",
+          "title": "women.trueid.net",
           "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5iS3lkMlM0VmNuUlhTWDJrbVpCc0NlZENnRE1IM1NKVFRkXy1NNlBUeUdxUkhnWVpKMlFFX1JNXy1vLXNMSHBVeDZBNXJHU1loYndqUUxIQQ?oc=5"
         }
       ],
@@ -428,7 +426,7 @@
       "category": "food",
       "contentPotential": "high",
       "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: คาเฟ่ / source: khaosod.co.th - เฟย ภัทร ยกร้านคาเฟ่รักษ์โลกสุดฮอต ปักหมุดเสิร์ฟความอร่อยกลางพารากอน    khaosod.co.th",
+      "summary": "ข่าวจาก Google News keyword: คาเฟ่ / source: ข่าวสด - เฟย ภัทร ยกร้านคาเฟ่รักษ์โลกสุดฮอต ปักหมุดเสิร์ฟความอร่อยกลางพารากอน    ข่าวสด",
       "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
       "creatorAngle": "ให้ Creator เล่าประสบการณ์ร้าน/เมนูที่อยากลอง แล้วถามคนอื่นว่าคิดเหมือนกันไหม",
       "promptIdea": "เห็นคนพูดถึงเมนูนี้เยอะมาก มีใครลองแล้วบ้าง?",
@@ -441,7 +439,7 @@
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
         {
-          "title": "khaosod.co.th",
+          "title": "ข่าวสด",
           "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAyTG1VcFlNM1RlcXRFN1AtME0zSVNBaGFPc0VwWVgtSlMxcUFJWndiZ0J5WXdxZW5wdWdXUmtJS2tLUW5ES1RCX3IwekxMVHpjb2JTLTlobU43Q2VGNklUc0ZtQQ?oc=5"
         }
       ],
@@ -526,13 +524,13 @@
       "updatedAt": "2026-08-08T10:53:38+07:00"
     },
     {
-      "id": "arsenal-1c90591709",
-      "title": "arsenal",
+      "id": "chelsea-ac137c6ae0",
+      "title": "chelsea",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 500+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -540,7 +538,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#arsenal"
+        "#chelsea"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -549,28 +547,28 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "Versatile Bruno Guimarães gives Mikel Arteta options to shuffle midfield pack | Ed Aarons",
-          "url": "https://www.theguardian.com/football/2026/aug/08/bruno-guimaraes-mikel-arteta-arsenal-options-midfield"
+          "title": "Chelsea 3-0 AC Milan: Joao Pedro scores twice in pre-season win",
+          "url": "https://www.bbc.com/sport/football/live/c330p1p84e3t"
         },
         {
-          "title": "Bruno Guimaraes joins Arsenal from Newcastle",
-          "url": "https://www.bbc.com/sport/football/articles/c1719r079rjo"
+          "title": "Match gallery: Blues win Indonesia Super Cup with victory over AC Milan | News | Official Site",
+          "url": "https://www.chelseafc.com/en/news/article/match-gallery-blues-win-indonesia-super-cup-with-victory-over-ac-milan"
         },
         {
-          "title": "Arsenal sign midfielder Guimaraes from Newcastle",
-          "url": "https://www.bangkokpost.com/sports/3298535/arsenal-sign-midfielder-guimaraes-from-newcastle"
+          "title": "‘We’ll make some choices next week’ – Ruben Amorim warns AC Milan stars after Chelsea defeat",
+          "url": "https://www.goal.com/en/lists/we-ll-make-some-choices-next-week-ruben-amorim-warns-ac-milan-stars-after-chelsea-defeat/blt366cff6d4d68fb2c"
         }
       ],
-      "updatedAt": "2026-08-09T20:00:00+07:00"
+      "updatedAt": "2026-08-09T20:50:00+07:00"
     },
     {
-      "id": "arsenal-vs-dortmund-07f4bddb7b",
-      "title": "arsenal vs dortmund",
+      "id": "last-house-netflix-d95280f1c6",
+      "title": "last house netflix",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 5000+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 100+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -578,7 +576,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#arsenalvsdortmund"
+        "#lasthousenetflix"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -587,57 +585,19 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "Arsenal vs Borussia Dortmund LIVE! Pre-season friendly team news, preview, score updates and live blog",
-          "url": "https://www.skysports.com/football/live-blog/11095/13571163/arsenal-vs-borussia-dortmund-live-pre-season-friendly-team-news-preview-score-updates-and-live-blog"
+          "title": "‘A Quiet Place’ Meets ‘War of the Worlds’ in Netflix’s Newest Sci-Fi Smash-Hit",
+          "url": "https://collider.com/the-last-house-netflix-sci-fi-thriller-streaming-success-august-2026/"
         },
         {
-          "title": "Gallery: Final preparations for Emirates Cup",
-          "url": "https://www.arsenal.com/news/gallery-final-preparations-for-emirates-cup-aNzUv8s4xGbb"
+          "title": "Breaking Down the Hopeful Ending of 'The Last House'",
+          "url": "https://time.com/article/2026/08/07/the-last-house-ending/"
         },
         {
-          "title": "Arsenal vs Borussia Dortmund: Emirates Cup stats & head-to-head",
-          "url": "https://www.bbc.com/sport/football/live/ck79g7p232jvt"
+          "title": "Does the Dog Die in ‘The Last House’? Netflix Movie Spoilers Revealed",
+          "url": "https://www.justjared.com/2026/08/08/does-the-dog-die-in-the-last-house-netflix-movie-spoilers-revealed/"
         }
       ],
-      "updatedAt": "2026-08-09T19:20:00+07:00"
-    },
-    {
-      "id": "liverpool-vs-monaco-d87e76956d",
-      "title": "liverpool vs monaco",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 2000+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#liverpoolvsmonaco"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "Liverpool vs Monaco: Club Friendlies stats & head-to-head",
-          "url": "https://www.bbc.com/sport/football/live/cj75g1p2dpr7t"
-        },
-        {
-          "title": "1.30pm BST: Watch Liverpool v AS Monaco live from Anfield",
-          "url": "https://www.liverpoolfc.com/news/130pm-bst-watch-liverpool-v-monaco-live-anfield"
-        },
-        {
-          "title": "Trey Nyoni can force Andoni Iraola into decision as Liverpool new signing awaits",
-          "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/trey-nyoni-can-force-andoni-34427152"
-        }
-      ],
-      "updatedAt": "2026-08-09T19:40:00+07:00"
+      "updatedAt": "2026-08-09T22:30:00+07:00"
     },
     {
       "id": "ministry-of-foreign-affairs-of-the-king-ff5bd64f30",
@@ -692,39 +652,13 @@
       "updatedAt": "2026-08-03T15:03:46+07:00"
     },
     {
-      "id": "sea-v-cup-2026-9-69-534c989a61",
-      "title": "ดูวอลเลย์บอลสด วอลเลย์บอลหญิงไทย พบ เวียดนาม ถ่ายทอดสดวอลเลย์บอลSEA V Cup 2026 วันที่ 9 ส.ค. 69 เช็กเวลาแข่ง-ช่องถ่ายทอดสด",
-      "sourceType": "news",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: วอลเลย์บอล / source: Siamsport - ดูวอลเลย์บอลสด วอลเลย์บอลหญิงไทย พบ เวียดนาม ถ่ายทอดสดวอลเลย์บอลSEA V Cup 2026 วันที่ 9 ส.ค. 69 เช็กเวลาแข่ง-ช่องถ่ายทอดสด    Siamsport",
-      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#ดูวอลเลย์บอลสดวอลเลย์บอล"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Siamsport",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1LUTFwS0dsUzNSM2k3VzNVWkFJdXhHTjNQbi1RN00wTnVtbzFwSkgyVVFOaHFlRGJISk44Z2FHZmRpMVQybzkwUVVUX18tVF8tM1BwSUNTWnhMYjUwaUtVR0s3bE85dWxUSG9N?oc=5"
-        }
-      ],
-      "updatedAt": "2026-08-09T09:38:55+07:00"
-    },
-    {
-      "id": "topic-5da06f3053",
-      "title": "นภัสสร ภูธรใจ",
+      "id": "topic-d5c4b65c8c",
+      "title": "บาเซิ่ล",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 1000+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 100+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -732,7 +666,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#นภัสสรภูธรใจ"
+        "#บาเซิ่ล"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -741,19 +675,49 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "\"นิว นภัสสร\" ตอบแล้ว หลังโดนโยงคำใบ้ ดาราหนุ่มสามีนักร้องดัง แอบแซ่บนักธุรกิจสาว",
-          "url": "https://www.thairath.co.th/entertain/news/2951576"
+          "title": "Barcelona cancel friendly in Morocco: 'Playing the match would be inappropriate'",
+          "url": "https://www.espn.com/soccer/story/_/id/49551899/barcelona-cancel-friendly-morocco-due-security-worries"
         },
         {
-          "title": "\"นิว นภัสสร\" ตอบแล้ว! หลังถูกโยงข่าวสามีนักร้องดังปันใจนักธุรกิจสาว",
-          "url": "https://www.sanook.com/news/9902862/"
+          "title": "FC Barcelona to play friendly in Basel",
+          "url": "https://www.fcbarcelona.com/en/news/4556111/fc-barcelona-to-play-friendly-in-basel"
         },
         {
-          "title": "งานเข้าแบบงงๆ! “เป๊ก-นิว” ถูกจับโยงข่าวฉาว ผู้จัดการยันไม่ใช่ เมื่อวานยังควงกันออกงาน | Khaosod",
-          "url": "https://today.line.me/th/v3/article/peZgoGe"
+          "title": "Officially: Barcelona reveal their new opponent before facing Al-Ahly",
+          "url": "https://www.goal.com/en/news/officially-barcelona-reveal-their-new-opponent-ahead-of-the-al-ahly-clash/bltbb15a253b88598de"
         }
       ],
-      "updatedAt": "2026-08-09T19:40:00+07:00"
+      "updatedAt": "2026-08-09T22:00:00+07:00"
+    },
+    {
+      "id": "topic-769396117c",
+      "title": "ปอร์โต้",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 100+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#ปอร์โต้"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "การทำนายผลการแข่งขัน FC Porto vs Alverca: รายชื่อผู้เล่นที่คาดว่าจะลงสนาม",
+          "url": "https://www.vietnam.vn/th/nhan-dinh-fc-porto-vs-alverca-doi-hinh-du-kien"
+        }
+      ],
+      "updatedAt": "2026-08-09T22:30:00+07:00"
     },
     {
       "id": "2-sea-v-cup-2026-2-f1b289784b",
@@ -788,7 +752,7 @@
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 100+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -809,24 +773,24 @@
           "url": "https://www.bbc.com/thai/articles/c4gvrnjxl9qo"
         },
         {
-          "title": "ฝ่ายค้านเปิดหลักฐานฮั้ว สว. \"ใบสั่ง-เส้นเงิน-สายสัมพันธ์\" จี้ กกต.เร่งตรวจสอบส่งศาล | เข้มข่าวค่ำ",
-          "url": "https://www.pptvhd36.com/video/news/224297"
-        },
-        {
           "title": "อดีตผู้สมัคร สว.เปิดข้อมูลขบวนการฮั้ว สว. จี้ 2 รมต.ตอบความสัมพันธ์",
           "url": "https://www.thaipbs.or.th/news/content/509221"
+        },
+        {
+          "title": "“ไอติม” แฉทีมงาน รมต. โอนเงินให้เจ้าหน้าที่ กกต. 860,000 บาท ช่วงเลือก สว. 2567",
+          "url": "https://www.thairath.co.th/news/politic/2951637"
         }
       ],
       "updatedAt": "2026-08-09T20:20:00+07:00"
     },
     {
-      "id": "topic-d0826e444a",
-      "title": "ลิเวอร์พูล พบ มอนาโก",
+      "id": "topic-e361047025",
+      "title": "มนัส บุญ จำนงค์",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 20000+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 500+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -834,7 +798,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#ลิเวอร์พูลพบมอนาโก"
+        "#มนัสบุญจำนงค์"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -843,19 +807,49 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "LIVE ดูบอลสด ลิเวอร์พูล พบ โมนาโก ฟุตบอลอุ่นเครื่อง วันนี้ 9 ส.ค.69",
-          "url": "https://www.posttoday.com/lifestyle/746672"
-        },
-        {
-          "title": "โปรแกรมบอลวันนี้ 9 ส.ค. 69 โปรแกรมคาราบาวคัพ ดูบอลสด ลิเวอร์พูล พบ โมนาโก พร้อมช่องถ่ายทอดสด",
-          "url": "https://www.siamsport.co.th/football-international/other/107731/"
-        },
-        {
-          "title": "ดูบอลสดวันนี้ ลิเวอร์พูล พบ โมนาโก ฟุตบอลอุ่นเครื่อง เวลา 20.30 น.",
-          "url": "https://www.sanook.com/sport/1667890/"
+          "title": "\"สมจิตร\" น้ำตาแตก หลังเยี่ยม \"มนัส\" ถึงเรือนจำ ลั่นรอมารับกลับบ้าน พร้อมพาเริ่มชีวิตใหม่",
+          "url": "https://mgronline.com/sport/detail/9690000078158"
         }
       ],
-      "updatedAt": "2026-08-09T19:30:00+07:00"
+      "updatedAt": "2026-08-09T22:20:00+07:00"
+    },
+    {
+      "id": "topic-4e37f1f636",
+      "title": "ลิเวอร์พูลล่าสุด",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 500+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#ลิเวอร์พูลล่าสุด"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "แบ็กขวาก็สำคัญ! สเปนซ์ หรือ รีด สองฟูลแบ็กที่จะเข้ามาเติมเต็ม ลิเวอร์พูล",
+          "url": "https://www.siamsport.co.th/football-international/premierleague/107670/"
+        },
+        {
+          "title": "\"ลิเวอร์พูล\" ตัดสินใจแล้ว แผนเสริมทัพหลังมีปัญหารุมเร้า ก่อนเปิดฉากพรีเมียร์ลีก",
+          "url": "https://www.thairath.co.th/sport/eurofootball/premierleague/2951220"
+        },
+        {
+          "title": "เร่งขันเกมรับ ! อันโดนี่ อิราโอล่า ร้องบอร์ด ลิเวอร์พูล เร่งคว้า เอสรี่ คอนซ่า",
+          "url": "https://football.kapook.com/news-43521"
+        }
+      ],
+      "updatedAt": "2026-08-09T20:50:00+07:00"
     },
     {
       "id": "3-0-sea-v-cup-2026-2-e8948adb26",
@@ -882,6 +876,32 @@
         }
       ],
       "updatedAt": "2026-08-08T16:48:55+07:00"
+    },
+    {
+      "id": "3-2026-10-68e5c3fc33",
+      "title": "วอลเลย์บอลหญิงไทย ตบอัด เวียดนาม 3 เซตรวด ผงาดแชมป์ซี วี คัพ 2026 สมัยที่ 10",
+      "sourceType": "news",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "ข่าวจาก Google News keyword: วอลเลย์บอล / source: Siamsport - วอลเลย์บอลหญิงไทย ตบอัด เวียดนาม 3 เซตรวด ผงาดแชมป์ซี วี คัพ 2026 สมัยที่ 10    Siamsport",
+      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#วอลเลย์บอลหญิงไทยตบอัดเว"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Siamsport",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE82RWt3M3BqMEdIVWREdU94UHNzZHBiZy1HNHBTYjBJLU1yNWVuU3Fwa2dqbFJEdW5jdmhGNDRDVVFwQkZSSTZJaUZHSVduM3lpSDlSWnFfZ2Fqemk4S2JVc1dxZXVyaHRwNWYw?oc=5"
+        }
+      ],
+      "updatedAt": "2026-08-09T18:31:09+07:00"
     },
     {
       "id": "topic-a2afe50471",
@@ -922,6 +942,44 @@
       "updatedAt": "2026-08-09T20:00:00+07:00"
     },
     {
+      "id": "topic-7bb101434c",
+      "title": "สโมสรฟุตบอลแมนเชสเตอร์ซิตี",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#สโมสรฟุตบอลแมนเชสเตอร์ซิ"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "ไม่ใช่ศัตรูแล้ว! บรูโน่ กิมาไรส์ เผย ไรซ์ ส่งข้อความต้อนรับร่วมทัพ อาร์เซน่อล",
+          "url": "https://www.siamsport.co.th/football-international/premierleague/107721/"
+        },
+        {
+          "title": "ริโอ เชื่อแมนยูมีหนึ่งในแผงมิดฟิลด์แกร่งสุดในลีก ชม \"บรูโน่-ตีเลอมันส์\"",
+          "url": "https://www.pptvhd36.com/sport/news/281197"
+        },
+        {
+          "title": "อาร์เซนอลคว้า \"บรูโน\" 75 ล้านปอนด์ เซ็นสัญญา 4 ปี",
+          "url": "https://mgronline.com/sport/detail/9690000077988"
+        }
+      ],
+      "updatedAt": "2026-08-09T19:50:00+07:00"
+    },
+    {
       "id": "2-876a63a18b",
       "title": "อดีตผู้สมัคร สว.เปิดข้อมูลขบวนการฮั้ว สว. จี้ 2 รมต.ตอบความสัมพันธ์",
       "sourceType": "news",
@@ -946,82 +1004,6 @@
         }
       ],
       "updatedAt": "2026-08-09T13:30:03+07:00"
-    },
-    {
-      "id": "topic-34bd9f6977",
-      "title": "อาร์เซนอล",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 1000+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#อาร์เซนอล"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "ปืนจัดหนัก! อาร์เซน่อล ซิว กิมาไรส์ ก่อนล่า บาร์กโกล่า-แมนซิตี้ จ้อง แม็ค อัลลิสเตอร์",
-          "url": "https://www.siamsport.co.th/football-international/premierleague/107727/"
-        },
-        {
-          "title": "อาร์เซนอลคว้า \"บรูโน\" 75 ล้านปอนด์ เซ็นสัญญา 4 ปี",
-          "url": "https://mgronline.com/sport/detail/9690000077988"
-        },
-        {
-          "title": "ริโอ เชื่อแมนยูมีหนึ่งในแผงมิดฟิลด์แกร่งสุดในลีก ชม \"บรูโน่-ตีเลอมันส์\"",
-          "url": "https://www.pptvhd36.com/sport/news/281197"
-        }
-      ],
-      "updatedAt": "2026-08-09T20:10:00+07:00"
-    },
-    {
-      "id": "96-ca3c7a9ad0",
-      "title": "ฮันโนเวอร์ 96",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 100+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#ฮันโนเวอร์96"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "2. Bundesliga preview: Energie Cottbus vs. Hannover 96",
-          "url": "https://sports.yahoo.com/articles/2-bundesliga-preview-energie-cottbus-093000842.html"
-        },
-        {
-          "title": "👀 Technical glitch in Cottbus: Hannover 96 relive déjà vu",
-          "url": "https://onefootball.com/en/news/technical-glitch-in-cottbus-hannover-96-relive-deja-vu-43251336"
-        },
-        {
-          "title": "FC Energie Cottbus 2026/27 season preview: Transfers, pre-season, predicted lineup & predictions",
-          "url": "https://bulinews.com/energie-cottbus-2026/27-season-preview-transfers-pre-season-predicted-lineup-predictions"
-        }
-      ],
-      "updatedAt": "2026-08-09T19:40:00+07:00"
     },
     {
       "id": "140-2-30ee8fcbd1",
@@ -1050,51 +1032,13 @@
       "updatedAt": "2026-08-04T14:00:00+07:00"
     },
     {
-      "id": "topic-da38925d94",
-      "title": "เชลซี",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 2000+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#เชลซี"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "ยังไม่ชนะสักนัด! อโมริม รับ มิลาน ต้องเร่งแก้ หลังโดน เชลซี ถล่ม 3-0",
-          "url": "https://www.siamsport.co.th/football-international/serie-a/107723/"
-        },
-        {
-          "title": "อโมริม ตัดสินใจแล้วหลัง เอซีมิลาน แพ้ยับ เชลซี",
-          "url": "https://www.thairath.co.th/sport/eurofootball/premierleague/2951626"
-        },
-        {
-          "title": "อลอนโซเขย่าเก้าอี้อโมริม เชลซี ถล่ม เอซี มิลาน ขาดลอยเกมอุ่นเครื่องที่อินโดฯ",
-          "url": "https://www.khaosod.co.th/sports/news_10353422"
-        }
-      ],
-      "updatedAt": "2026-08-09T20:00:00+07:00"
-    },
-    {
       "id": "topic-3cfdf8852b",
       "title": "เอกอัครราชทูตฯ พบหารือกับรัฐมนตรีการค้า ธุรกิจและความสัมพันธ์กับเอเชีย นอร์เทิร์นเทร์ริทอรี",
       "sourceType": "news",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: ความสัมพันธ์ / source: กระทรวงการต่างประเทศ - เอกอัครราชทูตฯ พบหารือกับรัฐมนตรีการค้า ธุรกิจและความสัมพันธ์กับเอเชีย นอร์เทิร์นเทร์ริทอรี    กระทรวงการต่างประเทศ",
+      "summary": "ข่าวจาก Google News keyword: ความสัมพันธ์ / source: mfa.go.th - เอกอัครราชทูตฯ พบหารือกับรัฐมนตรีการค้า ธุรกิจและความสัมพันธ์กับเอเชีย นอร์เทิร์นเทร์ริทอรี    mfa.go.th",
       "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -1107,7 +1051,7 @@
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
         {
-          "title": "กระทรวงการต่างประเทศ",
+          "title": "mfa.go.th",
           "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQmtqMkRYa3ptZmZhd3l2Q3BvcnoxOVd6bk1ibWxJT05xcTBPaHBUS1hxb3ZMNkZZbjcxMW5GTlFUb3FzdVFlNENZS1RjLVVOWFQyaXZJYlNxMGw0eTJHckQzQm9iZ0ZGaUV5Q2tYdTBIZGxzeXZMU0V6VnlrXzFqcW9R?oc=5"
         }
       ],
@@ -1120,7 +1064,7 @@
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: วอลเลย์บอล / source: Sanook.com - โปรแกรมวอลเลย์บอลหญิง ซี วี คัพ 2026 ประจำวันที่ 9 ส.ค. 69    Sanook.com",
+      "summary": "ข่าวจาก Google News keyword: วอลเลย์บอล / source: sanook.com - โปรแกรมวอลเลย์บอลหญิง ซี วี คัพ 2026 ประจำวันที่ 9 ส.ค. 69    sanook.com",
       "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -1133,11 +1077,49 @@
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
         {
-          "title": "Sanook.com",
+          "title": "sanook.com",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE02SEZZRGZSbEhiOHBIUXB5RWhrSFY4TEVXbkNGNHBMVi1xVV9yNE5LMnRWUEFEa1B5M3BvaU5naEN0eV9Od2lGQ1hmMDE2UQ?oc=5"
         }
       ],
       "updatedAt": "2026-08-09T08:23:00+07:00"
+    },
+    {
+      "id": "topic-335003b54e",
+      "title": "ไฟไหม้ถนนพรานนก",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#ไฟไหม้ถนนพรานนก"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "ไฟไหม้! ร้านอาหาร ถนนพรานนก-พุทธมณฑล สาย 4 เบื้องต้นมีผู้บาดเจ็บหลายราย",
+          "url": "https://today.line.me/th/v3/article/8no0RWE?referral=viralnewshub"
+        },
+        {
+          "title": "เพลิงไหม้ร้านน้ำเต้าหู้ พุทธมณฑลสาย 4 บาดเจ็บ 5 ราย",
+          "url": "https://news.ch7.com/detail/890090"
+        },
+        {
+          "title": "ไฟไหม้ร้านน้ำเต้าหู้ไหหลำย่านตลิ่งชัน ลุกจากเตาแก๊สเผาชั้น 2 ลูกจ้างถูกไฟลวก 3 ราย",
+          "url": "https://www.dailynews.co.th/news/6093813/"
+        }
+      ],
+      "updatedAt": "2026-08-09T21:20:00+07:00"
     },
     {
       "id": "sea-v-cup-2026-700-6-50ebde74c0",
@@ -1164,6 +1146,32 @@
         }
       ],
       "updatedAt": "2026-08-04T20:33:07+07:00"
+    },
+    {
+      "id": "topic-b938e1752f",
+      "title": "\"น้องปีใหม่\" ตอบคำถาม \"แม่แอฟ\" เป็นภาษาอังกฤษ แต่เจอดราม่า ถกกันสนั่น",
+      "sourceType": "news",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "medium",
+      "summary": "ข่าวจาก Google News keyword: ดราม่า / source: sanook.com - \"น้องปีใหม่\" ตอบคำถาม \"แม่แอฟ\" เป็นภาษาอังกฤษ แต่เจอดราม่า ถกกันสนั่น    sanook.com",
+      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#\"น้องปีใหม่\"ตอบคำถาม\"แม่"
+      ],
+      "riskNote": "Medium risk ควรเลี่ยงการพาดพิงบุคคลจริงและใช้คำถามเชิงสร้างสรรค์",
+      "sources": [
+        {
+          "title": "sanook.com",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8zVE1BVFhyVUdKeDlIeXVsMFVJUVRLb0VyU0ozV1F0QlBTS3hsUUlKV0hLQW5Jb2VfOXBKSlJlaEpaemxXbmVjVzFJYlI?oc=5"
+        }
+      ],
+      "updatedAt": "2026-08-04T10:41:03+07:00"
     },
     {
       "id": "micro-drama-1-gen-z-14-000-793b145c4a",
@@ -1198,7 +1206,7 @@
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "medium",
-      "summary": "ข่าวจาก Google News keyword: ดราม่า / source: khaosod.co.th - ดราม่าอีก! จั๊กจั่น เดือดเจอ นารา เอารูปไปจัดโปรร้องไห้ขายสินค้า ลั่นขอโทษกูไม่จริงใจ?    khaosod.co.th",
+      "summary": "ข่าวจาก Google News keyword: ดราม่า / source: ข่าวสด - ดราม่าอีก! จั๊กจั่น เดือดเจอ นารา เอารูปไปจัดโปรร้องไห้ขายสินค้า ลั่นขอโทษกูไม่จริงใจ?    ข่าวสด",
       "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -1211,37 +1219,11 @@
       "riskNote": "Medium risk ควรเลี่ยงการพาดพิงบุคคลจริงและใช้คำถามเชิงสร้างสรรค์",
       "sources": [
         {
-          "title": "khaosod.co.th",
+          "title": "ข่าวสด",
           "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE16LUstY2txcTJYbVNVVDBUdUtkUWkwQmQ0ZFk3SGxrbVFydkpYcmZSU2o2YUphLUJWczZWemhMSjlZdENmVF9sNTB6Tm1udnRCQWtKbU02RGJncldMYXd0UVIxWQ?oc=5"
         }
       ],
       "updatedAt": "2026-08-04T14:30:00+07:00"
-    },
-    {
-      "id": "vs-dc180f8abc",
-      "title": "สรุปดราม่า สุวรรณภูมิ vs แฟนคลับจีน ซาแซงป่วนสนามบิน รปภ.ทำท่าทางเหยียด",
-      "sourceType": "news",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "medium",
-      "summary": "ข่าวจาก Google News keyword: ดราม่า / source: Sanook.com - สรุปดราม่า สุวรรณภูมิ vs แฟนคลับจีน ซาแซงป่วนสนามบิน รปภ.ทำท่าทางเหยียด    Sanook.com",
-      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#สรุปดราม่าสุวรรณภูมิvsแฟ"
-      ],
-      "riskNote": "Medium risk ควรเลี่ยงการพาดพิงบุคคลจริงและใช้คำถามเชิงสร้างสรรค์",
-      "sources": [
-        {
-          "title": "Sanook.com",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5NemJVTVZuOWQ3bzU2NUtJc0pWejdZcmRqYWYzTnV3MXBIWmp6OURDa0lrbmZPYi04MUExQ0YtMzdDR2RFZUxEN1VuM0c?oc=5"
-        }
-      ],
-      "updatedAt": "2026-08-05T07:51:20+07:00"
     },
     {
       "id": "topic-80cbf615ae",
@@ -1289,7 +1271,7 @@
       "riskNote": "Medium risk ควรอ้างอิงแหล่งทางการและเตือนให้ระวังลิงก์ปลอมหรือข้อมูลผิด",
       "sources": [
         {
-          "title": "Sanook.com",
+          "title": "sanook.com",
           "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE94Qy1VbUNPN3g1dkJiMG51UHl4NXBoaEVGTTJaa3J0SXJyZnBZV1pJNnY1LWpTMVR5X2gwQVR2WVl6cE1JWTEta3gwdno?oc=5"
         },
         {
@@ -1297,16 +1279,16 @@
           "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9La2xvN0ZnQi1sRTljMldheGNOUC1hd2oyVGIyUEJVSy05blBTOTFSRzluTmR1WC1EY1FCNDR3ZXYybGVlMHRhUHhR?oc=5"
         },
         {
+          "title": "Marketeer Online",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE50QmVuUGZmcFJ1MHBrbHJMWFRnMXlJNU9aRV9IZ2l5QndMU01sNlN4MlpwV1JHcExWeF9hWVZ4RlBCLUVzbl9Vc0JVWUJPdXVTcDkyYg?oc=5"
+        },
+        {
           "title": "ch3plus.com",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5HWGF6RjQxVWZsS2E5dDIxTEtJUXFpbUxRV2pNbHc3YlVMVmp4SF9ya2lVaTlIRTlSM0Rmd2NvN1o0cjJGTWhVMy1qOWJTYXlQMktRVEQ2ckRnM3c?oc=5"
         },
         {
           "title": "kapook.com",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBQWkpyaGhkT0wzSDdkTkdXY0xoYUF6ckJ6ZXVaUE5pcFVwUHpnbTlMdXo2UFoxV2JpcUl5d3EycmlMOE9JYUZhTVYtc19iRWVxSkE?oc=5"
-        },
-        {
-          "title": "thethaiger.com",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9JREI5R2JXVWNXclhkVTBnU1prMk5VeDE2V3RPUUhYR09TU09QUFlyd0ZNajA4NjhVa283RHlubGdNaVBWSW91VlcxRlBpN0ts?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE90SXRqM0cwdGhMS0xRN2Z1YTV6VEtNbmdyLVA4Rkw2VWV0WkFIay16eXJSc3pBNzZZRFZrOUU0SVlNR3htTGwzU2VGNFZQQWlv?oc=5"
         }
       ],
       "updatedAt": "2026-08-07T17:07:00+07:00"
