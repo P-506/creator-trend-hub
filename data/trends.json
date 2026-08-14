@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T12:39:12.355330+07:00",
+  "generatedAt": "2026-08-14T15:17:47.380681+07:00",
   "dateRange": "2026-08-07 to 2026-08-14",
   "sourceErrors": [],
   "topics": [
@@ -82,13 +82,39 @@
       "updatedAt": "2026-08-11T14:00:00+07:00"
     },
     {
+      "id": "playlist-6-463adaa8d1",
+      "title": "Playlist 6 พิกัดคาเฟ่ในสวนที่น่าเที่ยว น่าเช็กอิน",
+      "sourceType": "news",
+      "category": "food",
+      "contentPotential": "high",
+      "riskLevel": "low",
+      "summary": "ข่าวจาก Google News keyword: คาเฟ่ / source: baanlaesuan.com - Playlist 6 พิกัดคาเฟ่ในสวนที่น่าเที่ยว น่าเช็กอิน    baanlaesuan.com",
+      "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
+      "creatorAngle": "ให้ Creator เล่าประสบการณ์ร้าน/เมนูที่อยากลอง แล้วถามคนอื่นว่าคิดเหมือนกันไหม",
+      "promptIdea": "เห็นคนพูดถึงเมนูนี้เยอะมาก มีใครลองแล้วบ้าง?",
+      "hashtags": [
+        "#FoodTrend",
+        "#CafeTH",
+        "#รีวิวของกิน",
+        "#Playlist6พิกัดคาเฟ่ในสวน"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "baanlaesuan.com",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1xb0YydnI2bndLUDhiYmZBTXkzT0ZNMlhiUTVjQ0ktWTJJckJybER6UWd0V3Fva3RpdF9LRndqWm5NUjkwa1lGbkFGUkVYSUhoemRoMno5TWk2cFFCM0JnTjNwNHVnVDE2WjFNeE9admY?oc=5"
+        }
+      ],
+      "updatedAt": "2026-08-14T00:55:54+07:00"
+    },
+    {
       "id": "the-daily-edit-showcase-65c25543dc",
       "title": "The Daily Edit งาน Showcase ที่รวมแฟชั่น งานคราฟต์ และโยเกิร์ตไว้ในที่เดียว",
       "sourceType": "news",
       "category": "beauty",
       "contentPotential": "high",
       "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: แฟชั่น / source: Sanook - The Daily Edit งาน Showcase ที่รวมแฟชั่น งานคราฟต์ และโยเกิร์ตไว้ในที่เดียว    Sanook",
+      "summary": "ข่าวจาก Google News keyword: แฟชั่น / source: Sanook.com - The Daily Edit งาน Showcase ที่รวมแฟชั่น งานคราฟต์ และโยเกิร์ตไว้ในที่เดียว    Sanook.com",
       "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
       "creatorAngle": "ชวนแชร์สไตล์ ไอเท็ม หรือเทคนิคที่ใช้จริงโดยไม่ขายของแข็งเกินไป",
       "promptIdea": "สไตล์นี้ถ้าแต่งในชีวิตจริงจะรอดไหม?",
@@ -101,37 +127,11 @@
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
         {
-          "title": "Sanook",
+          "title": "Sanook.com",
           "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5XTWcwMUs4b09RZU0tSDV0NUh1M1V6SlNVdHJFVUVFZURJNjYyZUlHM1BUOWp4alhRVVBneml6YlBpN1ZvejBqMk0xQ1U?oc=5"
         }
       ],
       "updatedAt": "2026-08-07T16:12:00+07:00"
-    },
-    {
-      "id": "vogue-new-gen-f75e520d9f",
-      "title": "VOGUE NEW GEN | สำรวจพลังบัณฑิตแฟชั่นรุ่นใหม่ รากฐานความแข็งแกร่งของอุตสาหกรรมในอนาคต",
-      "sourceType": "news",
-      "category": "beauty",
-      "contentPotential": "high",
-      "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: แฟชั่น / source: vogue.co.th - VOGUE NEW GEN | สำรวจพลังบัณฑิตแฟชั่นรุ่นใหม่ รากฐานความแข็งแกร่งของอุตสาหกรรมในอนาคต    vogue.co.th",
-      "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
-      "creatorAngle": "ชวนแชร์สไตล์ ไอเท็ม หรือเทคนิคที่ใช้จริงโดยไม่ขายของแข็งเกินไป",
-      "promptIdea": "สไตล์นี้ถ้าแต่งในชีวิตจริงจะรอดไหม?",
-      "hashtags": [
-        "#BeautyTalk",
-        "#FashionTH",
-        "#ไอเดียแต่งตัว",
-        "#VOGUENEWGEN|สำรวจพลังบัณ"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "vogue.co.th",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBxdlpieWdVLWxvSWFFbzZuME5RanFqQXM1VVFxMmI0MTVDSmVuQUpJb0R2bEVqbVJ2MWh2aGpzbElwMFl3eHlLM1hCMmpHZFBzb1hUUG1KUmQ0Zk1mZDlqaGlRNmw4RGxwU1E3VEdqNW4ybzdMeHc?oc=5"
-        }
-      ],
-      "updatedAt": "2026-08-10T17:57:38+07:00"
     },
     {
       "id": "michelin-the-unlock-update-michelin-37ab081fc4",
@@ -184,32 +184,6 @@
         }
       ],
       "updatedAt": "2026-08-07T16:42:50+07:00"
-    },
-    {
-      "id": "topic-c206347f3c",
-      "title": "คําสารภาพหมอผีหนัง",
-      "sourceType": "trends",
-      "category": "entertainment",
-      "contentPotential": "high",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 100+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่า reaction ส่วนตัวต่อกระแส แล้วเปิดคำถามให้คนคุยต่อ",
-      "promptIdea": "กระแสนี้ทุกคนอยู่ทีมไหน?",
-      "hashtags": [
-        "#EntertainmentTH",
-        "#คุยเรื่องบันเทิง",
-        "#กระแสวันนี้",
-        "#คําสารภาพหมอผีหนัง"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        }
-      ],
-      "updatedAt": "2026-08-14T07:20:00+07:00"
     },
     {
       "id": "fashion-island-opposite-361ee1d236",
@@ -288,32 +262,6 @@
         }
       ],
       "updatedAt": "2026-08-10T17:44:00+07:00"
-    },
-    {
-      "id": "7-the-lost-taste-231-c707ca48ac",
-      "title": "รัฐบาลต่อยอดเสน่ห์อาหารไทย หลังติดอันดับ 7 ของโลกด้าน “อาหารที่คนทั่วโลกรัก” เดินหน้า “The Lost Taste” ปลุก 231 มรดกอาหารถิ่น สร้างมูลค่าวัฒนธรรม–ท่องเที่ยว",
-      "sourceType": "news",
-      "category": "food",
-      "contentPotential": "high",
-      "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: อาหาร / source: กรมประชาสัมพันธ์ - รัฐบาลต่อยอดเสน่ห์อาหารไทย หลังติดอันดับ 7 ของโลกด้าน “อาหารที่คนทั่วโลกรัก” เดินหน้า “The Lost Taste” ปลุก 231 มรดกอาหารถิ่น สร้างมูลค่าวัฒนธรรม–ท่องเที่ยว    กรมประชาสัมพันธ์",
-      "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
-      "creatorAngle": "ให้ Creator เล่าประสบการณ์ร้าน/เมนูที่อยากลอง แล้วถามคนอื่นว่าคิดเหมือนกันไหม",
-      "promptIdea": "เห็นคนพูดถึงเมนูนี้เยอะมาก มีใครลองแล้วบ้าง?",
-      "hashtags": [
-        "#FoodTrend",
-        "#CafeTH",
-        "#รีวิวของกิน",
-        "#รัฐบาลต่อยอดเสน่ห์อาหารไ"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "กรมประชาสัมพันธ์",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE13YWVsOUM5T2R6YXlzM3RtOFMxSmRsdWRlSDh4SS01c2VESTlISlE5OTdsbjBOdm5nRjdfWk5ERzBTVnhKblhvd3d3RUxITUJubXhmS0FsaXB4aWRxSUdMVXRveW94TmxrVnVCVlNYb3VsU1E?oc=5"
-        }
-      ],
-      "updatedAt": "2026-08-12T11:54:15+07:00"
     },
     {
       "id": "topic-e060cd3a63",
@@ -446,30 +394,30 @@
       "updatedAt": "2026-08-09T19:47:46+07:00"
     },
     {
-      "id": "topic-52898bcabf",
-      "title": "เฟย ภัทร ยกร้านคาเฟ่รักษ์โลกสุดฮอต ปักหมุดเสิร์ฟความอร่อยกลางพารากอน",
+      "id": "silent-disco-runway-db97c93607",
+      "title": "เปิดโมเมนต์แฟชั่นโชว์ 'Silent Disco Runway' พร้อมขนทัพแบรนด์ไทย บุกมหานครนิวยอร์ก!",
       "sourceType": "news",
-      "category": "food",
+      "category": "beauty",
       "contentPotential": "high",
       "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: คาเฟ่ / source: khaosod.co.th - เฟย ภัทร ยกร้านคาเฟ่รักษ์โลกสุดฮอต ปักหมุดเสิร์ฟความอร่อยกลางพารากอน    khaosod.co.th",
+      "summary": "ข่าวจาก Google News keyword: แฟชั่น / source: vogue.co.th - เปิดโมเมนต์แฟชั่นโชว์ 'Silent Disco Runway' พร้อมขนทัพแบรนด์ไทย บุกมหานครนิวยอร์ก!    vogue.co.th",
       "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
-      "creatorAngle": "ให้ Creator เล่าประสบการณ์ร้าน/เมนูที่อยากลอง แล้วถามคนอื่นว่าคิดเหมือนกันไหม",
-      "promptIdea": "เห็นคนพูดถึงเมนูนี้เยอะมาก มีใครลองแล้วบ้าง?",
+      "creatorAngle": "ชวนแชร์สไตล์ ไอเท็ม หรือเทคนิคที่ใช้จริงโดยไม่ขายของแข็งเกินไป",
+      "promptIdea": "สไตล์นี้ถ้าแต่งในชีวิตจริงจะรอดไหม?",
       "hashtags": [
-        "#FoodTrend",
-        "#CafeTH",
-        "#รีวิวของกิน",
-        "#เฟยภัทรยกร้านคาเฟ่รักษ์โ"
+        "#BeautyTalk",
+        "#FashionTH",
+        "#ไอเดียแต่งตัว",
+        "#เปิดโมเมนต์แฟชั่นโชว์'Si"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
         {
-          "title": "khaosod.co.th",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAyTG1VcFlNM1RlcXRFN1AtME0zSVNBaGFPc0VwWVgtSlMxcUFJWndiZ0J5WXdxZW5wdWdXUmtJS2tLUW5ES1RCX3IwekxMVHpjb2JTLTlobU43Q2VGNklUc0ZtQQ?oc=5"
+          "title": "vogue.co.th",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1UNmtfUnh4VjR3eUY3d3FyVFBRM3ZSaVJKQndhbERjcTJ0M3h1ejBiQmU2N1czTjlwZHkzLTJCaWdOVnRSSUV0X0pldDN5ZWNNX291WkRMczloUGs5cmhzSTI1aUhFYUVSUFdWM1RoS0ZBXzgtUXc?oc=5"
         }
       ],
-      "updatedAt": "2026-08-07T13:00:00+07:00"
+      "updatedAt": "2026-08-14T14:25:11+07:00"
     },
     {
       "id": "topic-aeb543a0e1",
@@ -498,30 +446,56 @@
       "updatedAt": "2026-08-13T17:02:53+07:00"
     },
     {
-      "id": "liquid-love-f68221aa35",
-      "title": "‘Liquid Love’ ปรากฏการณ์ลื่นไหลทางความรัก สาเหตุที่คนยุคนี้โหยหารักแบบไม่ผูกมัดมากขึ้น",
+      "id": "100-1-1-0cbf5b9ea7",
+      "title": "“วันแม่” ดันยอดกินข้าวนอกบ้านพุ่ง ร้านอาหารเต็ม 100% เงินสะพัด 1.1 หมื่นล้านบาท",
       "sourceType": "news",
-      "category": "relationship",
+      "category": "food",
       "contentPotential": "high",
       "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: ความสัมพันธ์ / source: The Momentum - ‘Liquid Love’ ปรากฏการณ์ลื่นไหลทางความรัก สาเหตุที่คนยุคนี้โหยหารักแบบไม่ผูกมัดมากขึ้น    The Momentum",
-      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
-      "creatorAngle": "ตั้งเป็นสถานการณ์สมมติหรือมุมมองทั่วไปเพื่อชวนแลกเปลี่ยน",
-      "promptIdea": "ถ้าเป็นคุณ จะรับมือกับสถานการณ์แบบนี้ยังไง?",
+      "summary": "ข่าวจาก Google News keyword: อาหาร / source: Thai PBS - “วันแม่” ดันยอดกินข้าวนอกบ้านพุ่ง ร้านอาหารเต็ม 100% เงินสะพัด 1.1 หมื่นล้านบาท    Thai PBS",
+      "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
+      "creatorAngle": "ให้ Creator เล่าประสบการณ์ร้าน/เมนูที่อยากลอง แล้วถามคนอื่นว่าคิดเหมือนกันไหม",
+      "promptIdea": "เห็นคนพูดถึงเมนูนี้เยอะมาก มีใครลองแล้วบ้าง?",
       "hashtags": [
-        "#RelationshipTalk",
-        "#คุยกันหน่อย",
-        "#SocialTopic",
-        "#‘LiquidLove’ปรากฏการณ์ลื"
+        "#FoodTrend",
+        "#CafeTH",
+        "#รีวิวของกิน",
+        "#“วันแม่”ดันยอดกินข้าวนอก"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
         {
-          "title": "The Momentum",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1QUWt4WHhaMTBqR2hOZlY2NzlkeWRXQ1NBUGhlMWwwb29OMjN2S1c0ZDEtaXp3MGpYcXk1NkpkU2FtWXlPMUdLWW41dnhtY1FyLXJKSw?oc=5"
+          "title": "Thai PBS",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9tbmVrdDZSMVE1TkpOcFNWT1p2LXU1WDBHd092bjdCdTBsYVNRcm5RWDBZNjNPNXJ6a3g3NjRMRThBXzM4YW1rLVJXUlpidkdaUE5mX0xlV0E?oc=5"
         }
       ],
-      "updatedAt": "2026-08-09T10:47:36+07:00"
+      "updatedAt": "2026-08-11T14:42:10+07:00"
+    },
+    {
+      "id": "vvv-tornado-4b6d70c31a",
+      "title": "\"VVV\" ฉีกลุคใหม่ผ่านซิงเกิล \"TORNADO\" กับความสัมพันธ์ที่คาดเดาไม่ได้",
+      "sourceType": "news",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "ข่าวจาก Google News keyword: ความสัมพันธ์ / source: TrueID - \"VVV\" ฉีกลุคใหม่ผ่านซิงเกิล \"TORNADO\" กับความสัมพันธ์ที่คาดเดาไม่ได้    TrueID",
+      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#\"VVV\"ฉีกลุคใหม่ผ่านซิงเก"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "TrueID",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1OX2czLXNSc2JZa1NGalp4UWU5RUVmSXJwdXhnME94MzNRZlJrb0E1VXp1dWNuOTJMeWVhUlMtazBTMEktWUpackFDZS1IbFBuVmhVbDJ6d0h6U1E0ZW9R?oc=5"
+        }
+      ],
+      "updatedAt": "2026-08-08T09:00:00+07:00"
     },
     {
       "id": "topic-0e9bdb8292",
@@ -576,6 +550,44 @@
       "updatedAt": "2026-08-13T18:04:11+07:00"
     },
     {
+      "id": "honda-super-one-b945b8181d",
+      "title": "honda super one",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#hondasuperone"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "ภาพคันจริง Honda Super-ONE | หล่อเหมือนตัว Prototype ไม่พอ มีชุดแต่ง BULLDOG และ MUGEN ให้เลือกสรรค์ตามงบ",
+          "url": "https://www.headlightmag.com/2026-08-14-picture-specs-honda-super-one/"
+        },
+        {
+          "title": "Honda Super-ONE ราคา 990,000 บาท EV ไซซ์มินินำเข้าญี่ปุ่น แต่งแบบ JDM เท่สุดๆ",
+          "url": "https://www.thairath.co.th/news/auto/evcar/2952798"
+        },
+        {
+          "title": "Honda Super-ONE จิ๋วแต่แจ๋ว",
+          "url": "https://www.autospinn.com/2026/08/honda-super-one-151456"
+        }
+      ],
+      "updatedAt": "2026-08-14T12:40:00+07:00"
+    },
+    {
       "id": "jessica-bang-c22beda67f",
       "title": "jessica bang",
       "sourceType": "trends",
@@ -614,8 +626,46 @@
       "updatedAt": "2026-08-14T12:10:00+07:00"
     },
     {
-      "id": "ritchie-blackmore-a4c1b4a14d",
-      "title": "ritchie blackmore",
+      "id": "latest-iphone-rumors-94f0b22d18",
+      "title": "latest iphone rumors",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#latestiphonerumors"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "iPhone 18 could get two new Pro-level upgrades, per report",
+          "url": "https://9to5mac.com/2026/08/12/iphone-18-could-get-two-new-pro-level-upgrades-per-report/"
+        },
+        {
+          "title": "What's Coming in September: New iPhones, Apple Watches and More",
+          "url": "https://www.macrumors.com/2026/08/13/apple-september-announcement-rumors/"
+        },
+        {
+          "title": "Apple delays standard iPhone 18 to 2027 amid severe component shortages",
+          "url": "https://uz.kursiv.media/en/2026-08-13/apple-delays-standard-iphone-18-to-2027-amid-severe-component-shortages/"
+        }
+      ],
+      "updatedAt": "2026-08-14T14:00:00+07:00"
+    },
+    {
+      "id": "what-is-a-heat-dome-20dfe85316",
+      "title": "what is a heat dome",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
@@ -628,7 +678,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#ritchieblackmore"
+        "#whatisaheatdome"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -637,23 +687,99 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "RITCHIE BLACKMORE Says He Will Perform With DEEP PURPLE For First Time In More Than Three Decades",
-          "url": "https://blabbermouth.net/news/ritchie-blackmore-says-he-will-perform-with-deep-purple-for-first-time-in-more-than-three-decades"
+          "title": "Southern drought eases, but extreme heat returns across the Southeast",
+          "url": "https://www.cbsnews.com/atlanta/video/southern-drought-eases-but-extreme-heat-returns-across-the-southeast/"
         },
         {
-          "title": "81-Year-Old Rock Icon From the ’70s Announces Reunion After Over 30 Years",
-          "url": "https://www.mensjournal.com/news/81-year-old-rock-icon-from-the-70s-announces-reunion-after-over-30-years"
+          "title": "Dangerous hot weather expected through the weekend",
+          "url": "https://thesouthern.com/news/dangerous-hot-weather-expected-through-the-weekend/article_cd1367dd-7a9b-5216-94fd-8427a4b47c54.html"
         },
         {
-          "title": "The guitar genius of Ritchie Blackmore in 5 classic tracks",
-          "url": "https://www.musicradar.com/artists/guitarists/ritchie-blackmore-guitar-genius-in-five-classic-tracks"
+          "title": "Explosive Heatwave/Flash Drought Mid-south/Southeast U.S. Ahead",
+          "url": "https://climateimpactcompany.com/daily-feature-explosive-heatwave-flash-drought-mid-south-southeast-u-s-ahead-2/"
         }
       ],
-      "updatedAt": "2026-08-14T12:10:00+07:00"
+      "updatedAt": "2026-08-14T13:50:00+07:00"
     },
     {
-      "id": "tokyo-marathon-2027-78076275ee",
-      "title": "tokyo marathon 2027",
+      "id": "where-to-watch-champions-league-00b91df622",
+      "title": "where to watch champions league",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 100+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#wheretowatchchampionslea"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "Granawin Boosted Odds: UCL Qualifying Second Legs Preview",
+          "url": "https://rg.org/en-ca/news/gambling-industry/granawin-boosted-odds-champions-league-qualifiers"
+        },
+        {
+          "title": "2026/27 UEFA Champions League: Third qualifying round results, talking points & playoffs fixtures",
+          "url": "https://blog.ke.sportpesa.com/2026/08/14/ucl-third-qualifying-round-second-leg-results-play-off-draw-confirmed-ke/"
+        },
+        {
+          "title": "Champions League Qualifiers Underway as Teams Fight for League Phase Spots",
+          "url": "https://www.pulsesports.ug/story/champions-league-qualifiers-underway-as-teams-fight-for-league-phase-spots-2026081208233322953"
+        }
+      ],
+      "updatedAt": "2026-08-14T14:00:00+07:00"
+    },
+    {
+      "id": "where-to-watch-nfl-games-b8361878f6",
+      "title": "where to watch nfl games",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 100+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#wheretowatchnflgames"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "2026 NFL preseason Week 1: Takeaways, analysis",
+          "url": "https://www.espn.com/nfl/story/_/id/49600984/2026-nfl-preseason-week-1-takeaways-analysis"
+        },
+        {
+          "title": "NFL preseason Week 1 NFL odds, best picks today: Back the Bills against the Panthers on Saturday",
+          "url": "https://www.sportsline.com/insiders/nfl-preseason-week-1-nfl-odds-best-picks-today-back-the-bills-against-the-panthers-on-saturday/"
+        },
+        {
+          "title": "Today’s NFL Football Games on TV: What Is Preseason Schedule for Thursday, Aug. 13?",
+          "url": "https://sports.yahoo.com/articles/today-nfl-football-games-tv-142143654.html"
+        }
+      ],
+      "updatedAt": "2026-08-14T13:50:00+07:00"
+    },
+    {
+      "id": "topic-1105734ce1",
+      "title": "กอล์ฟ",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
@@ -666,7 +792,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#tokyomarathon2027"
+        "#กอล์ฟ"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -675,15 +801,57 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "Unveiling the Design for the ASICS Signature T-shirts Available only to Runners!",
-          "url": "https://www.marathon.tokyo/en/news/detail/news_20260813165127.html"
+          "title": "สุดเศร้า \"เจสสิกา แบง\" นักกอล์ฟหญิงดาวรุ่งออสเตรเลียวัย 18 ปี เสียชีวิตในไทย",
+          "url": "https://www.sanook.com/sport/1668545/"
         },
         {
-          "title": "Design Revealed for the 20th Anniversary Premium Edition Finisher Medals!",
-          "url": "https://www.marathon.tokyo/en/news/detail/news_20260813115100.html"
+          "title": "\"เจสสิกา เบง\" นักกอล์ฟดาวรุ่งออสเตรเลียเสียชีวิต ขณะเตรียมแข่งที่ไทย",
+          "url": "https://www.thaipbs.or.th/news/content/509418"
+        },
+        {
+          "title": "วงการกอล์ฟอาลัย \"เจสสิกา\" โปรสาวดาวรุ่งออสซี่ เสียชีวิตกะทันหันที่ไทย",
+          "url": "https://www.amarintv.com/news/sport/554712"
         }
       ],
-      "updatedAt": "2026-08-14T09:30:00+07:00"
+      "updatedAt": "2026-08-14T14:10:00+07:00"
+    },
+    {
+      "id": "topic-3dad3adbd3",
+      "title": "ดูสนุกเกอร์สด",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 500+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#ดูสนุกเกอร์สด"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "หลายคนไม่รู้! \"หมู ปากน้ำ\" ยกคนนี้อยู่เบื้องหลังโค่น \"รอนนี่\" ศึกสอยคิวไชน่า โอเพ่น",
+          "url": "https://www.sanook.com/sport/1668540/"
+        },
+        {
+          "title": "“หมู ปากน้ำ” สุดแกร่ง! พลิกโค่น “รอนนี่” 6-4 เฟรม ลิ่ว 8 คน ไชน่า โอเพ่น 2026",
+          "url": "https://mgronline.com/sport/detail/9690000079304"
+        },
+        {
+          "title": "เป็นมา 4 ปี! ‘รอนนี’ พลาดจนชินก็ยังเซ็ง แต่ชม ‘หมู ปากน้ำ’",
+          "url": "https://www.dailynews.co.th/news/6104212/"
+        }
+      ],
+      "updatedAt": "2026-08-14T13:10:00+07:00"
     },
     {
       "id": "topic-e59eb89838",
@@ -692,7 +860,7 @@
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 5000+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 1000+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -709,133 +877,19 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
+          "title": "บทวิเคราะห์ราคาทองคำประจำวันที่ 14 สิงหาคม 2569",
+          "url": "https://www.intergold.co.th/investor_core/analyze-14-aug-2026/"
+        },
+        {
           "title": "ราคาทองวันนี้ 14 ส.ค.69 ร่วงลงแรงแล้ว 750 บาท ส่งผลราคาทองรูปพรรณขายออกบาทละ 68,800 บาท | สวพ.FM91",
-          "url": "https://today.line.me/th/v3/article/aGRexBp?view=topic&referral=goldupdate"
+          "url": "https://today.line.me/th/v3/article/aGRexBp"
         },
         {
-          "title": "ราคาทองวันนี้ 14 ส.ค. 69 ครึ่งวันเช้า ทองคำแท่งร่วงลงแรง",
-          "url": "https://www.sanook.com/money/955567/"
-        },
-        {
-          "title": "ราคาทองครึ่งสลึงวันนี้ 14 สิงหาคม 2569 อัปเดตล่าสุด \"ราคาทองรูปพรรณ\" กี่บาทแล้ว",
-          "url": "https://www.thairath.co.th/news/society/2952709"
+          "title": "ทองคำร่วงต่ำกว่า $4,400 กดดันจากแนวโน้มเฟดและการเจรจาช่องแคบฮอร์มุซ",
+          "url": "https://th.investing.com/news/commodities-news/article-754683"
         }
       ],
       "updatedAt": "2026-08-14T12:10:00+07:00"
-    },
-    {
-      "id": "topic-1538daf926",
-      "title": "ที่ดินวัดป้าดา",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#ที่ดินวัดป้าดา"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "งานเข้าอีก!ที่ดินขอนแก่นเตรียมแจ้งความกลุ่มทายาท “นายเฮียง”ขอออกใบแทนโฉนดทั้งที่ไม่ได้สูญหายจริง",
-          "url": "https://mgronline.com/local/detail/9690000079728"
-        },
-        {
-          "title": "เปิดความสัมพันธ์ \"ป้าดา\" กับครอบครัว \"นายเฮียง\" พิพาทที่ดินวัดป่าอดุลยาราม",
-          "url": "https://www.thaipbs.or.th/news/content/509402"
-        },
-        {
-          "title": "โดน 2 เด้ง! ตำรวจออกหมายเรียก \"ป้าดา\" บุกรุกวัดป่าขอนแก่น – ที่ดินจ่อฟ้องแจ้งความเท็จโฉนดทิพย์",
-          "url": "https://www.dailynews.co.th/news/6106244/"
-        }
-      ],
-      "updatedAt": "2026-08-14T07:40:00+07:00"
-    },
-    {
-      "id": "topic-770d3fd040",
-      "title": "นายกรัฐมนตรี",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 500+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#นายกรัฐมนตรี"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "คอบร้าโกลด์ (Cobra Gold) ยังตอบโจทย์ของสหรัฐฯ ในอินโดแปซิฟิกหรือไม่",
-          "url": "https://www.bbc.com/thai/articles/cvg0zy9peyjo"
-        },
-        {
-          "title": "“อนุทิน” ยัน รัฐบาล ไม่เอาเรื่องทางทหารมาปนเรื่องภาษีสหรัฐฯ ปัดข่าวตั้งฐานผลิตโดรนในไทย",
-          "url": "https://www.thairath.co.th/news/politic/2952735"
-        },
-        {
-          "title": "ตอบโจทย์ - จับกระแส \"ไทย\" ใช้ \"คอบร้าโกลด์\" ต่อรองภาษีสหรัฐฯ",
-          "url": "https://www.thaipbs.or.th/program/TobJote/episodes/117070"
-        }
-      ],
-      "updatedAt": "2026-08-14T11:30:00+07:00"
-    },
-    {
-      "id": "isekai-5bfaeff630",
-      "title": "ฟ้าใส isekai",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 500+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#ฟ้าใสisekai"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "\"ฟ้าใส\" Isekai เสียชีวิตแล้ว",
-          "url": "https://mgronline.com/entertainment/detail/9690000079847"
-        },
-        {
-          "title": "สุดเศร้า! ค่าย IC45 Entertainment ออกแถลงการณ์ อาลัยการจากไปของ “ฟ้าใส Isekai” | มาดามเม้าท์",
-          "url": "https://today.line.me/th/v3/article/2DqEQqe"
-        },
-        {
-          "title": "\"ฟ้าใส Isekai\" เสียชีวิตแล้ว ค่ายเพลงแจ้งข่าวสูญเสียไอดอลสาว แฟนคลับแห่อาลัย",
-          "url": "https://www.sanook.com/news/9903631/"
-        }
-      ],
-      "updatedAt": "2026-08-14T10:30:00+07:00"
     },
     {
       "id": "topic-3ecda7e715",
@@ -844,7 +898,7 @@
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: ความสัมพันธ์ / source: Hfocus.org - รมว.สธ. นำทีมกระชับความสัมพันธ์ไทย-ภูฏาน ยกระดับการแพทย์เฉพาะทาง    Hfocus.org",
+      "summary": "ข่าวจาก Google News keyword: ความสัมพันธ์ / source: hfocus.org - รมว.สธ. นำทีมกระชับความสัมพันธ์ไทย-ภูฏาน ยกระดับการแพทย์เฉพาะทาง    hfocus.org",
       "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -857,7 +911,7 @@
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
         {
-          "title": "Hfocus.org",
+          "title": "hfocus.org",
           "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1NS0JWVXFESGJ2bWIxYWhIZ3YzM3ZzTU5CSW5sTzU3ZWItOE1lQktEZmlqZEhRTTNySkxkY1EtbUlpdk5xOHdNWEZhRHc0dzlrRVhMYnlOOA?oc=5"
         }
       ],
@@ -942,8 +996,8 @@
       "updatedAt": "2026-08-09T18:14:00+07:00"
     },
     {
-      "id": "topic-0a091a108c",
-      "title": "เงินเดือนข้าราชการ",
+      "id": "topic-a1b703c3e9",
+      "title": "วัดป่าแสงอรุณ พระอารามหลวง",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
@@ -956,16 +1010,28 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#เงินเดือนข้าราชการ"
+        "#วัดป่าแสงอรุณพระอารามหลว"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
         {
           "title": "Google Trends",
           "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "ลูกศิษย์อาลัย ทยอยเข้าสรงน้ำศพ \"พระพรหม วชิรดิลก\" เจ้าอาวาสวัดป่าแสงอรุณ",
+          "url": "https://www.thairath.co.th/news/local/northeast/2952537"
+        },
+        {
+          "title": "ศิษยานุศิษย์อาลัย เจ้าอาวาสวัดป่าแสงอรุณ มรณภาพ",
+          "url": "https://news.ch7.com/detail/890921"
+        },
+        {
+          "title": "เปิดสาเหตุ พระพรหมวชิรดิลก เจ้าอาวาสวัดป่าแสงอรุณ มรณภาพ | มุมข่าว",
+          "url": "https://today.line.me/th/v3/article/peZNn1p"
         }
       ],
-      "updatedAt": "2026-08-14T07:20:00+07:00"
+      "updatedAt": "2026-08-14T13:20:00+07:00"
     },
     {
       "id": "topic-c290b2798f",
@@ -992,44 +1058,6 @@
         }
       ],
       "updatedAt": "2026-08-13T17:02:59+07:00"
-    },
-    {
-      "id": "16-6bbbdbed78",
-      "title": "เลขเด็ด 16 สิงหาคม",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#เลขเด็ด16สิงหาคม"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "มาแล้ว เลขเด็ดเชียงใหม่ 16/8/69 “เลขมงคล” ขายดี หวยออกวันอาทิตย์ ระวังเลขเบิ้ล",
-          "url": "https://www.thairath.co.th/lottery/news/2952705"
-        },
-        {
-          "title": "สถิติหวยออก 16 ส.ค. นักเสี่ยงโชคยิ้มหวาน พบ \"เลขเด็ด\" กับ \"เลขดัง\" โผล่เพียบ",
-          "url": "https://www.thairath.co.th/lottery/news/2952653"
-        },
-        {
-          "title": "งวดนี้ลุ้นรวย! เลขเด็ด \"เพชรกล้าเด็กชายนำโชค\" ครั้งที่ 171 งวด 16 ส.ค. 69",
-          "url": "https://www.dailynews.co.th/news/6104490/"
-        }
-      ],
-      "updatedAt": "2026-08-14T11:50:00+07:00"
     },
     {
       "id": "u17-0-3-u17-2026-fivb-volleyball-girls-52da8f158c",
@@ -1090,7 +1118,7 @@
       "category": "lifestyle",
       "contentPotential": "high",
       "riskLevel": "medium",
-      "summary": "ข่าวจาก Google News keyword: ดราม่า / source: Sanook - ดราม่า คุณแม่ญี่ปุ่นใส่เสื้อครอป-กางเกงขาสั้นพาลูก 3 คนเที่ยว ชาวเน็ตถกเสียงแตก    Sanook",
+      "summary": "ข่าวจาก Google News keyword: ดราม่า / source: Sanook.com - ดราม่า คุณแม่ญี่ปุ่นใส่เสื้อครอป-กางเกงขาสั้นพาลูก 3 คนเที่ยว ชาวเน็ตถกเสียงแตก    Sanook.com",
       "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
       "creatorAngle": "โยงกับชีวิตประจำวันของ Creator และถามประสบการณ์คนในคอมมูนิตี้",
       "promptIdea": "ช่วงนี้มีใครเจอเรื่องแบบนี้เหมือนกันไหม?",
@@ -1103,7 +1131,7 @@
       "riskNote": "Medium risk ควรเลี่ยงการพาดพิงบุคคลจริงและใช้คำถามเชิงสร้างสรรค์",
       "sources": [
         {
-          "title": "Sanook",
+          "title": "Sanook.com",
           "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1iQmtrdVJEVTZNTUt1d0YzVF9QZXdKc0xjS25feUp4ZVIzY3dmMHB5MUhKTXFJVGJKVzVNRmgxVnRKZ0FSRi1zbVByTjg?oc=5"
         }
       ],
@@ -1207,7 +1235,7 @@
       "riskNote": "Medium risk ควรอ้างอิงแหล่งทางการและเตือนให้ระวังลิงก์ปลอมหรือข้อมูลผิด",
       "sources": [
         {
-          "title": "Sanook",
+          "title": "Sanook.com",
           "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE94Qy1VbUNPN3g1dkJiMG51UHl4NXBoaEVGTTJaa3J0SXJyZnBZV1pJNnY1LWpTMVR5X2gwQVR2WVl6cE1JWTEta3gwdno?oc=5"
         },
         {
@@ -1253,7 +1281,7 @@
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9oYlI2OEgtLW9JTzZpM2wwYThaT3FiUzc0Q1ZKWWZYdlFpYThUc3pLQi0taFpYSkF1bE9vSzJXREd3dk8tdjlkUjVyVkFudzJFcWxvblIydEtZWnFNeXRZNENiazk?oc=5"
         }
       ],
-      "updatedAt": "2026-08-09T19:38:40+07:00"
+      "updatedAt": "2026-08-14T12:56:44+07:00"
     },
     {
       "id": "topic-584d732bc2",
