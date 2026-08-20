@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T09:17:31.126169+07:00",
+  "generatedAt": "2026-08-20T11:39:12.029046+07:00",
   "dateRange": "2026-08-13 to 2026-08-20",
   "sourceErrors": [],
   "topics": [
@@ -88,7 +88,7 @@
       "category": "food",
       "contentPotential": "high",
       "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: อาหาร / source: Thai PBS - ชมเสน่ห์อาหารไทยผ่านชุดประจำชาติ บนเวทีประกวด Miss Universe 2025    Thai PBS",
+      "summary": "ข่าวจาก Google News keyword: อาหาร / source: thaipbs.or.th - ชมเสน่ห์อาหารไทยผ่านชุดประจำชาติ บนเวทีประกวด Miss Universe 2025    thaipbs.or.th",
       "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
       "creatorAngle": "ให้ Creator เล่าประสบการณ์ร้าน/เมนูที่อยากลอง แล้วถามคนอื่นว่าคิดเหมือนกันไหม",
       "promptIdea": "เห็นคนพูดถึงเมนูนี้เยอะมาก มีใครลองแล้วบ้าง?",
@@ -101,7 +101,7 @@
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
         {
-          "title": "Thai PBS",
+          "title": "thaipbs.or.th",
           "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA5bUFwUlFtaHJtZlVsWWNoVmZQeGgxQTIxVXZaSEdxdzEzN1VQYWZVbTZjSURZdERuNHo5Q1hoRWg2ZGNvMF9qX19sbWVWZ0FPd1BOaFNfeHY?oc=5"
         }
       ],
@@ -132,6 +132,32 @@
         }
       ],
       "updatedAt": "2026-08-17T16:05:02+07:00"
+    },
+    {
+      "id": "6-47c52016dd",
+      "title": "ป.ป.ช.สุราษฎร์ธานี สุ่มตรวจอาหารกลางวัน 6 โรงเรียน เจอพิรุธเพียบ พบเมนูอาหาร‘ดีแค่วันมีคนมาตรวจ’",
+      "sourceType": "news",
+      "category": "food",
+      "contentPotential": "high",
+      "riskLevel": "low",
+      "summary": "ข่าวจาก Google News keyword: อาหาร / source: มติชนออนไลน์ - ป.ป.ช.สุราษฎร์ธานี สุ่มตรวจอาหารกลางวัน 6 โรงเรียน เจอพิรุธเพียบ พบเมนูอาหาร‘ดีแค่วันมีคนมาตรวจ’    มติชนออนไลน์",
+      "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
+      "creatorAngle": "ให้ Creator เล่าประสบการณ์ร้าน/เมนูที่อยากลอง แล้วถามคนอื่นว่าคิดเหมือนกันไหม",
+      "promptIdea": "เห็นคนพูดถึงเมนูนี้เยอะมาก มีใครลองแล้วบ้าง?",
+      "hashtags": [
+        "#FoodTrend",
+        "#CafeTH",
+        "#รีวิวของกิน",
+        "#ป.ป.ช.สุราษฎร์ธานีสุ่มตร"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "มติชนออนไลน์",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5sYVBuZWRKZ0hmeURPbmpMQlpVT2ZGWGh5MHBjQV9CYWhqZy1Yd05aMENqYTJkNkJCZ21rWWhwTkRkN2ZTR0c3QUhCVW5iQk1UT2NnNENzcmk?oc=5"
+        }
+      ],
+      "updatedAt": "2026-08-18T10:02:48+07:00"
     },
     {
       "id": "popular-vote-0db9e943f3",
@@ -192,7 +218,7 @@
       "category": "entertainment",
       "contentPotential": "high",
       "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: ซีรีส์ / source: sanook.com - พระเอกจีนร้อง เศรษฐีนีทุ่มเงินสร้างซีรีส์ ให้ตัวเองเป็นนางเอก เขียนบทสูบวิญญาณ จูบ 60 ซีน    sanook.com",
+      "summary": "ข่าวจาก Google News keyword: ซีรีส์ / source: Sanook - พระเอกจีนร้อง เศรษฐีนีทุ่มเงินสร้างซีรีส์ ให้ตัวเองเป็นนางเอก เขียนบทสูบวิญญาณ จูบ 60 ซีน    Sanook",
       "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
       "creatorAngle": "เล่า reaction ส่วนตัวต่อกระแส แล้วเปิดคำถามให้คนคุยต่อ",
       "promptIdea": "กระแสนี้ทุกคนอยู่ทีมไหน?",
@@ -205,7 +231,7 @@
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
         {
-          "title": "sanook.com",
+          "title": "Sanook",
           "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE13SEpfSDR5M2xiXzVVUFk0Nnp6dWtSUk0xYjNQTVAzWVdBOG1rckZyeVBVVjg1Zmc4azBVc2p1SXlISlEzWmVtMnpSWmE?oc=5"
         }
       ],
@@ -342,32 +368,6 @@
       "updatedAt": "2026-08-13T14:57:00+07:00"
     },
     {
-      "id": "topic-32daf82eb0",
-      "title": "เปิดความลับ \"ผงชูรส\" ทำไมทำใส่อาหารแล้วอร่อย? ทั้งที่ชิมเปล่าๆ ไม่อร่อย",
-      "sourceType": "news",
-      "category": "food",
-      "contentPotential": "high",
-      "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: อาหาร / source: sanook.com - เปิดความลับ \"ผงชูรส\" ทำไมทำใส่อาหารแล้วอร่อย? ทั้งที่ชิมเปล่าๆ ไม่อร่อย    sanook.com",
-      "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
-      "creatorAngle": "ให้ Creator เล่าประสบการณ์ร้าน/เมนูที่อยากลอง แล้วถามคนอื่นว่าคิดเหมือนกันไหม",
-      "promptIdea": "เห็นคนพูดถึงเมนูนี้เยอะมาก มีใครลองแล้วบ้าง?",
-      "hashtags": [
-        "#FoodTrend",
-        "#CafeTH",
-        "#รีวิวของกิน",
-        "#เปิดความลับ\"ผงชูรส\"ทำไมท"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "sanook.com",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBNLTUwWEc2OWc0TlhObTVEdXVuSkVmcURJN3U5Nks2TmJoRnF0N1YwRktxcEhOelotZlNUd0s3ODY2bXRwZ2hNT05QM2o?oc=5"
-        }
-      ],
-      "updatedAt": "2026-08-19T01:53:10+07:00"
-    },
-    {
       "id": "topic-aeb543a0e1",
       "title": "แฟชั่นยั่งยืน ‘ควีนเลติเซีย’ ทรงส่งต่อฉลองพระองค์ แก่พระราชธิดาทั้งสอง",
       "sourceType": "news",
@@ -420,21 +420,21 @@
       "updatedAt": "2026-08-16T12:38:00+07:00"
     },
     {
-      "id": "1-a8194805dd",
-      "title": "1 กันยายน",
+      "id": "topic-aea2e62205",
+      "title": "ไทยเที่ยวไทย",
       "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
+      "category": "lifestyle",
+      "contentPotential": "high",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 100+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "creatorAngle": "โยงกับชีวิตประจำวันของ Creator และถามประสบการณ์คนในคอมมูนิตี้",
+      "promptIdea": "ช่วงนี้มีใครเจอเรื่องแบบนี้เหมือนกันไหม?",
       "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#1กันยายน"
+        "#LifestyleTH",
+        "#ชีวิตประจำวัน",
+        "#แชร์ประสบการณ์",
+        "#ไทยเที่ยวไทย"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -443,19 +443,19 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "หวยงวด 1 ก.ย. 69 “แม่ตุ๊กตา” วางเลขเด็ดให้แฟนคลับได้รับโชคงวดแล้วหาซื้อกันรัวๆ",
-          "url": "https://www.dailynews.co.th/news/6119916/"
+          "title": "ไทยเที่ยวไทยพลัส เตรียมลงทะเบียน 1 ต.ค. 69 รัฐช่วยจ่ายสูงสุด 3,000 บาท จริงหรือไม่? : เช็กข่าวชัวร์",
+          "url": "https://www.sanook.com/news/9904199/"
         },
         {
-          "title": "เลขเด็ด ม้าสีหมอก มาแล้ว ลุ้นวันที่ 1 กันยายน 69 | News In Thailand",
-          "url": "https://today.line.me/th/v3/article/ZaR9MgX"
+          "title": "\"สุรศักดิ์\" เผยอยู่ระหว่างสรุปเงื่อนไข “ไทยเที่ยวไทยพลัส” คาดเงินสะพัด 5,000 ล้าน กระตุ้นท่องเที่ยวไตรมาสสุดท้าย",
+          "url": "https://mgronline.com/politics/detail/9690000081171"
         },
         {
-          "title": "สถิติหวยออกวันที่ 1 ก.ย. ย้อนหลัง 10 ปี",
-          "url": "https://www.siamnews.com/lifestyle/lotto/51316"
+          "title": "รัฐแจกเงินเที่ยวฟรี 3000 ลงทะเบียนไทยเที่ยวไทยพลัส มาก่อนได้ก่อน",
+          "url": "https://www.bangkokbiznews.com/news/news-update/1247205"
         }
       ],
-      "updatedAt": "2026-08-20T07:20:00+07:00"
+      "updatedAt": "2026-08-20T11:10:00+07:00"
     },
     {
       "id": "14-2026-1a7109632e",
@@ -464,7 +464,7 @@
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: วอลเลย์บอล / source: Thai PBS - 14 รายชื่อนักวอลเลย์บอลหญิงทีมชาติไทย ศึกชิงแชมป์เอชีย 2026    Thai PBS",
+      "summary": "ข่าวจาก Google News keyword: วอลเลย์บอล / source: thaipbs.or.th - 14 รายชื่อนักวอลเลย์บอลหญิงทีมชาติไทย ศึกชิงแชมป์เอชีย 2026    thaipbs.or.th",
       "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -477,11 +477,87 @@
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
         {
-          "title": "Thai PBS",
+          "title": "thaipbs.or.th",
           "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBkdVoyb2d1R3phQUtJWVlTVnBOS09mN1VTOHVGaGNldjcxMUNVN0NJR0ZiTlFyckxzNjYtOGNfME9aVHU0S0cyR3RKT2NvcGRrS3JMeFlvREk?oc=5"
         }
       ],
       "updatedAt": "2026-08-15T07:59:38+07:00"
+    },
+    {
+      "id": "gta-vi-92c9642bcb",
+      "title": "gta vi",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#gtavi"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "Army unit offers 4-day pass to play Grand Theft Auto VI as reenlistment incentive",
+          "url": "https://www.cbsnews.com/news/grand-theft-auto-army-reenlistment-bonus/"
+        },
+        {
+          "title": "Army unit offers soldiers time off to play new ‘Grand Theft Auto’ if they reenlist",
+          "url": "https://taskandpurpose.com/news/army-reenlistment-gta/"
+        },
+        {
+          "title": "Trump Goons Offer Video Game Deal in Exchange for Deployment",
+          "url": "https://nz.news.yahoo.com/trump-goons-offer-video-game-204653545.html"
+        }
+      ],
+      "updatedAt": "2026-08-20T10:50:00+07:00"
+    },
+    {
+      "id": "kamu-76c0af47fd",
+      "title": "kamu",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 100+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#kamu"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "Zor görevlerden kaçınmak, \"kamu görevinde kurnazca manevra yapmanın\" bir tezahürüdür.",
+          "url": "https://www.vietnam.vn/tr/tranh-viec-kho-bieu-hien-cua-khon-loi-cong-vu"
+        },
+        {
+          "title": "Erzurum kamu harcamalarında 22'inci sırada",
+          "url": "https://www.erzurumgazetesi.com.tr/haber/Erzurum-kamu-harcamalarinda-22-inci-sirada/186612"
+        },
+        {
+          "title": "Erzurum’da gelir giderin yüzde 33.5’ini karşıladı",
+          "url": "https://www.erzurumgazetesi.com.tr/haber/Erzurum-da-gelir-giderin-yuzde-33-5-ini-karsiladi/186609"
+        }
+      ],
+      "updatedAt": "2026-08-20T10:30:00+07:00"
     },
     {
       "id": "philadelphia-vs-inter-miami-8a9df7d03e",
@@ -490,7 +566,7 @@
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 500+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -507,16 +583,16 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
+          "title": "Messi scores first goal since father's death",
+          "url": "https://www.france24.com/en/live-news/20260820-messi-scores-first-goal-since-father-s-death"
+        },
+        {
+          "title": "Licensable picture: MLS: Inter Miami CF at Philadelphia Union",
+          "url": "https://www.reutersconnect.com/item/mls-inter-miami-cf-at-philadelphia-union/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMjk2MjMzMDQ"
+        },
+        {
           "title": "Lionel Messi scores for Inter Miami in 2-2 draw vs. Philadelphia",
           "url": "https://mundoalbiceleste.com/2026/08/19/lionel-messi-scores-for-inter-miami-in-2-2-draw-vs-philadelphia/"
-        },
-        {
-          "title": "MLS Inter Miami Union Soccer",
-          "url": "https://www.couriernews.com/sports/mls-inter-miami-union-soccer/image_a9387c51-b6f5-5642-b725-55d917703aaa.html"
-        },
-        {
-          "title": "Messi scores emotional first goal since father's death",
-          "url": "https://www.reuters.com/sports/soccer/messi-scores-emotional-first-goal-since-fathers-death-2026-08-20/"
         }
       ],
       "updatedAt": "2026-08-20T07:20:00+07:00"
@@ -548,32 +624,6 @@
       "updatedAt": "2026-08-19T05:21:14+07:00"
     },
     {
-      "id": "4-maitree-2026-19-69-b6ddad6d36",
-      "title": "กองทัพภาคที่ 4 เปิดการฝึกผสมกองทัพบกไทย–กองทัพบกอินเดีย MAITREE 2026 เสริมสร้างความสัมพันธ์ แลกเปลี่ยนความรู้ทางทหาร และเทคโนโลยีที่ทันสมัย วันที่ 19 ส.ค. 69 พลโท นรธิ...",
-      "sourceType": "news",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: ความสัมพันธ์ / source: facebook.com - กองทัพภาคที่ 4 เปิดการฝึกผสมกองทัพบกไทย–กองทัพบกอินเดีย MAITREE 2026 เสริมสร้างความสัมพันธ์ แลกเปลี่ยนความรู้ทางทหาร และเทคโนโลยีที่ทันสมัย วันที่ 19 ส.ค. 69 พลโท นรธิป โพยนอก แม่ท",
-      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#กองทัพภาคที่4เปิดการฝึกผ"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "facebook.com",
-          "url": "https://news.google.com/rss/articles/CBMi_wZBVV95cUxPRWlBMHZRdzQ4eXVsSk10SWY0OG5UbDFGYWh6N1ZhU3RONlFyMWRiNS1oWnJzdXM4VUdqWHpnd0U3azJVVlhIdlg2alktTmp4UzlOUVFaaXdvREp0MjhBb09TdFNnR1h5aWdhaXRuZ29SeXM5bmMxMllBbWV4YXFsOHVrUmFiNDZ5blNISGo4bk0zdTE4Tk1IVmVqYm9nbHVlMDlIUE9ySDRGUFV0M0xidkRaNDJVVkJtNVptdDRfZVFVN0dtTExKaFAwQmJFeld1Qk54TDdzaHZ5WUNNclZyMjlfV3BCVkU0eWlMS3ROaUZTSjM5OGpURkFXX0dvMFF3RnlrSURqMDdqUDdtZ2hMWmFjZng4aFdCMjhYUWw2RlZJRVhWTk1Ea3pVLXgxZVozcUJQUFJwX20xOUhBMm9zMjdnVzlPb25zeXoxNGRGaUpockdBMnVabVZDQ0RiTk16ZFQtcE5EUFhoX284V2wxTmdaMUF6Mm9aS0lWVlB5QUQ3UDVXSmgxbmxfSE9IQmd5c1k4ek56el9EM3RYVWdRekFEV25lVHNtWmlEX1ctWkJpV3RRS25iSXdMV2VJdVROQ2pjdFNKc1lsZDAyWTRkZ2ZzMGp6T2FjSnNEX3k5RDlzeFhUNllJN2FZblF3QVI3UU9iUDV4UlpOdHRwUmZTRl9PNmROMnZ5aUMtZGR6V3VOMlRFTi1WV25EQmo5YTNINFhER081Zk4zRnJYQW12NzBIRHpCQ1RHSUxsWEFWZ0U3NzE3QUQ2bTl5SkdsQmNaenJ4NnNiQXBudnJwVGFNMl9BcmVvQTI3YVRqVld3Z05QelFrUDN5alRRTlRkZi1JRFpza1hzOTNxTjdsSmtnNENYNFEtM1lrVzZSd3pXVUF3Ukx3bkQwNTd4SjdrSGVVRVR4X0lMSk1XRExTdnRlNXRRTzZWMjVHeUdKSFhTM3Z0aURLTHJrcVljZzl6eHVNcG5Hei1FV0E2V1dFWkQ3ZHhoMG9Na0t2Q2FRbm5Xc3I4RU5lSVI5ZEpGcDNnNm5uTTh6d0hFTW5pcHllcnJHWWJGZFBIQlJhS2lfaDN3V0FsYkl0LVlrcGJfYzZITnBJUVZ3ZHhnSnZsLVRsOUltVURQcFRJSVZ0b3VucVJnZXRfUF9PckpRck5ZUWF0ZUQwTXBPaXVreVdZZEpfbGZB?oc=5"
-        }
-      ],
-      "updatedAt": "2026-08-19T18:04:30+07:00"
-    },
-    {
       "id": "topic-9fcb25ea51",
       "title": "การไฟฟ้านครหลวง",
       "sourceType": "trends",
@@ -597,16 +647,16 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "MEA ชวนเปิดโลกไปกับนิทรรศการ “พลังงานอัจฉริยะเพื่ออนาคต” เนื่องในสัปดาห์วิทยาศาสตร์ 2569 ที่ MEA Spark",
-          "url": "https://today.line.me/th/v3/article/x2Ewl9G"
+          "title": "กฟน. แจ้งไฟฟ้าดับ วันพรุ่งนี้ 20 สิงหาคม 2569 ในพื้นที่กรุงเทพฯ-นนทบุรี",
+          "url": "https://www.thairath.co.th/news/society/2953824"
         },
         {
-          "title": "FM91 Trafficpro. . LIVE!! MEA เปิดนิทรรศการ “พลังงานอัจฉริยะเพื่อ อนาคต Smart Energy Future” เนื่องในสัปดาห์วิทยาศาสตร์ 2569 ณ MEA SPARK พิพิธภัณฑ์การไฟฟ้าไทย การไฟฟ้านครหลวง เขตวัดเลียบ",
-          "url": "https://www.facebook.com/fm91trafficpro/videos/live-mea-%E0%B9%80%E0%B8%9B%E0%B8%B4%E0%B8%94%E0%B8%99%E0%B8%B4%E0%B8%97%E0%B8%A3%E0%B8%A3%E0%B8%A8%E0%B8%81%E0%B8%B2%E0%B8%A3-%E0%B8%9E%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%AD%E0%B8%B1%E0%B8%88%E0%B8%89%E0%B8%A3%E0%B8%B4%E0%B8%A2%E0%B8%B0%E0%B9%80%E0%B8%9E%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B8%B2%E0%B8%84%E0%B8%95-smart-energy-future-%E0%B9%80%E0%B8%99%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%99%E0%B8%AA%E0%B8%B1%E0%B8%9B/2271453783687056/"
+          "title": "20 ส.ค. 69! กฟน. ประกาศดับไฟ 4 จุด ในกรุงเทพฯ นนทบุรี",
+          "url": "https://www.pptvhd36.com/news/%E0%B8%AA%E0%B8%B1%E0%B8%87%E0%B8%84%E0%B8%A1/281830"
         },
         {
-          "title": "MEA เปิดนิทรรศการ พลังงานอัจฉริยะเพื่ออนาคต",
-          "url": "https://thaitv5hd.com/content/102709/MEA-%E0%B9%80%E0%B8%9B%E0%B8%B4%E0%B8%94%E0%B8%99%E0%B8%B4%E0%B8%97%E0%B8%A3%E0%B8%A3%E0%B8%A8%E0%B8%81%E0%B8%B2%E0%B8%A3-%E0%B8%9E%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%AD%E0%B8%B1%E0%B8%88%E0%B8%89%E0%B8%A3%E0%B8%B4%E0%B8%A2%E0%B8%B0%E0%B9%80%E0%B8%9E%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B8%B2%E0%B8%84%E0%B8%95"
+          "title": "เปิดพิกัด ไฟดับพรุ่งนี้ 20 ส.ค. 69 | มุมข่าว",
+          "url": "https://today.line.me/th/v3/article/j7RGrZ3"
         }
       ],
       "updatedAt": "2026-08-20T07:30:00+07:00"
@@ -618,7 +668,7 @@
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 500+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -635,125 +685,23 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "สุดอบอุ่น ทูลกระหม่อมฯ ทรงบำเพ็ญพระกุศลวันเกิด ‘คุณพุ่ม’ พร้อมท่านผู้หญิงพลอยไพลิน-ท่านผู้หญิงสิริกิติยา",
-          "url": "https://www.matichon.co.th/royal/news_5849813"
+          "title": "ในหลวง-พระราชินี ทรงเป็นองค์ประธานในงานมหกรรมกองทุนแม่ของแผ่นดิน ประจำปี 2569",
+          "url": "https://www.matichon.co.th/royal/news_5853978"
         },
         {
-          "title": "ทูลกระหม่อมหญิงอุบลรัตนฯ ทรงบำเพ็ญพระกุศลแก่ คุณพุ่ม เจนเซน | มุมข่าว",
-          "url": "https://today.line.me/th/v3/article/5y1ROky"
+          "title": "ในหลวง-พระราชินี เสด็จฯ เป็นองค์ประธาน งานมหกรรมกองทุนแม่ของแผ่นดิน ประจำปี 2569",
+          "url": "https://www.dailynews.co.th/news/6122285/"
         },
         {
-          "title": "ทูลกระหม่อมหญิงอุบลรัตนฯ ทรงบำเพ็ญพระกุศลเนื่องในวันคล้ายวันครบรอบวันเกิด คุณพุ่ม เจนเซน พระโอรส ณ วัดราชบพิธ",
-          "url": "https://www.naewna.com/n/top-stories/8857/"
+          "title": "ในหลวง พระราชินี เสด็จฯ งานมหกรรมกองทุนแม่ของแผ่นดิน ประจำปี 2569",
+          "url": "https://www.prachachat.net/royal-house/news-2054470"
         }
       ],
       "updatedAt": "2026-08-20T07:20:00+07:00"
     },
     {
-      "id": "u17-16-65ebdc2583",
-      "title": "ตีตั๋วเรียบร้อย! วอลเลย์บอลหญิงไทย U17 ฉลุยเข้ารอบ 16 ทีมชน \"โปแลนด์\" ศึกชิงแชมป์โลก",
-      "sourceType": "news",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: วอลเลย์บอล / source: Siamsport - ตีตั๋วเรียบร้อย! วอลเลย์บอลหญิงไทย U17 ฉลุยเข้ารอบ 16 ทีมชน \"โปแลนด์\" ศึกชิงแชมป์โลก    Siamsport",
-      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#ตีตั๋วเรียบร้อย!วอลเลย์บ"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Siamsport",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBNVDl1cjhudnkyTlQ1cmV0MDlvRzhkWGc2QlNFX1JMbDJ2OTlVYjQyZkZvVWNOS0NOdFZGbEZkMHVXUVVYUG1JZTdmR3ZUamE1dDVVX1EyRFpERjBSQXJxN3JRcEZZTXA5Q2dr?oc=5"
-        }
-      ],
-      "updatedAt": "2026-08-13T14:00:00+07:00"
-    },
-    {
-      "id": "topic-375871c9fc",
-      "title": "พรีเมียร์ลีก",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 1000+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#พรีเมียร์ลีก"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "โจนส์ จ่อซบอินเตอร์, บรูโน่ ขออยู่แมนยู, ลิเวอร์พูลลุ้น บาร์กโกล่า! อัปเดตตลาดนักเตะ 20 ส.ค. 69",
-          "url": "https://www.siamsport.co.th/football-international/premierleague/108166/"
-        },
-        {
-          "title": "\"หงส์แดง\" ตกลงปล่อย \"โจนส์\" ให้งูใหญ่แล้ว",
-          "url": "https://www.dailynews.co.th/news/6122728/"
-        },
-        {
-          "title": "อินเตอร์ มิลาน บรรลุข้อตกลงเซ็น เคอร์ติส โจนส์ กองกลาง ลิเวอร์พูล ร่วมทีม | Khaosod",
-          "url": "https://today.line.me/th/v3/article/0M5nNoG"
-        }
-      ],
-      "updatedAt": "2026-08-20T06:20:00+07:00"
-    },
-    {
-      "id": "topic-a55ccec807",
-      "title": "รถยนต์",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 100+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#รถยนต์"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "10 อันดับยี่ห้อรถขายดีที่สุดในโลกครึ่งปีแรก 2026 จีนติด Top 10 ถึง 3 ค่าย",
-          "url": "https://car.kapook.com/view303134.html"
-        },
-        {
-          "title": "กำแพงภาษีมิอาจขวางกั้น ! ผู้ผลิตรถยนต์ไฟฟ้าจีนเริ่มตั้งหลักในตลาดสหรัฐฯ ได้แล้ว",
-          "url": "https://mgronline.com/china/detail/9690000081343"
-        },
-        {
-          "title": "\"รถจีน\" เร่งตีตลาดโลกดันค่าเรือพุ่ง 2 เท่า!",
-          "url": "https://www.tnnthailand.com/wealth/economy/244219/"
-        }
-      ],
-      "updatedAt": "2026-08-20T06:10:00+07:00"
-    },
-    {
-      "id": "topic-1129f31bee",
-      "title": "ราคาทองคำ",
+      "id": "topic-220c7641a3",
+      "title": "คำเตือนให้ระวังฝนตก",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
@@ -766,7 +714,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#ราคาทองคำ"
+        "#คำเตือนให้ระวังฝนตก"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -775,19 +723,45 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "Night Recap Gold Spot 18-08-2569",
-          "url": "https://www.huasengheng.com/news/night-recap-gold-spot-18-08-2569/"
+          "title": "ปภ.เตือนหลาย จว.ภาคเหนือ ระวังน้ำท่วมฉับพลัน-น้ำป่า-เร่งอพยพสิ่งของ",
+          "url": "https://www.thaipbs.or.th/news/content/509656"
         },
         {
-          "title": "ปรับลดลง 400 บาท! เปิดตลาดราคาทอง เช้าวันนี้ | สวพ.FM91",
-          "url": "https://today.line.me/th/v3/article/3NPnkYo"
+          "title": "Cell Broadcast เตือนหลายพื้นที่เหนือ-อีสาน ระวังน้ำท่วมฉับพลัน แนะยกของขึ้นที่สูง",
+          "url": "https://www.thairath.co.th/news/local/2954004"
         },
         {
-          "title": "สรุปราคาทองคำ 19 ส.ค.2569 ปิดตลาด -550 บาท ผันผวน 20 ครั้ง",
-          "url": "https://www.thaipbs.or.th/news/content/509630"
+          "title": "กรมอุตุฯ เตือนฉบับที่ 9 ฝนตกหนักถึงหนักมาก ถึงวันที่ 21 สิงหาคม โดยเฉพาะภาคเหนือ-ภาคอีสาน",
+          "url": "https://news.ch7.com/detail/892157"
         }
       ],
-      "updatedAt": "2026-08-20T07:10:00+07:00"
+      "updatedAt": "2026-08-20T07:40:00+07:00"
+    },
+    {
+      "id": "u17-16-65ebdc2583",
+      "title": "ตีตั๋วเรียบร้อย! วอลเลย์บอลหญิงไทย U17 ฉลุยเข้ารอบ 16 ทีมชน \"โปแลนด์\" ศึกชิงแชมป์โลก",
+      "sourceType": "news",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "ข่าวจาก Google News keyword: วอลเลย์บอล / source: siamsport.co.th - ตีตั๋วเรียบร้อย! วอลเลย์บอลหญิงไทย U17 ฉลุยเข้ารอบ 16 ทีมชน \"โปแลนด์\" ศึกชิงแชมป์โลก    siamsport.co.th",
+      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#ตีตั๋วเรียบร้อย!วอลเลย์บ"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "siamsport.co.th",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBNVDl1cjhudnkyTlQ1cmV0MDlvRzhkWGc2QlNFX1JMbDJ2OTlVYjQyZkZvVWNOS0NOdFZGbEZkMHVXUVVYUG1JZTdmR3ZUamE1dDVVX1EyRFpERjBSQXJxN3JRcEZZTXA5Q2dr?oc=5"
+        }
+      ],
+      "updatedAt": "2026-08-13T14:00:00+07:00"
     },
     {
       "id": "topic-6826e123f3",
@@ -796,7 +770,7 @@
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 500+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 1000+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -813,16 +787,16 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "โปรแกรมบอลวันนี้ 19 ส.ค. 69 ดูบอลสด ดูUCL พร้อมช่องถ่ายทอดสด",
-          "url": "https://www.siamsport.co.th/football-international/laliga/108129/"
+          "title": "ผลบอล แอต.มาดริด 2-0 มาลาก้า: อี คัง-อิน ซัดเปิดตัว! ตราหมีประเดิมชัย ลา ลีกา",
+          "url": "https://www.siamsport.co.th/football-international/laliga/108162/"
         },
         {
-          "title": "โปรแกรมบอลวันนี้ 20 ส.ค. 69 ดูบอลสด ลาลีกา สเปน พร้อมช่องถ่ายทอดสด",
-          "url": "https://www.siamsport.co.th/football-international/laliga/108169/"
+          "title": "พรีวิวฟุตบอล ลา ลีกา สเปน 2026-27 : แอตเลติโก มาดริด พบ มาลาก้า",
+          "url": "https://www.tnnthailand.com/sports/244381/"
         },
         {
-          "title": "โปรแกรมกีฬาวันนี้ พร้อมช่องถ่ายทอดสด วันพฤหัสบดีที่ 20 สิงหาคม 69",
-          "url": "https://www.tnnthailand.com/sports/244481/"
+          "title": "ผลบอล แอตมาดริด เชือด มาลาก้า เปิดหัวลาลีกา สเปน 2026-27",
+          "url": "https://www.thairath.co.th/sport/eurofootball/laliga/2954003"
         }
       ],
       "updatedAt": "2026-08-20T07:20:00+07:00"
@@ -854,13 +828,13 @@
       "updatedAt": "2026-08-13T12:55:50+07:00"
     },
     {
-      "id": "topic-a33e3f377d",
-      "title": "วัยสูงอายุ",
+      "id": "topic-9d437a4750",
+      "title": "วิศิษฐ์ ยุตติยงค์",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 100+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -868,7 +842,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#วัยสูงอายุ"
+        "#วิศิษฐ์ยุตติยงค์"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -877,19 +851,19 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "การฝึกอบรมทักษะดิจิทัลเพื่อปกป้องผู้สูงอายุในโลกไซเบอร์",
-          "url": "https://www.vietnam.vn/th/tap-huan-ky-nang-so-bao-ve-nguoi-cao-tuoi-tren-khong-gian-mang"
+          "title": "วงการบันเทิงอาลัย \"หมู คมกฤช\" ดาวร้ายผมขาว สิ้นลมอย่างสงบในวัย 84 ปี",
+          "url": "https://mgronline.com/onlinesection/detail/9690000081976"
         },
         {
-          "title": "ชุมชนฮ่องซอน: ลดช่องว่างทางดิจิทัลสำหรับผู้สูงอายุ",
-          "url": "https://www.vietnam.vn/th/xa-hong-son-thu-hep-khoang-cach-so-voi-nguoi-cao-tuoi"
+          "title": "สิ้นนักแสดงอาวุโส \"วิศิษฐ์ ยุตติยงค์\" จากไปอย่างสงบในวัย 84 ปี",
+          "url": "https://www.thairath.co.th/entertain/news/2953994"
         },
         {
-          "title": "มอบ \"เกราะป้องกัน\" การฉ้อโกงให้แก่ผู้สูงอายุ",
-          "url": "https://www.vietnam.vn/th/trang-bi-la-chan-phong-chong-lua-dao-cho-nguoi-cao-tuoi"
+          "title": "สิ้น ‘ลุงหมู วิศิษฐ์’ นักแสดงอาวุโสตำนาน 6 ทศวรรษ เสียชีวิตสงบในวัย 84 ปี",
+          "url": "https://www.dailynews.co.th/news/6122912/"
         }
       ],
-      "updatedAt": "2026-08-20T07:10:00+07:00"
+      "updatedAt": "2026-08-20T10:30:00+07:00"
     },
     {
       "id": "topic-c290b2798f",
@@ -898,7 +872,7 @@
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: ความสัมพันธ์ / source: Thai PBS - เปิดความสัมพันธ์ \"ป้าดา\" กับครอบครัว \"นายเฮียง\" พิพาทที่ดินวัดป่าอดุลยาราม    Thai PBS",
+      "summary": "ข่าวจาก Google News keyword: ความสัมพันธ์ / source: thaipbs.or.th - เปิดความสัมพันธ์ \"ป้าดา\" กับครอบครัว \"นายเฮียง\" พิพาทที่ดินวัดป่าอดุลยาราม    thaipbs.or.th",
       "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -911,7 +885,7 @@
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
         {
-          "title": "Thai PBS",
+          "title": "thaipbs.or.th",
           "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5iODRUbHlCTGcyWVdhbUh2WnBySzBlSmhNVV84U0VkYy03NVRscU93YVB4d3d0QUlCXy15V0FMVFM1YzFENDI5RHNhV1FZNXdnNU9qNEs5Y1k?oc=5"
         }
       ],
@@ -976,7 +950,7 @@
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 500+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -1183,10 +1157,6 @@
       "riskNote": "Medium risk ควรอ้างอิงแหล่งทางการและเตือนให้ระวังลิงก์ปลอมหรือข้อมูลผิด",
       "sources": [
         {
-          "title": "sanook.com",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE43SHZtQ05tMTJlLXd1bm82ZmphSnR5cXFJc3FKaTktbjdOZ0ptTHFGZWNtS2FvWVRHUUhFNEI3RVpDMUtVZTJrdnh6eno?oc=5"
-        },
-        {
           "title": "เดลินิวส์",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE50VzYxdVJISmxkMG5XYjV4bXRBRHhWZnRTQ1RLUjR3cGoyMzZqWjFXT1JtcWVXRGNhRWhiN2tYUTBSejVST0N0TEVjRjdHV2NQOHlz?oc=5"
         },
@@ -1201,9 +1171,13 @@
         {
           "title": "แนวหน้า",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5NOGlpWUlDWWI5X0x2cmFRbUhIVHJBSEJ3NGNLRkxuRFp1V2dtWGdkSDBacnliZzF6eVdzUTU3WDRkdHZXaTREUXpMQ1VyQQ?oc=5"
+        },
+        {
+          "title": "kapook.com",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE14Wm1aMWM5Y3RXX19KeWJ2c3NzdFgyRG1rVW1OQlZPOVdOeEtzUFB5OGFkQmVqc0ZWdGxsV2ZwNHdMS1JYWTNoX3NQUFZSSmprSVE?oc=5"
         }
       ],
-      "updatedAt": "2026-08-13T10:10:00+07:00"
+      "updatedAt": "2026-08-14T12:11:00+07:00"
     },
     {
       "id": "topic-662b3e05b8",
@@ -1230,6 +1204,32 @@
         }
       ],
       "updatedAt": "2026-08-13T21:30:00+07:00"
+    },
+    {
+      "id": "politics-75-5-19-69-a557d49e3e",
+      "title": "POLITICS: ’ซาบีดา‘ คุย รมว.วัฒนธรรมออสเตรเลีย เอาโบราณวัตถุไทยคืนถิ่น - เตรียมฉลอง 75 ปี ความสัมพันธ์ทางการทูต ดัน 5 ความร่วมมือวัฒนธรรม วันนี้ (19 ส.ค. 69) นางสาวซาบี...",
+      "sourceType": "news",
+      "category": "social_topic",
+      "contentPotential": "low",
+      "riskLevel": "high",
+      "summary": "ข่าวจาก Google News keyword: ความสัมพันธ์ / source: facebook.com - POLITICS: ’ซาบีดา‘ คุย รมว.วัฒนธรรมออสเตรเลีย เอาโบราณวัตถุไทยคืนถิ่น - เตรียมฉลอง 75 ปี ความสัมพันธ์ทางการทูต ดัน 5 ความร่วมมือวัฒนธรรม วันนี้ (19 ส.ค. 69) นางสาวซาบีดา ไทยเศรษฐ์ ",
+      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
+      "creatorAngle": "ใช้เป็นข้อมูลเฝ้าระวังมากกว่าบรีฟโพสต์ หากต้องใช้ควรให้ทีม review ก่อน",
+      "promptIdea": "เรื่องนี้ควรเช็กข้อมูลก่อนแชร์ ทุกคนคิดว่าเราควรระวังอะไรบ้าง?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#POLITICS:’ซาบีดา‘คุยรมว."
+      ],
+      "riskNote": "High risk ควรให้ทีม review ก่อนนำไป brief Creator และไม่ควรชวนดราม่า",
+      "sources": [
+        {
+          "title": "facebook.com",
+          "url": "https://news.google.com/rss/articles/CBMi_AZBVV95cUxQSHpMZWZPa3dzRHZqZUtfNnp4UTY2ODROc2JQTjd2Y2dIdWRuT18zTEFYeHFhUjJ1WG1tX0I1YmxBWFlsaGNpNlNoQ3VKZXJCeTV2YUxfS01McTE3U2Y2d1NDa1dCUVFUVWRtUlFBTENKdjNybURLMVFjSlBNcG8tVzFhVExFTnlkN0lFN3hDVWlKSjNvUDduNWtCMmZPcHB3WTVPX1ZsVU9Uak5IbFA0MWZPbjBGa0QwbE9VVWtadnJKaDdWRzFGNDVvOFVsN212dngwMFNyZjRhN3kyTndxVHJPc1RRdThGUE03UFlLaXk5NlA0RlJmaWFyU1Q1c1MxUU93UkthY29ZemtvTU5LcXlBMlFxNFVkQk45R0ZJYmVnWXNKQ2hkendHV0FMdVdsa19zZHpGcTYxVENueXc3dEt1ekN1LUlkNFRkRVRJVEdHelh5ZW9NMXNBU3ZnNEFScFg5TTRqYW1kLU9iRXlvaHRrSXAtUlB0VUFoMURMY2JuWnVDSWluM2d5azZNbzI2QWJCY0x5UlVUc0Zud3Bsdi12czE0STJlUjRFN2I3cWJoZ01nelhORnNWQzFFWGRhcW5WREZkdUwxMUZpcHlsSEhwVnJfdGo1WENPUUZGdG5MT2ZVOVhzdUFiRjFxQ1B6WEhLWHFCTEc2ei1rUjBRY0hiLVlyNHN5cEp6cklkN01CNmRnNmZxRWJ1Zml1SkZCS2F4SU9mVlNfTnRRMXBYSEw3cDJaQmtOWmZGYWgxdVg1b1JQZmk3YVh3NXVpaENMSko4SXktcUdoV0w0VHdkRFVBQlktdVFTWlppcURXbTgyeTZaczVHcmxYTUkyZjM1OWE1UWxULU5pelplajczVHFlOWZPbGdvMXVoOWVsVFJiLVphLUxiaFpwYjhRQlBtcHN5ZTNQbE9kMkh5OC1KSEs5My1uUEhSRGNJcTNRTTJrc0I4N19LRkpLZVhFQ2pZMHE1ZURYZGhKLUVOTHpYYkUwOGlzeXFiSWtEQi1KcTl5andiNGdxbm5wQnJZTHZSN2Zqc2hodHJJd0VDTmV2M0VSMFdnODVTQXZrVHU0Q3lKbTBBYVhzNy00Q0RUeVFQdVU5eEpTQzdFVnlrY0dTcEZqaGcwTHJPV2MzMVBCUDhndnhTVS1wT18ycnRQQnFUOGxMel9VVjZ1RUh6?oc=5"
+        }
+      ],
+      "updatedAt": "2026-08-19T22:14:50+07:00"
     },
     {
       "id": "netflix-24-9a29c1f830",
