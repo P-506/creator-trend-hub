@@ -1,9 +1,7 @@
 {
-  "generatedAt": "2026-08-22T20:33:29.831115+07:00",
+  "generatedAt": "2026-08-22T23:26:52.806109+07:00",
   "dateRange": "2026-08-15 to 2026-08-22",
-  "sourceErrors": [
-    "gdelt: HTTP Error 429: Too Many Requests"
-  ],
+  "sourceErrors": [],
   "topics": [
     {
       "id": "9-2569-4a2e8720ed",
@@ -134,32 +132,6 @@
         }
       ],
       "updatedAt": "2026-08-19T19:01:59+07:00"
-    },
-    {
-      "id": "2026-made-in-korea-season-2-6c59048ee2",
-      "title": "ซีรีส์ใหม่ 2026 : Made in Korea Season 2",
-      "sourceType": "news",
-      "category": "entertainment",
-      "contentPotential": "high",
-      "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: ซีรีส์ / source: pptvhd36 - ซีรีส์ใหม่ 2026 : Made in Korea Season 2    pptvhd36",
-      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
-      "creatorAngle": "เล่า reaction ส่วนตัวต่อกระแส แล้วเปิดคำถามให้คนคุยต่อ",
-      "promptIdea": "กระแสนี้ทุกคนอยู่ทีมไหน?",
-      "hashtags": [
-        "#EntertainmentTH",
-        "#คุยเรื่องบันเทิง",
-        "#กระแสวันนี้",
-        "#ซีรีส์ใหม่2026:MadeinKor"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "pptvhd36",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUmQ0T3FwNVpvN2NqVy1GRlpwajBLcUN6TVNfQ3gxQl85U3poQThFQWVIZUFpMGFwTUpVQnFzb2k5RkhFdnpLbFlhX1l2cE0tNzNkRnRoV1FwTjNxYXBuS3c1V2RvTEJVaTNzSzlSMEo5d3BCZ080UDlFSlF2OFh6OHc2dWhYZnh2MTFmX2xPMEllbE5sLWJmR3h3emxiaEV1LVVuX2k1TUxyZlhXelpZR3k5WjFCZHhMdkE?oc=5"
-        }
-      ],
-      "updatedAt": "2026-08-17T21:01:00+07:00"
     },
     {
       "id": "ceo-f2c45fa0b2",
@@ -500,46 +472,8 @@
       "updatedAt": "2026-08-20T13:17:36+07:00"
     },
     {
-      "id": "gta-vi-92c9642bcb",
-      "title": "gta vi",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#gtavi"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "Take-Two Subpoenas Microsoft And Discord Over GTA 6 Leaks",
-          "url": "https://kotaku.com/take-two-subpoenas-microsoft-and-discord-records-related-to-spread-of-gta-6-leaks-2000726633"
-        },
-        {
-          "title": "Grand Theft Auto 6 leaker says they won't stop until Rockstar and Take-Two apologize for 'anti-consumerism' and make a 'concrete commitment to do better'",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-leaker-says-they-wont-stop-until-rockstar-and-take-two-apologize-for-anti-consumerism-and-make-a-concrete-commitment-to-do-better/"
-        },
-        {
-          "title": "More GTA 6 leaks reveal new gameplay and the entire map",
-          "url": "https://blog.adafruit.com/2026/08/21/more-gta-6-leaks-reveal-new-gameplay-and-the-entire-map/"
-        }
-      ],
-      "updatedAt": "2026-08-22T20:10:00+07:00"
-    },
-    {
-      "id": "now-c9bc849a96",
-      "title": "now",
+      "id": "bleach-ea1761e93a",
+      "title": "bleach",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
@@ -552,7 +486,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#now"
+        "#bleach"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -561,23 +495,23 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "Waymo Fully Launches Robotaxi Service in Houston",
-          "url": "https://cleantechnica.com/2026/08/20/waymo-fully-launches-robotaxi-service-in-houston/"
+          "title": "BLEACH: Thousand-Year Blood War Reveals Ichigo's New Blood Chain Bankai Form in Visual and Video",
+          "url": "https://animecorner.me/bleach-thousand-year-blood-war-reveals-ichigos-new-blood-chain-bankai-form-in-visual-and-video/"
         },
         {
-          "title": "Waymo’s Ojai cars now able to pick up all riders",
-          "url": "https://www.planetizen.com/news/2026/08/138265-waymos-ojai-cars-now-able-pick-all-riders"
+          "title": "Bleach: Thousand-Year Blood War - The Calamity Episode 4: Three Captains unleash their Bankai against Gerard",
+          "url": "https://www.aol.com/articles/bleach-thousand-blood-war-calamity-174204000.html"
         },
         {
-          "title": "Waymo is bringing Gemini into its custom Ojai vehicles.",
-          "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-waymo/"
+          "title": "Bleach TYBW Part 4 Episode 4 Review: Too Much Peak in a Single Bleach Episode",
+          "url": "https://leisurebyte.com/bleach-tybw-part-4-episode-4-review/"
         }
       ],
-      "updatedAt": "2026-08-22T20:10:00+07:00"
+      "updatedAt": "2026-08-22T22:50:00+07:00"
     },
     {
-      "id": "true-5ffe533b83",
-      "title": "true",
+      "id": "brentford-vs-spurs-8be5f889ac",
+      "title": "brentford vs spurs",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
@@ -590,7 +524,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#true"
+        "#brentfordvsspurs"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -599,19 +533,19 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "รีวิว True Haunt EP.6 “สัมภเวสีไม่ได้รับเชิญ”",
-          "url": "https://entertainment.trueid.net/detail/ydb0JA2xeBnG"
+          "title": "Premier League predictions & Jones Knows' best bets: Brentford to give Spurs a reality check",
+          "url": "https://www.skysports.com/football/news/11661/13575143/premier-league-predictions-and-jones-knows-best-bets-champions-again-ole-ole-arsenal-to-make-fast-start-on-fnf"
         },
         {
-          "title": "EP.06 เรื่องเล่า คืนหลอน | สัมภเวสี..ผีที่ไม่ได้รับเชิญ",
-          "url": "https://movie.trueid.net/series/Loa9ngbrV52o/raONRJqmgVbj/wZBWRjD3ND0J/WYL71o8alxWQ"
+          "title": "Team news | Pedro Porro, van de Ven out of opener at Brentford",
+          "url": "https://www.tottenhamhotspur.com/news/1086430/team-news-porro-van-de-ven-out-of-opener-at-brentford"
         },
         {
-          "title": "True Haunt เรื่องเล่าคืนหลอน EP.6 : ถ้าทำแบบนี้ อาจเจอสัมภเวสีผีไม่ได้รับเชิญ",
-          "url": "https://entertainment.trueid.net/detail/w0pG3znP1KZb"
+          "title": "Licensable picture: UK: Premier League: Brentford v Tottenham Hotspur",
+          "url": "https://www.reutersconnect.com/item/uk-premier-league-brentford-v-tottenham-hotspur/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVNJUEEwMDBRTlVRQ1o"
         }
       ],
-      "updatedAt": "2026-08-22T19:50:00+07:00"
+      "updatedAt": "2026-08-22T22:40:00+07:00"
     },
     {
       "id": "50-9b7e5ebe29",
@@ -692,8 +626,8 @@
       "updatedAt": "2026-08-21T11:02:00+07:00"
     },
     {
-      "id": "topic-a2cffea7c2",
-      "title": "ทรูไอดี",
+      "id": "topic-7e7d6f566c",
+      "title": "นาโปลี",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
@@ -706,20 +640,32 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#ทรูไอดี"
+        "#นาโปลี"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
         {
           "title": "Google Trends",
           "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "พรีวิวฟุตบอล กัลโช่ เซเรีย อา อิตาลี 2026-27 : เจนัว พบ นาโปลี",
+          "url": "https://www.tnnthailand.com/sports/244685/"
+        },
+        {
+          "title": "การคาดการณ์ผลการแข่งขันระหว่างเจนัวกับนาโปลี: โอกาสในการไล่ล่าตำแหน่งสูงสุด",
+          "url": "https://www.vietnam.vn/th/nhan-dinh-genoa-vs-napoli-co-hoi-bam-duoi-ngoi-dau"
+        },
+        {
+          "title": "ดูบอลสด เจนัว VS นาโปลี : พรีวิว กัลโช่ เซเรีย อา 2026/27",
+          "url": "https://sport.trueid.net/detail/ZlV9vE6jbrpq"
         }
       ],
-      "updatedAt": "2026-08-22T19:50:00+07:00"
+      "updatedAt": "2026-08-22T23:00:00+07:00"
     },
     {
-      "id": "topic-4a5b3a11df",
-      "title": "พระบรมราชโองการ",
+      "id": "topic-43f63f24ff",
+      "title": "บาเยิร์น",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
@@ -732,7 +678,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#พระบรมราชโองการ"
+        "#บาเยิร์น"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -741,61 +687,23 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "โปรดเกล้าฯ พล.อ.ชูฉัตร กำภู ณ อยุธยา นายทหารราชองครักษ์พิเศษ พ้นจากการปฏิบัติหน้าที่",
-          "url": "https://www.matichon.co.th/royal/news_5857707"
+          "title": "รวมใจเป็นหนึ่ง! \"แฟนดอร์ทมุนด์ - บาเยิร์น\" จัดแมตช์โหมโรงก่อนเปิดบุนเดสลีกา",
+          "url": "https://www.sanook.com/sport/1669633/"
         },
         {
-          "title": "ราชกิจจาฯ ประกาศให้นายทหาร พ้นหน้าที่ราชองครักษ์ประจำพระองค์ | มุมข่าว",
-          "url": "https://today.line.me/th/v3/article/NvzLZYZ"
+          "title": "ดูบอลสด วิเคราะห์บอลซูเปอร์คัพ 2026 ดอร์ทมุนด์ พบ บาเยิร์น 22 ส.ค.69",
+          "url": "https://www.pptvhd36.com/sport/news/282019"
         },
         {
-          "title": "มีผลแล้ว! ราชกิจจาฯ ประกาศให้ พลเอก ชูฉัตร กำภู ณ อยุธยา พ้นจากราชองครักษ์",
-          "url": "https://www.siamnews.com/news/royal/51682"
+          "title": "AIS PLAY ชวนสัมผัสความมันส์ลูกหนังเยอรมนีกับศึก \"ฟร้านซ์ เบ็คเค่นบาวเออร์ ซูเปอร์คัพ 2026\" | THE ROOM 44 CHANNEL",
+          "url": "https://today.line.me/th/v3/article/eLR1PjZ"
         }
       ],
-      "updatedAt": "2026-08-22T20:10:00+07:00"
+      "updatedAt": "2026-08-22T23:10:00+07:00"
     },
     {
-      "id": "topic-4fae0cdc90",
-      "title": "ฟอเรสต์ พบ ลีดส์",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 1000+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#ฟอเรสต์พบลีดส์"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "ดูบอลสดฟรี วิเคราะห์บอลพรีเมียร์ลีก ฟอเรสต์ พบ ลีดส์ 22 ส.ค.69",
-          "url": "https://www.pptvhd36.com/sport/news/282005"
-        },
-        {
-          "title": "การทำนายผลการแข่งขันระหว่างน็อตติงแฮม ฟอเรสต์ กับ ลีดส์: รายชื่อผู้เล่นที่คาดว่าจะลงสนาม",
-          "url": "https://www.vietnam.vn/th/nhan-dinh-nottingham-forest-vs-leeds-doi-hinh-du-kien"
-        },
-        {
-          "title": "ดูบอลสด ถ่ายทอดสด ฟอเรสต์ พบ ลีดส์ พรีเมียร์ลีก วันนี้ 22 ส.ค.69",
-          "url": "https://www.posttoday.com/lifestyle/747389"
-        }
-      ],
-      "updatedAt": "2026-08-22T20:00:00+07:00"
-    },
-    {
-      "id": "topic-7cf479a349",
-      "title": "มาร์คัส แรชฟอร์ด",
+      "id": "topic-cc7b57d4b2",
+      "title": "บาเลนเซีย",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
@@ -808,7 +716,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#มาร์คัสแรชฟอร์ด"
+        "#บาเลนเซีย"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -817,19 +725,53 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "ขอเล่นบอลสงบ! แรชฟอร์ด สวนกลับ เนวิลล์ ออกสื่อ ขอบคุณ คาร์ราเกอร์ ช่วยเบรคดราม่า",
-          "url": "https://www.siamsport.co.th/football-international/premierleague/108175/"
+          "title": "การทำนายผลการแข่งขันระหว่างบาเลนเซียกับเซลต้า บิโก้: จุดสนใจสำคัญในการแย่งชิงตำแหน่งสูงสุด",
+          "url": "https://www.vietnam.vn/th/nhan-dinh-valencia-vs-celta-vigo-diem-nong-cuoc-dua-top-dau"
         },
         {
-          "title": "มาร์คัส แรชฟอร์ด ลั่นอยากเล่นฟุตบอลโดยไม่ถูกพูดถึงผ่านสื่อตลอดเวลา",
-          "url": "https://today.line.me/th/v3/article/Qwl9rzg"
-        },
-        {
-          "title": "“รูนีย์” พูดตรงๆ ถึง “แรชฟอร์ด” หลังต้องกลับมาอยู่ “แมนยู” เปรียบเทียบตัวเองเมื่อปี 2010",
-          "url": "https://www.thairath.co.th/sport/eurofootball/premierleague/2953684"
+          "title": "อดีตโค้ชเผย! 'อี คัง-อิน' กับ 'อเล็กซ์ บาเอน่า' เคยแย่งเบอร์ 10 กันเมื่อ 10 ปีก่อน",
+          "url": "https://football.fanpiece.com/th/%E0%B8%AD%E0%B8%94%E0%B8%B5%E0%B8%95%E0%B9%82%E0%B8%84%E0%B9%89%E0%B8%8A%E0%B9%80%E0%B8%9C%E0%B8%A2-%E0%B8%AD%E0%B8%B5-%E0%B8%84%E0%B8%B1%E0%B8%87-%E0%B8%AD%E0%B8%B4%E0%B8%99-%E0%B8%81%E0%B8%B1%E0%B8%9A-%E0%B8%AD%E0%B9%80%E0%B8%A5%E0%B9%87%E0%B8%81%E0%B8%8B%E0%B9%8C-%E0%B8%9A%E0%B8%B2%E0%B9%80%E0%B8%AD%E0%B8%99%E0%B9%88%E0%B8%B2-%E0%B9%80%E0%B8%84%E0%B8%A2%E0%B9%81%E0%B8%A2%E0%B9%88%E0%B8%87%E0%B9%80%E0%B8%9A%E0%B8%AD%E0%B8%A3%E0%B9%8C-10-%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B9%88%E0%B8%AD-10-%E0%B8%9B%E0%B8%B5%E0%B8%81%E0%B9%88%E0%B8%AD%E0%B8%99-c1499933.html"
         }
       ],
-      "updatedAt": "2026-08-22T19:50:00+07:00"
+      "updatedAt": "2026-08-22T23:00:00+07:00"
+    },
+    {
+      "id": "topic-61658c94aa",
+      "title": "ลีกเอิง",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 100+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#ลีกเอิง"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "ผลบอล : มาร์กเซย vs สตารส์บูร์ก (ลีกเอิง 2026-2027)",
+          "url": "https://www.sanook.com/sport/1636883/"
+        },
+        {
+          "title": "วิเคราะห์บอล มาร์กเซย vs สตราส์บูร์ก 21 ส.ค. 69 โอแอ็มลุ้นชัยเปิดหัวลีก เอิง",
+          "url": "https://www.siamsport.co.th/football-international/ligue1/108194/"
+        },
+        {
+          "title": "สถิติการแข่งขัน มาร์เซย์ 4-0 สตราสบูร์ก: มาร์เซย์ชนะอย่างขาดลอย",
+          "url": "https://www.vietnam.vn/th/thong-ke-tran-dau-marseille-4-0-strasbourg-marseille-thang-dam-thuyet-phuc"
+        }
+      ],
+      "updatedAt": "2026-08-22T22:50:00+07:00"
     },
     {
       "id": "3-0-2026-ca869687d6",
@@ -884,13 +826,13 @@
       "updatedAt": "2026-08-18T12:09:58+07:00"
     },
     {
-      "id": "topic-a1dfea4395",
-      "title": "อารยา เอ ฮาร์เก็ต",
+      "id": "topic-1b68f9bf49",
+      "title": "อินเตอร์ พบ มอนซา",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 100+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 1000+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -898,7 +840,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#อารยาเอฮาร์เก็ต"
+        "#อินเตอร์พบมอนซา"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -907,28 +849,28 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "“ชมพู่” เข้าใจ “น้องเกล” ช็อตฟีลกลางไลฟ์ เป็นธรรมชาติของเด็ก ปลื้ม “น้องพายุ” คว้าแชมป์โกคาร์ท",
-          "url": "https://mgronline.com/entertainment/detail/9690000082657"
+          "title": "วิเคราะห์บอล อินเตอร์ มิลาน vs มอนซ่า 22 ส.ค. 69 งูใหญ่ล่าชัยเปิดหัวเซเรีย อา",
+          "url": "https://www.siamsport.co.th/football-international/serie-a/108262/"
         },
         {
-          "title": "\"ชมพู่ อารยา\" เกี่ยวก้อย \"ยายหนิง\" และลูกๆ ออกงาน โฟกัส \"พายุ\" หนุ่มน้อยเท่มาก",
-          "url": "https://www.sanook.com/news/9904578/"
+          "title": "พรีวิวฟุตบอล กัลโช่ เซเรีย อา อิตาลี 2026-27 : อินเตอร์ มิลาน พบ มอนซ่า",
+          "url": "https://www.tnnthailand.com/sports/244684/"
         },
         {
-          "title": "“ชมพู่” เผยประสบการณ์ติดพายุหิมะออสเตรเลีย ปลื้ม “น้องพายุ” คว้าที่ 1 แข่งรถ | daradaily",
-          "url": "https://today.line.me/th/v3/article/mWRkrvn"
+          "title": "ดูบอลสด อินเตอร์ VS มอนซ่า : พรีวิว กัลโช่ เซเรีย อา 2026/27",
+          "url": "https://sport.trueid.net/detail/V3N9rgBDxm14"
         }
       ],
-      "updatedAt": "2026-08-22T20:10:00+07:00"
+      "updatedAt": "2026-08-22T22:40:00+07:00"
     },
     {
-      "id": "topic-b958dccef0",
-      "title": "อิปสวิช พบ ซันเดอร์แลนด์",
+      "id": "topic-9d268fff0d",
+      "title": "เซบีย่า",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 500+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -936,7 +878,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#อิปสวิชพบซันเดอร์แลนด์"
+        "#เซบีย่า"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -945,19 +887,57 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "การคาดการณ์ผลการแข่งขันระหว่างอิปสวิชกับซันเดอร์แลนด์: รายชื่อผู้เล่นที่คาดว่าจะลงสนาม",
-          "url": "https://www.vietnam.vn/th/nhan-dinh-ipswich-vs-sunderland-doi-hinh-du-kien"
+          "title": "Athletic Club vs Sevilla Prediction, Betting Tips, Lineups & Odds | 22 Aug 2026",
+          "url": "https://www.sportsgambler.com/betting-tips/football/athletic-club-vs-sevilla-prediction-lineups-odds-2026-08-22/"
         },
         {
-          "title": "LIVE : ดูบอลสด อิปสวิช พบ ซันเดอร์แลนด์ ฟุตบอลพรีเมียร์ลีก เวลา 21.00 น.",
-          "url": "https://www.sportingnews.com/th/football/news/live-watch-ipswich-town-vs-sunderland-premier-league-2026-27/a47c2b8d0779336c8411d461"
+          "title": "Licensable video: Terzic has \"very good feelings\" before his debut at San Mamés",
+          "url": "https://www.reutersconnect.com/item/terzic-has-very-good-feelings-before-his-debut-at-san-mames/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX09XRUZWQzU1MDIxMTk2NzQ2MDAx"
         },
         {
-          "title": "พรีวิวแมตช์: อิปสวิช ทาวน์ พบ ซันเดอร์แลนด์ เวลา 21:00 น. วันที่ 22 สิงหาคม: รังแกทีมหน้าใหม่",
-          "url": "https://www.vietnam.vn/th/nhan-dinh-tran-dau-ipswich-town-vs-sunderland-21h00-ngay-22-8-bat-nat-tan-binh"
+          "title": "Edin Terzić: \"We're feeling optimistic and positive about what promises to be a very special weekend for the city\"",
+          "url": "https://www.athletic-club.eus/en/news/2026/08/21/edin-terzic-we-re-feeling-optimistic-and-positive-about-what-promises-to-be-a-very-special-weekend-for-the-city/"
         }
       ],
-      "updatedAt": "2026-08-22T20:10:00+07:00"
+      "updatedAt": "2026-08-22T22:20:00+07:00"
+    },
+    {
+      "id": "topic-fc1b3c7a10",
+      "title": "เบรนต์ฟอร์ด พบ สเปอร์ส",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 20000+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#เบรนต์ฟอร์ดพบสเปอร์ส"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "วิเคราะห์บอล เบรนท์ฟอร์ด vs สเปอร์ส 22 ส.ค. 69 ไก่ยุคใหม่ออกซองดาร์บี้แมตช์",
+          "url": "https://www.siamsport.co.th/football-international/premierleague/108253/"
+        },
+        {
+          "title": "ดูบอลสด วิเคราะห์บอลพรีเมียร์ลีก เบรนท์ฟอร์ด พบ สเปอร์ส 22 ส.ค.69",
+          "url": "https://www.pptvhd36.com/sport/news/281989"
+        },
+        {
+          "title": "สเปอร์สเผชิญวิกฤตแข้งเดี้ยง! \"เด แซร์บี\" เผยเกมลอนดอน ดาร์บี้ อาจมีนักเตะเดี้ยงรวม 13 คน",
+          "url": "https://football.fanpiece.com/th/%E0%B8%AA%E0%B9%80%E0%B8%9B%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%AA%E0%B9%80%E0%B8%9C%E0%B8%8A%E0%B8%B4%E0%B8%8D%E0%B8%A7%E0%B8%B4%E0%B8%81%E0%B8%A4%E0%B8%95%E0%B9%81%E0%B8%82%E0%B9%89%E0%B8%87%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B9%89%E0%B8%A2%E0%B8%87-%E0%B9%80%E0%B8%94-%E0%B9%81%E0%B8%8B%E0%B8%A3%E0%B9%8C%E0%B8%9A%E0%B8%B5-%E0%B9%80%E0%B8%9C%E0%B8%A2%E0%B9%80%E0%B8%81%E0%B8%A1%E0%B8%A5%E0%B8%AD%E0%B8%99%E0%B8%94%E0%B8%AD%E0%B8%99-%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%9A%E0%B8%B5%E0%B9%89-%E0%B8%AD%E0%B8%B2%E0%B8%88%E0%B8%A1%E0%B8%B5%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%95%E0%B8%B0%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B9%89%E0%B8%A2%E0%B8%87%E0%B8%A3%E0%B8%A7%E0%B8%A1-13-%E0%B8%84%E0%B8%99-c1500010.html"
+        }
+      ],
+      "updatedAt": "2026-08-22T22:30:00+07:00"
     },
     {
       "id": "3-0-2026-23d40390c2",
@@ -966,7 +946,7 @@
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: วอลเลย์บอล / source: Sanook - เปิดหัวแจ่ม! วอลเลย์บอลหญิงไทย ชนะ ออสเตรเลีย 3-0 ประเดิมศึกชิงแชมป์เอเชีย 2026    Sanook",
+      "summary": "ข่าวจาก Google News keyword: วอลเลย์บอล / source: sanook.com - เปิดหัวแจ่ม! วอลเลย์บอลหญิงไทย ชนะ ออสเตรเลีย 3-0 ประเดิมศึกชิงแชมป์เอเชีย 2026    sanook.com",
       "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -979,7 +959,7 @@
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
         {
-          "title": "Sanook",
+          "title": "sanook.com",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0xRDRjbjJJWW80Z19CaThTZ0pKcmRRWlplY0EtRFZVZnliWUdWOW1SaU1qVkZ1cWNsMEZmaGpMRy1ORGFsUVdYT01qRFc1Zw?oc=5"
         }
       ],
@@ -1012,13 +992,13 @@
       "updatedAt": "2026-08-19T16:00:48+07:00"
     },
     {
-      "id": "topic-7d6b9fbc96",
-      "title": "เอฟเวอร์ตัน พบ คริสตัลพาเลซ",
+      "id": "topic-300c00c811",
+      "title": "โคโม่",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 1000+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 100+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -1026,7 +1006,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#เอฟเวอร์ตันพบคริสตัลพาเล"
+        "#โคโม่"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -1035,19 +1015,19 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "ดูบอลสด เอฟเวอร์ตัน พบ คริสตัล พาเลซ พรีเมียร์ลีก วันนี้ 22 ส.ค.69",
-          "url": "https://www.posttoday.com/lifestyle/747390"
+          "title": "Inter-Monza XIs: Diouf and Pio Esposito start!",
+          "url": "https://sports.yahoo.com/articles/inter-monza-xis-diouf-pio-154700689.html"
         },
         {
-          "title": "การคาดการณ์ผลการแข่งขันเอฟเวอร์ตัน vs คริสตัล พาเลซ: รายชื่อผู้เล่นตัวจริงที่คาดว่าจะลงสนาม",
-          "url": "https://www.vietnam.vn/th/nhan-dinh-everton-vs-crystal-palace-doi-hinh-du-kien"
+          "title": "Serie A official line-ups: Inter vs. Monza",
+          "url": "https://football-italia.net/serie-a-official-line-ups-inter-vs-monza/"
         },
         {
-          "title": "LIVE : ดูบอลสด เอฟเวอร์ตัน พบ คริสตัล พาเลซ ฟุตบอลพรีเมียร์ลีก เวลา 21.00 น.",
-          "url": "https://www.sportingnews.com/th/football/news/live-watch-everton-vs-crystal-palace-premier-league-2026-27/5e1d1d3ded02e56903b7f00b"
+          "title": "Cristian Chivu addresses Lautaro Martinez’s Barcelona rumors: ‘I think he will stay here for a very long time’",
+          "url": "https://worldsoccertalk.com/news/cristian-chivu-addresses-lautaro-martinezs-barcelona-rumors-i-think-he-will-stay-here-for-a-very-long-time/"
         }
       ],
-      "updatedAt": "2026-08-22T20:10:00+07:00"
+      "updatedAt": "2026-08-22T22:20:00+07:00"
     },
     {
       "id": "2026-1c2b353b07",
@@ -1073,7 +1053,7 @@
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0wVHc3M2hGQV9WWUJQblZ5MFF6LVVudHFsRTJXLVRkdHNqTS1pTVJITWtVeTRGQ3J1MlZfWlFhc0RZZGhtMHlqdGQ2dXQ4eG9SMVI0SkhPVFBCaTEycEQycm1ZWVZLcGVEYW40MlJualdnT1pW?oc=5"
         }
       ],
-      "updatedAt": "2026-08-22T19:56:56+07:00"
+      "updatedAt": "2026-08-22T22:57:56+07:00"
     },
     {
       "id": "vs-2026-f5f06ea23a",
@@ -1128,6 +1108,32 @@
       "updatedAt": "2026-08-21T12:33:10+07:00"
     },
     {
+      "id": "topic-4611ebac3a",
+      "title": "อะไรอยู่เบื้องหลังพฤติกรรม \"จิ้น\" ดาราซีรีส์วายของแฟนคลับจีน หลังมีเหตุดราม่า",
+      "sourceType": "news",
+      "category": "entertainment",
+      "contentPotential": "high",
+      "riskLevel": "medium",
+      "summary": "ข่าวจาก Google News keyword: ซีรีส์ / source: BBC - อะไรอยู่เบื้องหลังพฤติกรรม \"จิ้น\" ดาราซีรีส์วายของแฟนคลับจีน หลังมีเหตุดราม่า    BBC",
+      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
+      "creatorAngle": "เล่า reaction ส่วนตัวต่อกระแส แล้วเปิดคำถามให้คนคุยต่อ",
+      "promptIdea": "กระแสนี้ทุกคนอยู่ทีมไหน?",
+      "hashtags": [
+        "#EntertainmentTH",
+        "#คุยเรื่องบันเทิง",
+        "#กระแสวันนี้",
+        "#อะไรอยู่เบื้องหลังพฤติกร"
+      ],
+      "riskNote": "Medium risk ควรเลี่ยงการพาดพิงบุคคลจริงและใช้คำถามเชิงสร้างสรรค์",
+      "sources": [
+        {
+          "title": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBNOE5hU2VTZUZjaENBUm5SUGVUVUVnM0kwX0Nqakt4cGEyZjhvQ2c2eHhOOVhuMElSTHhIeS1Fei1taXBYVklnUGJFSFJCTVk3Vk10LWI4UUxsQdIBX0FVX3lxTFBfSmdtY0xkMTNRa1V1Q0tJM0lhSzRjbFZaWEtMdmFWWFo4aHZmdjJ6Y2xlVFVuckpUOGhlS3JwOTJLQVU4RmhWRzdTcWFiZTJkUGlwSlRqdm5pS2k5NlZv?oc=5"
+        }
+      ],
+      "updatedAt": "2026-08-16T11:10:41+07:00"
+    },
+    {
       "id": "tvpoolonline-com-90b5851d42",
       "title": "ดราม่าอีก ขนมศศิกานต์ ฟังคนอื่นมาเล่า ไลฟ์แฉ น้องน้ำ แฟนใหม่ครูเต้ย ปมเรื่องลูกอ้วกบนรถ แล้วแสดงอาการไม่พอใจ | tvpoolonline.com",
       "sourceType": "news",
@@ -1151,7 +1157,7 @@
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5LX28wb1JfN2JDM1FsbEdlSW9TRFNZSGtrdnBaZ2pRUjR4YWtOMk9aaVI3a2xRY2JkaXZiVG81Zmp4OFU4b1pBUTdQcDExa3F6S3c2T2xB?oc=5"
         }
       ],
-      "updatedAt": "2026-08-21T14:14:30+07:00"
+      "updatedAt": "2026-08-22T20:36:06+07:00"
     },
     {
       "id": "thai-help-thai-plus",
@@ -1173,10 +1179,6 @@
       "riskNote": "Medium risk ควรอ้างอิงแหล่งทางการและเตือนให้ระวังลิงก์ปลอมหรือข้อมูลผิด",
       "sources": [
         {
-          "title": "thestandard.co",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8yb0hzdW1xOXJwc3lpZTZrd1lHc2tPWlFRbURVUUxzVUpwb3J0VHE5VHQ4VEZkU1lLVFJPQ3ZHN25NRzRkTjltN2Fnd2JrUk9ieVM5Q08yT1h4SGwtUG5BbTJZdGU3RHJnRlE?oc=5"
-        },
-        {
           "title": "TrueID",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4zR3RMZWFaU1JBcnJ3R2NhaElYZDlZRktZSHpnQlNlWEZTLU1hQmNVSXpBWVZYVThBbmVSck1aeGlqVzl2R2o0ZEpWX0pITm8yMjRyb0R3?oc=5"
         },
@@ -1189,20 +1191,24 @@
           "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE90ejJiZHpwdFlMT0l4TmVFdXl6ekxBcTdfamtpN2UzbVpzU2hJU1dSRFhwUFZTbGZjcXEwTEdLWHFSVTBqRmlfcnk0Q3hZcjg?oc=5"
         },
         {
+          "title": "facebook.com",
+          "url": "https://news.google.com/rss/articles/CBMipwZBVV95cUxNLWxzUFp1dlY5UXFHWDloaFNTd3NkbEZNREw0Z0YzTHBJVFBfOGU0cTlQZGdiN2cwckUxRExiWFNQVG9EWGtPRWpWbXM4bV9sQkM1WWtiZy1wTlBncEhvLUNrWGcyTFNoMWhIS0FyZklYd2JpRXVMWU1uV0FERWlNX08xMkhnSTdFQlA1NkwwQWhObGQxemxtTHNoZFYyOEw1bDNZc1VMSTZVSHgzdWRTUjJzel9LTmM2Y3h2cXp3clE4WEZqZkxSbW5VSEdZdldfdzhUQ1JDUU5KdVlXR252NUxuakhFMm1WeFlWLV9uMFppaW5VUFdYZnRVTXZOVDA2VWNMb0ZWZ0FvcGZmN01UVThBRFF5M05nV2JlaXNNN1R6ajMtQXNrUEhUaFlrdUwxLU1rajBObm1tR05EXzR2Ym85SkFCNDhaTjd1cWVGZ2pMYmw5S3Q4Zk5IbFF1WkRQOE5QajNaZFc4RmlDZE5reERxa2hIYzJIY1lOWUN4OVZSbUY2V3FMQjJQekRPMUhqMkdvRUJZdTJ4bHEwUnIyZVN5a3h1dldsSzlIaHRUUlV1MjZqLXIxMXJtNTZLNnBONmJLQ2RDVjdMM2lXZGRvRkdwT1dGTm1RQ29FQ1NnTC0weHg2WDJBTFo4NDV0OWQwamh1SlBrYWlUZEZ3bzgtRTNDVEduVlY5R1h3OTctMTRNLVNZWklsYVluTERweFVQUnhUeE1RN0tHUHB4Z1dNZUpKc0pSVmhJemFYdG1MQzhSNlpFU0RnZkdYbWlxMF9KczRvWTBLalMzSGpkR2ROYkpQTTRFNkw1U19OQ3cwZ0lFREtFbjVIT094NTNveEd5NERSZjUtT09FVW45ajlzUkxlUGY4ZUR6SF9WdE1ZZF9xMFEwYjBpYnFNdFhTemdLTlVKeFVpOFZhaThQLUtndG1ZTGpQODVUbElxRFRzSkFidzc1blpiaHFuNmx1bEtWV2pGaGQtTng4bTREN2RhWjB2eHdFN1UxLVNrTHYwVGx1NjhsRXl2WGNiU0JBOGpYVjNvQWhhUkhESUNhWEJDbWo0TVViRHc?oc=5"
+        },
+        {
           "title": "pptvhd36",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTjlyRnlKX1dNeXdob2VBQ3B5ZklQMURHc0xaSHM0MjdCaVlGdDJSS0c5MlgyRGJZc1ljN3phZGJlMW9JOVFPcTdoeEVNdDNjVnNOeTRoNmRWMVdlanFuU2J1dzBpYm9zc1phNU5zUGFNeHAyaHlmTUQxUXJDRk1rek9kLXMwd2tnZnJNWEgtaHV3V01ZRjc5dUw2M1gtVTZNWlpJS3BqaElLUkI1SlE?oc=5"
         }
       ],
-      "updatedAt": "2026-08-22T00:01:27+07:00"
+      "updatedAt": "2026-08-20T15:10:00+07:00"
     },
     {
-      "id": "topic-4030cb9a84",
-      "title": "📣 สรุปไลฟ์สด พี่เรืองร่ำไห้แจงปมเพื่อนภรรยา ด้านน้องนกพึ่งวัด พร้อมเผยความทุกข์ใจของชีวิตคู่ที่แบกภาระหนัก ถูกกดดันจนทนไม่ไหว . ​🔵 สรุปไลฟ์สดพี่เรือง ◼️ พี่เรืองยอมรับ...",
+      "id": "topic-0f479c237d",
+      "title": "📣 มีคนส่งเรื่องมาให้รสไปสรุป พอดีเห็นพี่เรือง อินฟลูเขยไทย ที่เป็นคนเกาหลี เขาออกมาโพสต์ร่ายยาวหลายโพสต์ ส่อแววมีดราม่า. และนี่คือ...สรุปดราม่ารอยร้าวพี่เรืองและน้องนก...",
       "sourceType": "news",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "medium",
-      "summary": "ข่าวจาก Google News keyword: ดราม่า / source: facebook.com - 📣 สรุปไลฟ์สด พี่เรืองร่ำไห้แจงปมเพื่อนภรรยา ด้านน้องนกพึ่งวัด พร้อมเผยความทุกข์ใจของชีวิตคู่ที่แบกภาระหนัก ถูกกดดันจนทนไม่ไหว . ​🔵 สรุปไลฟ์สดพี่เรือง ◼️ พี่เรืองยอมรับอย่างชัดเจนว่",
+      "summary": "ข่าวจาก Google News keyword: ดราม่า / source: facebook.com - 📣 มีคนส่งเรื่องมาให้รสไปสรุป พอดีเห็นพี่เรือง อินฟลูเขยไทย ที่เป็นคนเกาหลี เขาออกมาโพสต์ร่ายยาวหลายโพสต์ ส่อแววมีดราม่า. และนี่คือ...สรุปดราม่ารอยร้าวพี่เรืองและน้องนก เปิดแชทลับแพ",
       "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -1210,16 +1216,16 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#📣สรุปไลฟ์สดพี่เรืองร่ำไห"
+        "#📣มีคนส่งเรื่องมาให้รสไปส"
       ],
       "riskNote": "Medium risk ควรเลี่ยงการพาดพิงบุคคลจริงและใช้คำถามเชิงสร้างสรรค์",
       "sources": [
         {
           "title": "facebook.com",
-          "url": "https://news.google.com/rss/articles/CBMigAhBVV95cUxPeU1WNTVPWEloYWlOLVh6bVczaW9feFR5Z1FhRlJkNmFWOTFKYS1wTGQ3anQ5R09BeFlwckFrTU9HMjI5LU9mcFBGcFB2bzROSE5xRk94a0Y4cURZYVhwM3JLdnVUcnVRVG15b0dLaEZwc19EaU1rRk9JdlNKZVN1Rk4tdmVjV25FdWVUeng1TzZYTmRMclpoQjRudVVaWFNGNmxHaG1jNERCYmdDQVMwWFJjTzZNU1hXSVFONEVlU3ZQZzF3UEI5NVdraFlpbVB3Y2xMLU9kNEVLdnlIWjZFXzlPTjBWVDZjanZrc2JwaG5xbUNqYktUZ0lGM0oxbmNfOHJINDBJRkJCQ05DdEVrQjh1cGZMZ21HdzVZUmZ2QmkzcTluQnBjUlMtSmN1UXhKdUk4aFRHMUptT3dxUDZEQnJ6OGJIeVF3T0xuUThxQXhSS0hlREVkdHlJblhzRzFpYjloZEtzcEs1NS1rWHkzdk1NM0ZNZkF5OXZmSkZMZXdRanNKTGg5OXNkdVBRcXBYZTcwa3dUbGx6RzNmUlBDTi1Qb0tfYTFCM1Jtc1J4LXZ4NEJXb05FZXpiOTBIQ19EdUtCZlVWTWp0ZUVzb1ota0lDQVVyNUJPMjhRTHpTdlo4Z2dxSXAxNmJBNkpWd2ZRMzJqclZfMGhpamJBcWVjMGN2X1RwZmw0b1RBemk5ejU5WUdTUkg0TnpLc3JsMnN2S2xGVXFyQWtMR2c4TXZodzlIYjRFa2hLTnhreVNWdWJTOFlUN3VvUFEwc2lpME43UmlTMnM5STRHRmZ6ZUtIc2ZOb0RkVmJqQ0Q4UmlDd0RtYXFEWk1Ld2t1b2ZNb2paemYxOEFqdWdBMjNLWG43YVY2MUY4TktzRkw0NGdtaGZkRW1sSkNuVzBOaDZibmVKQ25fOENCMjhDVWhsQmh1MUxwemRNdVhJYVQ3Mm1lV1ZsU2UteXlvN0I2c1JTZU1UN24tX2R4SVBNWTJqWlRJcFMteXgyUUJSYmM4ckF3U3RVZWllQXBsYTduQng2bFhsUEMwNU1VWjBHRW5pbWkzMEU4REhsVXoxUUExUHQ4Z0p1SklCSk1TSGZzX212bkVfQ0t1ZFlOczRXMzRpcTJHYzBxUlZIclpfMFo2TEFwb0I2RTlZLWZyRTRUMUZLVDVvV2xJMFE4OW1qUExTVnRLcGVnMXFKZXhXc2J2d0dndHNNSUlNU1hJbVVtZG9QbmtSZlRibmpScFBLWV9ZZmZwc3poQ2F5ekNsQWFIUlJlbTZ6YTNrc0g3aC1xTXk2Z0xmMkkzNXI5UVFvb3RNWVl5WWpiNmxUZEkyUnRQaUtsTHdzRFdKVkRfa05OakloTkFL?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi9gdBVV95cUxOalFTMUVPc25oWUotTFRyeElaVndhZExJT1cxdjg5YlJvaFp3ck5KRDdiTnIzYVhWaUh3TzJNSVlIWW9ocEQtQ2xTb1h3MEZ0UmI1VGYyWnZLN2dHcnU2eDNzUzY4M18xd1R4TjJFdHJqWE81NjAzaWd3bS0zbm9YMmZNU0RLVi1oRXRfZjBVbE5zbEg0d2h5bUFMOGI0SnJLTnMzbUxLdTZaRE9jakQ0b1A4eEFyTnBBSHN6bE45UUxfM0dvWjZwcDRkd1NITkNfOGV1T2QxRTVRbFFSNmZtVkphelc2VVhMRDdCU3dFMmg3cWY4U2QtWDZHT2ZPNVdadnhxYmZRMWY5djBDTjdpdzBqSFR3Rng1UFBnNHVfeTFjdWJ4RU5oRGhrUWRBM1E1RmNPZlRuNU5uQTdNZmh1TFlTaGNQSEQwTEVpbUxhNWk1bHZNaG5EU2QxUmJfY1M3b1RSY0dtMGlZZjdDRndWaTlQZW9yU0R1aTZ4STJSYzBPQjFfUV9yemprQmFYQndlYlZRUi1zSEtROFRlQzlwaUoyeVk5QVJ5Z3pabFI4VUliZ3NHOGpjVXB5elVRMUdxNmFVbTNDbVFzTV92emc0OWQ2TTM0ckcwZGd1NXBxcUIwZ1dfN1VTVFIwZHhUOXRqY0RFQVhXaktkcVBkYlhrbXA0bVNqUWVQNV9HRmM1YVVxc2psaWUxYXd3ZEtSamlLaXp6OVZTN3VCMVR5c2JkYUtJeFFwOHpGLUZ3WW9GN2V6bVd3SWhOVE9LTUFCSVRxZjJLZmNMTk5ud1otUTJjbng1MjQxM05nZi1YTV9LSFVZZS1tR2d5UEIxSFdsakRId3VEaWRrRXVtLVJDQS03bkczTUV0SDlaMGY2amNiQWlQZEpNSWtKTUpQUFF1YW82X25WNlBJa3l2UlBhQlRweDNfM1BNaExqblpuWk9kcjdFSzEzNTY2c29waW9oVVk1aVJLazZNOFRNYWZFek1OUUZGdXhuc245ZnRSako2Wi1mY3N6TjBTVF9OZEFSelVvcUFBNEgweFN3NjNXaVphQXV0S1BhU0g5bmtDMnc3Q001VWxyUFJ5a1phZDk0dUx4Z1BnX3hmSk0zYTkxV1d4WXJ4SlFmdFVpZFp3WmhTd3haNUhhb0hCMDVhSHo1Wm9IZDNDSE80Ujc2MXJvRUxYNWdNMDJlb21SWHdJenpVYTBDTDdzNXo0R2VJUmprXzVSQWlUV05aZGtBbUxSWk9SWHZrdnpBYTh1TVB6MTBkejIwU0hYX0NPSGt5ZXR6RTNRQTRWU1JvNE9LREsxR2ZxSkMycW5vcnBmZ0M2SG1jSFM0ejYzRVE?oc=5"
         }
       ],
-      "updatedAt": "2026-08-20T21:55:42+07:00"
+      "updatedAt": "2026-08-20T17:08:19+07:00"
     },
     {
       "id": "topic-efab4d0f53",
