@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-21T23:37:10.218383+07:00",
-  "dateRange": "2026-08-14 to 2026-08-21",
+  "generatedAt": "2026-08-22T09:15:37.070545+07:00",
+  "dateRange": "2026-08-15 to 2026-08-22",
   "sourceErrors": [],
   "topics": [
     {
@@ -212,6 +212,32 @@
       "updatedAt": "2026-08-21T00:28:54+07:00"
     },
     {
+      "id": "topic-2c3f1eb3c1",
+      "title": "ดูย้อนหลังฉับไว - พระพุทธเจ้า เดอะ ซีรีส์",
+      "sourceType": "news",
+      "category": "entertainment",
+      "contentPotential": "high",
+      "riskLevel": "low",
+      "summary": "ข่าวจาก Google News keyword: ซีรีส์ / source: Thai PBS - ดูย้อนหลังฉับไว - พระพุทธเจ้า เดอะ ซีรีส์    Thai PBS",
+      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
+      "creatorAngle": "เล่า reaction ส่วนตัวต่อกระแส แล้วเปิดคำถามให้คนคุยต่อ",
+      "promptIdea": "กระแสนี้ทุกคนอยู่ทีมไหน?",
+      "hashtags": [
+        "#EntertainmentTH",
+        "#คุยเรื่องบันเทิง",
+        "#กระแสวันนี้",
+        "#ดูย้อนหลังฉับไว-พระพุทธเ"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Thai PBS",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE01YUhENjdWSWlQV00wRmdZWERVdHRCSXpyOUxWMW53UC1hblZhN1BoNFV1R29sVVMzeFY2SWJqZHhpbHlid2pZQ2FMWE5uNVl2XzRyS0dIMnNtQW9M?oc=5"
+        }
+      ],
+      "updatedAt": "2026-08-21T00:35:08+07:00"
+    },
+    {
       "id": "6-47c52016dd",
       "title": "ป.ป.ช.สุราษฎร์ธานี สุ่มตรวจอาหารกลางวัน 6 โรงเรียน เจอพิรุธเพียบ พบเมนูอาหาร‘ดีแค่วันมีคนมาตรวจ’",
       "sourceType": "news",
@@ -270,7 +296,7 @@
       "category": "food",
       "contentPotential": "high",
       "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: คาเฟ่ / source: TrueID InTrend - รีวิวคาเฟ่ BaanManee BKK ริมแม่น้ำเจ้าพระยา กรุงเทพฯ    TrueID InTrend",
+      "summary": "ข่าวจาก Google News keyword: คาเฟ่ / source: TrueID Food - รีวิวคาเฟ่ BaanManee BKK ริมแม่น้ำเจ้าพระยา กรุงเทพฯ    TrueID Food",
       "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
       "creatorAngle": "ให้ Creator เล่าประสบการณ์ร้าน/เมนูที่อยากลอง แล้วถามคนอื่นว่าคิดเหมือนกันไหม",
       "promptIdea": "เห็นคนพูดถึงเมนูนี้เยอะมาก มีใครลองแล้วบ้าง?",
@@ -283,8 +309,8 @@
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
         {
-          "title": "TrueID InTrend",
-          "url": "https://news.google.com/rss/articles/CBMirgRBVV95cUxPWTZMcEFtXzhiRGg1Y2JNUnBlOVROeUhuS0xhNEgycGtZa3JDSXc4ZURvM0tqZWZ0NWUxODVRcnVKemlFUzJFU3puZ2lZX2RwcWNoQVR5ZzNDYnVPQ3VvX24ydWFESWVGWWNGc003YndzYWlGY3RhNzJfcmNWemR1THNGc0s1T1JOUFJhd0JCWkcyS20wNVBFNEtHRDhPNWNXZ0NULWRCNTJhaXJlUzcxYVIyamh2bHBLaWFrX0lDZEM1aE9uSDlHcldoWGRnVDBrbHVFSnN3N25VZE5hMjUxVmgtamItX2lOTXA3cXhoS1p5UXlOQ3VjeUVVZ3Ixd1BrVDNVbHhqWmlaUEJFYm5VaThaQVprQ0lXdU1oaUI2NEE2bmJTVzZLSW1QOTBsNG1zeE1MSnVjMW9JeWlNWWwxZlFUdS02Z0x3czVMbDZFWVM3SjZ2YzVHUmVTMWhnbHE3NmhwcDVoYk5QOFV0Vk5CZnBqRWlBdHpXTnRRUTRGS2J3Q1F4NDNLSWxNSEV3UkVWYW90aTFOUHdaM1FOR093bmkxdjI0T25IYVJXMUkzajFrUE44WkpHTTY2Qi1uTkI5alFEVEVlcXhQR0ZYUFUxUVNOUTUyeC1iak1qMlE0U05FZ3d0NTVxRDVRekpMYVVuaThUUnpma0toSjJqMUtaNncya0JJVmFJeVdvZE5pOWxkNmRXWnBYWGNfdWtkVTh1WmtTTHg5OW55MjZQZmc?oc=5"
+          "title": "TrueID Food",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKN0ZzdzZjYUN3b0o0cWZXVmFVT0c5bFoxa2NRLWZnX1c2a2FBbE1GcXJEd1ZSZHRLOEp1OEtFalptcnFqMXROcTRtMmxwOUp4ZEVSaHJB?oc=5"
         }
       ],
       "updatedAt": "2026-08-19T11:39:03+07:00"
@@ -420,30 +446,68 @@
       "updatedAt": "2026-08-16T10:54:54+07:00"
     },
     {
-      "id": "the-big-house-tcx-284da78861",
-      "title": "ไทยพีบีเอส เปิดตัวซีรีส์แห่งปี “บ้านใหญ่ The Big House” ครั้งแรกในงาน TCX",
-      "sourceType": "news",
-      "category": "entertainment",
-      "contentPotential": "high",
+      "id": "7m-9b281eb894",
+      "title": "7m",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: ซีรีส์ / source: Thai PBS - ไทยพีบีเอส เปิดตัวซีรีส์แห่งปี “บ้านใหญ่ The Big House” ครั้งแรกในงาน TCX    Thai PBS",
-      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
-      "creatorAngle": "เล่า reaction ส่วนตัวต่อกระแส แล้วเปิดคำถามให้คนคุยต่อ",
-      "promptIdea": "กระแสนี้ทุกคนอยู่ทีมไหน?",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 100+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
       "hashtags": [
-        "#EntertainmentTH",
-        "#คุยเรื่องบันเทิง",
-        "#กระแสวันนี้",
-        "#ไทยพีบีเอสเปิดตัวซีรีส์แ"
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#7m"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
         {
-          "title": "Thai PBS",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE85Sk5YcHQ3d1ptS1ZpdDBzOTV3SW1hWnRRbWoyNE1ScGdiWHVHNG1VSS0ycVhrX2FKUUk2bUNrTjAxLURnQ0x1dmhlVVZORllTU0pLaVg0T3JFUQ?oc=5"
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "Mahmic Talk Ramps Up as Celtic Close in on Another Big Signing | Three Young Stars Loaned Out",
+          "url": "https://www.celticnewsnow.com/news/mahmic-talk-ramps-up-as-celtic-close-in-on-another-big-signing-three-young-stars-loaned-out/726819/"
+        },
+        {
+          "title": "Anthony Joseph Confirms Celtic Closing in on £7m Signing",
+          "url": "https://roundtable.io/sports/soccer/scottish-premiership/celtic/news/anthony-joseph-confirms-celtic-closing-in-on-7m-signing"
+        },
+        {
+          "title": "Celtic 'set' to complete latest signing as star says goodbye to teammates and fans",
+          "url": "https://www.thenational.scot/sport/26484901.celtic-set-complete-latest-signing-star-says-goodbyes/"
         }
       ],
-      "updatedAt": "2026-08-17T17:11:05+07:00"
+      "updatedAt": "2026-08-22T03:50:00+07:00"
+    },
+    {
+      "id": "bloomberg-cobra-gold-c558e1a93e",
+      "title": "Bloomberg รายงาน ไทยเตรียมใช้ความสัมพันธ์ทางทหารต่อรองภาษีสหรัฐฯ ทบทวนฝึก Cobra Gold แต่รัฐบาลปฏิเสธ",
+      "sourceType": "news",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "ข่าวจาก Google News keyword: ความสัมพันธ์ / source: thestandard.co - Bloomberg รายงาน ไทยเตรียมใช้ความสัมพันธ์ทางทหารต่อรองภาษีสหรัฐฯ ทบทวนฝึก Cobra Gold แต่รัฐบาลปฏิเสธ    thestandard.co",
+      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#Bloombergรายงานไทยเตรียม"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "thestandard.co",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwNVhDUFVSSXdxR2xaYTNUc3lpQWhPV0J4cXppS192ZHM1emtwX0ZPRW9qZGNNZ19JTFYtV214VUw4QklOVVVFLURUNEV2OUx5eGhfOS1YTG1NMEhtZnNMdXJORlh0bmlwOVJSbVAxbk8?oc=5"
+        }
+      ],
+      "updatedAt": "2026-08-21T18:21:08+07:00"
     },
     {
       "id": "u17-7-fivb-volleyball-girls-u17-world-ch-9e4dacdf7b",
@@ -472,8 +536,46 @@
       "updatedAt": "2026-08-17T10:19:18+07:00"
     },
     {
-      "id": "al-riyadh-vs-al-nassr-87d65cb62d",
-      "title": "al-riyadh vs al-nassr",
+      "id": "arsenal-vs-coventry-104bfd41f1",
+      "title": "arsenal vs coventry",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 10000+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#arsenalvscoventry"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "Arsenal sweep Coventry aside to start Premier League title defence in style",
+          "url": "https://www.theguardian.com/football/2026/aug/21/arsenal-coventry-premier-league-match-report"
+        },
+        {
+          "title": "Premier League highlights: Arsenal 3-0 Coventry City",
+          "url": "https://www.bbc.com/sport/football/videos/cgr7e17010go"
+        },
+        {
+          "title": "Arsenal vs Coventry LIVE! Premier League commentary, live on Sky Sports, updates, scores and team news",
+          "url": "https://www.skysports.com/football/live-blog/11661/13565514/arsenal-vs-coventry-live-premier-league-commentary-live-on-sky-sports-updates-scores-and-team-news"
+        }
+      ],
+      "updatedAt": "2026-08-22T01:10:00+07:00"
+    },
+    {
+      "id": "honor-magic-v6-ddace6b9a8",
+      "title": "honor magic v6",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
@@ -486,7 +588,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#al-riyadhvsal-nassr"
+        "#honormagicv6"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -495,28 +597,28 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "Will Ronaldo miss a third match with Al-Nassr?",
-          "url": "https://www.goal.com/en/news/ronaldo-takes-everyone-by-surprise-al-nassr-captain-s-stance-on-the-riyadh-battle-revealed/blt1c18142e37ef71ac"
+          "title": "รีวิว HONOR Magic V6 ทนเกินจอพับ",
+          "url": "https://www.beartai.com/watch/%E0%B8%A3%E0%B8%B5%E0%B8%A7%E0%B8%B4%E0%B8%A7-honor-magic-v6-%E0%B8%97%E0%B8%99%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%99%E0%B8%88%E0%B8%AD%E0%B8%9E%E0%B8%B1%E0%B8%9A/"
         },
         {
-          "title": "Cristiano Ronaldo handed double blow as rivals Al-Riyadh and Al-Ettifaq get major boost before facing Al-Na...",
-          "url": "https://worldsoccertalk.com/news/cristiano-ronaldo-handed-double-blow-as-rivals-al-riyadh-and-al-ettifaq-get-major-boost-before-facing-al-nassr-in-saudi-pro-league/"
+          "title": "‘HONOR Magic V6’ มือถือจอพับ เคาะราคา 67,999 บาท",
+          "url": "https://mgronline.com/cyberbiz/detail/9690000082500"
         },
         {
-          "title": "Cristiano Ronaldo Debuts New Hairstyle in Photo, Video After Marriage to Georgina Rodríguez",
-          "url": "https://bleacherreport.com/articles/25471055-cristiano-ronaldo-debuts-new-hairstyle-photo-video-after-marriage-georgina-rodriguez"
+          "title": "รีวิวสั้น HONOR Magic V6 จอพับเรือธง ชิป Snapdragon 8 Elite Gen 5 แบต 6660 mAh",
+          "url": "https://www.biztalknews.com/technology-it/mobile/honor-magic-v6-short-review/"
         }
       ],
-      "updatedAt": "2026-08-21T23:20:00+07:00"
+      "updatedAt": "2026-08-22T08:50:00+07:00"
     },
     {
-      "id": "epl-47982c1444",
-      "title": "epl",
+      "id": "iphone-18-pro-22e9d6eac1",
+      "title": "iphone 18 pro",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 100+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 2000+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -524,7 +626,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#epl"
+        "#iphone18pro"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -533,57 +635,19 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "9 Super Eagles players to feature in 2026/27 EPL season",
-          "url": "https://www.vanguardngr.com/2026/08/9-super-eagles-players-to-feature-in-2026-27-epl-season/"
+          "title": "\"Apple\" จ่อแบ่งชั้น iPhone 18 รุ่น Pro–Pro Max ชัดเจน",
+          "url": "https://www.tnnthailand.com/wealth/economy/244545/"
         },
         {
-          "title": "Premier League predictions 2026-27: BBC Sport pundits pick their top four",
-          "url": "https://www.bbc.com/sport/football/articles/cp8edryd7plo"
+          "title": "[ลือ] สรุปสี iPhone 18 Pro และ iPhone Ultra ที่อาจเปิดตัวในปี 2026",
+          "url": "https://www.macthai.com/2026/08/21/every-iphone-18-pro-and-iphone-ultra-color/"
         },
         {
-          "title": "Premier League returns and Arsenal sense opportunity with rivals in flux",
-          "url": "https://www.theguardian.com/football/2026/aug/20/premier-league-returns-arsenal-sense-opportunity"
+          "title": "คาดการณ์วันพรีออเดอร์และขายจริง iPhone 18 Pro",
+          "url": "https://www.iphone-droid.net/iphone-18-pro-pre-order-and-releases-date/"
         }
       ],
-      "updatedAt": "2026-08-21T20:30:00+07:00"
-    },
-    {
-      "id": "fraud-a0e019c0c5",
-      "title": "fraud",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#fraud"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "Beijing police bust fraud gang that made member undergo 20 CT scans",
-          "url": "https://www.globaltimes.cn/page/202608/1368732.shtml"
-        },
-        {
-          "title": "B1-billion money trail linked to 2021 exam fraud",
-          "url": "https://www.bangkokpost.com/thailand/general/3305074/b1billion-money-trail-linked-to-2021-exam-fraud"
-        },
-        {
-          "title": "recruitment irregularities",
-          "url": "https://www.tbsnews.net/tags/recruitment-irregularities"
-        }
-      ],
-      "updatedAt": "2026-08-21T19:00:00+07:00"
+      "updatedAt": "2026-08-22T01:10:00+07:00"
     },
     {
       "id": "50-9b7e5ebe29",
@@ -638,8 +702,8 @@
       "updatedAt": "2026-08-19T18:04:30+07:00"
     },
     {
-      "id": "topic-82a8f566fd",
-      "title": "กัมพูชา",
+      "id": "topic-b27356350a",
+      "title": "กาลาตาซาราย",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
@@ -652,7 +716,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#กัมพูชา"
+        "#กาลาตาซาราย"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -661,19 +725,19 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "ข่าวเปิดด่านคลองลึก รับคนไทยพ้นโทษกลับบ้าน จ.สระแก้ว",
-          "url": "https://news.ch7.com/detail/892580"
+          "title": "แฟนแมนยูทำใจไว้เลย! กาลาตาซาราย ทำแสบสันต์เปิดแผนหัวหมอทุ่มไม่อั้นดึง บรูโน่ แฟร์นันด์ส",
+          "url": "https://www.siamsport.co.th/football-international/premierleague/108127/"
         },
         {
-          "title": "รับกลับ 44 คนไทยจากกัมพูชา พร้อมส่งคืน 35 ชาวกัมพูชากลับประเทศ",
-          "url": "https://www.khaosod.co.th/around-thailand/news_10369762"
+          "title": "บ่งบอกอะไรหรือเปล่า “บรูโน่” เคลื่อนไหวอนาคตล่าสุดกับ “แมนยู” หลังมีข่าวย้ายทีม",
+          "url": "https://www.thairath.co.th/sport/eurofootball/premierleague/2953482"
         },
         {
-          "title": "เปิดด่านบ้านคลองลึก จ.สระแก้ว รับคนไทยพ้นโทษจากกัมพูชา 44 คน",
-          "url": "https://www.amarintv.com/news/social/555397"
+          "title": "ยายกิลิสเสนอตัวให้บาร์ซ่า? เดโก้สั่งเบรกดีลอัลวาเรซ",
+          "url": "https://football.fanpiece.com/th/%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B8%81%E0%B8%B4%E0%B8%A5%E0%B8%B4%E0%B8%AA%E0%B9%80%E0%B8%AA%E0%B8%99%E0%B8%AD%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%9A%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%8B%E0%B9%88%E0%B8%B2-%E0%B9%80%E0%B8%94%E0%B9%82%E0%B8%81%E0%B9%89%E0%B8%AA%E0%B8%B1%E0%B9%88%E0%B8%87%E0%B9%80%E0%B8%9A%E0%B8%A3%E0%B8%81%E0%B8%94%E0%B8%B5%E0%B8%A5%E0%B8%AD%E0%B8%B1%E0%B8%A5%E0%B8%A7%E0%B8%B2%E0%B9%80%E0%B8%A3%E0%B8%8B-c1499646.html"
         }
       ],
-      "updatedAt": "2026-08-21T19:20:00+07:00"
+      "updatedAt": "2026-08-22T01:10:00+07:00"
     },
     {
       "id": "2026-c06457c590",
@@ -702,8 +766,8 @@
       "updatedAt": "2026-08-21T11:02:00+07:00"
     },
     {
-      "id": "topic-21a217e926",
-      "title": "ผลหวยลาววันนี้",
+      "id": "topic-6494fe1d11",
+      "title": "บอลสด",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
@@ -716,7 +780,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#ผลหวยลาววันนี้"
+        "#บอลสด"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -725,99 +789,23 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "สถิติหวยลาวออกวันศุกร์ 21/08/69 หวยลาววันนี้ งวด 21 สิงหาคม 2569",
-          "url": "https://www.komchadluek.net/lottery/lottery-statistics/621587"
+          "title": "วิเคราะห์บอล ทีมชาติไทย พบ เวียดนาม 22 ส.ค. 69 : ยกแรกชี้ชะตาแชมป์",
+          "url": "https://www.siamsport.co.th/football-thailand/thai-national/108229/"
         },
         {
-          "title": "ตรวจหวยลาว งวด 20/8/69 เช็กเลข 6 ตัว วิเคราะห์เลขนามสัตว์ สถิติหวยย้อนหลัง",
-          "url": "https://thethaiger.com/th/news/1600029/"
+          "title": "ข่าวจับตาช้างศึกนัดชิง! คุณจำนงค์ เปิดใจถึงโอกาสแชมป์ และความพร้อมทีมชาติไทย",
+          "url": "https://www.ch7.com/sports/892455"
         },
         {
-          "title": "หวยลาววันนี้ งวดประจำวันที่ 21 สิงหาคม 2569 ผลหวยพัฒนา ตรวจรางวัล ล่าสุด หวยลาว ออกอะไร",
-          "url": "https://www.khaosod.co.th/laolottery/news_10369726"
+          "title": "ราชมังฯไร้น้ำขัง พร้อมใช้นัดชิงไทย-เวียดนาม ฝ่ายจัดยันหญ้าแห้งหมาด พื้นเรียบสนิท ทดสอบสปีดบอลเทียบชั้นเจลีก",
+          "url": "https://mgronline.com/sport/detail/9690000082549"
         }
       ],
-      "updatedAt": "2026-08-21T20:40:00+07:00"
+      "updatedAt": "2026-08-22T02:00:00+07:00"
     },
     {
-      "id": "topic-e7073d38e0",
-      "title": "พยาบาล",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#พยาบาล"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "สถานพยาบาล 9 แห่งในจังหวัดได้เปลี่ยนจากเวชระเบียนกระดาษมาเป็นเวชระเบียนอิเล็กทรอนิกส์แล้ว",
-          "url": "https://www.vietnam.vn/th/toan-tinh-co-9-co-so-y-te-da-thay-the-benh-an-giay-bang-benh-an-dien-tu"
-        },
-        {
-          "title": "มุ่งเน้นการพัฒนาที่สอดคล้องกันของโครงสร้างพื้นฐานดิจิทัล ข้อมูลดิจิทัล และระบบสารสนเทศด้านการดูแลสุขภาพ",
-          "url": "https://www.vietnam.vn/th/tap-trung-phat-trien-dong-bo-ha-tang-so-du-lieu-so-va-he-thong-thong-tin-y-te"
-        },
-        {
-          "title": "สร้างระบบดูแลสุขภาพอัจฉริยะ",
-          "url": "https://www.vietnam.vn/th/kien-tao-y-te-thong-minh"
-        }
-      ],
-      "updatedAt": "2026-08-21T19:30:00+07:00"
-    },
-    {
-      "id": "topic-b8782e650f",
-      "title": "สินเชื่อ",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 1000+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#สินเชื่อ"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "‘เอกนิติ’ หารือออมสิน เตรียมแนวทางดัน ‘นกกระซิบ AI’ ใช้แทน Statement ปล่อยเงินกู้",
-          "url": "https://thestandard.co/ekaniti-gsb-nokkrasip-ai-loan-ev/"
-        },
-        {
-          "title": "ธนาคารออมสิน เตรียมอัดฉีดสินเชื่อรถยนต์ไฟฟ้าเพิ่มอีก 5 พันล้าน หลังปล่อยกู้ล็อตแรกหมด",
-          "url": "https://www.thairath.co.th/news/auto/evcar/2954222"
-        },
-        {
-          "title": "ออมสิน ชี้คลังจ่อคลอด ‘สินเชื่อนกกระซิบ’ ดึงใช้ข้อมูล ‘AI-Ari Score’ พิจารณาปล่อยกู้",
-          "url": "https://www.matichon.co.th/economy/news_5854916"
-        }
-      ],
-      "updatedAt": "2026-08-21T19:50:00+07:00"
-    },
-    {
-      "id": "topic-9754a5c230",
-      "title": "อัล ริยาดห์ พบ อัล นาสร์ ริยาด",
+      "id": "topic-6826e123f3",
+      "title": "ลาลีกา",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
@@ -830,25 +818,63 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#อัลริยาดห์พบอัลนาสร์ริยา"
+        "#ลาลีกา"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
         {
           "title": "Google Trends",
           "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "พรีวิวฟุตบอล ลา ลีกา สเปน 2026-27 : เอสปันญอล พบ เรอัล มาดริด",
+          "url": "https://www.tnnthailand.com/sports/244686/"
+        },
+        {
+          "title": "เอสปันญอลสถิติยังเป็นรองราชัน อาจโดนบุกอัดคาถิ่น",
+          "url": "https://truevisions.co.th/sports/30721/"
+        },
+        {
+          "title": "แมนยู อยู่โถไหน!? เปิดโผ 4 โถลุ้นประกบคู่ แชมเปี้ยนส์ ลีก 2026/27",
+          "url": "https://www.siamsport.co.th/football-international/ucl/108187/"
         }
       ],
-      "updatedAt": "2026-08-21T22:30:00+07:00"
+      "updatedAt": "2026-08-22T02:30:00+07:00"
     },
     {
-      "id": "topic-9fb6417599",
-      "title": "เปรู",
+      "id": "3-0-2026-ca869687d6",
+      "title": "วอลเลย์บอลหญิงไทย ชนะ ออสเตรเลีย 3-0 เซต ชิงแชมป์เอเชีย 2026",
+      "sourceType": "news",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "ข่าวจาก Google News keyword: วอลเลย์บอล / source: Thai PBS - วอลเลย์บอลหญิงไทย ชนะ ออสเตรเลีย 3-0 เซต ชิงแชมป์เอเชีย 2026    Thai PBS",
+      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#วอลเลย์บอลหญิงไทยชนะออสเ"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Thai PBS",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1td19qc1NOdXlwR0ZRZFBDTEZXdlVONGVfRnkzU25RSldLczFaSExpNndKeHpNcVR4bUxBWjU1SnRyV1g3Ty12RG1lTEJGcjhLMmxuWG85VVo?oc=5"
+        }
+      ],
+      "updatedAt": "2026-08-21T13:07:02+07:00"
+    },
+    {
+      "id": "topic-94eacc981a",
+      "title": "วิเคราะห์บอลวันนี้",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 100+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -856,7 +882,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#เปรู"
+        "#วิเคราะห์บอลวันนี้"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -865,19 +891,57 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "แผ่นดินไหว 'เปรูตอนใต้' บ้าน-ตึก เสียหายเพียบ",
-          "url": "https://today.line.me/th/v3/article/RBq1q8M"
+          "title": "ชี้ 4 ตัวเต็งบอลน่าเชียร์ 21 ส.ค. 69 : ทีเด็ดบอลวันนี้ สตุ๊ตการ์ทเด่น, อาร์เซน่อลน่าต่อยอด!",
+          "url": "https://www.siamsport.co.th/football-international/bundesliga/108203/"
         },
         {
-          "title": "ข่าวรถบรรทุกยังติดค้างบนชายฝั่งเปรู หลังดินโคลนถล่ม",
-          "url": "https://news.ch7.com/detail/892520"
+          "title": "\"เต้ยเป๋าตุง\" ฟันธง (21 ส.ค.69) ชี้ 7 คู่เด่น ทีมลุ้นเข้าวิน เน้นๆ 3 บอลเต็ง",
+          "url": "https://siamrath.co.th/variety/sports/169120"
         },
         {
-          "title": "เกิดแผ่นดินไหวขนาด 6.7 ริกเตอร์ทางตอนใต้ของเปรู",
-          "url": "https://www.vietnam.vn/th/dong-dat-6-7-do-richter-rung-chuyen-mien-nam-peru"
+          "title": "ชี้ 4 ตัวเต็งบอลน่าเชียร์ 19 ส.ค. 69 : ทีเด็ดบอลวันนี้ แมนส์ฟิลด์-เซลติก น่าจับตา!",
+          "url": "https://www.siamsport.co.th/football-international/ucl/108130/"
         }
       ],
-      "updatedAt": "2026-08-21T20:30:00+07:00"
+      "updatedAt": "2026-08-22T04:40:00+07:00"
+    },
+    {
+      "id": "topic-5849d7ab90",
+      "title": "อาร์เซนอล พบ โคเวนทรี",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 50000+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#อาร์เซนอลพบโคเวนทรี"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "บอลคนละชั้น! อาร์เซน่อล อัดน้องใหม่กระเจิง 3-0ผงาดจ่าฝูงประเดิมพรีเมียร์ลีก",
+          "url": "https://www.siamsport.co.th/football-international/premierleague/108247/"
+        },
+        {
+          "title": "BIG SIX CHECK-UP เช็กความพร้อม ‘อาร์เซนอล’ ก่อนภารกิจป้องกันแชมป์พรีเมียร์ลีก",
+          "url": "https://thestandard.co/arsenal-premier-league-check-up/"
+        },
+        {
+          "title": "จับตาดูได้เลย! \"โอเว่น\" ชี้มี \"หนึ่งทีมหนีตกชั้น\" จะพลิกฟอร์มจบท็อป 3 ศึกพรีเมียร์ลีก",
+          "url": "https://www.sanook.com/sport/1669583/"
+        }
+      ],
+      "updatedAt": "2026-08-22T01:00:00+07:00"
     },
     {
       "id": "topic-9b410f899e",
@@ -906,13 +970,13 @@
       "updatedAt": "2026-08-15T13:39:16+07:00"
     },
     {
-      "id": "2026-a397a5e62c",
-      "title": "เปิดสถิติวอลเลย์บอลหญิงไทย-ออสเตรเลีย ก่อนดวลชิงแชมป์เอเชีย 2026",
+      "id": "3-0-2026-23d40390c2",
+      "title": "เปิดหัวแจ่ม! วอลเลย์บอลหญิงไทย ชนะ ออสเตรเลีย 3-0 ประเดิมศึกชิงแชมป์เอเชีย 2026",
       "sourceType": "news",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: วอลเลย์บอล / source: Thai PBS - เปิดสถิติวอลเลย์บอลหญิงไทย-ออสเตรเลีย ก่อนดวลชิงแชมป์เอเชีย 2026    Thai PBS",
+      "summary": "ข่าวจาก Google News keyword: วอลเลย์บอล / source: Sanook - เปิดหัวแจ่ม! วอลเลย์บอลหญิงไทย ชนะ ออสเตรเลีย 3-0 ประเดิมศึกชิงแชมป์เอเชีย 2026    Sanook",
       "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -920,16 +984,16 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#เปิดสถิติวอลเลย์บอลหญิงไ"
+        "#เปิดหัวแจ่ม!วอลเลย์บอลหญ"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
         {
-          "title": "Thai PBS",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9IdFlWdnU0U2dYdXRrVXBmMU81TDM4d3dlOVFNVmtGRXN0Yl9tYk5IZzRKMUhMQlVJRm1leXJvVWdwQ28yQllFbmx4RjBIV3lya0tuOHNXTTk?oc=5"
+          "title": "Sanook",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0xRDRjbjJJWW80Z19CaThTZ0pKcmRRWlplY0EtRFZVZnliWUdWOW1SaU1qVkZ1cWNsMEZmaGpMRy1ORGFsUVdYT01qRFc1Zw?oc=5"
         }
       ],
-      "updatedAt": "2026-08-21T10:33:57+07:00"
+      "updatedAt": "2026-08-21T14:54:00+07:00"
     },
     {
       "id": "81-50-3b55d3bc51",
@@ -958,8 +1022,8 @@
       "updatedAt": "2026-08-19T16:00:48+07:00"
     },
     {
-      "id": "topic-e359da1696",
-      "title": "เอฟซีโตเกียว",
+      "id": "topic-0d3d9a8711",
+      "title": "เอลนีโญ",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
@@ -972,7 +1036,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#เอฟซีโตเกียว"
+        "#เอลนีโญ"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -981,45 +1045,19 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "Israeli strikes reported in south Lebanon as Defense Minister Katz vows to ‘settle scores’",
-          "url": "https://www.timesofisrael.com/israeli-strikes-reported-in-south-lebanon-as-defense-minister-katz-vows-to-settle-scores/"
+          "title": "โลกเจอ \"เอลนีโญ\" พ่นพิษ เผชิญวิกฤตภัยธรรมชาติ",
+          "url": "https://www.thaipbs.or.th/news/content/509707"
         },
         {
-          "title": "Zohran Mamdani predicted to pursue Senate instead of finishing term as mayor",
-          "url": "https://www.news24.com.au/politics/us-politics/zohran-mamdani-predicted-to-pursue-senate-instead-of-finishing-term-as-mayor/video/8fcff0821d0546aba409136fa8a7161e"
+          "title": "อุตุฯ อังกฤษเตือน\"เอลนีโญ\" รุนแรงที่สุดในประวัติศาสตร์-ปี 2027 อาจร้อนที่สุดเป็นประวัติการณ์",
+          "url": "https://www.thairath.co.th/news/foreign/2954371"
         },
         {
-          "title": "After US criticism, Israel ties Lebanon withdrawal to Hezbollah disarmament",
-          "url": "https://www.reuters.com/world/middle-east/after-us-criticism-israel-ties-lebanon-withdrawal-hezbollah-disarmament-2026-08-13/"
+          "title": "ผลวิจัยชี้ กรุงเทพฯ จ่อรับมืออากาศแห้งจัดจาก ซูเปอร์เอลนีโญ",
+          "url": "https://www.ryt9.com/s/iq/12838557"
         }
       ],
-      "updatedAt": "2026-08-21T19:20:00+07:00"
-    },
-    {
-      "id": "2026-1c2b353b07",
-      "title": "โปรแกรมวอลเลย์บอลหญิงไทย ชิงแชมป์เอเชีย 2026",
-      "sourceType": "news",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: วอลเลย์บอล / source: thestandard.co - โปรแกรมวอลเลย์บอลหญิงไทย ชิงแชมป์เอเชีย 2026    thestandard.co",
-      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#โปรแกรมวอลเลย์บอลหญิงไทย"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "thestandard.co",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0wVHc3M2hGQV9WWUJQblZ5MFF6LVVudHFsRTJXLVRkdHNqTS1pTVJITWtVeTRGQ3J1MlZfWlFhc0RZZGhtMHlqdGQ2dXQ4eG9SMVI0SkhPVFBCaTEycEQycm1ZWVZLcGVEYW40MlJualdnT1pW?oc=5"
-        }
-      ],
-      "updatedAt": "2026-08-21T23:22:50+07:00"
+      "updatedAt": "2026-08-22T05:40:00+07:00"
     },
     {
       "id": "vs-2026-f5f06ea23a",
@@ -1046,32 +1084,6 @@
         }
       ],
       "updatedAt": "2026-08-21T12:08:07+07:00"
-    },
-    {
-      "id": "70-2019ee96e2",
-      "title": "ไทย–นิวซีแลนด์ ลงนามปฏิญญา \"หุ้นส่วนทางยุทธศาสตร์\" ฉลอง 70 ปีความสัมพันธ์",
-      "sourceType": "news",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: ความสัมพันธ์ / source: Thai PBS - ไทย–นิวซีแลนด์ ลงนามปฏิญญา \"หุ้นส่วนทางยุทธศาสตร์\" ฉลอง 70 ปีความสัมพันธ์    Thai PBS",
-      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#ไทย–นิวซีแลนด์ลงนามปฏิญญ"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Thai PBS",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1veGpXOG5DSnV0ZDRSTGFSQXNJaHFFb3hDRktRU2RrdjVxdEIwOTdoeXlVMHBNOEV5VW9SMUJaaXBhdzY3SGJYUlhrV2xVWmdna2tGNkJsNjU?oc=5"
-        }
-      ],
-      "updatedAt": "2026-08-21T10:03:07+07:00"
     },
     {
       "id": "topic-53aad7c364",
@@ -1235,8 +1247,8 @@
           "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE90ejJiZHpwdFlMT0l4TmVFdXl6ekxBcTdfamtpN2UzbVpzU2hJU1dSRFhwUFZTbGZjcXEwTEdLWHFSVTBqRmlfcnk0Q3hZcjg?oc=5"
         },
         {
-          "title": "kapook.com",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE14Wm1aMWM5Y3RXX19KeWJ2c3NzdFgyRG1rVW1OQlZPOVdOeEtzUFB5OGFkQmVqc0ZWdGxsV2ZwNHdMS1JYWTNoX3NQUFZSSmprSVE?oc=5"
+          "title": "pptvhd36",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTjlyRnlKX1dNeXdob2VBQ3B5ZklQMURHc0xaSHM0MjdCaVlGdDJSS0c5MlgyRGJZc1ljN3phZGJlMW9JOVFPcTdoeEVNdDNjVnNOeTRoNmRWMVdlanFuU2J1dzBpYm9zc1phNU5zUGFNeHAyaHlmTUQxUXJDRk1rek9kLXMwd2tnZnJNWEgtaHV3V01ZRjc5dUw2M1gtVTZNWlpJS3BqaElLUkI1SlE?oc=5"
         },
         {
           "title": "facebook.com",
