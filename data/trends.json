@@ -1,7 +1,9 @@
 {
-  "generatedAt": "2026-08-22T17:25:57.205897+07:00",
+  "generatedAt": "2026-08-22T20:33:29.831115+07:00",
   "dateRange": "2026-08-15 to 2026-08-22",
-  "sourceErrors": [],
+  "sourceErrors": [
+    "gdelt: HTTP Error 429: Too Many Requests"
+  ],
   "topics": [
     {
       "id": "9-2569-4a2e8720ed",
@@ -368,6 +370,32 @@
       "updatedAt": "2026-08-19T12:09:10+07:00"
     },
     {
+      "id": "ceo-1efe503e3a",
+      "title": "อดตกถังข้าวสาร จีนสั่งเบรกละครสั้น CEO ไม่ทำงาน เปย์สาวไปวัน ๆ จากนี้ให้ทำแนวช่วยกันทำมาหากิน พัฒนาตัวเองดีกว่า",
+      "sourceType": "news",
+      "category": "food",
+      "contentPotential": "high",
+      "riskLevel": "low",
+      "summary": "ข่าวจาก Google News keyword: ซีรีส์ / source: Marketeer Online - อดตกถังข้าวสาร จีนสั่งเบรกละครสั้น CEO ไม่ทำงาน เปย์สาวไปวัน ๆ จากนี้ให้ทำแนวช่วยกันทำมาหากิน พัฒนาตัวเองดีกว่า    Marketeer Online",
+      "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
+      "creatorAngle": "ให้ Creator เล่าประสบการณ์ร้าน/เมนูที่อยากลอง แล้วถามคนอื่นว่าคิดเหมือนกันไหม",
+      "promptIdea": "เห็นคนพูดถึงเมนูนี้เยอะมาก มีใครลองแล้วบ้าง?",
+      "hashtags": [
+        "#FoodTrend",
+        "#CafeTH",
+        "#รีวิวของกิน",
+        "#อดตกถังข้าวสารจีนสั่งเบร"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Marketeer Online",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAwNDVDQ1NPbFEzeXFPOXdKSjhuZEJZXzBZeTd5Wkpra2g0U1JWS3ZJcFE4LUMwSGgxQkJnVW04OEhLZ05rb0tReGtpenFmMTVJMW5aSQ?oc=5"
+        }
+      ],
+      "updatedAt": "2026-08-20T14:00:00+07:00"
+    },
+    {
       "id": "ethnic-aisle-ebfb42b88b",
       "title": "อาหารเอเชียก้าวพ้น “Ethnic Aisle” สู่ชั้นวางตลาดกระแสหลักในสหรัฐฯ",
       "sourceType": "news",
@@ -472,34 +500,8 @@
       "updatedAt": "2026-08-20T13:17:36+07:00"
     },
     {
-      "id": "u17-7-fivb-volleyball-girls-u17-world-ch-9e4dacdf7b",
-      "title": "U17 🇹🇭ไทย ชนะ🇭🇷โครเอเชียคว้าอันดับ 7 ศึก FIVB Volleyball Girls’ U17 World Championship 2026 🏐ทีม U17 ไทย 🇹🇭 ลงสนามรอบชิงอันดับ 7 ศึกวอลเลย์บอลหญิงชิงแชมป์โลก 2026 FIVB...",
-      "sourceType": "news",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: วอลเลย์บอล / source: facebook.com - U17 🇹🇭ไทย ชนะ🇭🇷โครเอเชียคว้าอันดับ 7 ศึก FIVB Volleyball Girls’ U17 World Championship 2026 🏐ทีม U17 ไทย 🇹🇭 ลงสนามรอบชิงอันดับ 7 ศึกวอลเลย์บอลหญิงชิงแชมป์โลก 2026 FIVB Volleyball G",
-      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#U17🇹🇭ไทยชนะ🇭🇷โครเอเชียคว"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "facebook.com",
-          "url": "https://news.google.com/rss/articles/CBMinARBVV95cUxONlFyeHFMclM5V05aT0dpWDhuYUhKck1qWnpfb1FjcGZuT05jX0FPN3JFTlRpQnYtNmRKaHdGbHZPdDQ2cGdqTzR0OEljTHB3RGZKWHY2SFpjbVpjZ0lHOUtTOXQzckM2VXlKNFNYc1ZzQVA1dDFsWlU4LS1DNFpDRkRxdUNPTWNxWDBLTnhPV3ZMRUtKSnQ4TnY5ZEEyVjhlYWRRWUR3ZGl5S3ZMelZ6X3IwTE1FaUk5LXJnbE9YQ0FYQ2dGN1NlQUdUME4zLVBaTDhscmQtZFdDcFRhRzk5N05xWnRsNVQxenM5TERqTUhjTWMtc2d2VXRzS3M3dndiZlJMUUhaTWtWZDhOeWUyWGJ6ZmNtSlp0MXlHNDJlV1V2V3lVRlBVZGYxeEhCUXdHc0lObWpXckpOYzhkLU9ISHhvMWJoSzF2WDNuVjdBNTF5Z3Rpd1ZBSEg5MkhYbzd5TVRIRzZDdjZRdVpzcGI0M2NzeEk0ZU5Sb3lKeGthZk9IMlZSVUpMcnN2WW1TZlBTSkh4T0NDbTZfMF9yUEdIRGxDWFV0b3c4alAtRDg4SWZfN2FldnFoMXBoRnlZbWlYLTgzSUE4WHVISS1TY2UyTVJKLUFzU294S21CZ1BpSlZRVF9fQXctbVE0cE8tQWNxWkpuRU0zdGZoQWV6Y0FqZGxDZU50eks0WENUTk9HckI5WkFXdmVaQ2VrWUQ?oc=5"
-        }
-      ],
-      "updatedAt": "2026-08-17T10:19:18+07:00"
-    },
-    {
-      "id": "huawei-pura-x-9822789703",
-      "title": "huawei pura x",
+      "id": "gta-vi-92c9642bcb",
+      "title": "gta vi",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
@@ -512,7 +514,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#huaweipurax"
+        "#gtavi"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -521,61 +523,23 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "หัวเว่ยHuawei Pura X View เปิดตัวแล้ว – สมาร์ทโฟนหน้าจอกว้างรุ่นแรก",
-          "url": "https://consumer.huawei.com/th/community/details/topicId-115910/"
+          "title": "Take-Two Subpoenas Microsoft And Discord Over GTA 6 Leaks",
+          "url": "https://kotaku.com/take-two-subpoenas-microsoft-and-discord-records-related-to-spread-of-gta-6-leaks-2000726633"
         },
         {
-          "title": "รู้จัก Huawei Pura X มือถือจอกว้าง 16:10 ที่อาจกลายเป็นต้นแบบมือถือยุคใหม่",
-          "url": "https://www.sanook.com/hitech/1627590/"
+          "title": "Grand Theft Auto 6 leaker says they won't stop until Rockstar and Take-Two apologize for 'anti-consumerism' and make a 'concrete commitment to do better'",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-leaker-says-they-wont-stop-until-rockstar-and-take-two-apologize-for-anti-consumerism-and-make-a-concrete-commitment-to-do-better/"
         },
         {
-          "title": "ข่าวมือถือ แท็ก HUAWEI Pura X View",
-          "url": "https://www.thaimobilecenter.com/tag/tag.asp?tag=HUAWEI-Pura-X-View"
+          "title": "More GTA 6 leaks reveal new gameplay and the entire map",
+          "url": "https://blog.adafruit.com/2026/08/21/more-gta-6-leaks-reveal-new-gameplay-and-the-entire-map/"
         }
       ],
-      "updatedAt": "2026-08-22T14:50:00+07:00"
+      "updatedAt": "2026-08-22T20:10:00+07:00"
     },
     {
-      "id": "insidious-out-of-the-further-721bca3e60",
-      "title": "insidious out of the further",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#insidiousoutofthefurther"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "‘Insidious: Out of the Further’ Review: Bringing Back the Dead",
-          "url": "https://www.nytimes.com/2026/08/20/movies/insidious-out-of-the-further-review.html"
-        },
-        {
-          "title": "Insidious: Out of the Further | Audience Reviews",
-          "url": "https://www.rottentomatoes.com/m/insidious_out_of_the_further/reviews"
-        },
-        {
-          "title": "‘Insidious: Out of the Further’ Writer-Director Jacob Chase Knows the Audience Is Asking, ‘Why Are We Still Making These Movies?’ So He Was Determined to Make a ‘Fresh Start’",
-          "url": "https://variety.com/2026/film/features/insidious-out-of-the-further-jump-scares-1236838758/"
-        }
-      ],
-      "updatedAt": "2026-08-22T14:10:00+07:00"
-    },
-    {
-      "id": "the-international-2026-8ff691806c",
-      "title": "the international 2026",
+      "id": "now-c9bc849a96",
+      "title": "now",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
@@ -588,7 +552,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#theinternational2026"
+        "#now"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -597,61 +561,23 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "Team Spirit knock out Team Liquid to advance to lower bracket semifinals at The International 2026",
-          "url": "https://www.gosugamers.net/dota2/news/79022-team-spirit-knock-out-team-liquid-to-advance-to-lower-bracket-semifinals-at-the-international-2026"
+          "title": "Waymo Fully Launches Robotaxi Service in Houston",
+          "url": "https://cleantechnica.com/2026/08/20/waymo-fully-launches-robotaxi-service-in-houston/"
         },
         {
-          "title": "Yandex, VISION advance to upper-bracket final at The International",
-          "url": "https://deadspin.com/yandex-vision-advance-to-upper-bracket-final-at-the-international/"
+          "title": "Waymo’s Ojai cars now able to pick up all riders",
+          "url": "https://www.planetizen.com/news/2026/08/138265-waymos-ojai-cars-now-able-pick-all-riders"
         },
         {
-          "title": "VISION, Spirit still unbeaten in The International group stage",
-          "url": "https://www.yardbarker.com/entertainment/articles/vision_spirit_still_unbeaten_in_the_international_group_stage/s1_17061_44175039"
+          "title": "Waymo is bringing Gemini into its custom Ojai vehicles.",
+          "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-waymo/"
         }
       ],
-      "updatedAt": "2026-08-22T15:30:00+07:00"
+      "updatedAt": "2026-08-22T20:10:00+07:00"
     },
     {
-      "id": "vct-pacific-stage-2-b519eff858",
-      "title": "vct pacific stage 2",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#vctpacificstage2"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "「VCT 2026 Pacific Stage 2 Play-In」Day7 – KRXがSharper Esports、NS RedForceがT1に勝利 ─ KRX / NSがプレイオフ進出決定",
-          "url": "https://valorantnews.jp/archives/141571"
-        },
-        {
-          "title": "Caedye「NorthernLightsコーチが『俺は勝ちたいよ』と。それでみんな切り替えられた」─ DFMがQT DIG∞との日本対決に勝利、次戦はZETA vs Xiptoの勝者と対戦",
-          "url": "https://e-sportsgg.com/News/WEDPy2Zb"
-        },
-        {
-          "title": "日本対決は「DetonatioN FocusMe」が「QT DIG∞」に2-1で勝利『VCT Pacific 2026 STAGE 2』プレイイン",
-          "url": "https://www.negitaku.org/news/n-27818"
-        }
-      ],
-      "updatedAt": "2026-08-22T17:10:00+07:00"
-    },
-    {
-      "id": "topic-3765827b35",
-      "title": "กรมอุตุนิยมวิทยา",
+      "id": "true-5ffe533b83",
+      "title": "true",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
@@ -664,7 +590,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#กรมอุตุนิยมวิทยา"
+        "#true"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -673,19 +599,19 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "สถานการณ์ลุ่มน้ำน่าน เริ่มคลี่คลาย เตือนเตรียมพร้อมรับฝนอีกครั้ง 23 ส.ค.นี้ | สวพ.FM91",
-          "url": "https://today.line.me/th/v3/article/oqRQNRN?referral=NewsNorth"
+          "title": "รีวิว True Haunt EP.6 “สัมภเวสีไม่ได้รับเชิญ”",
+          "url": "https://entertainment.trueid.net/detail/ydb0JA2xeBnG"
         },
         {
-          "title": "อุตุฯ ออกประกาศ ฉบับที่ 12 เตือนไทยตอนบนรับมือฝนตกหนักถึงหนักมาก ชี้ ‘หย่อมความกดอากาศต่ำไหหลำ’ ดึงมรสุมทวีความแรง",
-          "url": "https://thestandard.co/thailand-heavy-rain-warning-4/"
+          "title": "EP.06 เรื่องเล่า คืนหลอน | สัมภเวสี..ผีที่ไม่ได้รับเชิญ",
+          "url": "https://movie.trueid.net/series/Loa9ngbrV52o/raONRJqmgVbj/wZBWRjD3ND0J/WYL71o8alxWQ"
         },
         {
-          "title": "อัปเดตสถานการณ์น้ำท่วมภาคเหนือ หลายจังหวัดอ่วมหนัก-ปักธงแดง",
-          "url": "https://www.amarintv.com/video/news/%E0%B8%97%E0%B8%B8%E0%B8%9A%E0%B9%82%E0%B8%95%E0%B9%8A%E0%B8%B0%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A7/551840"
+          "title": "True Haunt เรื่องเล่าคืนหลอน EP.6 : ถ้าทำแบบนี้ อาจเจอสัมภเวสีผีไม่ได้รับเชิญ",
+          "url": "https://entertainment.trueid.net/detail/w0pG3znP1KZb"
         }
       ],
-      "updatedAt": "2026-08-22T16:20:00+07:00"
+      "updatedAt": "2026-08-22T19:50:00+07:00"
     },
     {
       "id": "50-9b7e5ebe29",
@@ -740,44 +666,6 @@
       "updatedAt": "2026-08-19T18:04:30+07:00"
     },
     {
-      "id": "topic-5b46b5d3e1",
-      "title": "การบินไทย",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 1000+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#การบินไทย"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "“นายกฯ” สรุปภารกิจเยือน “ออสเตรเลีย-นิวซีแลนด์” ยกระดับความร่วมมือด้านเศรษฐกิจ-ความมั่นคง",
-          "url": "https://www.thaipbs.or.th/news/content/509739"
-        },
-        {
-          "title": "เอกนิติเผยจ่อฟื้นการบินไทยบินตรง กรุงเทพฯ-โอ๊คแลนด์ เร็วขึ้นภายใน มี.ค.70 หวังกระตุ้นการค้า-ท่องเที่ยวสองชาติ",
-          "url": "https://thestandard.co/thai-airways-bangkok-auckland-direct-flight/"
-        },
-        {
-          "title": "“เอกนิติ” นำ 9 บิ๊กธุรกิจไทยบุกนิวซีแลนด์ ลุยเจรจาธุรกิจต่อยอดลงทุนอุตสาหกรรมใหม่",
-          "url": "https://www.thairath.co.th/money/economics/thai_economics/2954429"
-        }
-      ],
-      "updatedAt": "2026-08-22T12:50:00+07:00"
-    },
-    {
       "id": "2026-c06457c590",
       "title": "ช่องทางชมสด วอลเลย์บอลหญิง ชิงแชมป์เอเชีย 2026 ไทย พบ ออสเตรเลีย บ่ายโมงวันนี้ ฟรีทีวีก็ดูได้",
       "sourceType": "news",
@@ -804,8 +692,72 @@
       "updatedAt": "2026-08-21T11:02:00+07:00"
     },
     {
-      "id": "topic-ea9f190b50",
-      "title": "นักสนุกเกอร์",
+      "id": "topic-a2cffea7c2",
+      "title": "ทรูไอดี",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#ทรูไอดี"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        }
+      ],
+      "updatedAt": "2026-08-22T19:50:00+07:00"
+    },
+    {
+      "id": "topic-4a5b3a11df",
+      "title": "พระบรมราชโองการ",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#พระบรมราชโองการ"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "โปรดเกล้าฯ พล.อ.ชูฉัตร กำภู ณ อยุธยา นายทหารราชองครักษ์พิเศษ พ้นจากการปฏิบัติหน้าที่",
+          "url": "https://www.matichon.co.th/royal/news_5857707"
+        },
+        {
+          "title": "ราชกิจจาฯ ประกาศให้นายทหาร พ้นหน้าที่ราชองครักษ์ประจำพระองค์ | มุมข่าว",
+          "url": "https://today.line.me/th/v3/article/NvzLZYZ"
+        },
+        {
+          "title": "มีผลแล้ว! ราชกิจจาฯ ประกาศให้ พลเอก ชูฉัตร กำภู ณ อยุธยา พ้นจากราชองครักษ์",
+          "url": "https://www.siamnews.com/news/royal/51682"
+        }
+      ],
+      "updatedAt": "2026-08-22T20:10:00+07:00"
+    },
+    {
+      "id": "topic-4fae0cdc90",
+      "title": "ฟอเรสต์ พบ ลีดส์",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
@@ -818,7 +770,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#นักสนุกเกอร์"
+        "#ฟอเรสต์พบลีดส์"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -827,28 +779,28 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "สอยคิวไทยเศร้า 'เต็ก หัวหิน' เสียชีวิตจากอุบัติเหตุรถบรรทุกเฉี่ยว ตร.เร่งตามคู่กรณี",
-          "url": "https://www.siamsport.co.th/other-sports/snooker/108271/"
+          "title": "ดูบอลสดฟรี วิเคราะห์บอลพรีเมียร์ลีก ฟอเรสต์ พบ ลีดส์ 22 ส.ค.69",
+          "url": "https://www.pptvhd36.com/sport/news/282005"
         },
         {
-          "title": "สลด นักสนุกเกอร์ชื่อดัง ขี่จักรยานยนต์ถูกรถบรรทุกเฉี่ยวชน เสียชีวิต | Khaosod",
-          "url": "https://today.line.me/th/v3/article/3NPWEYo"
+          "title": "การทำนายผลการแข่งขันระหว่างน็อตติงแฮม ฟอเรสต์ กับ ลีดส์: รายชื่อผู้เล่นที่คาดว่าจะลงสนาม",
+          "url": "https://www.vietnam.vn/th/nhan-dinh-nottingham-forest-vs-leeds-doi-hinh-du-kien"
         },
         {
-          "title": "วงการสอยคิวไทยเศร้า “เต็ก หัวหิน\" ดับสลดจากอุบัติเหตุ ถูกรถบรรทุกเฉี่ยวชนเสียชีวิต",
-          "url": "https://mgronline.com/sport/detail/9690000082802"
+          "title": "ดูบอลสด ถ่ายทอดสด ฟอเรสต์ พบ ลีดส์ พรีเมียร์ลีก วันนี้ 22 ส.ค.69",
+          "url": "https://www.posttoday.com/lifestyle/747389"
         }
       ],
-      "updatedAt": "2026-08-22T15:30:00+07:00"
+      "updatedAt": "2026-08-22T20:00:00+07:00"
     },
     {
-      "id": "topic-4db64cf96a",
-      "title": "ผู้จัดการออนไลน์",
+      "id": "topic-7cf479a349",
+      "title": "มาร์คัส แรชฟอร์ด",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 500+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 100+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -856,7 +808,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#ผู้จัดการออนไลน์"
+        "#มาร์คัสแรชฟอร์ด"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -865,95 +817,45 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "ระทึก! ต่างชาติใช้คัตเตอร์ปาดคอตำรวจบาดเจ็บขณะเข้าระงับเหตุลักทรัพย์ ก่อนถูกรวบตัวไว้ได้",
-          "url": "https://mgronline.com/crime/detail/9690000082792"
+          "title": "ขอเล่นบอลสงบ! แรชฟอร์ด สวนกลับ เนวิลล์ ออกสื่อ ขอบคุณ คาร์ราเกอร์ ช่วยเบรคดราม่า",
+          "url": "https://www.siamsport.co.th/football-international/premierleague/108175/"
         },
         {
-          "title": "รวบชายชาวอเมริกันลักทรัพย์ร้านสะดวกซื้อ ก่อนใช้มีดทำร้าย ตร.สายตรวจเจ็บ",
-          "url": "https://www.thaipbs.or.th/news/content/509747"
+          "title": "มาร์คัส แรชฟอร์ด ลั่นอยากเล่นฟุตบอลโดยไม่ถูกพูดถึงผ่านสื่อตลอดเวลา",
+          "url": "https://today.line.me/th/v3/article/Qwl9rzg"
         },
         {
-          "title": "ระทึกเสือป่า! หนุ่มมะกันก่อเหตุลักทรัพย์ เจอตำรวจขี่ จยย.ผ่านเข้าระงับเหตุ ก่อนใช้คัตเตอร์กรีดคอเจ็บสาหัส",
-          "url": "https://www.thaich8.com/news_detail/144735/%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%B6%E0%B8%81%E0%B9%80%E0%B8%AA%E0%B8%B7%E0%B8%AD%E0%B8%9B%E0%B9%88%E0%B8%B2-%E0%B8%AB%E0%B8%99%E0%B8%B8%E0%B9%88%E0%B8%A1%E0%B8%A1%E0%B8%B0%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%81%E0%B9%88%E0%B8%AD%E0%B9%80%E0%B8%AB%E0%B8%95%E0%B8%B8%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%97%E0%B8%A3%E0%B8%B1%E0%B8%9E%E0%B8%A2%E0%B9%8C-%E0%B9%80%E0%B8%88%E0%B8%AD%E0%B8%95%E0%B8%B3%E0%B8%A3%E0%B8%A7%E0%B8%88%E0%B8%82%E0%B8%B5%E0%B9%88-%E0%B8%88%E0%B8%A2%E0%B8%A2-%E0%B8%9C%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%A3%E0%B8%B0%E0%B8%87%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%AB%E0%B8%95%E0%B8%B8-%E0%B8%81%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%84%E0%B8%B1%E0%B8%95%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%81%E0%B8%A3%E0%B8%B5%E0%B8%94%E0%B8%84%E0%B8%AD%E0%B9%80%E0%B8%88%E0%B9%87%E0%B8%9A%E0%B8%AA%E0%B8%B2%E0%B8%AB%E0%B8%B1%E0%B8%AA"
+          "title": "“รูนีย์” พูดตรงๆ ถึง “แรชฟอร์ด” หลังต้องกลับมาอยู่ “แมนยู” เปรียบเทียบตัวเองเมื่อปี 2010",
+          "url": "https://www.thairath.co.th/sport/eurofootball/premierleague/2953684"
         }
       ],
-      "updatedAt": "2026-08-22T14:30:00+07:00"
+      "updatedAt": "2026-08-22T19:50:00+07:00"
     },
     {
-      "id": "topic-e7073d38e0",
-      "title": "พยาบาล",
-      "sourceType": "trends",
+      "id": "3-0-2026-ca869687d6",
+      "title": "วอลเลย์บอลหญิงไทย ชนะ ออสเตรเลีย 3-0 เซต ชิงแชมป์เอเชีย 2026",
+      "sourceType": "news",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 1000+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "summary": "ข่าวจาก Google News keyword: วอลเลย์บอล / source: Thai PBS - วอลเลย์บอลหญิงไทย ชนะ ออสเตรเลีย 3-0 เซต ชิงแชมป์เอเชีย 2026    Thai PBS",
+      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
       "hashtags": [
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#พยาบาล"
+        "#วอลเลย์บอลหญิงไทยชนะออสเ"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
         {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "วิทยาลัยพยาบาลศรีมหาสารคาม ปิดหลักสูตร NP รุ่น 30 คว้า 5 รางวัลนวัตกรรมระดับชาติ",
-          "url": "https://www.hfocus.org/content/2026/08/39217"
-        },
-        {
-          "title": "เนื่องในโอกาสครบรอบ 80 ปีแห่งการก่อตั้งสมาคมการแพทย์แผนโบราณเวียดนาม (22 สิงหาคม 2489 - 22 สิงหาคม 2569)",
-          "url": "https://www.vietnam.vn/th/ky-niem-80-nam-ngay-thanh-lap-hoi-dong-y-viet-nam-22-8-1946-22-8-2026"
-        },
-        {
-          "title": "เมืองไฮฟองส่งเสริมคุณค่าของแพทย์แผนโบราณในยุคใหม่",
-          "url": "https://www.vietnam.vn/th/hai-phong-phat-huy-gia-tri-dong-y-trong-giai-doan-moi"
+          "title": "Thai PBS",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1td19qc1NOdXlwR0ZRZFBDTEZXdlVONGVfRnkzU25RSldLczFaSExpNndKeHpNcVR4bUxBWjU1SnRyV1g3Ty12RG1lTEJGcjhLMmxuWG85VVo?oc=5"
         }
       ],
-      "updatedAt": "2026-08-22T12:50:00+07:00"
-    },
-    {
-      "id": "topic-619e4e8264",
-      "title": "ราคาทองรูปพรรณ",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 500+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#ราคาทองรูปพรรณ"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "เปิดตลาดราคาทอง เช้าวันนี้ ปรับเพิ่ม 250 บาท | สวพ.FM91",
-          "url": "https://today.line.me/th/v3/article/kER3ao0"
-        },
-        {
-          "title": "สรุปราคาทองคำ 21 ส.ค.2569 ปิดตลาด +1,150 บาท ผันผวน 46 ครั้ง",
-          "url": "https://www.thaipbs.or.th/news/content/509727"
-        },
-        {
-          "title": "อัปเดตราคาทองวันนี้ 21 ส.ค. 69 ผันผวน 50 ครั้ง ปิดตลาดปรับขึ้น 1,150 บาท",
-          "url": "https://www.thairath.co.th/news/society/2954381"
-        }
-      ],
-      "updatedAt": "2026-08-22T14:50:00+07:00"
+      "updatedAt": "2026-08-21T13:07:02+07:00"
     },
     {
       "id": "topic-288b901431",
@@ -982,30 +884,80 @@
       "updatedAt": "2026-08-18T12:09:58+07:00"
     },
     {
-      "id": "2026-a397a5e62c",
-      "title": "เปิดสถิติวอลเลย์บอลหญิงไทย-ออสเตรเลีย ก่อนดวลชิงแชมป์เอเชีย 2026",
-      "sourceType": "news",
+      "id": "topic-a1dfea4395",
+      "title": "อารยา เอ ฮาร์เก็ต",
+      "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: วอลเลย์บอล / source: Thai PBS - เปิดสถิติวอลเลย์บอลหญิงไทย-ออสเตรเลีย ก่อนดวลชิงแชมป์เอเชีย 2026    Thai PBS",
-      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 100+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
       "hashtags": [
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#เปิดสถิติวอลเลย์บอลหญิงไ"
+        "#อารยาเอฮาร์เก็ต"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
         {
-          "title": "Thai PBS",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9IdFlWdnU0U2dYdXRrVXBmMU81TDM4d3dlOVFNVmtGRXN0Yl9tYk5IZzRKMUhMQlVJRm1leXJvVWdwQ28yQllFbmx4RjBIV3lya0tuOHNXTTk?oc=5"
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "“ชมพู่” เข้าใจ “น้องเกล” ช็อตฟีลกลางไลฟ์ เป็นธรรมชาติของเด็ก ปลื้ม “น้องพายุ” คว้าแชมป์โกคาร์ท",
+          "url": "https://mgronline.com/entertainment/detail/9690000082657"
+        },
+        {
+          "title": "\"ชมพู่ อารยา\" เกี่ยวก้อย \"ยายหนิง\" และลูกๆ ออกงาน โฟกัส \"พายุ\" หนุ่มน้อยเท่มาก",
+          "url": "https://www.sanook.com/news/9904578/"
+        },
+        {
+          "title": "“ชมพู่” เผยประสบการณ์ติดพายุหิมะออสเตรเลีย ปลื้ม “น้องพายุ” คว้าที่ 1 แข่งรถ | daradaily",
+          "url": "https://today.line.me/th/v3/article/mWRkrvn"
         }
       ],
-      "updatedAt": "2026-08-21T10:33:57+07:00"
+      "updatedAt": "2026-08-22T20:10:00+07:00"
+    },
+    {
+      "id": "topic-b958dccef0",
+      "title": "อิปสวิช พบ ซันเดอร์แลนด์",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 500+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#อิปสวิชพบซันเดอร์แลนด์"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "การคาดการณ์ผลการแข่งขันระหว่างอิปสวิชกับซันเดอร์แลนด์: รายชื่อผู้เล่นที่คาดว่าจะลงสนาม",
+          "url": "https://www.vietnam.vn/th/nhan-dinh-ipswich-vs-sunderland-doi-hinh-du-kien"
+        },
+        {
+          "title": "LIVE : ดูบอลสด อิปสวิช พบ ซันเดอร์แลนด์ ฟุตบอลพรีเมียร์ลีก เวลา 21.00 น.",
+          "url": "https://www.sportingnews.com/th/football/news/live-watch-ipswich-town-vs-sunderland-premier-league-2026-27/a47c2b8d0779336c8411d461"
+        },
+        {
+          "title": "พรีวิวแมตช์: อิปสวิช ทาวน์ พบ ซันเดอร์แลนด์ เวลา 21:00 น. วันที่ 22 สิงหาคม: รังแกทีมหน้าใหม่",
+          "url": "https://www.vietnam.vn/th/nhan-dinh-tran-dau-ipswich-town-vs-sunderland-21h00-ngay-22-8-bat-nat-tan-binh"
+        }
+      ],
+      "updatedAt": "2026-08-22T20:10:00+07:00"
     },
     {
       "id": "3-0-2026-23d40390c2",
@@ -1060,6 +1012,70 @@
       "updatedAt": "2026-08-19T16:00:48+07:00"
     },
     {
+      "id": "topic-7d6b9fbc96",
+      "title": "เอฟเวอร์ตัน พบ คริสตัลพาเลซ",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 1000+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#เอฟเวอร์ตันพบคริสตัลพาเล"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "ดูบอลสด เอฟเวอร์ตัน พบ คริสตัล พาเลซ พรีเมียร์ลีก วันนี้ 22 ส.ค.69",
+          "url": "https://www.posttoday.com/lifestyle/747390"
+        },
+        {
+          "title": "การคาดการณ์ผลการแข่งขันเอฟเวอร์ตัน vs คริสตัล พาเลซ: รายชื่อผู้เล่นตัวจริงที่คาดว่าจะลงสนาม",
+          "url": "https://www.vietnam.vn/th/nhan-dinh-everton-vs-crystal-palace-doi-hinh-du-kien"
+        },
+        {
+          "title": "LIVE : ดูบอลสด เอฟเวอร์ตัน พบ คริสตัล พาเลซ ฟุตบอลพรีเมียร์ลีก เวลา 21.00 น.",
+          "url": "https://www.sportingnews.com/th/football/news/live-watch-everton-vs-crystal-palace-premier-league-2026-27/5e1d1d3ded02e56903b7f00b"
+        }
+      ],
+      "updatedAt": "2026-08-22T20:10:00+07:00"
+    },
+    {
+      "id": "2026-1c2b353b07",
+      "title": "โปรแกรมวอลเลย์บอลหญิงไทย ชิงแชมป์เอเชีย 2026",
+      "sourceType": "news",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "ข่าวจาก Google News keyword: วอลเลย์บอล / source: thestandard.co - โปรแกรมวอลเลย์บอลหญิงไทย ชิงแชมป์เอเชีย 2026    thestandard.co",
+      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#โปรแกรมวอลเลย์บอลหญิงไทย"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "thestandard.co",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0wVHc3M2hGQV9WWUJQblZ5MFF6LVVudHFsRTJXLVRkdHNqTS1pTVJITWtVeTRGQ3J1MlZfWlFhc0RZZGhtMHlqdGQ2dXQ4eG9SMVI0SkhPVFBCaTEycEQycm1ZWVZLcGVEYW40MlJualdnT1pW?oc=5"
+        }
+      ],
+      "updatedAt": "2026-08-22T19:56:56+07:00"
+    },
+    {
       "id": "vs-2026-f5f06ea23a",
       "title": "ไทย VS ออสเตรเลีย เปิดศึกวอลเลย์บอลหญิงชิงแชมป์เอเชีย 2026",
       "sourceType": "news",
@@ -1112,30 +1128,30 @@
       "updatedAt": "2026-08-21T12:33:10+07:00"
     },
     {
-      "id": "topic-4611ebac3a",
-      "title": "อะไรอยู่เบื้องหลังพฤติกรรม \"จิ้น\" ดาราซีรีส์วายของแฟนคลับจีน หลังมีเหตุดราม่า",
+      "id": "tvpoolonline-com-90b5851d42",
+      "title": "ดราม่าอีก ขนมศศิกานต์ ฟังคนอื่นมาเล่า ไลฟ์แฉ น้องน้ำ แฟนใหม่ครูเต้ย ปมเรื่องลูกอ้วกบนรถ แล้วแสดงอาการไม่พอใจ | tvpoolonline.com",
       "sourceType": "news",
-      "category": "entertainment",
-      "contentPotential": "high",
+      "category": "social_topic",
+      "contentPotential": "medium",
       "riskLevel": "medium",
-      "summary": "ข่าวจาก Google News keyword: ซีรีส์ / source: BBC - อะไรอยู่เบื้องหลังพฤติกรรม \"จิ้น\" ดาราซีรีส์วายของแฟนคลับจีน หลังมีเหตุดราม่า    BBC",
+      "summary": "ข่าวจาก Google News keyword: ดราม่า / source: LINE TODAY - ดราม่าอีก ขนมศศิกานต์ ฟังคนอื่นมาเล่า ไลฟ์แฉ น้องน้ำ แฟนใหม่ครูเต้ย ปมเรื่องลูกอ้วกบนรถ แล้วแสดงอาการไม่พอใจ | tvpoolonline.com    LINE TODAY",
       "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
-      "creatorAngle": "เล่า reaction ส่วนตัวต่อกระแส แล้วเปิดคำถามให้คนคุยต่อ",
-      "promptIdea": "กระแสนี้ทุกคนอยู่ทีมไหน?",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
       "hashtags": [
-        "#EntertainmentTH",
-        "#คุยเรื่องบันเทิง",
-        "#กระแสวันนี้",
-        "#อะไรอยู่เบื้องหลังพฤติกร"
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#ดราม่าอีกขนมศศิกานต์ฟังค"
       ],
       "riskNote": "Medium risk ควรเลี่ยงการพาดพิงบุคคลจริงและใช้คำถามเชิงสร้างสรรค์",
       "sources": [
         {
-          "title": "BBC",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBNOE5hU2VTZUZjaENBUm5SUGVUVUVnM0kwX0Nqakt4cGEyZjhvQ2c2eHhOOVhuMElSTHhIeS1Fei1taXBYVklnUGJFSFJCTVk3Vk10LWI4UUxsQdIBX0FVX3lxTFBfSmdtY0xkMTNRa1V1Q0tJM0lhSzRjbFZaWEtMdmFWWFo4aHZmdjJ6Y2xlVFVuckpUOGhlS3JwOTJLQVU4RmhWRzdTcWFiZTJkUGlwSlRqdm5pS2k5NlZv?oc=5"
+          "title": "LINE TODAY",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5LX28wb1JfN2JDM1FsbEdlSW9TRFNZSGtrdnBaZ2pRUjR4YWtOMk9aaVI3a2xRY2JkaXZiVG81Zmp4OFU4b1pBUTdQcDExa3F6S3c2T2xB?oc=5"
         }
       ],
-      "updatedAt": "2026-08-16T11:10:41+07:00"
+      "updatedAt": "2026-08-21T14:14:30+07:00"
     },
     {
       "id": "thai-help-thai-plus",
@@ -1178,32 +1194,6 @@
         }
       ],
       "updatedAt": "2026-08-22T00:01:27+07:00"
-    },
-    {
-      "id": "topic-0025f98dee",
-      "title": "‘รพ.พล’ ชี้แจง! ยันคนในคลิปดราม่าไม่ใช่พยาบาลในสังกัด จ่อเอาผิดผู้แอบอ้าง–เผยแพร่ข้อมูลเท็จ",
-      "sourceType": "news",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "medium",
-      "summary": "ข่าวจาก Google News keyword: ดราม่า / source: Hfocus.org - ‘รพ.พล’ ชี้แจง! ยันคนในคลิปดราม่าไม่ใช่พยาบาลในสังกัด จ่อเอาผิดผู้แอบอ้าง–เผยแพร่ข้อมูลเท็จ    Hfocus.org",
-      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#‘รพ.พล’ชี้แจง!ยันคนในคลิ"
-      ],
-      "riskNote": "Medium risk ควรเลี่ยงการพาดพิงบุคคลจริงและใช้คำถามเชิงสร้างสรรค์",
-      "sources": [
-        {
-          "title": "Hfocus.org",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1WbzdlanAxbFQzUFo3VVMyQWFCS09uVDJud1dnc094OHBUU2NlUUpKTlkyb1ZuSGtFbVV0eUNqV1BGSVBUS2hFbHFXYXF4S2NGNGpVVUhzTQ?oc=5"
-        }
-      ],
-      "updatedAt": "2026-08-20T15:43:03+07:00"
     },
     {
       "id": "topic-4030cb9a84",
