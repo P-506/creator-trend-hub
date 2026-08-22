@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T09:15:37.070545+07:00",
+  "generatedAt": "2026-08-22T11:34:54.285192+07:00",
   "dateRange": "2026-08-15 to 2026-08-22",
   "sourceErrors": [],
   "topics": [
@@ -212,13 +212,51 @@
       "updatedAt": "2026-08-21T00:28:54+07:00"
     },
     {
-      "id": "topic-2c3f1eb3c1",
-      "title": "ดูย้อนหลังฉับไว - พระพุทธเจ้า เดอะ ซีรีส์",
+      "id": "topic-4e7ea7178a",
+      "title": "ดาราขอดูแลเจ้าสัวหมื่นล้าน",
+      "sourceType": "trends",
+      "category": "entertainment",
+      "contentPotential": "high",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 5000+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่า reaction ส่วนตัวต่อกระแส แล้วเปิดคำถามให้คนคุยต่อ",
+      "promptIdea": "กระแสนี้ทุกคนอยู่ทีมไหน?",
+      "hashtags": [
+        "#EntertainmentTH",
+        "#คุยเรื่องบันเทิง",
+        "#กระแสวันนี้",
+        "#ดาราขอดูแลเจ้าสัวหมื่นล้"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "“จอย บียอนด์” ยืนยันเป็นภรรยาเจ้าสัวหมื่นล้าน ขอทวงสิทธิ์ดูแล ไม่คิดกอบโกย",
+          "url": "https://www.thairath.co.th/entertain/news/2954409"
+        },
+        {
+          "title": "จอย บียอนด์ เปิดใจ ความรัก 30 ปี ขอสิทธิ์ดูแล 'เจ้าสัวหมื่นล้าน' ลั่นไม่ได้หวังสมบัติ แค่อยากทำหน้าที่ภรรยา",
+          "url": "https://www.naewna.com/n/entertainment/18994/"
+        },
+        {
+          "title": "\"จอย บียอนด์\" ร่ำไห้เคลียร์ปมลือเปิดศึกชิงสามีนักธุรกิจหมื่นล้าน รับอยู่กินกันจริงแต่ไม่ได้จดทะเบียน!",
+          "url": "https://www.dailynews.co.th/news/6128165/"
+        }
+      ],
+      "updatedAt": "2026-08-22T09:20:00+07:00"
+    },
+    {
+      "id": "nc-f6c0825a7e",
+      "title": "ตงตง เล่นซีรีส์วายครั้งแรก ยอมออกจากกรอบเดิม เผยฉาก NC คุยขอบเขตชัดเจน",
       "sourceType": "news",
       "category": "entertainment",
       "contentPotential": "high",
       "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: ซีรีส์ / source: Thai PBS - ดูย้อนหลังฉับไว - พระพุทธเจ้า เดอะ ซีรีส์    Thai PBS",
+      "summary": "ข่าวจาก Google News keyword: ซีรีส์ / source: ข่าวสด - ตงตง เล่นซีรีส์วายครั้งแรก ยอมออกจากกรอบเดิม เผยฉาก NC คุยขอบเขตชัดเจน    ข่าวสด",
       "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
       "creatorAngle": "เล่า reaction ส่วนตัวต่อกระแส แล้วเปิดคำถามให้คนคุยต่อ",
       "promptIdea": "กระแสนี้ทุกคนอยู่ทีมไหน?",
@@ -226,16 +264,16 @@
         "#EntertainmentTH",
         "#คุยเรื่องบันเทิง",
         "#กระแสวันนี้",
-        "#ดูย้อนหลังฉับไว-พระพุทธเ"
+        "#ตงตงเล่นซีรีส์วายครั้งแร"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
         {
-          "title": "Thai PBS",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE01YUhENjdWSWlQV00wRmdZWERVdHRCSXpyOUxWMW53UC1hblZhN1BoNFV1R29sVVMzeFY2SWJqZHhpbHlid2pZQ2FMWE5uNVl2XzRyS0dIMnNtQW9M?oc=5"
+          "title": "ข่าวสด",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE81SGpKX2RFWXZFUklucjZKN1VWM0NVRk1vQndzQ1AtUTdqMDRKc0ljdF9XNWU1SVF1NUdSZUltSEo5LTRaYjVSNDlsa2dWUXNnLVJmczZ3VjNwVGw3ME1Tc1lNMA?oc=5"
         }
       ],
-      "updatedAt": "2026-08-21T00:35:08+07:00"
+      "updatedAt": "2026-08-20T10:44:00+07:00"
     },
     {
       "id": "6-47c52016dd",
@@ -368,6 +406,44 @@
       "updatedAt": "2026-08-19T12:09:10+07:00"
     },
     {
+      "id": "niu-lai-64eec071c9",
+      "title": "หนังจีน niu lai",
+      "sourceType": "trends",
+      "category": "entertainment",
+      "contentPotential": "high",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 500+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่า reaction ส่วนตัวต่อกระแส แล้วเปิดคำถามให้คนคุยต่อ",
+      "promptIdea": "กระแสนี้ทุกคนอยู่ทีมไหน?",
+      "hashtags": [
+        "#EntertainmentTH",
+        "#คุยเรื่องบันเทิง",
+        "#กระแสวันนี้",
+        "#หนังจีนniulai"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "\"หนิวไหล\" ภาพยนตร์ไวรัลเพราะแอนิเมชันยอดแย่ กลายเป็นหนังทำเงินในจีน",
+          "url": "https://www.bbc.com/thai/articles/cr7kyej7g7zo"
+        },
+        {
+          "title": "ภาพหยาบ-เนื้อเรื่องแปลก แต่คนแห่ดู! หนังจีนโกยเงิน 25 ล้านหยวน ก่อนถูกโรงถอดรอบฉาย",
+          "url": "https://www.sanook.com/news/9904562/"
+        },
+        {
+          "title": "ฉุดไม่อยู่แล้ว! อนิเมชันจีนห่วยไปทุกอณู ‘Niu Lai’ กวาด 150 ล้าน ด้านสื่อจีนคาดมีแตะ 500!",
+          "url": "https://mgronline.com/entertainment/detail/9690000081379"
+        }
+      ],
+      "updatedAt": "2026-08-22T09:10:00+07:00"
+    },
+    {
       "id": "ethnic-aisle-ebfb42b88b",
       "title": "อาหารเอเชียก้าวพ้น “Ethnic Aisle” สู่ชั้นวางตลาดกระแสหลักในสหรัฐฯ",
       "sourceType": "news",
@@ -484,103 +560,13 @@
       "updatedAt": "2026-08-22T03:50:00+07:00"
     },
     {
-      "id": "bloomberg-cobra-gold-c558e1a93e",
-      "title": "Bloomberg รายงาน ไทยเตรียมใช้ความสัมพันธ์ทางทหารต่อรองภาษีสหรัฐฯ ทบทวนฝึก Cobra Gold แต่รัฐบาลปฏิเสธ",
-      "sourceType": "news",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: ความสัมพันธ์ / source: thestandard.co - Bloomberg รายงาน ไทยเตรียมใช้ความสัมพันธ์ทางทหารต่อรองภาษีสหรัฐฯ ทบทวนฝึก Cobra Gold แต่รัฐบาลปฏิเสธ    thestandard.co",
-      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#Bloombergรายงานไทยเตรียม"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "thestandard.co",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwNVhDUFVSSXdxR2xaYTNUc3lpQWhPV0J4cXppS192ZHM1emtwX0ZPRW9qZGNNZ19JTFYtV214VUw4QklOVVVFLURUNEV2OUx5eGhfOS1YTG1NMEhtZnNMdXJORlh0bmlwOVJSbVAxbk8?oc=5"
-        }
-      ],
-      "updatedAt": "2026-08-21T18:21:08+07:00"
-    },
-    {
-      "id": "u17-7-fivb-volleyball-girls-u17-world-ch-9e4dacdf7b",
-      "title": "U17 🇹🇭ไทย ชนะ🇭🇷โครเอเชียคว้าอันดับ 7 ศึก FIVB Volleyball Girls’ U17 World Championship 2026 🏐ทีม U17 ไทย 🇹🇭 ลงสนามรอบชิงอันดับ 7 ศึกวอลเลย์บอลหญิงชิงแชมป์โลก 2026 FIVB...",
-      "sourceType": "news",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: วอลเลย์บอล / source: facebook.com - U17 🇹🇭ไทย ชนะ🇭🇷โครเอเชียคว้าอันดับ 7 ศึก FIVB Volleyball Girls’ U17 World Championship 2026 🏐ทีม U17 ไทย 🇹🇭 ลงสนามรอบชิงอันดับ 7 ศึกวอลเลย์บอลหญิงชิงแชมป์โลก 2026 FIVB Volleyball G",
-      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#U17🇹🇭ไทยชนะ🇭🇷โครเอเชียคว"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "facebook.com",
-          "url": "https://news.google.com/rss/articles/CBMinARBVV95cUxONlFyeHFMclM5V05aT0dpWDhuYUhKck1qWnpfb1FjcGZuT05jX0FPN3JFTlRpQnYtNmRKaHdGbHZPdDQ2cGdqTzR0OEljTHB3RGZKWHY2SFpjbVpjZ0lHOUtTOXQzckM2VXlKNFNYc1ZzQVA1dDFsWlU4LS1DNFpDRkRxdUNPTWNxWDBLTnhPV3ZMRUtKSnQ4TnY5ZEEyVjhlYWRRWUR3ZGl5S3ZMelZ6X3IwTE1FaUk5LXJnbE9YQ0FYQ2dGN1NlQUdUME4zLVBaTDhscmQtZFdDcFRhRzk5N05xWnRsNVQxenM5TERqTUhjTWMtc2d2VXRzS3M3dndiZlJMUUhaTWtWZDhOeWUyWGJ6ZmNtSlp0MXlHNDJlV1V2V3lVRlBVZGYxeEhCUXdHc0lObWpXckpOYzhkLU9ISHhvMWJoSzF2WDNuVjdBNTF5Z3Rpd1ZBSEg5MkhYbzd5TVRIRzZDdjZRdVpzcGI0M2NzeEk0ZU5Sb3lKeGthZk9IMlZSVUpMcnN2WW1TZlBTSkh4T0NDbTZfMF9yUEdIRGxDWFV0b3c4alAtRDg4SWZfN2FldnFoMXBoRnlZbWlYLTgzSUE4WHVISS1TY2UyTVJKLUFzU294S21CZ1BpSlZRVF9fQXctbVE0cE8tQWNxWkpuRU0zdGZoQWV6Y0FqZGxDZU50eks0WENUTk9HckI5WkFXdmVaQ2VrWUQ?oc=5"
-        }
-      ],
-      "updatedAt": "2026-08-17T10:19:18+07:00"
-    },
-    {
-      "id": "arsenal-vs-coventry-104bfd41f1",
-      "title": "arsenal vs coventry",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 10000+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#arsenalvscoventry"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "Arsenal sweep Coventry aside to start Premier League title defence in style",
-          "url": "https://www.theguardian.com/football/2026/aug/21/arsenal-coventry-premier-league-match-report"
-        },
-        {
-          "title": "Premier League highlights: Arsenal 3-0 Coventry City",
-          "url": "https://www.bbc.com/sport/football/videos/cgr7e17010go"
-        },
-        {
-          "title": "Arsenal vs Coventry LIVE! Premier League commentary, live on Sky Sports, updates, scores and team news",
-          "url": "https://www.skysports.com/football/live-blog/11661/13565514/arsenal-vs-coventry-live-premier-league-commentary-live-on-sky-sports-updates-scores-and-team-news"
-        }
-      ],
-      "updatedAt": "2026-08-22T01:10:00+07:00"
-    },
-    {
       "id": "honor-magic-v6-ddace6b9a8",
       "title": "honor magic v6",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 100+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 500+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -597,28 +583,28 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "รีวิว HONOR Magic V6 ทนเกินจอพับ",
-          "url": "https://www.beartai.com/watch/%E0%B8%A3%E0%B8%B5%E0%B8%A7%E0%B8%B4%E0%B8%A7-honor-magic-v6-%E0%B8%97%E0%B8%99%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%99%E0%B8%88%E0%B8%AD%E0%B8%9E%E0%B8%B1%E0%B8%9A/"
-        },
-        {
           "title": "‘HONOR Magic V6’ มือถือจอพับ เคาะราคา 67,999 บาท",
           "url": "https://mgronline.com/cyberbiz/detail/9690000082500"
         },
         {
-          "title": "รีวิวสั้น HONOR Magic V6 จอพับเรือธง ชิป Snapdragon 8 Elite Gen 5 แบต 6660 mAh",
-          "url": "https://www.biztalknews.com/technology-it/mobile/honor-magic-v6-short-review/"
+          "title": "รีวิว HONOR Magic V6 ทนเกินจอพับ",
+          "url": "https://www.beartai.com/watch/%E0%B8%A3%E0%B8%B5%E0%B8%A7%E0%B8%B4%E0%B8%A7-honor-magic-v6-%E0%B8%97%E0%B8%99%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%99%E0%B8%88%E0%B8%AD%E0%B8%9E%E0%B8%B1%E0%B8%9A/"
+        },
+        {
+          "title": "ออเนอร์ (HONOR) เปิดตัว HONOR Magic V6 สมาร์ตโฟนจอพับระดับเรือธงในประเทศไทย ราคา 67,999 บาท",
+          "url": "https://avtechguide.com/honor-magic-v6-introduce-and-now-available-in-thailand/"
         }
       ],
       "updatedAt": "2026-08-22T08:50:00+07:00"
     },
     {
-      "id": "iphone-18-pro-22e9d6eac1",
-      "title": "iphone 18 pro",
+      "id": "hull-city-1738e13e27",
+      "title": "hull city",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 2000+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 100+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -626,7 +612,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#iphone18pro"
+        "#hullcity"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -635,19 +621,57 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "\"Apple\" จ่อแบ่งชั้น iPhone 18 รุ่น Pro–Pro Max ชัดเจน",
-          "url": "https://www.tnnthailand.com/wealth/economy/244545/"
+          "title": "Sıfırdan zirveye: Acun Ilıcalı’nın hayat hikayesi ve Premier Lig başarısı BBC belgeselinde",
+          "url": "https://www.odatv.com/medya/acun-ilicalinin-hayat-hikayesi-ve-premier-lig-basarisi-bbc-belgeselinde-120159527"
         },
         {
-          "title": "[ลือ] สรุปสี iPhone 18 Pro และ iPhone Ultra ที่อาจเปิดตัวในปี 2026",
-          "url": "https://www.macthai.com/2026/08/21/every-iphone-18-pro-and-iphone-ultra-color/"
+          "title": "Acun Ilıcalı’dan Joe Cole ve Carlton Cole’a Hull City tepkisi!",
+          "url": "https://ajansspor.com/haber/acun-ilicalidan-joe-cole-ve-carlton-colea-hull-city-tepkisi-733088"
         },
         {
-          "title": "คาดการณ์วันพรีออเดอร์และขายจริง iPhone 18 Pro",
-          "url": "https://www.iphone-droid.net/iphone-18-pro-pre-order-and-releases-date/"
+          "title": "Hull City - Manchester United maçının biletleri nasıl alınır: 2026/27 Premier League bilet fiyatları, fikstür bilgileri, başlama saati ve daha fazlası",
+          "url": "https://www.goal.com/tr/haber/hull-city-manchester-united-macinin-biletleri-nasil-alinir-2026-27-premier-league-bilet-fiyatlari-fikstur-bilgileri-baslama-saati-ve-daha-fazlasi/bltd4cd39ae0cbf0e6f"
         }
       ],
-      "updatedAt": "2026-08-22T01:10:00+07:00"
+      "updatedAt": "2026-08-22T10:30:00+07:00"
+    },
+    {
+      "id": "thai-e71223abaa",
+      "title": "thai",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#thai"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "กยท.เร่งสำรวจน้ำท่วมน่าน จ่อช่วยเหลือชาวสวนยางรายละไม่เกิน 3,000 บาท",
+          "url": "https://www.thaipbs.or.th/news/content/509738"
+        },
+        {
+          "title": "ธอส. ลงพื้นที่มอบถุงยังชีพบรรเทาความเดือดร้อนผู้ประสบอุทกภัยในพื้นที่จังหวัดน่าน",
+          "url": "https://www.sanook.com/money/955859/"
+        },
+        {
+          "title": "ธอส.ออก 7 มาตรการ ช่วยเหลือผู้ประสบอุทกภัย จ.น่าน | เข้มข่าวเย็น | 21 ส.ค. 69",
+          "url": "https://www.pptvhd36.com/video/news/225151"
+        }
+      ],
+      "updatedAt": "2026-08-22T09:00:00+07:00"
     },
     {
       "id": "50-9b7e5ebe29",
@@ -702,13 +726,13 @@
       "updatedAt": "2026-08-19T18:04:30+07:00"
     },
     {
-      "id": "topic-b27356350a",
-      "title": "กาลาตาซาราย",
+      "id": "topic-b23812912c",
+      "title": "คลับอเมริกา",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 1000+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 500+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -716,7 +740,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#กาลาตาซาราย"
+        "#คลับอเมริกา"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -725,19 +749,57 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "แฟนแมนยูทำใจไว้เลย! กาลาตาซาราย ทำแสบสันต์เปิดแผนหัวหมอทุ่มไม่อั้นดึง บรูโน่ แฟร์นันด์ส",
-          "url": "https://www.siamsport.co.th/football-international/premierleague/108127/"
+          "title": "How to live stream FC Juárez vs Club América: Liga MX Soccer, TV channel",
+          "url": "https://sports.yahoo.com/articles/live-stream-fc-ju-rez-020000690.html"
         },
         {
-          "title": "บ่งบอกอะไรหรือเปล่า “บรูโน่” เคลื่อนไหวอนาคตล่าสุดกับ “แมนยู” หลังมีข่าวย้ายทีม",
-          "url": "https://www.thairath.co.th/sport/eurofootball/premierleague/2953482"
+          "title": "Polymarket Promo Code: $20 Bonus for Juarez vs. America (August 21)",
+          "url": "https://www.wsn.com/liga-mx/polymarket-promo-code-juarez-vs-america-08-21-2026/"
         },
         {
-          "title": "ยายกิลิสเสนอตัวให้บาร์ซ่า? เดโก้สั่งเบรกดีลอัลวาเรซ",
-          "url": "https://football.fanpiece.com/th/%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B8%81%E0%B8%B4%E0%B8%A5%E0%B8%B4%E0%B8%AA%E0%B9%80%E0%B8%AA%E0%B8%99%E0%B8%AD%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%9A%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%8B%E0%B9%88%E0%B8%B2-%E0%B9%80%E0%B8%94%E0%B9%82%E0%B8%81%E0%B9%89%E0%B8%AA%E0%B8%B1%E0%B9%88%E0%B8%87%E0%B9%80%E0%B8%9A%E0%B8%A3%E0%B8%81%E0%B8%94%E0%B8%B5%E0%B8%A5%E0%B8%AD%E0%B8%B1%E0%B8%A5%E0%B8%A7%E0%B8%B2%E0%B9%80%E0%B8%A3%E0%B8%8B-c1499646.html"
+          "title": "Will América Hold Onto the Top Spot? América Faces Juárez on the Border—Could There Be an Upset?",
+          "url": "https://www.soyfutbol.com/en/news/will-america-hold-onto-the-top-spot-america-faces-juarez-on-the-bordercould-there-be-an-upset-20260821-0047.html"
         }
       ],
-      "updatedAt": "2026-08-22T01:10:00+07:00"
+      "updatedAt": "2026-08-22T10:10:00+07:00"
+    },
+    {
+      "id": "topic-7991aac354",
+      "title": "คอนซ่า",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 100+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#คอนซ่า"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "มาเพื่อแชมป์! คอนซ่า เปิดใจซบ อาร์เซน่อล ลั่นพร้อมกวาดทุกโทรฟี่",
+          "url": "https://www.siamsport.co.th/football-international/premierleague/108238/"
+        },
+        {
+          "title": "ทีมเก่ากำไรเน้นๆ \"อาร์เซนอล-สเปอร์ส\" ได้ \"นักเตะค่าตัวแพง\" เสริมทัพก่อนเปิดพรีเมียร์ลีก",
+          "url": "https://www.thairath.co.th/sport/eurofootball/premierleague/2954341"
+        },
+        {
+          "title": "\"ปืนใหญ่\" คว้า \"คอนซา\" เสริมหลังบ้านทางการ",
+          "url": "https://www.dailynews.co.th/news/6128994/"
+        }
+      ],
+      "updatedAt": "2026-08-22T10:40:00+07:00"
     },
     {
       "id": "2026-c06457c590",
@@ -766,89 +828,13 @@
       "updatedAt": "2026-08-21T11:02:00+07:00"
     },
     {
-      "id": "topic-6494fe1d11",
-      "title": "บอลสด",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 2000+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#บอลสด"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "วิเคราะห์บอล ทีมชาติไทย พบ เวียดนาม 22 ส.ค. 69 : ยกแรกชี้ชะตาแชมป์",
-          "url": "https://www.siamsport.co.th/football-thailand/thai-national/108229/"
-        },
-        {
-          "title": "ข่าวจับตาช้างศึกนัดชิง! คุณจำนงค์ เปิดใจถึงโอกาสแชมป์ และความพร้อมทีมชาติไทย",
-          "url": "https://www.ch7.com/sports/892455"
-        },
-        {
-          "title": "ราชมังฯไร้น้ำขัง พร้อมใช้นัดชิงไทย-เวียดนาม ฝ่ายจัดยันหญ้าแห้งหมาด พื้นเรียบสนิท ทดสอบสปีดบอลเทียบชั้นเจลีก",
-          "url": "https://mgronline.com/sport/detail/9690000082549"
-        }
-      ],
-      "updatedAt": "2026-08-22T02:00:00+07:00"
-    },
-    {
-      "id": "topic-6826e123f3",
-      "title": "ลาลีกา",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 500+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#ลาลีกา"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "พรีวิวฟุตบอล ลา ลีกา สเปน 2026-27 : เอสปันญอล พบ เรอัล มาดริด",
-          "url": "https://www.tnnthailand.com/sports/244686/"
-        },
-        {
-          "title": "เอสปันญอลสถิติยังเป็นรองราชัน อาจโดนบุกอัดคาถิ่น",
-          "url": "https://truevisions.co.th/sports/30721/"
-        },
-        {
-          "title": "แมนยู อยู่โถไหน!? เปิดโผ 4 โถลุ้นประกบคู่ แชมเปี้ยนส์ ลีก 2026/27",
-          "url": "https://www.siamsport.co.th/football-international/ucl/108187/"
-        }
-      ],
-      "updatedAt": "2026-08-22T02:30:00+07:00"
-    },
-    {
-      "id": "3-0-2026-ca869687d6",
-      "title": "วอลเลย์บอลหญิงไทย ชนะ ออสเตรเลีย 3-0 เซต ชิงแชมป์เอเชีย 2026",
+      "id": "topic-a03dfafc39",
+      "title": "หวัง อี้ หารือกับรัฐมนตรีต่างประเทศเกาหลีใต้",
       "sourceType": "news",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: วอลเลย์บอล / source: Thai PBS - วอลเลย์บอลหญิงไทย ชนะ ออสเตรเลีย 3-0 เซต ชิงแชมป์เอเชีย 2026    Thai PBS",
+      "summary": "ข่าวจาก Google News keyword: ความสัมพันธ์ / source: 国际在线 - หวัง อี้ หารือกับรัฐมนตรีต่างประเทศเกาหลีใต้    国际在线",
       "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -856,92 +842,16 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#วอลเลย์บอลหญิงไทยชนะออสเ"
+        "#หวังอี้หารือกับรัฐมนตรีต"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
         {
-          "title": "Thai PBS",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1td19qc1NOdXlwR0ZRZFBDTEZXdlVONGVfRnkzU25RSldLczFaSExpNndKeHpNcVR4bUxBWjU1SnRyV1g3Ty12RG1lTEJGcjhLMmxuWG85VVo?oc=5"
+          "title": "国际在线",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB1c21acHRPUzNTMFVQbXY2VVJUMkgyVThKYlRCc2diUE4wY2F4T2djS0wyUlhHRjJaNks2d2YwRmZFUUNMZnBIeWlwR0xEZFZwM2FWcW1TTm9xQnN6NzJPcA?oc=5"
         }
       ],
-      "updatedAt": "2026-08-21T13:07:02+07:00"
-    },
-    {
-      "id": "topic-94eacc981a",
-      "title": "วิเคราะห์บอลวันนี้",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#วิเคราะห์บอลวันนี้"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "ชี้ 4 ตัวเต็งบอลน่าเชียร์ 21 ส.ค. 69 : ทีเด็ดบอลวันนี้ สตุ๊ตการ์ทเด่น, อาร์เซน่อลน่าต่อยอด!",
-          "url": "https://www.siamsport.co.th/football-international/bundesliga/108203/"
-        },
-        {
-          "title": "\"เต้ยเป๋าตุง\" ฟันธง (21 ส.ค.69) ชี้ 7 คู่เด่น ทีมลุ้นเข้าวิน เน้นๆ 3 บอลเต็ง",
-          "url": "https://siamrath.co.th/variety/sports/169120"
-        },
-        {
-          "title": "ชี้ 4 ตัวเต็งบอลน่าเชียร์ 19 ส.ค. 69 : ทีเด็ดบอลวันนี้ แมนส์ฟิลด์-เซลติก น่าจับตา!",
-          "url": "https://www.siamsport.co.th/football-international/ucl/108130/"
-        }
-      ],
-      "updatedAt": "2026-08-22T04:40:00+07:00"
-    },
-    {
-      "id": "topic-5849d7ab90",
-      "title": "อาร์เซนอล พบ โคเวนทรี",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 50000+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#อาร์เซนอลพบโคเวนทรี"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "บอลคนละชั้น! อาร์เซน่อล อัดน้องใหม่กระเจิง 3-0ผงาดจ่าฝูงประเดิมพรีเมียร์ลีก",
-          "url": "https://www.siamsport.co.th/football-international/premierleague/108247/"
-        },
-        {
-          "title": "BIG SIX CHECK-UP เช็กความพร้อม ‘อาร์เซนอล’ ก่อนภารกิจป้องกันแชมป์พรีเมียร์ลีก",
-          "url": "https://thestandard.co/arsenal-premier-league-check-up/"
-        },
-        {
-          "title": "จับตาดูได้เลย! \"โอเว่น\" ชี้มี \"หนึ่งทีมหนีตกชั้น\" จะพลิกฟอร์มจบท็อป 3 ศึกพรีเมียร์ลีก",
-          "url": "https://www.sanook.com/sport/1669583/"
-        }
-      ],
-      "updatedAt": "2026-08-22T01:00:00+07:00"
+      "updatedAt": "2026-08-20T13:55:11+07:00"
     },
     {
       "id": "topic-9b410f899e",
@@ -970,13 +880,39 @@
       "updatedAt": "2026-08-15T13:39:16+07:00"
     },
     {
+      "id": "2026-a397a5e62c",
+      "title": "เปิดสถิติวอลเลย์บอลหญิงไทย-ออสเตรเลีย ก่อนดวลชิงแชมป์เอเชีย 2026",
+      "sourceType": "news",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "ข่าวจาก Google News keyword: วอลเลย์บอล / source: Thai PBS - เปิดสถิติวอลเลย์บอลหญิงไทย-ออสเตรเลีย ก่อนดวลชิงแชมป์เอเชีย 2026    Thai PBS",
+      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#เปิดสถิติวอลเลย์บอลหญิงไ"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Thai PBS",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9IdFlWdnU0U2dYdXRrVXBmMU81TDM4d3dlOVFNVmtGRXN0Yl9tYk5IZzRKMUhMQlVJRm1leXJvVWdwQ28yQllFbmx4RjBIV3lya0tuOHNXTTk?oc=5"
+        }
+      ],
+      "updatedAt": "2026-08-21T10:33:57+07:00"
+    },
+    {
       "id": "3-0-2026-23d40390c2",
       "title": "เปิดหัวแจ่ม! วอลเลย์บอลหญิงไทย ชนะ ออสเตรเลีย 3-0 ประเดิมศึกชิงแชมป์เอเชีย 2026",
       "sourceType": "news",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: วอลเลย์บอล / source: Sanook - เปิดหัวแจ่ม! วอลเลย์บอลหญิงไทย ชนะ ออสเตรเลีย 3-0 ประเดิมศึกชิงแชมป์เอเชีย 2026    Sanook",
+      "summary": "ข่าวจาก Google News keyword: วอลเลย์บอล / source: Sanook.com - เปิดหัวแจ่ม! วอลเลย์บอลหญิงไทย ชนะ ออสเตรเลีย 3-0 ประเดิมศึกชิงแชมป์เอเชีย 2026    Sanook.com",
       "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -989,7 +925,7 @@
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
         {
-          "title": "Sanook",
+          "title": "Sanook.com",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0xRDRjbjJJWW80Z19CaThTZ0pKcmRRWlplY0EtRFZVZnliWUdWOW1SaU1qVkZ1cWNsMEZmaGpMRy1ORGFsUVdYT01qRFc1Zw?oc=5"
         }
       ],
@@ -1053,11 +989,75 @@
           "url": "https://www.thairath.co.th/news/foreign/2954371"
         },
         {
-          "title": "ผลวิจัยชี้ กรุงเทพฯ จ่อรับมืออากาศแห้งจัดจาก ซูเปอร์เอลนีโญ",
-          "url": "https://www.ryt9.com/s/iq/12838557"
+          "title": "อังกฤษเตือน! ปี 2027 \"เอลนีโญ\" ทุบสถิติแรงสุดในประวัติศาสตร์",
+          "url": "https://www.nationtv.tv/news/foreign/378982045"
         }
       ],
       "updatedAt": "2026-08-22T05:40:00+07:00"
+    },
+    {
+      "id": "topic-7f91ac4a13",
+      "title": "แบดมินตันชิงแชมป์โลก",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 1000+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#แบดมินตันชิงแชมป์โลก"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "\"วิว กุลวุฒิ\" ต้านความแกร่ง ลานิเยร์ ไม่ไหว ร่วง 8 คนแบดมินตันชิงแชมป์โลก 2026",
+          "url": "https://www.siamsport.co.th/other-sports/badminton/108230/"
+        },
+        {
+          "title": "“หมิว” หนึ่งเดียวของไทย เข้าตัดเชือกขนไก่โลก 2026 “บาส” เจ็บถอนตัว, “วิว” พ่ายฝรั่งเศส",
+          "url": "https://mgronline.com/sport/detail/9690000082588"
+        },
+        {
+          "title": "วิว-หมิว-บาส-เฟม ฟอร์มเดือด! ทะลุ 8 คนสุดท้าย ศึกแบดมินตันชิงแชมป์โลก",
+          "url": "https://news.ch7.com/detail/892459"
+        }
+      ],
+      "updatedAt": "2026-08-22T10:50:00+07:00"
+    },
+    {
+      "id": "2026-1c2b353b07",
+      "title": "โปรแกรมวอลเลย์บอลหญิงไทย ชิงแชมป์เอเชีย 2026",
+      "sourceType": "news",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "ข่าวจาก Google News keyword: วอลเลย์บอล / source: thestandard.co - โปรแกรมวอลเลย์บอลหญิงไทย ชิงแชมป์เอเชีย 2026    thestandard.co",
+      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#โปรแกรมวอลเลย์บอลหญิงไทย"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "thestandard.co",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0wVHc3M2hGQV9WWUJQblZ5MFF6LVVudHFsRTJXLVRkdHNqTS1pTVJITWtVeTRGQ3J1MlZfWlFhc0RZZGhtMHlqdGQ2dXQ4eG9SMVI0SkhPVFBCaTEycEQycm1ZWVZLcGVEYW40MlJualdnT1pW?oc=5"
+        }
+      ],
+      "updatedAt": "2026-08-22T10:40:39+07:00"
     },
     {
       "id": "vs-2026-f5f06ea23a",
@@ -1190,32 +1190,6 @@
       "updatedAt": "2026-08-15T17:19:00+07:00"
     },
     {
-      "id": "fifa-2-3-1d5edc3c55",
-      "title": "ฟุตบอลไม่ได้มีไว้ขาย สรุปดราม่าประธาน FIFA พับแผนขายหุ้น 2 หมื่นล้านดอลลาร์ หลังโดนสมาชิก 3 ทวีปจับมือคว่ำบาตร",
-      "sourceType": "news",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "medium",
-      "summary": "ข่าวจาก Google News keyword: ดราม่า / source: thestandard.co - ฟุตบอลไม่ได้มีไว้ขาย สรุปดราม่าประธาน FIFA พับแผนขายหุ้น 2 หมื่นล้านดอลลาร์ หลังโดนสมาชิก 3 ทวีปจับมือคว่ำบาตร    thestandard.co",
-      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#ฟุตบอลไม่ได้มีไว้ขายสรุป"
-      ],
-      "riskNote": "Medium risk ควรเลี่ยงการพาดพิงบุคคลจริงและใช้คำถามเชิงสร้างสรรค์",
-      "sources": [
-        {
-          "title": "thestandard.co",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1JeHFOSlV2c2xhd1llNWZ4UmYxYjM5Mk00TXZ5bEptMVB3MjFnVTlLRWNVVHBEU3JCdFpYYk9QMWtYY0ViX3pQb1RpcEhDWGlQQ0lZem5xRnhCMTgwZ3VWUQ?oc=5"
-        }
-      ],
-      "updatedAt": "2026-08-21T03:08:55+07:00"
-    },
-    {
       "id": "thai-help-thai-plus",
       "title": "ไทยช่วยไทยพลัส / คนละครึ่งพลัส",
       "sourceType": "news",
@@ -1256,6 +1230,32 @@
         }
       ],
       "updatedAt": "2026-08-20T15:10:00+07:00"
+    },
+    {
+      "id": "topic-0025f98dee",
+      "title": "‘รพ.พล’ ชี้แจง! ยันคนในคลิปดราม่าไม่ใช่พยาบาลในสังกัด จ่อเอาผิดผู้แอบอ้าง–เผยแพร่ข้อมูลเท็จ",
+      "sourceType": "news",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "medium",
+      "summary": "ข่าวจาก Google News keyword: ดราม่า / source: Hfocus.org - ‘รพ.พล’ ชี้แจง! ยันคนในคลิปดราม่าไม่ใช่พยาบาลในสังกัด จ่อเอาผิดผู้แอบอ้าง–เผยแพร่ข้อมูลเท็จ    Hfocus.org",
+      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#‘รพ.พล’ชี้แจง!ยันคนในคลิ"
+      ],
+      "riskNote": "Medium risk ควรเลี่ยงการพาดพิงบุคคลจริงและใช้คำถามเชิงสร้างสรรค์",
+      "sources": [
+        {
+          "title": "Hfocus.org",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1WbzdlanAxbFQzUFo3VVMyQWFCS09uVDJud1dnc094OHBUU2NlUUpKTlkyb1ZuSGtFbVV0eUNqV1BGSVBUS2hFbHFXYXF4S2NGNGpVVUhzTQ?oc=5"
+        }
+      ],
+      "updatedAt": "2026-08-20T15:43:03+07:00"
     },
     {
       "id": "6-8-30-5a9311517d",
