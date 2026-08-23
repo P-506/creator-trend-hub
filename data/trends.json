@@ -1,7 +1,9 @@
 {
-  "generatedAt": "2026-08-23T17:26:19.630166+07:00",
+  "generatedAt": "2026-08-23T20:33:57.447374+07:00",
   "dateRange": "2026-08-16 to 2026-08-23",
-  "sourceErrors": [],
+  "sourceErrors": [
+    "gdelt: HTTP Error 429: Too Many Requests"
+  ],
   "topics": [
     {
       "id": "9-2569-4a2e8720ed",
@@ -498,8 +500,8 @@
       "updatedAt": "2026-08-17T10:19:18+07:00"
     },
     {
-      "id": "iran-73ae71ea05",
-      "title": "iran",
+      "id": "bein-sports-03ef01298d",
+      "title": "bein sports",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
@@ -512,7 +514,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#iran"
+        "#beinsports"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -521,23 +523,23 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "Iran war live: Tehran warns neighbours against joining US economic war",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/8/23/iran-war-live-tehran-warns-neighbours-against-joining-us-economic-war"
+          "title": "قدم.. إشبيلية يهزم بلباو بثلاثية ويواصل انطلاقته المثالية في \"لا ليغا\"",
+          "url": "https://aa.com.tr/ar/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9/%D9%82%D8%AF%D9%85-%D8%A5%D8%B4%D8%A8%D9%8A%D9%84%D9%8A%D8%A9-%D9%8A%D9%87%D8%B2%D9%85-%D8%A8%D9%84%D8%A8%D8%A7%D9%88-%D8%A8%D8%AB%D9%84%D8%A7%D8%AB%D9%8A%D8%A9-%D9%88%D9%8A%D9%88%D8%A7%D8%B5%D9%84-%D8%A7%D9%86%D8%B7%D9%84%D8%A7%D9%82%D8%AA%D9%87-%D8%A7%D9%84%D9%85%D8%AB%D8%A7%D9%84%D9%8A%D8%A9-%D9%81%D9%8A-%D9%84%D8%A7-%D9%84%D9%8A%D8%BA%D8%A7/4034814"
         },
         {
-          "title": "Iran’s new security chief says neighbours who join US economic war will be considered ‘enemies’",
-          "url": "https://www.theguardian.com/world/2026/aug/23/iran-new-security-chief-trump-economic-war-enemies-mohsen-rezaei"
+          "title": "ثلاثية أندلسية.. إشبيلية يكتسح أتلتيك بيلباو ويعزز انطلاقته في الدوري الإسباني",
+          "url": "https://www.maspero.eg/sport/2026/08/22/982619/%D8%AB%D9%84%D8%A7%D8%AB%D9%8A%D8%A9-%D8%A3%D9%86%D8%AF%D9%84%D8%B3%D9%8A%D8%A9--%D8%A5%D8%B4%D8%A8%D9%8A%D9%84%D9%8A%D8%A9-%D9%8A%D9%83%D8%AA%D8%B3%D8%AD-%D8%A3%D8%AA%D9%84%D8%AA%D9%8A%D9%83-%D8%A8%D9%8A%D9%84%D8%A8%D8%A7%D9%88-%D9%88%D9%8A%D8%B9%D8%B2%D8%B2-%D8%A7%D9%86%D8%B7%D9%84%D8%A7%D9%82%D8%AA%D9%87-%D9%81%D9%8A-%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D8%A5%D8%B3%D8%A8%D8%A7%D9%86%D9%8A"
         },
         {
-          "title": "Ahead of tough new U.S. sanctions, Iran criticizes 'extraterritorial sovereignty'",
-          "url": "https://www.cnbc.com/2026/08/22/iran-criticizes-us-sanctions-extraterritorial-sovereignty.html"
+          "title": "إشبيلية يهزم بلباو بثلاثية ويستمر في الصدارة المؤقتة لا ليغا",
+          "url": "https://emirates24.net/international/2308/100039/"
         }
       ],
-      "updatedAt": "2026-08-23T12:50:00+07:00"
+      "updatedAt": "2026-08-23T19:50:00+07:00"
     },
     {
-      "id": "sl-vs-ind-7e422f486f",
-      "title": "sl vs ind",
+      "id": "brighton-vs-aston-villa-19bf17ce4c",
+      "title": "brighton vs aston villa",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
@@ -550,7 +552,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#slvsind"
+        "#brightonvsastonvilla"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -559,19 +561,133 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "Licensable picture: IND vs SL: Day 1 of 2nd Test",
-          "url": "https://www.reutersconnect.com/item/ind-vs-sl-day-1-of-2nd-test/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMUFTTkVXUzIwMjYwODIzMDQyTA"
+          "title": "‘This is just the beginning’ – Pau",
+          "url": "https://www.avfc.co.uk/news/2026/august/22/interview-prematch--this-is-just-the-beginning----pau/"
         },
         {
-          "title": "Padikkal, Gill half-centuries take India to 187-3 at tea",
-          "url": "https://www.france24.com/en/live-news/20260823-padikkal-gill-half-centuries-take-india-to-187-3-at-tea"
+          "title": "Gomez, David + Minteh: Brighton injury latest for FPL Gameweek 1",
+          "url": "https://www.fantasyfootballscout.co.uk/2026/08/21/gomez-david-minteh-brighton-injury-latest-for-fpl-gameweek-1/"
         },
         {
-          "title": "India Steers Advantage on Opening Day Against Sri Lanka",
-          "url": "https://www.devdiscourse.com/article/sports-games/3966689-india-steers-advantage-on-opening-day-against-sri-lanka"
+          "title": "Kwiff Premier League Offer: Bet £10, Get £40 for Brighton v Aston Villa",
+          "url": "https://www.oddschecker.com/insight/football/23082026-kwiff-premier-league-offer-bet-10-get-40-for-brighton-v-aston-villa"
         }
       ],
-      "updatedAt": "2026-08-23T11:50:00+07:00"
+      "updatedAt": "2026-08-23T19:20:00+07:00"
+    },
+    {
+      "id": "haaland-d0375a2211",
+      "title": "haaland",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 100+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#haaland"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "Erling Haaland haircut: Zlatan Ibrahimovic, Jack Grealish & Noel Gallagher shocked",
+          "url": "https://www.bbc.com/sport/football/articles/cr4941zkgevo"
+        },
+        {
+          "title": "Erling Haaland haircut: Manchester City forward reveals fresh shaven style ahead of new Premier League season",
+          "url": "https://www.skysports.com/football/news/11095/13576220/erling-haaland-haircut-manchester-city-forward-reveals-fresh-shaven-style-ahead-of-new-premier-league-season"
+        },
+        {
+          "title": "Erling Haaland ditches his iconic long hair and the internet cannot handle it",
+          "url": "https://en.as.com/videos/erling-haaland-ditches-his-iconic-long-hair-and-the-internet-cannot-handle-it-f202608-v/"
+        }
+      ],
+      "updatedAt": "2026-08-23T20:00:00+07:00"
+    },
+    {
+      "id": "man-city-f35c02b8b7",
+      "title": "man city",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 500+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#mancity"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "Man City agree £86m deal for teen midfielder Bouaddi",
+          "url": "https://www.bbc.com/sport/football/articles/clyjy0e0pkzo"
+        },
+        {
+          "title": "Ayyoub Bouaddi transfer: Manchester City reach agreement with Lille to sign 18-year-old Morocco midfielder",
+          "url": "https://www.skysports.com/football/news/11095/13576242/ayyoub-bouaddi-transfer-manchester-city-reach-agreement-with-lille-to-sign-18-year-old-morocco-midfielder"
+        },
+        {
+          "title": "Enzo Maresca finds his 'new Rodri'! Man City agree record-breaking deal for Lille starlet Ayyoub Bouaddi",
+          "url": "https://www.goal.com/en-ca/lists/enzo-maresca-finds-his-new-rodri-man-city-agree-record-breaking-deal-for-lille-starlet-ayyoub-bouaddi/bltab06943fa48fcba9"
+        }
+      ],
+      "updatedAt": "2026-08-23T20:00:00+07:00"
+    },
+    {
+      "id": "man-city-vs-bournemouth-dbb90ff2dc",
+      "title": "man city vs bournemouth",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 2000+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#mancityvsbournemouth"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "Premier League: Maresca goes defensive against Bournemouth, no Watkins for Villa",
+          "url": "https://www.bbc.com/sport/football/live/cn59gyvzgzdt"
+        },
+        {
+          "title": "Manchester City v Bournemouth: Premier League – live",
+          "url": "https://www.theguardian.com/football/live/2026/aug/23/manchester-city-v-bournemouth-premier-league-live"
+        },
+        {
+          "title": "Manchester City vs Bournemouth: Premier League preview, team news, stats & head-to-head",
+          "url": "https://www.bbc.com/sport/football/live/c6n4ney5dex4t"
+        }
+      ],
+      "updatedAt": "2026-08-23T19:10:00+07:00"
     },
     {
       "id": "50-9b7e5ebe29",
@@ -600,44 +716,6 @@
       "updatedAt": "2026-08-19T05:21:14+07:00"
     },
     {
-      "id": "topic-c66773be16",
-      "title": "กระทรวงพลังงาน",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 500+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#กระทรวงพลังงาน"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "“โฆษก ปชป.”แนะจับตา 5 วาระสำคัญ หวั่นฝ่ายการเมืองเน้น “คนรู้ใจ” มากกว่าความเชี่ยวชาญ",
-          "url": "https://www.thairath.co.th/news/politic/2954526"
-        },
-        {
-          "title": "จับตา 'ณัฐพล' เข้าสำนักนายกฯ ปมเก้าอี้ปลัดพลังงาน-อุตฯ สะเทือนโผโยกย้าย",
-          "url": "https://www.bangkokbiznews.com/economics/1248470"
-        },
-        {
-          "title": "ส่องแต่งตั้งโยกย้าย “บิ๊ก สธ.” 6 ตำแหน่ง – ลุ้นใครนั่งตำแหน่งว่าง-เกษียณ",
-          "url": "https://www.hfocus.org/content/2026/08/39189"
-        }
-      ],
-      "updatedAt": "2026-08-23T13:30:00+07:00"
-    },
-    {
       "id": "4-maitree-2026-19-69-b6ddad6d36",
       "title": "กองทัพภาคที่ 4 เปิดการฝึกผสมกองทัพบกไทย–กองทัพบกอินเดีย MAITREE 2026 เสริมสร้างความสัมพันธ์ แลกเปลี่ยนความรู้ทางทหาร และเทคโนโลยีที่ทันสมัย วันที่ 19 ส.ค. 69 พลโท นรธิ...",
       "sourceType": "news",
@@ -664,8 +742,8 @@
       "updatedAt": "2026-08-19T18:04:30+07:00"
     },
     {
-      "id": "topic-871104a8d5",
-      "title": "จรูญเกียรติ ปานแก้ว",
+      "id": "topic-0d4a9e2955",
+      "title": "พายุ",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
@@ -678,7 +756,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#จรูญเกียรติปานแก้ว"
+        "#พายุ"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -687,95 +765,19 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "เมิน 'โผนายพลตร.' หลุด! 'หนู' โยน 'บิ๊กต่าย' แจง ยึดตามกม. ปัดสกัด 'นรต.47' รุ่นโจ๊ก",
-          "url": "https://www.thaipost.net/all-news/1051403/"
+          "title": "เลื่อนปล่อยจรวดลองมาร์ช 5 Y14 ในภารกิจ \"ฉางเอ๋อ 7\" ออกไป 1 เดือน",
+          "url": "https://www.thaipbs.or.th/news/content/509776"
         },
         {
-          "title": "ถก ก.ตร.บ่ายนี้ตั้ง \"3 รอง ผบ.ตร. - 6 ผู้ช่วย ผบ.ตร. - 19 ผบช.\"",
-          "url": "https://www.thaipbs.or.th/news/content/509773"
+          "title": "จีนเตรียมปล่อยยานฉางเอ๋อ-7 สำรวจขั้วใต้ดวงจันทร์ พร้อมอุปกรณ์ไทย",
+          "url": "https://www.tnnthailand.com/tech/244790/"
         },
         {
-          "title": "หลุดโผเพราะไร้ตั๋ว",
-          "url": "https://www.cops-magazine.com/topic/154493/"
+          "title": "ฉางเอ๋อ 7 จุดพลุ เศรษฐกิจอวกาศ ไทย ชิงเค้ก 60 ล้านล้านบาท",
+          "url": "https://www.prachachat.net/tech/news-2055859"
         }
       ],
-      "updatedAt": "2026-08-23T14:40:00+07:00"
-    },
-    {
-      "id": "topic-8edad26cc8",
-      "title": "ฝน",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 1000+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#ฝน"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "จับตาอาการฝนตกซ้ำรอยปีที่แล้ว",
-          "url": "https://www.thaipost.net/columnist-people/1055184/"
-        },
-        {
-          "title": "มรสุมพาดผ่าน กรมอุตุฯ เตือน 27 จังหวัดฝนตกหนัก กทม.โดนด้วย แนะ ปชช.ระวังอันตรายจากฟ้าคะนอง",
-          "url": "https://today.line.me/th/v3/article/x2EgD58"
-        },
-        {
-          "title": "กรมป้องกันฯ สั่งจังหวัดท้ายน้ำเตรียมรับมือ เฝ้าระวังฝนระลอกใหม่-มวลน้ำเหนือ",
-          "url": "https://www.ryt9.com/s/iq/12838947"
-        }
-      ],
-      "updatedAt": "2026-08-23T15:00:00+07:00"
-    },
-    {
-      "id": "topic-e44623f24f",
-      "title": "ราคาน้ำมันวันนี้",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 500+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#ราคาน้ำมันวันนี้"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "ราคาน้ำมันวันนี้ 23 สิงหาคม 2569 อัปเดตล่าสุด \"เบนซิน-ดีเซล\" ลิตรละกี่บาท",
-          "url": "https://www.thairath.co.th/news/society/2954578"
-        },
-        {
-          "title": "เช็กราคาน้ำมันวันนี้ (23 ส.ค. 69) ดูเลยราคา ล่าสุด | The Better",
-          "url": "https://today.line.me/th/v3/article/wJawPnY"
-        },
-        {
-          "title": "ราคาน้ำมัน 24 ส.ค.2569 เบนซิน-แก๊สโซฮอล์ ดีเซล",
-          "url": "https://www.pptvhd36.com/wealth/economic/282036"
-        }
-      ],
-      "updatedAt": "2026-08-23T16:50:00+07:00"
+      "updatedAt": "2026-08-23T19:20:00+07:00"
     },
     {
       "id": "3-0-2026-ca869687d6",
@@ -804,13 +806,13 @@
       "updatedAt": "2026-08-21T13:07:02+07:00"
     },
     {
-      "id": "topic-50c4bfdfef",
-      "title": "สลึง",
+      "id": "topic-7bb101434c",
+      "title": "สโมสรฟุตบอลแมนเชสเตอร์ซิตี",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 5000+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -818,7 +820,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#สลึง"
+        "#สโมสรฟุตบอลแมนเชสเตอร์ซิ"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -827,19 +829,19 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "อัปเดตราคาทองวันนี้ 22 ส.ค. 69 ปิดตลาดปรับขึ้น 250 บาท ทองรูปพรรณขายออก 71,950 บาท",
-          "url": "https://www.thairath.co.th/news/society/2954566"
+          "title": "BIG SIX CHECK-UP เช็กความพร้อม ‘แมนฯ ซิตี้’ การเริ่มต้นใหม่ หลังสิ้นสุดยุค ‘เป๊บ’",
+          "url": "https://thestandard.co/man-city-new-era-maresca/"
         },
         {
-          "title": "ราคาทองคำคาดสิ้นปี 2569 เป็นขาขึ้น มีลุ้นพุ่งแตะบาทละ 75,000 บาท",
-          "url": "https://www.sanook.com/money/955879/"
+          "title": "มันเกิดอะไรขึ้น? \"เป๊ป\" รับเป็นเรื่องยากกลับคืนสู่เส้นทางลูกหนังหลังอำลา \"แมนซิตี้\"",
+          "url": "https://www.sanook.com/sport/1669104/"
         },
         {
-          "title": "ทองโลกพุ่งนิวไฮรอบ 3 เดือน! ราคาทองวันนี้ 23 ส.ค. เปิดคงตัว 71,950 บาท ลุ้นทะยานแตะ 4,700 ดอลลาร์",
-          "url": "https://today.line.me/th/v3/article/DRmWxNm"
+          "title": "เรือใบสีฟ้าปรับทัพครั้งใหญ่: สวนทางปืนใหญ่เสริมแกร่ง? หรือนี่คือกลยุทธ์ 'NBA Style' ของแมนฯ ซิตี้?",
+          "url": "https://football.fanpiece.com/th/%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B9%83%E0%B8%9A%E0%B8%AA%E0%B8%B5%E0%B8%9F%E0%B9%89%E0%B8%B2%E0%B8%9B%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%97%E0%B8%B1%E0%B8%9E%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88-%E0%B8%AA%E0%B8%A7%E0%B8%99%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%9B%E0%B8%B7%E0%B8%99%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88%E0%B9%80%E0%B8%AA%E0%B8%A3%E0%B8%B4%E0%B8%A1%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B9%88%E0%B8%87-%E0%B8%AB%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%99%E0%B8%B5%E0%B9%88%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B8%81%E0%B8%A5%E0%B8%A2%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B9%8C-NBA-Style-%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B9%81%E0%B8%A1%E0%B8%99%E0%B8%AF-%E0%B8%8B%E0%B8%B4%E0%B8%95%E0%B8%B5%E0%B9%89-c1500001.html"
         }
       ],
-      "updatedAt": "2026-08-23T12:30:00+07:00"
+      "updatedAt": "2026-08-23T20:00:00+07:00"
     },
     {
       "id": "topic-93f89117ea",
@@ -894,44 +896,6 @@
       "updatedAt": "2026-08-21T14:54:00+07:00"
     },
     {
-      "id": "1-2569-cf2ba00d3a",
-      "title": "เลขปฏิทินจีน 1 กันยายน 2569",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 2000+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#เลขปฏิทินจีน1กันยายน2569"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "เลขเด็ดม้าสีหมอก งวด 1 กันยายน 2569 วิ่งมาแจกโชค คอหวยส่องด่วน",
-          "url": "https://www.sanook.com/news/9904666/"
-        },
-        {
-          "title": "มาแล้ว เลขเด็ดปฏิทินจีน 1 ก.ย.2569 ซูมเลขปฏิทินครอบครัวข่าว 3 เลขเน้นๆ 2 ตัว 3 ตัว",
-          "url": "https://today.line.me/th/v3/article/2DqnxDO?referral=linetodaytopten"
-        },
-        {
-          "title": "สถิติหวย ย้อนหลัง 10 ปี หวยออกงวด 1 ก.ย.2569 ลุ้นรวยห้ามพลาดเสี่ยงโชค",
-          "url": "https://www.khaosod.co.th/lottery/news_10371268"
-        }
-      ],
-      "updatedAt": "2026-08-23T14:10:00+07:00"
-    },
-    {
       "id": "81-50-3b55d3bc51",
       "title": "เวียดนามฉลองครบรอบ 81 ปีการปฏิวัติเดือนสิงหาคม วันชาติ และ 50 ปีความสัมพันธ์ไทย เดินหน้ากระชับหุ้นส่วนยุทธศาสตร์",
       "sourceType": "news",
@@ -958,13 +922,13 @@
       "updatedAt": "2026-08-19T16:00:48+07:00"
     },
     {
-      "id": "topic-624e898a96",
-      "title": "แผ่นดินไหวญี่ปุ่น",
+      "id": "topic-b8fce3dca7",
+      "title": "แมนซิตี้",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 5000+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -972,7 +936,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#แผ่นดินไหวญี่ปุ่น"
+        "#แมนซิตี้"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -981,57 +945,19 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "แผ่นดินไหวญี่ปุ่นขนาด 5.9 ศูนย์กลางอิบารากิ ยันไร้สึนามิ ด้านสถานเอกอัครราชทูต เตือนคนไทยเฝ้าระวัง Aftershock",
-          "url": "https://today.line.me/th/v3/article/ML7kDJa"
+          "title": "ชี้ 4 ตัวเต็งบอลน่าเชียร์ 23 ส.ค. 69 : ทีเด็ดบอลวันนี้ แมนซิตี้-ลิเวอร์พูล เปิดหัวลุ้นชัย!",
+          "url": "https://www.siamsport.co.th/football-international/premierleague/108304/"
         },
         {
-          "title": "ญี่ปุ่นระทึก แผ่นดินไหวเขย่าคันโตกลางดึก ไม่มีเตือนภัยสึนามิ",
-          "url": "https://www.thairath.co.th/news/foreign/2954618"
+          "title": "LIVE ถ่ายทอดสด แมนซิตี้ พบ บอร์นมัธ ดูบอลสดฟรีช่อง Monomax Sports เวลา 20.00 น.",
+          "url": "https://www.thansettakij.com/sport/667196"
         },
         {
-          "title": "แผ่นดินไหวขนาด 5.9 เขย่าญี่ปุ่นกลางดึก ไม่มีแจ้งเตือนสึนามิ",
-          "url": "https://www.thaipbs.or.th/news/content/509771"
+          "title": "\"เต้ยเป๋าตุง\" ฟันธง (23 ส.ค.69) ชี้ 7 คู่เด่น ทีมลุ้นเข้าวิน เน้นๆ 3 บอลเต็ง",
+          "url": "https://siamrath.co.th/variety/sports/169452"
         }
       ],
-      "updatedAt": "2026-08-23T16:30:00+07:00"
-    },
-    {
-      "id": "topic-0dbb644254",
-      "title": "โทษประหารชีวิต",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#โทษประหารชีวิต"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "ญี่ปุ่น ประหารชีวิต มือเผาร้านปาจิงโกะดับ 5 ศพแล้ว ครั้งแรกในรอบกว่า 1 ปี",
-          "url": "https://www.matichon.co.th/foreign/news_5856942"
-        },
-        {
-          "title": "ญี่ปุ่นตัดสินประหารชีวิต ชายวัย 58 ปี วางเพลิงร้านปาจิงโกะ จนมีผู้เสียชีวิต 5 คน เมื่อปี พ.ศ.2552",
-          "url": "https://news.ch7.com/detail/892566"
-        },
-        {
-          "title": "ญี่ปุ่นประหารชีวิตนักโทษครั้งแรกในรอบกว่า 1 ปี สั่งแขวนคอผู้ก่อเหตุเผาร้านปาจิงโกะ",
-          "url": "https://www.ryt9.com/s/iq/12838707"
-        }
-      ],
-      "updatedAt": "2026-08-23T15:40:00+07:00"
+      "updatedAt": "2026-08-23T19:50:00+07:00"
     },
     {
       "id": "2026-1c2b353b07",
@@ -1112,6 +1038,44 @@
       "updatedAt": "2026-08-21T10:03:07+07:00"
     },
     {
+      "id": "topic-5a27ac924c",
+      "title": "ไบรตัน พบ แอสตันวิลลา",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 5000+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#ไบรตันพบแอสตันวิลลา"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "วิเคราะห์บอล ไบรท์ตัน vs แอสตัน วิลล่า 23 ส.ค. 69 : นางนวลเปิดหัวรับศึกสิงห์ผงาด",
+          "url": "https://www.siamsport.co.th/football-international/premierleague/108298/"
+        },
+        {
+          "title": "จับตา!'เรือ-หงส์'ยุคใหม่เตะประเดิมพรีเมียรลีกอังกฤษ",
+          "url": "https://www.naewna.com/n/sports/20576/"
+        },
+        {
+          "title": "ดูบอลสด ไบรท์ตัน พบ แอสตัน วิลล่า พรีเมียร์ลีก วันนี้ 23 ส.ค.69",
+          "url": "https://www.posttoday.com/lifestyle/747426"
+        }
+      ],
+      "updatedAt": "2026-08-23T19:10:00+07:00"
+    },
+    {
       "id": "topic-53aad7c364",
       "title": "สรุปดราม่า ขนม ศศิกานต์ ไม่พอใจ น้องน้ำ ปมลูกอ๊วกใส่ ครูเต้ย ชี้แจงกลายเป็นหนังคนละม้วน",
       "sourceType": "news",
@@ -1162,32 +1126,6 @@
         }
       ],
       "updatedAt": "2026-08-23T12:17:46+07:00"
-    },
-    {
-      "id": "fifa-2-3-1d5edc3c55",
-      "title": "ฟุตบอลไม่ได้มีไว้ขาย สรุปดราม่าประธาน FIFA พับแผนขายหุ้น 2 หมื่นล้านดอลลาร์ หลังโดนสมาชิก 3 ทวีปจับมือคว่ำบาตร",
-      "sourceType": "news",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "medium",
-      "summary": "ข่าวจาก Google News keyword: ดราม่า / source: thestandard.co - ฟุตบอลไม่ได้มีไว้ขาย สรุปดราม่าประธาน FIFA พับแผนขายหุ้น 2 หมื่นล้านดอลลาร์ หลังโดนสมาชิก 3 ทวีปจับมือคว่ำบาตร    thestandard.co",
-      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#ฟุตบอลไม่ได้มีไว้ขายสรุป"
-      ],
-      "riskNote": "Medium risk ควรเลี่ยงการพาดพิงบุคคลจริงและใช้คำถามเชิงสร้างสรรค์",
-      "sources": [
-        {
-          "title": "thestandard.co",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1JeHFOSlV2c2xhd1llNWZ4UmYxYjM5Mk00TXZ5bEptMVB3MjFnVTlLRWNVVHBEU3JCdFpYYk9QMWtYY0ViX3pQb1RpcEhDWGlQQ0lZem5xRnhCMTgwZ3VWUQ?oc=5"
-        }
-      ],
-      "updatedAt": "2026-08-21T03:08:55+07:00"
     },
     {
       "id": "thai-help-thai-plus",
@@ -1310,6 +1248,44 @@
       "updatedAt": "2026-08-20T14:50:00+07:00"
     },
     {
+      "id": "2569-eed6c65eb7",
+      "title": "ผลการเลือกตั้งนายก อบ จ. กาฬสินธุ์ 2569",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "low",
+      "riskLevel": "high",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "ใช้เป็นข้อมูลเฝ้าระวังมากกว่าบรีฟโพสต์ หากต้องใช้ควรให้ทีม review ก่อน",
+      "promptIdea": "เรื่องนี้ควรเช็กข้อมูลก่อนแชร์ ทุกคนคิดว่าเราควรระวังอะไรบ้าง?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#ผลการเลือกตั้งนายกอบจ.กา"
+      ],
+      "riskNote": "High risk ควรให้ทีม review ก่อนนำไป brief Creator และไม่ควรชวนดราม่า",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "ผลเลือกตั้งนายก อบจ.กาฬสินธุ์ “ไข่มุก” นำ “กำนันหิต” หลังนับคะแนน 12%",
+          "url": "https://www.dailynews.co.th/news/6132906/"
+        },
+        {
+          "title": "เลขาธิการ กกต. ตรวจหน่วยเลือกตั้งนายก อบจ. กาฬสินธุ์ ชื่นชมคุณยายวัย 90 ปี มาใช้สิทธิคนแรก ชี้คนไทยควรเอาอย่าง",
+          "url": "https://thestandard.co/kalasin-election-ec-praises-voter/"
+        },
+        {
+          "title": "“แสวง” ลงพื้นที่กาฬสินธุ์ เตรียมพร้อมก่อนเลือกตั้งนายก อบจ.พรุ่งนี้",
+          "url": "https://mgronline.com/politics/detail/9690000082811"
+        }
+      ],
+      "updatedAt": "2026-08-23T20:00:00+07:00"
+    },
+    {
       "id": "netflix-24-9a29c1f830",
       "title": "ภาพลวงตาย ซีรีส์แนวลึกลับโปรเจกต์ใหม่จาก Netflix เตรียมฉาย 24 ก.ย. นี้",
       "sourceType": "news",
@@ -1334,6 +1310,32 @@
         }
       ],
       "updatedAt": "2026-08-20T20:48:55+07:00"
+    },
+    {
+      "id": "topic-15b7d0a864",
+      "title": "รพ.ขอนแก่นแจงดราม่าไล่คนไข้ไปตายไม่ใช่บุคคลากรของโรงพยาบาล",
+      "sourceType": "news",
+      "category": "social_topic",
+      "contentPotential": "low",
+      "riskLevel": "high",
+      "summary": "ข่าวจาก Google News keyword: ดราม่า / source: ผู้จัดการออนไลน์ - รพ.ขอนแก่นแจงดราม่าไล่คนไข้ไปตายไม่ใช่บุคคลากรของโรงพยาบาล    ผู้จัดการออนไลน์",
+      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
+      "creatorAngle": "ใช้เป็นข้อมูลเฝ้าระวังมากกว่าบรีฟโพสต์ หากต้องใช้ควรให้ทีม review ก่อน",
+      "promptIdea": "เรื่องนี้ควรเช็กข้อมูลก่อนแชร์ ทุกคนคิดว่าเราควรระวังอะไรบ้าง?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#รพ.ขอนแก่นแจงดราม่าไล่คน"
+      ],
+      "riskNote": "High risk ควรให้ทีม review ก่อนนำไป brief Creator และไม่ควรชวนดราม่า",
+      "sources": [
+        {
+          "title": "ผู้จัดการออนไลน์",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9CUnlkSERQVGZqdmxhblZpbnJjNy1OSjZxSHZGWGdYVEpnNmgtbHk1c2Iwc2tsRDRlT0RLX3JxN0p5ZEpCMkVKaEo5bXIwdFl1ekQ0NXBzMXgtaHdW?oc=5"
+        }
+      ],
+      "updatedAt": "2026-08-17T18:40:00+07:00"
     }
   ]
 }
