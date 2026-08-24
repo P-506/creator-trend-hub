@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T09:22:57.938081+07:00",
+  "generatedAt": "2026-08-24T11:48:00.072543+07:00",
   "dateRange": "2026-08-17 to 2026-08-24",
   "sourceErrors": [],
   "topics": [
@@ -132,6 +132,32 @@
         }
       ],
       "updatedAt": "2026-08-18T06:06:12+07:00"
+    },
+    {
+      "id": "fool-in-love-872f746442",
+      "title": "คอปเตอร์-แบงค์ เตรียมประกบคู่ใน ‘Fool in Love คนโง่รักเข(ล)า’ ซีรีส์ที่ดัดแปลงจากนิยายจีน",
+      "sourceType": "news",
+      "category": "entertainment",
+      "contentPotential": "high",
+      "riskLevel": "low",
+      "summary": "ข่าวจาก Google News keyword: ซีรีส์ / source: thestandard.co - คอปเตอร์-แบงค์ เตรียมประกบคู่ใน ‘Fool in Love คนโง่รักเข(ล)า’ ซีรีส์ที่ดัดแปลงจากนิยายจีน    thestandard.co",
+      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
+      "creatorAngle": "เล่า reaction ส่วนตัวต่อกระแส แล้วเปิดคำถามให้คนคุยต่อ",
+      "promptIdea": "กระแสนี้ทุกคนอยู่ทีมไหน?",
+      "hashtags": [
+        "#EntertainmentTH",
+        "#คุยเรื่องบันเทิง",
+        "#กระแสวันนี้",
+        "#คอปเตอร์-แบงค์เตรียมประก"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "thestandard.co",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8zQUxWdmw0RFBpV2dnSGlpWTN0d2s5UVZxdER6X05SbktBUjJWY2NHUXVGWldxdjhkSzRSQnZ3WEVXaXc2RzY3bUd1dElacGNNckc5ZHZMVmVhV3BnLTJjc3R3?oc=5"
+        }
+      ],
+      "updatedAt": "2026-08-22T10:48:50+07:00"
     },
     {
       "id": "miss-universe-2025-b43b7ff499",
@@ -290,13 +316,13 @@
       "updatedAt": "2026-08-18T10:02:48+07:00"
     },
     {
-      "id": "popular-vote-0db9e943f3",
-      "title": "ปชส. จังหวัดภูเก็ต. . ภูเก็ตเดินหน้าต่อยอด “บี้ถ่ายบั๊ก” จากเมนูอาหารถิ่นที่เกือบเลือนหาย สู่แชมป์ Popular Vote ระดับประเทศ เตรียมผลักดันรสชาติและภูมิปัญญาท้องถิ่นให้เ...",
+      "id": "topic-3bf18a9dfd",
+      "title": "ปชส. จังหวัดภูเก็ต. . จากเมนูพื้นบ้านที่เกือบเลือนหาย… สู่การต่อยอดให้เป็นอีกหนึ่ง “เมนูขึ้นชื่อ” ของภูเก็ต 🍜✨ จังหวัดภูเก็ต ชวนย้อนรอยรสชาติอาหารถิ่น กับ “บี้ถ่ายบั๊ก...",
       "sourceType": "news",
       "category": "food",
       "contentPotential": "high",
       "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: อาหาร / source: facebook.com - ปชส. จังหวัดภูเก็ต. . ภูเก็ตเดินหน้าต่อยอด “บี้ถ่ายบั๊ก” จากเมนูอาหารถิ่นที่เกือบเลือนหาย สู่แชมป์ Popular Vote ระดับประเทศ เตรียมผลักดันรสชาติและภูมิปัญญาท้องถิ่นให้เป็นที่รู้จักใ",
+      "summary": "ข่าวจาก Google News keyword: อาหาร / source: facebook.com - ปชส. จังหวัดภูเก็ต. . จากเมนูพื้นบ้านที่เกือบเลือนหาย… สู่การต่อยอดให้เป็นอีกหนึ่ง “เมนูขึ้นชื่อ” ของภูเก็ต 🍜✨ จังหวัดภูเก็ต ชวนย้อนรอยรสชาติอาหารถิ่น กับ “บี้ถ่ายบั๊ก” เมนูดั้งเดิ",
       "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
       "creatorAngle": "ให้ Creator เล่าประสบการณ์ร้าน/เมนูที่อยากลอง แล้วถามคนอื่นว่าคิดเหมือนกันไหม",
       "promptIdea": "เห็นคนพูดถึงเมนูนี้เยอะมาก มีใครลองแล้วบ้าง?",
@@ -304,16 +330,16 @@
         "#FoodTrend",
         "#CafeTH",
         "#รีวิวของกิน",
-        "#ปชส.จังหวัดภูเก็ต..ภูเก็"
+        "#ปชส.จังหวัดภูเก็ต..จากเม"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
         {
           "title": "facebook.com",
-          "url": "https://news.google.com/rss/articles/CBMi0AdBVV95cUxPei1pZjdWVC0ycTdtWW9KWFF5RkVHV29OakJ4VG9mZWFxbTFfLTBOVDdvUWd1ekZPQkhhNlppOUMxdDV0Sm9qbnRhVms5TWV5OVJuRjdveUtzVmt1bmV5NXF0cUpPSk14eDBVZElZX3FqRElfYWRISGp0YjB5U0N5Q2V2Z1VQUXFJMVQwbFR4Q0VGSm9aUF9Eb0xOTzdsWmEwWHBtYjdpelhPUHNZOXJ2Yml2bXNMN0xhMGhNMldJV2xpWHBVY1RBSV82ZHZZU0ZWbGREeFpqMlpnLVVHV0RvYzduZ29pN2hSSWlBc0ZYdnp6RGQ3aHBRcnNrS2dtdzBrdUNYbWp3M0xLdTJkYi1SZVJTSG5MUnFFZkFXaG90aE5hYUpoNFlWRWE0MTliX1hZbFZBeG1walI0cnNLaFpHN3EzN0w2U1AzYURJZ3F2YVRqdFJQdjd1Y0ZVclZ5bVNTOXE4eUxuZ3Q0VTFWelNKQi1lbldBVmJhbFVwc3hFN1lRRU1oWGlaU19zTjBxdDdDdm5oOEVZdTFrWUtWOWptOXg5c2VzbW1jeGdOdzZUa0xrZ21DeThTaUpvOUtpVDB1OV9IT1g0aFV5NTBHVGpZOHFlbzdpZDl5bGJUMXJTOEQ5UDhETXA1eWtaVUdjck5HckpNOWNGRmJGYXgxUG90ZDhRNnNKalFGTmFQSDBGZWRwZy1NNnVZOWk4NXQ0UGpEU0lma1pKVUxCWVBlTHl0NnA1cUhHVi04Ymo5aGV5ODlya3hVbDhkYlN4cVhWNDFIVDR2Tmh6eXFieUxqMUx4VFBTRGVVLUtDRzlJOFVibFV4Q19LVnlPUmxVNjN0b1JxR3dCdF9SVVFXVmh6ejVWS2NiUjlfRnZ0WnA3UGhIaWctWFI2M0h2RkgycWNVbmRTUGxzZllUbXpwQmxRN0RyZHNOVGNtVDYyN0FVbktRc3M0VV8yXzJUSkdzLXk3VVR1a1JrUnJ2OGxEejYwdmwzQmstcGpXZy1DWWR2SFVQc2FUelZIRG5OV2Zsa1pGc25UdmprdlU3TmQ2ZFhvaEhDdXJfX3ZqanRZV2FWekI4Y3ItWWFjc05pbzBvV3dxV21fWlMzUGFSQ3p6UU5YWTFLRmhFd1V0WGlDNVpzZko2ekZpYVkwUDdiOERfX0lQUzlIeUo4NkFsMzh4NTBQR3Fwa0NxRHE5X19ZbmhzallBcFNtV09rY2JyZ2lVeG5GanU2Mzdaa2lsNDA4OGU5QU13dUdtZzBKSWczRVZsYmVYNmdsYS1LcUlCYS10MGU1N01N?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMikAhBVV95cUxORUwtd19RZ2NiNzFJaktkSV9CamE1aFVvU3puUm5HenpNQkZqbGltYWxLQnUwN3Q1UDhkUXotenR0a3BnUFBzSThKM3JMRFdJX1g1bEdBWjJfbVl5MTNPczZWYzl1Y3ZmNE9mV09iY1F1aU1BRlZJRi0zY2lESGFwcGd5TUhjX1hhSmFIb3ZtZFRKYUFJb0dDZ0VFYmxiczd4aFFvYS1xdmxsR3p3Sm5zZDdkb1dOU1p5VWVvVUlsUkM5bHZ0Y3psY1pUZTRSR2xsNWtGRzlVMGVhM2x4ZnhxZ3hyZkMwRzVJdEZBT29PS1lHQzlVY3ppMzQ0X2ZvdnAyM3JNMDgxMV83VEdjMm5EYjc4Z1dGXzVINFRYSEJiTFB2bmlCMkJucGpYTDVMc0hWc0FRSHJabDlQNW42UVNMTF9MTjE0M0FUWlBJQzNLTFE4T2JGRk5vT2JWRXlZU0FHN1Z5b2NlN245WmhJS0RjejdwTlhHTnItX0xhbmRneGxfNmp3M3JKQjhBYkkwajkxdGJDcnBCSDdmYnBRYkZhbzFZeWJXZ3pLWk5XSWZrSDJyeG9aLTZhYnlFeU5zOTVzZG1uQzR0WDB4M3JqQzlCSldzRUstNW1UTzhxcWhpRUN4bFVjd21FY1pxbURRRHpMb0dDeS1HbTJicnZ1VERaU1NVaEx1SXdMWW5SME1ZSC1QYjhGRDRkWkI4NDllbm9Wbk03M2VNOURKeGhjUzZKR3UtZ3N0OU1IUjhMdE1zaFZ4aGRGcndNMkV3ZjhkcFpNY1p4RUt5ZVZDbURVWUVpMHZkQmRTQnBra3ZNbW44ZWRvTkV5aTRxWEdEVDd4NXc3RDQ2T0o0YjhuZ3hzMVNzUmw4S0xJOW1KYjR4ZVV1b0pSVFJsamJPU2o3N1NkZjg3OVZsWmNRTWlpVnVBY1ZVaHRST2FlUmtKcVcxTUliZV9yOU9oakNVTXVYQ1dIRGR1TnhYWi1FWXFqOEQ0WmtxVE1KZGhFc2txYVEwTmFJc0l1anVyQk5LZ0JBOGRldDdydVQxUVRyNXN6VUw2OFprWUh6dDJhaUhQRWhZN3lpTjhoQkdWWkJ2eDh6YUYtZ1MxX2tqTGMwQmJ6c3NlZk9QcXpMMkZyaFdnZEluSlZDNjZ6NGlCZFJaZlJUdnBXaDkzZjlJazJyYVpDTE9YQVZxemxWQXVKYU9zNmFFMXNGUHdDclVtQWpVcnZDMlZSLU1hcjBtNU1kTDdIbmhUWHNCM25wd0tEdG5MV1kzQ1JZN0k0R01ZMWs4R19pQzMxbDBoTGFLcS1YTXNBSExoTU1HS2NKcm5ZQmdtYnA0VDFaYjR4d0paSU1pdVFuVGs1TzRRX1ZhQmNFbmgxMVUxc1dBUg?oc=5"
         }
       ],
-      "updatedAt": "2026-08-18T19:01:42+07:00"
+      "updatedAt": "2026-08-21T13:03:49+07:00"
     },
     {
       "id": "topic-5bb0df9887",
@@ -337,6 +363,32 @@
         {
           "title": "Marketeer Online",
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4zT09jQ0pkSUtlSkRCUDN1amozeDV0OWxocmw4d3RoUHp2dzBydVBSRV9QQ3ZZemZYSHNFNVRRZElmZXVCR3A3aHNmX0syYUUxR29JdA?oc=5"
+        }
+      ],
+      "updatedAt": "2026-08-21T14:00:00+07:00"
+    },
+    {
+      "id": "topic-6a5df5b4ba",
+      "title": "รวมหนัง-ซีรีส์-รายการดัง ของต่างประเทศที่มาถ่ายทำในไทย ดูจบเเล้วต้องรีบตามรอยเที่ยว",
+      "sourceType": "news",
+      "category": "entertainment",
+      "contentPotential": "high",
+      "riskLevel": "low",
+      "summary": "ข่าวจาก Google News keyword: ซีรีส์ / source: Marketeer Online - รวมหนัง-ซีรีส์-รายการดัง ของต่างประเทศที่มาถ่ายทำในไทย ดูจบเเล้วต้องรีบตามรอยเที่ยว    Marketeer Online",
+      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
+      "creatorAngle": "เล่า reaction ส่วนตัวต่อกระแส แล้วเปิดคำถามให้คนคุยต่อ",
+      "promptIdea": "กระแสนี้ทุกคนอยู่ทีมไหน?",
+      "hashtags": [
+        "#EntertainmentTH",
+        "#คุยเรื่องบันเทิง",
+        "#กระแสวันนี้",
+        "#รวมหนัง-ซีรีส์-รายการดัง"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Marketeer Online",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE90NW05Mm42M2MzbmQta0t2LWFEZzNYQ1V4OHYybk1nWVZCU09CRHRLX2p0aDZLVjdPNjI5Z1JIY1N6NHBmaWJDd1hnYndJS2p0MFRnag?oc=5"
         }
       ],
       "updatedAt": "2026-08-21T14:00:00+07:00"
@@ -420,32 +472,6 @@
       "updatedAt": "2026-08-18T11:50:00+07:00"
     },
     {
-      "id": "ceo-1efe503e3a",
-      "title": "อดตกถังข้าวสาร จีนสั่งเบรกละครสั้น CEO ไม่ทำงาน เปย์สาวไปวัน ๆ จากนี้ให้ทำแนวช่วยกันทำมาหากิน พัฒนาตัวเองดีกว่า",
-      "sourceType": "news",
-      "category": "food",
-      "contentPotential": "high",
-      "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: ซีรีส์ / source: Marketeer Online - อดตกถังข้าวสาร จีนสั่งเบรกละครสั้น CEO ไม่ทำงาน เปย์สาวไปวัน ๆ จากนี้ให้ทำแนวช่วยกันทำมาหากิน พัฒนาตัวเองดีกว่า    Marketeer Online",
-      "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
-      "creatorAngle": "ให้ Creator เล่าประสบการณ์ร้าน/เมนูที่อยากลอง แล้วถามคนอื่นว่าคิดเหมือนกันไหม",
-      "promptIdea": "เห็นคนพูดถึงเมนูนี้เยอะมาก มีใครลองแล้วบ้าง?",
-      "hashtags": [
-        "#FoodTrend",
-        "#CafeTH",
-        "#รีวิวของกิน",
-        "#อดตกถังข้าวสารจีนสั่งเบร"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Marketeer Online",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAwNDVDQ1NPbFEzeXFPOXdKSjhuZEJZXzBZeTd5Wkpra2g0U1JWS3ZJcFE4LUMwSGgxQkJnVW04OEhLZ05rb0tReGtpenFmMTVJMW5aSQ?oc=5"
-        }
-      ],
-      "updatedAt": "2026-08-20T14:00:00+07:00"
-    },
-    {
       "id": "art-of-collecting-ff3c703b22",
       "title": "เปิดภาพถ่ายแฟชั่นเซ็ต 'Art of Collecting' เรื่องราวของความทรงจำ ที่กระจัดกระจายราวกับสมุดสภาพ",
       "sourceType": "news",
@@ -472,13 +498,13 @@
       "updatedAt": "2026-08-21T14:00:00+07:00"
     },
     {
-      "id": "u17-7-fivb-volleyball-girls-u17-world-ch-9e4dacdf7b",
-      "title": "U17 🇹🇭ไทย ชนะ🇭🇷โครเอเชียคว้าอันดับ 7 ศึก FIVB Volleyball Girls’ U17 World Championship 2026 🏐ทีม U17 ไทย 🇹🇭 ลงสนามรอบชิงอันดับ 7 ศึกวอลเลย์บอลหญิงชิงแชมป์โลก 2026 FIVB...",
+      "id": "thailand-volleyball-association-f39b214653",
+      "title": "Thailand Volleyball Association สมาคมกีฬาวอลเลย์บอลแห่งประเทศไทย. . สมาคมกีฬาวอลเลย์บอลแห่งประเทศไิทย ร่วมกับ รัฐบาล เปิดศึก \"ไพรม์มินิสเตอร์ส ยูธ คัพ\" เวทีปั้นดาวรุ่ง...",
       "sourceType": "news",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: วอลเลย์บอล / source: facebook.com - U17 🇹🇭ไทย ชนะ🇭🇷โครเอเชียคว้าอันดับ 7 ศึก FIVB Volleyball Girls’ U17 World Championship 2026 🏐ทีม U17 ไทย 🇹🇭 ลงสนามรอบชิงอันดับ 7 ศึกวอลเลย์บอลหญิงชิงแชมป์โลก 2026 FIVB Volleyball G",
+      "summary": "ข่าวจาก Google News keyword: วอลเลย์บอล / source: facebook.com - Thailand Volleyball Association สมาคมกีฬาวอลเลย์บอลแห่งประเทศไทย. . สมาคมกีฬาวอลเลย์บอลแห่งประเทศไิทย ร่วมกับ รัฐบาล เปิดศึก \"ไพรม์มินิสเตอร์ส ยูธ คัพ\" เวทีปั้นดาวรุ่งวอลเลย์บอลในร",
       "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -486,16 +512,16 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#U17🇹🇭ไทยชนะ🇭🇷โครเอเชียคว"
+        "#ThailandVolleyballAssoci"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
         {
           "title": "facebook.com",
-          "url": "https://news.google.com/rss/articles/CBMinARBVV95cUxONlFyeHFMclM5V05aT0dpWDhuYUhKck1qWnpfb1FjcGZuT05jX0FPN3JFTlRpQnYtNmRKaHdGbHZPdDQ2cGdqTzR0OEljTHB3RGZKWHY2SFpjbVpjZ0lHOUtTOXQzckM2VXlKNFNYc1ZzQVA1dDFsWlU4LS1DNFpDRkRxdUNPTWNxWDBLTnhPV3ZMRUtKSnQ4TnY5ZEEyVjhlYWRRWUR3ZGl5S3ZMelZ6X3IwTE1FaUk5LXJnbE9YQ0FYQ2dGN1NlQUdUME4zLVBaTDhscmQtZFdDcFRhRzk5N05xWnRsNVQxenM5TERqTUhjTWMtc2d2VXRzS3M3dndiZlJMUUhaTWtWZDhOeWUyWGJ6ZmNtSlp0MXlHNDJlV1V2V3lVRlBVZGYxeEhCUXdHc0lObWpXckpOYzhkLU9ISHhvMWJoSzF2WDNuVjdBNTF5Z3Rpd1ZBSEg5MkhYbzd5TVRIRzZDdjZRdVpzcGI0M2NzeEk0ZU5Sb3lKeGthZk9IMlZSVUpMcnN2WW1TZlBTSkh4T0NDbTZfMF9yUEdIRGxDWFV0b3c4alAtRDg4SWZfN2FldnFoMXBoRnlZbWlYLTgzSUE4WHVISS1TY2UyTVJKLUFzU294S21CZ1BpSlZRVF9fQXctbVE0cE8tQWNxWkpuRU0zdGZoQWV6Y0FqZGxDZU50eks0WENUTk9HckI5WkFXdmVaQ2VrWUQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMihwhBVV95cUxQc0JKMklrSnJCb2w2eUdYNl9qN296eDIwSEl6QkRud3FVelVFNzFJbFZYQVZ1dkJwRGZ1UnpYOUZucC10UTM2c0k5YzR0N0oyNVk1dmV1azJ1ZXNqRUdDUDhTYjM3UUVfWnVuR1BKYzA4OVMwcGxrWkxZV2dZeHNpRkQ1NUtiazU1dW1OOEk3ZTl6RWVYMkVNMng5XzUtOEFYRW4xM1o3aVlONktfUHJ4ZXVTRHB0U2VkcVhvd2p2X3J2WklNWGhia1NhdUtmUmZuZjl0VURQX25BZ0NzZXE5czVuWGtSTXlTVmFLcHM4a19vUWpSNjkydjk2OFlMWWVBTk5xZjJuNXpEWnQ5V1NzLXA2cXBWS0FBSnBVUGpaTlQ5MHJ5UDRwRE5peXdDdUtpa3BhNkdpV1BTVXRWUlUzVUdfdldWeG4zdEZrVGxJV0NkekJOd0Vkc0FubldNdmw1WmdoT3Q5WjBRNmJ4S200RFRIOWVsNVFBQ1dxTFJMMmc5SkZrT0tGd3ZDOEp2aWx0LXNBUFRPVWhvNVpwV09Qc0lxVzdmWWdpN1pEZUtlbWFhYnZjbDRleTBpQjk5S3RXUHVpUWM3SG9TYWpaWGJsZXktOFZLZWEzQ0toV1EtNDBmWlZxWWpoU3BCNUJTa182bHB4UDRJVk1vT1pRLVZlSDhGemQ0aWViV3YwRWNld29IbENleV9QaldFOEZxQ18tLVMzU0FCWHdfMENnVG1Gazh5elctY2xQOGJ2ZHVGZE9YSTMwVHdfWnlILUwzYm5wWmlUWkFHcXRNNURWcmpMZkpLMzJvaWU2WTNTbGM3UHRQdC1sVmlIYXExV0xLWTVIcEYyRDN1enA3ampZQ2cyWVRtZnA4aW9OcFN3eklqVHV4UHRQbXRKUUZSU3ZJX25xWlNfYmdRczRqbEdpNXVEUjkyaGZrelVSZjZmVTdlOS1uU1labWdvTHNqUUdPQkpQWVVRV0ZpUkVvU2I3RHlWaWViSHFtOFpoOWRmbVdLNThFNTc4cGlXek1KX01GdHRlbEU0LWJLU205OVI0cjgzVDdNcHljc3R5QkRHRG5jeUthNHdZTVpNblh0RmljRkhEazFGUUdCZzdQd0lnZFhmSkZQNDJIbFRDbHpKTGtlZG1qS3czOE8tWkVSSzhkMWJLMWR2T1V3RzBIQ3Mta19xejM1dllGSWFScWUyUy11OUJRY3JMaXhXRjFUR3V4dzItU0tBdlFhSDBDQzM0SlRRYjhXWXUyT1Q0a21wVXhLQUZrdGpNMVFlNHFidFhWekJTT0tXNThJV2RUM3Y4RDdQUE9yRTAtYzhpUFZOeVhvMnZHc1RSY2RXSEdVcmV2QTFxN3cxbXh5aw?oc=5"
         }
       ],
-      "updatedAt": "2026-08-17T10:19:18+07:00"
+      "updatedAt": "2026-08-19T23:47:58+07:00"
     },
     {
       "id": "elche-cf-vs-fc-barcelona-standings-3f875ce582",
@@ -525,19 +551,19 @@
           "url": "https://www.bbc.com/sport/football/live/c60ej013yengt"
         },
         {
-          "title": "Licensable picture: Elche CF v FC Barcelona - LaLiga",
-          "url": "https://www.reutersconnect.com/item/elche-cf-v-fc-barcelona-laliga/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMUFOQURMMDAwNllQNU9X"
+          "title": "Dream debut for Anthony Gordon as substitute bags two quick assists in Barcelona's 5-0 win over Elche",
+          "url": "https://www.goal.com/en-ca/lists/anthony-gordon-dream-barcelona-debut-two-assists-elche-win/blt5658c65de952fb3c"
         },
         {
-          "title": "Preview: Elche vs Barcelona - prediction, team news, lineups",
-          "url": "https://www.sportsmole.co.uk/football/barcelona/race-for-the-la-liga-title/preview/elche-vs-barcelona-prediction-team-news-lineups_603472.html"
+          "title": "Licensable picture: Soccer 2026: Elche CF Vs FC Barcelona",
+          "url": "https://www.reutersconnect.com/item/soccer-2026-elche-cf-vs-fc-barcelona/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVpVTUEwMDBSWThHQ1c"
         }
       ],
       "updatedAt": "2026-08-24T06:30:00+07:00"
     },
     {
-      "id": "psg-106a87994d",
-      "title": "psg",
+      "id": "live-98aadb3708",
+      "title": "live",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
@@ -550,7 +576,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#psg"
+        "#live"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -559,19 +585,19 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "DIRECT. Rennes - PSG, Ligue 1 : Ferran Torres ramène le PSG à égalité !",
-          "url": "https://www.lequipe.fr/Football/match-direct/ligue-1/2026-2027/rennes-psg-live/690265"
+          "title": "ไทย VS อินโดนีเซีย : วอลเลย์บอลหญิงชิงแชมป์เอเชีย 2026, เทียบสถิติ, ถ่ายทอดสด",
+          "url": "https://www.sanook.com/sport/1669958/"
         },
         {
-          "title": "Haise : «Plus de positif que négatif»",
-          "url": "https://fr.news.yahoo.com/haise-positif-n%C3%A9gatif-221528559.html"
+          "title": "ข่าวโคชอ๊อต ติวเข้มรับ-เสิร์ฟ พร้อมลุยอินโดนีเซีย นัดสองชิงแชมป์เอเชียวันนี้",
+          "url": "https://www.ch7.com/sports/892949"
         },
         {
-          "title": "️[News-Pros] \"C'était une circonstance exceptionnelle\" : Luis Campos défend la position du PSG après l'inversion de son match contre Rennes (Ligue 1+)",
-          "url": "https://www.lestitisdupsg.fr/a-la-une/%F0%9F%8E%99%EF%B8%8Fnews-pros-cetait-une-circonstance-exceptionnelle-luis-campos-defend-la-position-du-psg-apres-linversion-de-son-match-contre-rennes-ligue-1/"
+          "title": "\"โค้ชอ๊อต-ปิยะนุช\" เผยความพร้อม ก่อน \"ตบสาวไทย\" ดวล \"อินโดนีเซีย\" ชิงแชมป์เอเชีย 2026",
+          "url": "https://www.thairath.co.th/sport/worldsport/volleyball/2954716"
         }
       ],
-      "updatedAt": "2026-08-24T03:30:00+07:00"
+      "updatedAt": "2026-08-24T09:30:00+07:00"
     },
     {
       "id": "tt-8c1017982b",
@@ -597,16 +623,16 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
+          "title": "Formel 1: Weltmeister Norris spürt weiter Aufwind",
+          "url": "https://sport.orf.at/stories/3161619/"
+        },
+        {
           "title": "Drama um Max Verstappen bei der Formel 1 – Unfall in der 1. Runde",
           "url": "https://www.bild.de/sport/mehr-sport/drama-um-max-verstappen-bei-der-formel-1-unfall-in-der-1-runde-6a8af1573d529c02349923d7"
         },
         {
           "title": "21:55 Verstappen ordnet \"heftigen Einschlag\" ein",
           "url": "https://www.n-tv.de/sport/der_sport_tag/Der-Sport-Tag-bei-ntv-de-am-Sonntag-dem-23-August-2026-id31222668.html"
-        },
-        {
-          "title": "Abschied aus Kalender - Norris jubelt in Zandvoort, Drama um Verstappen",
-          "url": "https://www.krone.at/4263509"
         }
       ],
       "updatedAt": "2026-08-24T08:40:00+07:00"
@@ -702,13 +728,13 @@
       "updatedAt": "2026-08-24T08:00:00+07:00"
     },
     {
-      "id": "3-a5fe8b9cdc",
-      "title": "ช่อง 3",
+      "id": "topic-a081fc4a1b",
+      "title": "ฝรั่งเศส",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 100+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -716,33 +742,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#ช่อง3"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        }
-      ],
-      "updatedAt": "2026-08-24T06:10:00+07:00"
-    },
-    {
-      "id": "topic-45ec30fb30",
-      "title": "ผลบอลเมื่อคืน",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 1000+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#ผลบอลเมื่อคืน"
+        "#ฝรั่งเศส"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -751,57 +751,19 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "สรุปผลบอลเมื่อคืน 5 ลีกใหญ่ยุโรป ประจำวันที่ 24 ส.ค. 69",
-          "url": "https://www.sanook.com/sport/1669900/"
+          "title": "ความร้อนเป็นเหตุ ฝรั่งเศสจมน้ำดับทะลุ 300 ศพ ขณะหาทางคลายร้อน",
+          "url": "https://www.thairath.co.th/news/foreign/2954767"
         },
         {
-          "title": "แฟนดอร์ทมุนด์-บาเยิร์น รวมใจเป็นหนึ่งจัดแมตช์กระชับมิตร โหมโรงก่อนเปิด บุนเดสลีกา",
-          "url": "https://www.siamsport.co.th/football-international/bundesliga/108283/"
+          "title": "อดีตนักการทูตอังกฤษ-ฝรั่งเศส 100 คน ลงนามจี้รัฐบาล ‘คว่ำบาตร’ อิสราเอล ชี้กำลังกวาดล้างชาติพันธุ์ปาเลสไตน์",
+          "url": "https://thestandard.co/ex-diplomats-urge-sanction-israel-palestine/"
         },
         {
-          "title": "ดูบอลสด วิเคราะห์บอลซูเปอร์คัพ 2026 ดอร์ทมุนด์ พบ บาเยิร์น 22 ส.ค.69",
-          "url": "https://www.pptvhd36.com/sport/news/282019"
+          "title": "ทันโลก กับ Thai PBS",
+          "url": "https://www.thaipbs.or.th/program/Tanloke/watch/3v7pupuqm3po"
         }
       ],
-      "updatedAt": "2026-08-24T05:30:00+07:00"
-    },
-    {
-      "id": "topic-f20d0f24ae",
-      "title": "พัสวี พยัคฆ บุตร",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 500+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#พัสวีพยัคฆบุตร"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "\"ไฮโซน้ำหวาน\" เผยนาทีวิกฤติ \"นาวินต้าร์\" ฮีทสโตรก​ เกือบเป็นเจ้าชายนิทรา​ ลั่นถึงติดเตียงก็ไม่ทิ้ง!",
-          "url": "https://mgronline.com/entertainment/detail/9690000083062"
-        },
-        {
-          "title": "‘ไฮโซน้ำหวาน’ หน้าสดใสขึ้นพาลูกทำบุญ หลังมีรูปป่วยใส่เครื่องช่วยหายใจจนเอฟซีห่วงหนัก",
-          "url": "https://www.dailynews.co.th/news/6132046/"
-        },
-        {
-          "title": "\"ไฮโซน้ำหวาน\" ภรรยา \"นาวิน ต้าร์\" ป่วยหนัก ต้องใช้เครื่องช่วยหายใจ",
-          "url": "https://www.sanook.com/news/9904634/"
-        }
-      ],
-      "updatedAt": "2026-08-24T05:30:00+07:00"
+      "updatedAt": "2026-08-24T08:40:00+07:00"
     },
     {
       "id": "topic-3d3b966f31",
@@ -810,7 +772,7 @@
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 100+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -842,30 +804,80 @@
       "updatedAt": "2026-08-24T07:50:00+07:00"
     },
     {
-      "id": "3-0-2026-ca869687d6",
-      "title": "วอลเลย์บอลหญิงไทย ชนะ ออสเตรเลีย 3-0 เซต ชิงแชมป์เอเชีย 2026",
-      "sourceType": "news",
+      "id": "2569-b0525ee3af",
+      "title": "วันหยุด 2569",
+      "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: วอลเลย์บอล / source: Thai PBS - วอลเลย์บอลหญิงไทย ชนะ ออสเตรเลีย 3-0 เซต ชิงแชมป์เอเชีย 2026    Thai PBS",
-      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 100+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
       "hashtags": [
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#วอลเลย์บอลหญิงไทยชนะออสเ"
+        "#วันหยุด2569"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
         {
-          "title": "Thai PBS",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1td19qc1NOdXlwR0ZRZFBDTEZXdlVONGVfRnkzU25RSldLczFaSExpNndKeHpNcVR4bUxBWjU1SnRyV1g3Ty12RG1lTEJGcjhLMmxuWG85VVo?oc=5"
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "วันหยุดเดือนกันยายน 2569 กางปฏิทินวางแผนลาพักร้อน พักผ่อนแบบไม่กระทบงาน",
+          "url": "https://www.thairath.co.th/news/society/2954204"
+        },
+        {
+          "title": "ปฏิทินกันยายน 2569 เดือนที่ไร้วันหยุด สู้ชีวิตได้แต่ต้องไม่ลืมฮีลใจ",
+          "url": "https://www.thaipbs.or.th/news/content/509704"
+        },
+        {
+          "title": "วันหยุดเดือนกันยายน 2569 มีวันหยุดราชการกี่วัน? มีวันหยุดยาวมั้ย?",
+          "url": "https://www.sanook.com/news/9866590/"
         }
       ],
-      "updatedAt": "2026-08-21T13:07:02+07:00"
+      "updatedAt": "2026-08-24T11:20:00+07:00"
+    },
+    {
+      "id": "topic-94eacc981a",
+      "title": "วิเคราะห์บอลวันนี้",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#วิเคราะห์บอลวันนี้"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "วิเคราะห์บอล โรม่า vs ฟิออเรนติน่า 24 ส.ค. 69 หมาป่าล่าชัยเปิดหัวในบ้าน",
+          "url": "https://www.siamsport.co.th/football-international/serie-a/108353/"
+        },
+        {
+          "title": "ข่าวแมนฯ ซิตี ประเดิม 3 แต้ม แมตช์แรกพรีเมียร์ลีก - ลิเวอร์พูล บุกเจ๊า นิวคาสเซิล ดุเดือด 2-2",
+          "url": "https://www.ch7.com/sports/892981"
+        },
+        {
+          "title": "ผลบอลสด แมนซิตี้ ชนะ บอร์นมัธ 2-1 ฟุตบอล พรีเมียร์ลีก อังกฤษ 2026-27 นัดแรก",
+          "url": "https://www.thairath.co.th/sport/eurofootball/premierleague/2954707"
+        }
+      ],
+      "updatedAt": "2026-08-24T06:30:00+07:00"
     },
     {
       "id": "topic-93f89117ea",
@@ -917,19 +929,45 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
+          "title": "Santos fan in tears as she hugs Neymar during Brazil anthem",
+          "url": "https://onefootball.com/en/news/santos-fan-in-tears-as-she-hugs-neymar-during-brazil-anthem-43328728"
+        },
+        {
           "title": "Santos vs Mirassol: Serie A stats & head-to-head",
           "url": "https://www.bbc.com/sport/football/live/cm36d91ly6e7t"
         },
         {
           "title": "Preview: Santos vs Mirassol - prediction, team news, lineups",
           "url": "https://www.sportsmole.co.uk/football/santos/preview/santos-vs-mirassol-prediction-team-news-lineups_603543.html"
-        },
-        {
-          "title": "Licensable picture: Brasileiro Championship - Santos v Mirassol",
-          "url": "https://www.reutersconnect.com/item/brasileiro-championship-santos-v-mirassol/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNOE4xVEdUSzQ"
         }
       ],
       "updatedAt": "2026-08-24T07:00:00+07:00"
+    },
+    {
+      "id": "2026-a397a5e62c",
+      "title": "เปิดสถิติวอลเลย์บอลหญิงไทย-ออสเตรเลีย ก่อนดวลชิงแชมป์เอเชีย 2026",
+      "sourceType": "news",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "ข่าวจาก Google News keyword: วอลเลย์บอล / source: Thai PBS - เปิดสถิติวอลเลย์บอลหญิงไทย-ออสเตรเลีย ก่อนดวลชิงแชมป์เอเชีย 2026    Thai PBS",
+      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#เปิดสถิติวอลเลย์บอลหญิงไ"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Thai PBS",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9IdFlWdnU0U2dYdXRrVXBmMU81TDM4d3dlOVFNVmtGRXN0Yl9tYk5IZzRKMUhMQlVJRm1leXJvVWdwQ28yQllFbmx4RjBIV3lya0tuOHNXTTk?oc=5"
+        }
+      ],
+      "updatedAt": "2026-08-21T10:33:57+07:00"
     },
     {
       "id": "3-0-2026-23d40390c2",
@@ -1172,7 +1210,7 @@
         },
         {
           "title": "bangkokbiznews",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9tN0t3dDZrYm1HcGZDNWN1cUMtUzdETE5DN0FYa3pzMkVoREZTZFNqcEZXWU9HZWpVUGFQNmVWYWFkdDBKV1RLQmpER3FPdjRQclNMc05mTTFQNTAwSzBpUWhZUHFCdw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5wRVdkMkVNbHMtV3ptZWlMZF9abTYyMmxvRGxSakRQX3Y3RkltMzJVVHBwNWlBWjZQWnhHa3JfUnowaWU1UnMtT0Q4eG9YYnMzeHg0a0VB?oc=5"
         },
         {
           "title": "facebook.com",
@@ -1208,32 +1246,6 @@
       "updatedAt": "2026-08-20T17:08:19+07:00"
     },
     {
-      "id": "topic-efab4d0f53",
-      "title": "ดราม่าเดือด! ผู้ป่วยหญิงเสียชีวิต หลังโพสต์ระบายรอรักษานาน ชาวเน็ตตั้งคำถามพยาบาลคอมเมนต์รุนแรง",
-      "sourceType": "news",
-      "category": "social_topic",
-      "contentPotential": "low",
-      "riskLevel": "high",
-      "summary": "ข่าวจาก Google News keyword: ดราม่า / source: ข่าวสด - ดราม่าเดือด! ผู้ป่วยหญิงเสียชีวิต หลังโพสต์ระบายรอรักษานาน ชาวเน็ตตั้งคำถามพยาบาลคอมเมนต์รุนแรง    ข่าวสด",
-      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
-      "creatorAngle": "ใช้เป็นข้อมูลเฝ้าระวังมากกว่าบรีฟโพสต์ หากต้องใช้ควรให้ทีม review ก่อน",
-      "promptIdea": "เรื่องนี้ควรเช็กข้อมูลก่อนแชร์ ทุกคนคิดว่าเราควรระวังอะไรบ้าง?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#ดราม่าเดือด!ผู้ป่วยหญิงเ"
-      ],
-      "riskNote": "High risk ควรให้ทีม review ก่อนนำไป brief Creator และไม่ควรชวนดราม่า",
-      "sources": [
-        {
-          "title": "ข่าวสด",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9kQ2lfRGZQd2VINDhhU0hGZ3dxLTY3c2RPZG5MQ29qZV83YWk5b3YxYXg2V0RwdGd6WWdiZmdDay1FMFM4bTY5YkJXM3BvOHhCOWVBQ2hkelpKeEVqXzcyOG9KWF8wQQ?oc=5"
-        }
-      ],
-      "updatedAt": "2026-08-17T11:43:00+07:00"
-    },
-    {
       "id": "6-8-30-5a9311517d",
       "title": "ทลายโกดังเถื่อน “อาหารสุนัข-แมว” เกรดนำเข้าจากจีน 6.8 ตัน มูลค่า 30 ล้าน!",
       "sourceType": "news",
@@ -1260,30 +1272,30 @@
       "updatedAt": "2026-08-20T14:50:00+07:00"
     },
     {
-      "id": "netflix-24-9a29c1f830",
-      "title": "ภาพลวงตาย ซีรีส์แนวลึกลับโปรเจกต์ใหม่จาก Netflix เตรียมฉาย 24 ก.ย. นี้",
+      "id": "topic-15b7d0a864",
+      "title": "รพ.ขอนแก่นแจงดราม่าไล่คนไข้ไปตายไม่ใช่บุคคลากรของโรงพยาบาล",
       "sourceType": "news",
-      "category": "entertainment",
+      "category": "social_topic",
       "contentPotential": "low",
       "riskLevel": "high",
-      "summary": "ข่าวจาก Google News keyword: ซีรีส์ / source: thestandard.co - ภาพลวงตาย ซีรีส์แนวลึกลับโปรเจกต์ใหม่จาก Netflix เตรียมฉาย 24 ก.ย. นี้    thestandard.co",
+      "summary": "ข่าวจาก Google News keyword: ดราม่า / source: ผู้จัดการออนไลน์ - รพ.ขอนแก่นแจงดราม่าไล่คนไข้ไปตายไม่ใช่บุคคลากรของโรงพยาบาล    ผู้จัดการออนไลน์",
       "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
       "creatorAngle": "ใช้เป็นข้อมูลเฝ้าระวังมากกว่าบรีฟโพสต์ หากต้องใช้ควรให้ทีม review ก่อน",
       "promptIdea": "เรื่องนี้ควรเช็กข้อมูลก่อนแชร์ ทุกคนคิดว่าเราควรระวังอะไรบ้าง?",
       "hashtags": [
-        "#EntertainmentTH",
-        "#คุยเรื่องบันเทิง",
-        "#กระแสวันนี้",
-        "#ภาพลวงตายซีรีส์แนวลึกลับ"
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#รพ.ขอนแก่นแจงดราม่าไล่คน"
       ],
       "riskNote": "High risk ควรให้ทีม review ก่อนนำไป brief Creator และไม่ควรชวนดราม่า",
       "sources": [
         {
-          "title": "thestandard.co",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1VX1ZpbEV4VVlCRGk1LUNybmpKQW1HZXdXOXM5Yl9KdzZBM2ZOdlVLWEx2cVVkQlhSMFV3SjZjT0tSd1g4YUFScjlfWE1HSmNmVmRMaEF2dk9mbXpkcU9JNThjblU3a3c?oc=5"
+          "title": "ผู้จัดการออนไลน์",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9CUnlkSERQVGZqdmxhblZpbnJjNy1OSjZxSHZGWGdYVEpnNmgtbHk1c2Iwc2tsRDRlT0RLX3JxN0p5ZEpCMkVKaEo5bXIwdFl1ekQ0NXBzMXgtaHdW?oc=5"
         }
       ],
-      "updatedAt": "2026-08-24T02:02:15+07:00"
+      "updatedAt": "2026-08-17T18:40:00+07:00"
     },
     {
       "id": "topic-08c1493007",
@@ -1313,12 +1325,12 @@
           "url": "https://www.hfocus.org/content/2026/08/39210"
         },
         {
-          "title": "สังคมภูมิภาคเหนือตอนบน…เตือน! เช็ก 5 สัญญาณ หัวใจเริ่มมีปัญหา",
-          "url": "https://www.dailynews.co.th/articles/6130820/"
+          "title": "นาทีชีวิต! อดีตผู้จัดคอนเสิร์ต เตือนภัยสัญญาณหลอดเลือดหัวใจตีบ",
+          "url": "https://www.amarintv.com/news/social/555584"
         },
         {
-          "title": "รอยพับที่ติ่งหูบอกโรคหัวใจได้จริงไหม ? ส่อง 7 สัญญาณเตือนร่างกายที่หลายคนมองข้าม !",
-          "url": "https://health.kapook.com/view303224.html"
+          "title": "สังคมภูมิภาคเหนือตอนบน…เตือน! เช็ก 5 สัญญาณ หัวใจเริ่มมีปัญหา",
+          "url": "https://www.dailynews.co.th/articles/6130820/"
         }
       ],
       "updatedAt": "2026-08-24T07:30:00+07:00"
