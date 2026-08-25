@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T17:35:23.286362+07:00",
+  "generatedAt": "2026-08-25T20:52:06.441044+07:00",
   "dateRange": "2026-08-18 to 2026-08-25",
   "sourceErrors": [],
   "topics": [
@@ -108,6 +108,58 @@
       "updatedAt": "2026-08-21T14:00:00+07:00"
     },
     {
+      "id": "soft-power-088a3da28a",
+      "title": "กระทรวงวัฒนธรรมต่อยอด Soft Power ผ่าน  ผ้าไทย - ดนตรี - แฟชั่น  ",
+      "sourceType": "news",
+      "category": "beauty",
+      "contentPotential": "high",
+      "riskLevel": "low",
+      "summary": "ข่าวจาก sanook.com ที่เกี่ยวข้องกับ Thailand ในช่วง 48 ชั่วโมงล่าสุด",
+      "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
+      "creatorAngle": "ชวนแชร์สไตล์ ไอเท็ม หรือเทคนิคที่ใช้จริงโดยไม่ขายของแข็งเกินไป",
+      "promptIdea": "สไตล์นี้ถ้าแต่งในชีวิตจริงจะรอดไหม?",
+      "hashtags": [
+        "#BeautyTalk",
+        "#FashionTH",
+        "#ไอเดียแต่งตัว",
+        "#กระทรวงวัฒนธรรมต่อยอดSof"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "sanook.com",
+          "url": "https://www.sanook.com/news/9904791/"
+        }
+      ],
+      "updatedAt": "2026-08-24T17:30:00+07:00"
+    },
+    {
+      "id": "soft-power-thai-youth-jazz-b2e26b09b0",
+      "title": "กระทรวงวัฒนธรรมต่อยอด Soft Power ผ่าน  ผ้าไทย – ดนตรี – แฟชั่น  เปิดพื้นที่วง Thai Youth Jazz สวมชุดผ้าไทยร่วมสมัยโดย  เอก ทองประเสริฐ  ",
+      "sourceType": "news",
+      "category": "beauty",
+      "contentPotential": "high",
+      "riskLevel": "low",
+      "summary": "ข่าวจาก mthai.com ที่เกี่ยวข้องกับ Thailand ในช่วง 48 ชั่วโมงล่าสุด",
+      "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
+      "creatorAngle": "ชวนแชร์สไตล์ ไอเท็ม หรือเทคนิคที่ใช้จริงโดยไม่ขายของแข็งเกินไป",
+      "promptIdea": "สไตล์นี้ถ้าแต่งในชีวิตจริงจะรอดไหม?",
+      "hashtags": [
+        "#BeautyTalk",
+        "#FashionTH",
+        "#ไอเดียแต่งตัว",
+        "#กระทรวงวัฒนธรรมต่อยอดSof"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "mthai.com",
+          "url": "https://mthai.com/news/pr/418246.html"
+        }
+      ],
+      "updatedAt": "2026-08-24T13:45:00+07:00"
+    },
+    {
       "id": "tree-boundary-c0d9cf7396",
       "title": "คาเฟ่กาญจนบุรี Tree Boundary คาเฟ่ใกล้กรุงเทพฯ",
       "sourceType": "news",
@@ -158,32 +210,6 @@
         }
       ],
       "updatedAt": "2026-08-24T14:40:50+07:00"
-    },
-    {
-      "id": "miss-universe-2025-b43b7ff499",
-      "title": "ชมเสน่ห์อาหารไทยผ่านชุดประจำชาติ บนเวทีประกวด Miss Universe 2025",
-      "sourceType": "news",
-      "category": "food",
-      "contentPotential": "high",
-      "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: อาหาร / source: Thai PBS - ชมเสน่ห์อาหารไทยผ่านชุดประจำชาติ บนเวทีประกวด Miss Universe 2025    Thai PBS",
-      "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
-      "creatorAngle": "ให้ Creator เล่าประสบการณ์ร้าน/เมนูที่อยากลอง แล้วถามคนอื่นว่าคิดเหมือนกันไหม",
-      "promptIdea": "เห็นคนพูดถึงเมนูนี้เยอะมาก มีใครลองแล้วบ้าง?",
-      "hashtags": [
-        "#FoodTrend",
-        "#CafeTH",
-        "#รีวิวของกิน",
-        "#ชมเสน่ห์อาหารไทยผ่านชุดป"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Thai PBS",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA5bUFwUlFtaHJtZlVsWWNoVmZQeGgxQTIxVXZaSEdxdzEzN1VQYWZVbTZjSURZdERuNHo5Q1hoRWg2ZGNvMF9qX19sbWVWZ0FPd1BOaFNfeHY?oc=5"
-        }
-      ],
-      "updatedAt": "2026-08-19T19:01:59+07:00"
     },
     {
       "id": "nc-f6c0825a7e",
@@ -316,6 +342,32 @@
       "updatedAt": "2026-08-21T11:00:00+07:00"
     },
     {
+      "id": "topic-a2e5628ad7",
+      "title": "อย.เตือนอาหารไหว้สารทจีน ระวังฉลากไม่ชัด-อาหารเสื่อมคุณภาพ",
+      "sourceType": "news",
+      "category": "food",
+      "contentPotential": "high",
+      "riskLevel": "low",
+      "summary": "ข่าวจาก Google News keyword: อาหาร / source: thaitv5hd.com - อย.เตือนอาหารไหว้สารทจีน ระวังฉลากไม่ชัด-อาหารเสื่อมคุณภาพ    thaitv5hd.com",
+      "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
+      "creatorAngle": "ให้ Creator เล่าประสบการณ์ร้าน/เมนูที่อยากลอง แล้วถามคนอื่นว่าคิดเหมือนกันไหม",
+      "promptIdea": "เห็นคนพูดถึงเมนูนี้เยอะมาก มีใครลองแล้วบ้าง?",
+      "hashtags": [
+        "#FoodTrend",
+        "#CafeTH",
+        "#รีวิวของกิน",
+        "#อย.เตือนอาหารไหว้สารทจีน"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "thaitv5hd.com",
+          "url": "https://news.google.com/rss/articles/CBMi5gVBVV95cUxPbVVuS011clhaQlY0NjdpLWk0dTBmb1NXdElUTjZlUkdnMzhEcHVHLXlzd0U5ZHM5OFU5V2RCT3VDWllDRFJEMncwWVhCeklhRF84Nk9DN2l3VlBmbUJrQk0zdEtYOHBvSE5BRWZ5UWM3Ykkyd3l4NW9Mdm9nSEctUjQ3YjlhLUJsSGJmRTJKc3RZYndFRHViVXVMQ2lEZFY5WEczWlJzX2JYMEZGWkZLYVRxU0stcU9zOXV1ZkpYR2x2alRfcUNpUnpFRjNhcGZsV0xvdkJCQWwwUmtYaDVUM01kMlJXd3NjSndDR29Dd29YSmNoZjR6N0tYODEzaG54Qk5GYkJjQlY0QW0tZjZ4YzRZQ2F0UktUWnNEbTdwSkV6b2lwU3p5NkxKRVVIb0RVQ2s0V2tVWU5YVTQ0cHBkYU9mT3pQRzBobDVLQjdNak9IUnpxamJSaUYwdkdMV3NrUVZ3X1JMak5FWFJoRDR1VDNZN01JZTBIZGUyV0N5LS1ldUw4dnp1R3AzcHlWaXR0WlloanJBMVRqSHU4OXEzN1hadmo0NS1ZcUlVWktvamVPbXM5TmM3RlI2QnhYMk1YOGhFbHUyVFFlSm9KcF90S0M4bWJNbXdadGR5NkpUTW90TnMzZWlMMGFkWGZNb295bHdrUmVyck1xa0lIdUdlYkZpZHN5VW5TeFdoUkVBYS1Xdk4tNGFOcmdwYzhNRV9XbEczQ2hsakMtMXVNakktbnFqY3pLMmdoSE1GdkNzY1dzRm9yMndQX08tdHJHZmtWNWZpbEtoMFZRaEtWazZUaUlhcXNYeE9zei1VUXRPNnVQeXlUUjJhYWdBWGI1MGx2RTYwem9LLWVqaEZ4WDFwT3pUd3JNMVluS09oMFdpSmVHS2EtZXdrYl9YekM5WU5UMHNld2xTY2Z3Z1d0eDctVWVFdWN6R1BmS25YS3BZeGY3RjR4SG5yWS01UnJmWEFIVXpNWHB3?oc=5"
+        }
+      ],
+      "updatedAt": "2026-08-25T16:38:09+07:00"
+    },
+    {
       "id": "she-economy-fbe7df8923",
       "title": "เจาะเทรนด์ She Economy เบื้องหลัง “ล่าหยก” ซีรีส์จีนสุดปัง เน้นขายหนุ่มหล่อเป๊ะเวอร์เอาใจสาวๆ ยุคใหม่",
       "sourceType": "news",
@@ -446,6 +498,214 @@
       "updatedAt": "2026-08-21T14:00:00+07:00"
     },
     {
+      "id": "nzaero-mro-eec-a40288c1a8",
+      "title": "  เอกนิติ  ชวน NZAero นิวซีแลนด์ ลงทุนไทย ตั้งศูนย์ซ่อมอากาศยาน MRO ใน EEC",
+      "sourceType": "news",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "ข่าวจาก dailynews.co.th ที่เกี่ยวข้องกับ Thailand ในช่วง 48 ชั่วโมงล่าสุด",
+      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#เอกนิติชวนNZAeroนิวซีแลน"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "dailynews.co.th",
+          "url": "https://www.dailynews.co.th/news/6133960/"
+        }
+      ],
+      "updatedAt": "2026-08-24T12:45:00+07:00"
+    },
+    {
+      "id": "asean-cup-2026-l-i-nguy-n-ng-s-chung-k-t-58beb11113",
+      "title": "ASEAN Cup 2026 :  Lời nguyền  đáng sợ ở chung kết lượt đi",
+      "sourceType": "news",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "ข่าวจาก baomoi.com ที่เกี่ยวข้องกับ Thailand ในช่วง 48 ชั่วโมงล่าสุด",
+      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#ASEANCup2026:Lờinguyềnđá"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "baomoi.com",
+          "url": "https://baomoi.com/asean-cup-2026-loi-nguyen-dang-so-o-chung-ket-luot-di-c55896637.epi"
+        }
+      ],
+      "updatedAt": "2026-08-23T21:45:00+07:00"
+    },
+    {
+      "id": "b-o-th-i-lan-c-g-m-khi-th-i-lan-thua-vi-b2d9c27a60",
+      "title": "Báo Thái Lan :  Có gì ầm ĩ khi Thái Lan thua Việt Nam  ",
+      "sourceType": "news",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "ข่าวจาก bongdaplus.vn ที่เกี่ยวข้องกับ Thailand ในช่วง 48 ชั่วโมงล่าสุด",
+      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#BáoTháiLan:CógìầmĩkhiThá"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "bongdaplus.vn",
+          "url": "https://bongdaplus.vn/aff-cup/bao-thai-lan-co-gi-am-i-khi-thai-lan-thua-viet-nam-5145672608.html"
+        }
+      ],
+      "updatedAt": "2026-08-24T17:30:00+07:00"
+    },
+    {
+      "id": "b-o-ng-nam-th-i-lan-c-c-h-i-ng-c-d-ng-tr-664e05939f",
+      "title": "Báo Đông Nam Á :  Thái Lan có cơ hội ngược dòng trước đội tuyển Việt Nam  ",
+      "sourceType": "news",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "ข่าวจาก dantri.com.vn ที่เกี่ยวข้องกับ Thailand ในช่วง 48 ชั่วโมงล่าสุด",
+      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#BáoĐôngNamÁ:TháiLancócơh"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "dantri.com.vn",
+          "url": "https://dantri.com.vn/the-thao/bao-dong-nam-a-thai-lan-co-co-hoi-nguoc-dong-truoc-doi-tuyen-viet-nam-20260825140259659.htm"
+        }
+      ],
+      "updatedAt": "2026-08-25T15:00:00+07:00"
+    },
+    {
+      "id": "b-ng-th-i-lan-sa-s-t-l-i-ng-y-bi-n-khi-t-e19823aef7",
+      "title": "Bóng đá Thái Lan sa sút : Lời ngụy biện khi thua đội tuyển Việt Nam",
+      "sourceType": "news",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "ข่าวจาก dantri.com.vn ที่เกี่ยวข้องกับ Thailand ในช่วง 48 ชั่วโมงล่าสุด",
+      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#BóngđáTháiLansasút:Lờing"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "dantri.com.vn",
+          "url": "https://dantri.com.vn/the-thao/bong-da-thai-lan-sa-sut-loi-nguy-bien-khi-thua-doi-tuyen-viet-nam-20260825151236565.htm"
+        }
+      ],
+      "updatedAt": "2026-08-25T15:45:00+07:00"
+    },
+    {
+      "id": "chuy-n-gia-v-th-c-a-b-ng-vi-t-nam-v-th-i-b5bdbaf92f",
+      "title": "Chuyên gia :  Vị thế của bóng đá Việt Nam và Thái Lan đã đảo ngược  ",
+      "sourceType": "news",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "ข่าวจาก dantri.com.vn ที่เกี่ยวข้องกับ Thailand ในช่วง 48 ชั่วโมงล่าสุด",
+      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#Chuyêngia:Vịthếcủabóngđá"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "dantri.com.vn",
+          "url": "https://dantri.com.vn/the-thao/chuyen-gia-vi-the-cua-bong-da-viet-nam-va-thai-lan-da-dao-nguoc-20260824011616598.htm"
+        }
+      ],
+      "updatedAt": "2026-08-24T10:30:00+07:00"
+    },
+    {
+      "id": "chuy-n-gia-th-i-lan-hi-n-k-gi-p-i-nh-ng-27522195a0",
+      "title": "Chuyên gia Thái Lan hiến kế giúp đội nhà ngược dòng trước tuyển Việt Nam",
+      "sourceType": "news",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "ข่าวจาก dantri.com.vn ที่เกี่ยวข้องกับ Thailand ในช่วง 48 ชั่วโมงล่าสุด",
+      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#ChuyêngiaTháiLanhiếnkếgi"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "dantri.com.vn",
+          "url": "https://dantri.com.vn/the-thao/chuyen-gia-thai-lan-hien-ke-giup-doi-nha-nguoc-dong-truoc-tuyen-viet-nam-20260825112817596.htm"
+        }
+      ],
+      "updatedAt": "2026-08-25T12:00:00+07:00"
+    },
+    {
+      "id": "c-v-th-i-lan-d-o-n-k-t-c-c-c-a-i-nh-tr-n-3a9444fb0a",
+      "title": "CĐV Thái Lan dự đoán kết cục của đội nhà ở trận lượt về gặp tuyển Việt Nam",
+      "sourceType": "news",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "ข่าวจาก dantri.com.vn ที่เกี่ยวข้องกับ Thailand ในช่วง 48 ชั่วโมงล่าสุด",
+      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#CĐVTháiLandựđoánkếtcụccủ"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "dantri.com.vn",
+          "url": "https://dantri.com.vn/the-thao/cdv-thai-lan-du-doan-ket-cuc-cua-doi-nha-o-tran-luot-ve-gap-tuyen-viet-nam-20260824133043968.htm"
+        }
+      ],
+      "updatedAt": "2026-08-24T15:00:00+07:00"
+    },
+    {
       "id": "generali-thailand-customer-experience-ge-f039471092",
       "title": "Generali Thailand เดินหน้ากลยุทธ์ Customer Experience ยกระดับ “Generali FIRST Club” สร้างความสัมพันธ์ลูกค้าคนสำคัญ ผ่านประสบการณ์ที่มากกว่าความคุ้มครอง - มิติหุ้น | ชี...",
       "sourceType": "news",
@@ -472,13 +732,13 @@
       "updatedAt": "2026-08-20T13:17:36+07:00"
     },
     {
-      "id": "thailand-volleyball-association-f39b214653",
-      "title": "Thailand Volleyball Association สมาคมกีฬาวอลเลย์บอลแห่งประเทศไทย. . สมาคมกีฬาวอลเลย์บอลแห่งประเทศไิทย ร่วมกับ รัฐบาล เปิดศึก \"ไพรม์มินิสเตอร์ส ยูธ คัพ\" เวทีปั้นดาวรุ่ง...",
+      "id": "hlv-hudson-th-i-lan-tin-c-th-l-i-ng-c-d-896f481db3",
+      "title": "HLV Hudson :  Thái Lan tin có thể lội ngược dòng trước tuyển Việt Nam  ",
       "sourceType": "news",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: วอลเลย์บอล / source: facebook.com - Thailand Volleyball Association สมาคมกีฬาวอลเลย์บอลแห่งประเทศไทย. . สมาคมกีฬาวอลเลย์บอลแห่งประเทศไิทย ร่วมกับ รัฐบาล เปิดศึก \"ไพรม์มินิสเตอร์ส ยูธ คัพ\" เวทีปั้นดาวรุ่งวอลเลย์บอลในร",
+      "summary": "ข่าวจาก dantri.com.vn ที่เกี่ยวข้องกับ Thailand ในช่วง 48 ชั่วโมงล่าสุด",
       "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -486,25 +746,103 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#ThailandVolleyballAssoci"
+        "#HLVHudson:TháiLantincóth"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
         {
-          "title": "facebook.com",
-          "url": "https://news.google.com/rss/articles/CBMihwhBVV95cUxQc0JKMklrSnJCb2w2eUdYNl9qN296eDIwSEl6QkRud3FVelVFNzFJbFZYQVZ1dkJwRGZ1UnpYOUZucC10UTM2c0k5YzR0N0oyNVk1dmV1azJ1ZXNqRUdDUDhTYjM3UUVfWnVuR1BKYzA4OVMwcGxrWkxZV2dZeHNpRkQ1NUtiazU1dW1OOEk3ZTl6RWVYMkVNMng5XzUtOEFYRW4xM1o3aVlONktfUHJ4ZXVTRHB0U2VkcVhvd2p2X3J2WklNWGhia1NhdUtmUmZuZjl0VURQX25BZ0NzZXE5czVuWGtSTXlTVmFLcHM4a19vUWpSNjkydjk2OFlMWWVBTk5xZjJuNXpEWnQ5V1NzLXA2cXBWS0FBSnBVUGpaTlQ5MHJ5UDRwRE5peXdDdUtpa3BhNkdpV1BTVXRWUlUzVUdfdldWeG4zdEZrVGxJV0NkekJOd0Vkc0FubldNdmw1WmdoT3Q5WjBRNmJ4S200RFRIOWVsNVFBQ1dxTFJMMmc5SkZrT0tGd3ZDOEp2aWx0LXNBUFRPVWhvNVpwV09Qc0lxVzdmWWdpN1pEZUtlbWFhYnZjbDRleTBpQjk5S3RXUHVpUWM3SG9TYWpaWGJsZXktOFZLZWEzQ0toV1EtNDBmWlZxWWpoU3BCNUJTa182bHB4UDRJVk1vT1pRLVZlSDhGemQ0aWViV3YwRWNld29IbENleV9QaldFOEZxQ18tLVMzU0FCWHdfMENnVG1Gazh5elctY2xQOGJ2ZHVGZE9YSTMwVHdfWnlILUwzYm5wWmlUWkFHcXRNNURWcmpMZkpLMzJvaWU2WTNTbGM3UHRQdC1sVmlIYXExV0xLWTVIcEYyRDN1enA3ampZQ2cyWVRtZnA4aW9OcFN3eklqVHV4UHRQbXRKUUZSU3ZJX25xWlNfYmdRczRqbEdpNXVEUjkyaGZrelVSZjZmVTdlOS1uU1labWdvTHNqUUdPQkpQWVVRV0ZpUkVvU2I3RHlWaWViSHFtOFpoOWRmbVdLNThFNTc4cGlXek1KX01GdHRlbEU0LWJLU205OVI0cjgzVDdNcHljc3R5QkRHRG5jeUthNHdZTVpNblh0RmljRkhEazFGUUdCZzdQd0lnZFhmSkZQNDJIbFRDbHpKTGtlZG1qS3czOE8tWkVSSzhkMWJLMWR2T1V3RzBIQ3Mta19xejM1dllGSWFScWUyUy11OUJRY3JMaXhXRjFUR3V4dzItU0tBdlFhSDBDQzM0SlRRYjhXWXUyT1Q0a21wVXhLQUZrdGpNMVFlNHFidFhWekJTT0tXNThJV2RUM3Y4RDdQUE9yRTAtYzhpUFZOeVhvMnZHc1RSY2RXSEdVcmV2QTFxN3cxbXh5aw?oc=5"
+          "title": "dantri.com.vn",
+          "url": "https://dantri.com.vn/the-thao/hlv-hudson-thai-lan-tin-co-the-loi-nguoc-dong-truoc-tuyen-viet-nam-20260825111257749.htm"
         }
       ],
-      "updatedAt": "2026-08-19T23:47:58+07:00"
+      "updatedAt": "2026-08-25T12:00:00+07:00"
     },
     {
-      "id": "police-online-b948d07544",
-      "title": "police online",
+      "id": "live-24-69-5c503445f7",
+      "title": "LIVE ถ่ายทอดสด วอลเลย์บอลหญิงทีมชาติไทย พบ อินโดนีเซีย วันนี้ 24 ส . ค . 69",
+      "sourceType": "news",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "ข่าวจาก posttoday.com ที่เกี่ยวข้องกับ Thailand ในช่วง 48 ชั่วโมงล่าสุด",
+      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#LIVEถ่ายทอดสดวอลเลย์บอลห"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "posttoday.com",
+          "url": "https://www.posttoday.com/lifestyle/747491"
+        }
+      ],
+      "updatedAt": "2026-08-24T15:00:00+07:00"
+    },
+    {
+      "id": "si-u-m-y-t-nh-d-o-n-vi-t-nam-vs-th-i-lan-db8f5c6cf8",
+      "title": "Siêu máy tính dự đoán Việt Nam vs Thái Lan :  Bức tường thép  giữ cúp vô địch ở lại sân Mỹ Đình",
+      "sourceType": "news",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "ข่าวจาก soha.vn ที่เกี่ยวข้องกับ Thailand ในช่วง 48 ชั่วโมงล่าสุด",
+      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#SiêumáytínhdựđoánViệtNam"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "soha.vn",
+          "url": "https://soha.vn/sieu-may-tinh-du-doan-viet-nam-vs-thai-lan-buc-tuong-thep-giu-cup-vo-dich-o-lai-san-my-dinh-198260825001843063.htm"
+        }
+      ],
+      "updatedAt": "2026-08-25T09:00:00+07:00"
+    },
+    {
+      "id": "thua-tuy-n-vi-t-nam-0-2-i-tr-ng-th-i-lan-25ac0a1323",
+      "title": "Thua tuyển Việt Nam 0 - 2 , đội trưởng Thái Lan tuyên bố  mang cúp về  ",
+      "sourceType": "news",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "ข่าวจาก baomoi.com ที่เกี่ยวข้องกับ Thailand ในช่วง 48 ชั่วโมงล่าสุด",
+      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#ThuatuyểnViệtNam0-2,độit"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "baomoi.com",
+          "url": "https://baomoi.com/thua-tuyen-viet-nam-0-2-doi-truong-thai-lan-tuyen-bo-mang-cup-ve-c55908525.epi"
+        }
+      ],
+      "updatedAt": "2026-08-25T13:30:00+07:00"
+    },
+    {
+      "id": "apple-d0be2dc421",
+      "title": "apple",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 500+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -512,7 +850,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#policeonline"
+        "#apple"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -521,23 +859,61 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "S. Korea seeks Interpol help to track illegal gambling suspects in Thailand",
-          "url": "https://www.bangkokpost.com/thailand/general/3307664/s-korea-seeks-interpol-help-to-track-illegal-gambling-suspects-in-thailand"
+          "title": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+          "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/"
         },
         {
-          "title": "The Ulsan Metropolitan Police Agency announced on the 24th that it has arrested 12 members on charge..",
-          "url": "https://www.mk.co.kr/en/society/12134474"
+          "title": "Apple Gears Up to Launch Its First New Mac Mini in Two Years",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-25/apple-to-launch-new-mac-mini-airpods-5-and-oled-ipad-mini-timing-details"
         },
         {
-          "title": "Police Bust 60 Billion Won Gambling Ring That Rigged YouTube",
-          "url": "https://en.sedaily.com/society/2026/08/24/police-bust-60-billion-won-gambling-ring-that-rigged-youtube"
+          "title": "Apple’s new desktop computers are designed specifically for local AI development",
+          "url": "https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/"
         }
       ],
-      "updatedAt": "2026-08-25T15:10:00+07:00"
+      "updatedAt": "2026-08-25T20:20:00+07:00"
     },
     {
-      "id": "samui-exotic-park-0f7c971414",
-      "title": "samui exotic park",
+      "id": "honor-489c8fd4b6",
+      "title": "honor",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#honor"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "The Legacy of Magic Gala raises more than $800,000 for YMCA of Metropolitan Lansing",
+          "url": "https://www.wilx.com/2026/08/20/legacy-magic-gala-stream-exclusively-news-10-app-heres-how-watch/"
+        },
+        {
+          "title": "Lansing YMCA branch to be expanded and renamed in honor of Magic Johnson",
+          "url": "https://www.wnem.com/2026/08/25/lansing-ymca-branch-be-expanded-renamed-honor-magic-johnson/"
+        },
+        {
+          "title": "The Legacy of Magic Gala",
+          "url": "https://www.wfsb.com/video/2026/08/23/legacy-magic-gala/"
+        }
+      ],
+      "updatedAt": "2026-08-25T17:50:00+07:00"
+    },
+    {
+      "id": "mgex-82816a5b8f",
+      "title": "mgex",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
@@ -550,7 +926,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#samuiexoticpark"
+        "#mgex"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -559,19 +935,19 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "Thai vendor confronts Israeli tourists, raises Palestinian flag",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/thai-vendor-confronts-israeli-tourists-raises-palestinian-flag"
+          "title": "ガンプラにまつわるイベント情報や新商品情報をお届けする番組「最新！ガンプラ情報局」本日20時配信！",
+          "url": "https://gundam-official.com/news/kyfqqwghp51r67mborhacymj"
         },
         {
-          "title": "Thailand revokes visa over alleged Koh Samui zoo bounty",
-          "url": "https://www.nationthailand.com/news/general/40070227"
+          "title": "ガンプラブランド「MGEX（マスターグレードエクストリーム）」から新アイテムが登場!?近日公開の予告ポストが投稿！",
+          "url": "https://hobby.dengeki.com/news/3132325/"
         },
         {
-          "title": "Thai zoo owner files complaint over threats by Israeli visitors",
-          "url": "https://www.trtworld.com/article/582aa3873b4e"
+          "title": "【ガンダム×ホロライブ】ミニノベル企画“星の涙＜STAR TEARS＞”始動。第1章は明日8/26(水)公開",
+          "url": "https://dengekionline.com/article/202608/85470"
         }
       ],
-      "updatedAt": "2026-08-25T15:20:00+07:00"
+      "updatedAt": "2026-08-25T18:30:00+07:00"
     },
     {
       "id": "50-9b7e5ebe29",
@@ -626,8 +1002,8 @@
       "updatedAt": "2026-08-19T18:04:30+07:00"
     },
     {
-      "id": "topic-2a8f0cd438",
-      "title": "กองทัพเรือไทย",
+      "id": "topic-22d0079f54",
+      "title": "ตำรวจ",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
@@ -640,7 +1016,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#กองทัพเรือไทย"
+        "#ตำรวจ"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -649,28 +1025,28 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "ผ่าแผนจัดซื้อฟริเกตลำใหม่ กับคำถามที่ทัพเรือไทยต้องเคลียร์",
-          "url": "https://mgronline.com/onlinesection/detail/9690000083499"
+          "title": "จับตาตั้ง 94 ผบก. เปิดชื่อตัวเต็งขึ้นนายพลป้ายแดง เช็กชื่อผู้การฯหลายจังหวัด",
+          "url": "https://www.matichon.co.th/local/crime/news_5861545"
         },
         {
-          "title": "เรือหลวงภูมิพลอดุลยเดช พังจริงไหม หลังข่าวเครื่องยนต์เสีย เปิดประวัติ ความเกรียงไกร",
-          "url": "https://thethaiger.com/th/news/1601563/"
+          "title": "จับตาโผแต่งตั้งนายพลตำรวจ ยึดหลักผลงานเด่นหรือระบบอุปถัมภ์ ปมร้อนสิทธิการร้องเรียน ก.พ.ค.ตร.",
+          "url": "https://www.thairath.co.th/scoop/theissue/2954986"
         },
         {
-          "title": "'นายกฯ' ตรวจความพร้อมรบ บน ร.ล.จักรีนฤเบศร กลางอ่าวไทย 27 ส.ค.",
-          "url": "https://www.bangkokbiznews.com/politics/1248084"
+          "title": "ข่าวเปิดรายชื่อตัวเต็ง ชิง ผบช.-ผบก.",
+          "url": "https://news.ch7.com/detail/892939"
         }
       ],
-      "updatedAt": "2026-08-25T16:20:00+07:00"
+      "updatedAt": "2026-08-25T20:20:00+07:00"
     },
     {
-      "id": "2026-c06457c590",
-      "title": "ช่องทางชมสด วอลเลย์บอลหญิง ชิงแชมป์เอเชีย 2026 ไทย พบ ออสเตรเลีย บ่ายโมงวันนี้ ฟรีทีวีก็ดูได้",
+      "id": "topic-e8beceb1f7",
+      "title": "นาโนเทค จับมือ กรมการแพทย์แผนไทยฯ ยกระดับสมุนไพรไทยสู่ยาแผนไทยมาตรฐานสากล",
       "sourceType": "news",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: วอลเลย์บอล / source: ข่าวสด - ช่องทางชมสด วอลเลย์บอลหญิง ชิงแชมป์เอเชีย 2026 ไทย พบ ออสเตรเลีย บ่ายโมงวันนี้ ฟรีทีวีก็ดูได้    ข่าวสด",
+      "summary": "ข่าวจาก dailynews.co.th ที่เกี่ยวข้องกับ Thailand ในช่วง 48 ชั่วโมงล่าสุด",
       "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -678,20 +1054,20 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#ช่องทางชมสดวอลเลย์บอลหญิ"
+        "#นาโนเทคจับมือกรมการแพทย์"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
         {
-          "title": "ข่าวสด",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tQUdDWEtKbFNzSDRReURKbktjYl9Va2g1OGpSQTVfM3RJRkN5TDMtOFUzU0ZuaVJqdVNrcm1sM0QzeWVKX2VteDl5VDh4eF9hbm5YU0ZGSkFKZw?oc=5"
+          "title": "dailynews.co.th",
+          "url": "https://www.dailynews.co.th/news/6133760/"
         }
       ],
-      "updatedAt": "2026-08-21T11:02:00+07:00"
+      "updatedAt": "2026-08-24T12:45:00+07:00"
     },
     {
-      "id": "topic-be1921c59c",
-      "title": "ฝัน",
+      "id": "topic-292f3a3fec",
+      "title": "ลูกจ้าง",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
@@ -704,7 +1080,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#ฝัน"
+        "#ลูกจ้าง"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -713,28 +1089,28 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "3 ราศี เซ้นส์แรงเกินต้าน ฝันแม่นสังหรณ์คมเตรียมรับทรัพย์ | News In Thailand",
-          "url": "https://today.line.me/th/v3/article/3NPlm9k"
+          "title": "ครม.เปิดทางลูกจ้าง 3 กลุ่มอาชีพ เข้าประกันสังคม มาตรา 33",
+          "url": "https://www.thaipbs.or.th/news/content/509878"
         },
         {
-          "title": "สลดใจพี่สาว ฝันร้ายกลายเป็นจริง พบน้องชายจมน้ำเสียชีวิตใต้สะพาน",
-          "url": "https://news.ch7.com/detail/893329"
+          "title": "ครม.เห็นชอบไทยเข้าร่วม Global Coalition for Social Justice ดันสิทธิแรงงาน-ค่าจ้างเป็นธรรม | การเงินธนาคาร",
+          "url": "https://today.line.me/th/v3/article/LXy3Lea"
         },
         {
-          "title": "สลด! พี่สาวฝันเห็นน้องชายขับรถตกสะพาน พอตื่นจากฝันได้รับข่าวร้าย",
-          "url": "https://www.amarintv.com/news/social/555759"
+          "title": "”จุลพันธ์“ ชง พ.ร.ก.ขยายความคุ้มครองผู้ประกันตน ม. 33 ครอบคลุมลูกจ้างเกษตร - หาบเร่แผงลอย - แม่บ้าน",
+          "url": "https://mgronline.com/politics/detail/9690000083581"
         }
       ],
-      "updatedAt": "2026-08-25T15:10:00+07:00"
+      "updatedAt": "2026-08-25T20:10:00+07:00"
     },
     {
-      "id": "topic-abad1ee904",
-      "title": "ภาษี",
+      "id": "topic-2b14aeee2e",
+      "title": "วอลเลย์บอลหญิงทีมชาติคาซัคสถาน",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 20000+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -742,7 +1118,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#ภาษี"
+        "#วอลเลย์บอลหญิงทีมชาติคาซ"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -751,57 +1127,19 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "ทําไมหุ้น Ford ถึงร่วงลงในวันนี้?",
-          "url": "https://th.investing.com/news/stock-market-news/article-93CH-762176"
+          "title": "โปรแกรมถ่ายทอดสด วอลเลย์บอลหญิง ชิงแชมป์เอเชีย 2026 ประจำวันที่ 25 ส.ค. 69",
+          "url": "https://www.sanook.com/sport/1669976/"
         },
         {
-          "title": "ทรัมป์เดือดปุด! จี้แคนาดา 'ทำตามคำสั่ง' หลังนายกฯ ออนแทรีโอขู่ 'งดจ่ายไฟ' ให้สหรัฐฯ ถ้ายังกระพือสงครามการค้า",
-          "url": "https://mgronline.com/around/detail/9690000083710"
+          "title": "\"โค้ชอ๊อต\" รับกังวลสภาพร่างกายสาวไทย ก่อนลุยรอบน็อกเอาต์ ชิงแชมป์เอเชีย",
+          "url": "https://www.pptvhd36.com/sport/news/282169"
         },
         {
-          "title": "ทรัมป์ขู่ขึ้นภาษีนำเข้ารถยนต์-อะไหล่ จากแคนาดาเป็น 50%",
-          "url": "https://www.thairath.co.th/news/foreign/2954995"
+          "title": "นักตบสาวไทย ชนะ คาซัคสถาน 3 -1 เซต ศึกวอลเลย์บอลหญิงชิงแชมป์เอเชีย",
+          "url": "https://www.thaipbs.or.th/news/content/509843"
         }
       ],
-      "updatedAt": "2026-08-25T15:40:00+07:00"
-    },
-    {
-      "id": "topic-c9ceb44e49",
-      "title": "มรสุม",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 1000+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#มรสุม"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "อัปเดตพายุโซนร้อน \"นาร์รา\" ขึ้นฝั่งจีน 24-25 ส.ค. ไม่เข้าไทย แต่ดึงให้มรสุมรุนแรง",
-          "url": "https://www.thaipbs.or.th/news/content/509801"
-        },
-        {
-          "title": "สภาพอากาศวันนี้ กรมอุตุฯ เตือน 23 จังหวัด รับมือฝนตกหนัก กทม.ช่วงบ่ายถึงค่ำ",
-          "url": "https://www.sanook.com/news/9904883/"
-        },
-        {
-          "title": "พายุไต้ฝุ่น “นาร์รา” ถล่มเวียดนามเหนือ ฝนตกหนัก น้ำท่วม-ดินถล่ม เสียชีวิต 1 ราย",
-          "url": "https://www.thairath.co.th/news/foreign/2955038"
-        }
-      ],
-      "updatedAt": "2026-08-25T16:10:00+07:00"
+      "updatedAt": "2026-08-25T17:00:00+07:00"
     },
     {
       "id": "3-1-8-2026-9e3d03f91c",
@@ -856,13 +1194,77 @@
       "updatedAt": "2026-08-21T13:07:02+07:00"
     },
     {
+      "id": "b-8-201788d769",
+      "title": "วอลเลย์บอลหญิงไทย ทุบคาซัคฯ คว้าแชมป์กลุ่ม B ฉลุย 8 ทีม ศึกชิงแชมป์เอเชีย",
+      "sourceType": "news",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "ข่าวจาก Google News keyword: วอลเลย์บอล / source: ข่าวสด - วอลเลย์บอลหญิงไทย ทุบคาซัคฯ คว้าแชมป์กลุ่ม B ฉลุย 8 ทีม ศึกชิงแชมป์เอเชีย    ข่าวสด",
+      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#วอลเลย์บอลหญิงไทยทุบคาซั"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "ข่าวสด",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1HUmN3U2poM0FONHJQT3hvMjFLY19kNmFPNGYzWms0eU1mM01NckJ6TndJRFRNSHllTS1iSEQ4WUR3aWVvNVRMUFUwcURwWGp2eDFIMEtVQnpWQQ?oc=5"
+        }
+      ],
+      "updatedAt": "2026-08-25T10:48:00+07:00"
+    },
+    {
+      "id": "topic-0a291caa36",
+      "title": "สม รังสี",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 500+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#สมรังสี"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "‘สม รังสี’ รวมพลชาวเขมรในต่างแดน ยื่นฟ้อง ‘ฮุน เซน’ และรัฐบาลไทยต่อศาลอาญาระหว่างประเทศ",
+          "url": "https://mgronline.com/onlinesection/detail/9690000083690"
+        },
+        {
+          "title": "ตัวแทนรัฐบาลกัมพูชาอิสระพบอัยการ ICC เพื่อฟ้องไทยว่าก่ออาชญากรรมสงคราม | The Better",
+          "url": "https://today.line.me/th/v3/article/vX89aMm"
+        },
+        {
+          "title": "ด่วน! ศึกภายในเขมรเดือดแล้ว มีคนยื่นเรื่องถึง\"มาครง\" ต้องกำจัดฮุนเซน ฟังแล้วช็อก?",
+          "url": "https://www.topnews.co.th/news-clip/1670979"
+        }
+      ],
+      "updatedAt": "2026-08-25T18:30:00+07:00"
+    },
+    {
       "id": "topic-5e1166a032",
       "title": "สำนักนายกรัฐมนตรี",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 500+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -879,57 +1281,19 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "“อนุทิน” แจงย้ายเลขาฯ สมช.เลือกคนเหมาะกับงาน ปัดข่าว ฮ.ยิงใส่ประชาชน แม่ทัพภาค 4 ยืนยันแล้ว",
-          "url": "https://mgronline.com/politics/detail/9690000083657"
+          "title": "ดันสายเหยี่ยว “ชัยพฤกษ์ ด้วงประพัฒน์” ขาลุยชายแดนเขมร-ใต้ นั่งเลขาสมช.",
+          "url": "https://www.thaipbs.or.th/news/content/509889"
         },
         {
-          "title": "“อนุทิน” แจงโยก “ฉัตรชัย” นั่งปลัดสำนักนายกฯ ช่วยงานความมั่นคง",
-          "url": "https://www.thairath.co.th/news/politic/2955153"
+          "title": "ครม.เคาะย้าย “ฉัตรชัย บางชวด” จากเลขาฯ สมช.นั่งปลัดสำนักนายกฯ คนใหม่ \"เสธ.ปูด้วง\" เสียบแทน",
+          "url": "https://mgronline.com/politics/detail/9690000083620"
         },
         {
-          "title": "‘นายกฯ’ แจงย้าย ‘เลขาฯ สมช.’ เลือกคนเหมาะสมกับงาน มีประสิทธิภาพ",
-          "url": "https://www.dailynews.co.th/news/6137535/"
+          "title": "โยก \"ฉัตรชัย\" พ้น สมช. \"อนุทิน\" ชี้เลขาฯ สมช.คนใหม่เน้นคนเหมาะกับงาน",
+          "url": "https://www.thaich8.com/news_detail/144754/%E0%B9%82%E0%B8%A2%E0%B8%81-%E0%B8%89%E0%B8%B1%E0%B8%95%E0%B8%A3%E0%B8%8A%E0%B8%B1%E0%B8%A2-%E0%B8%9E%E0%B9%89%E0%B8%99-%E0%B8%AA%E0%B8%A1%E0%B8%8A-%E0%B8%AD%E0%B8%99%E0%B8%B8%E0%B8%97%E0%B8%B4%E0%B8%99-%E0%B8%8A%E0%B8%B5%E0%B9%89%E0%B9%80%E0%B8%A5%E0%B8%82%E0%B8%B2%E0%B8%AF-%E0%B8%AA%E0%B8%A1%E0%B8%8A-%E0%B8%84%E0%B8%99%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%E0%B9%80%E0%B8%99%E0%B9%89%E0%B8%99%E0%B8%84%E0%B8%99%E0%B9%80%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%B0%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%87%E0%B8%B2%E0%B8%99"
         }
       ],
       "updatedAt": "2026-08-25T16:50:00+07:00"
-    },
-    {
-      "id": "topic-e2dec99967",
-      "title": "อาวุธ",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#อาวุธ"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "ตร.ไซเบอร์ เปิดปฏิบัติการกวาดล้างอาวุธปืนออนไลน์ ค้นกว่า 200 จุดทั่วประเทศ | สวพ.FM91",
-          "url": "https://today.line.me/th/v3/article/ZaRNmxL"
-        },
-        {
-          "title": "“รองโอ๋-พล.ต.ต.ทินกร รังมาตย์” ว่าที่ ผบช.ไซเบอร์ แถลงค้น 200 จุด ลุยกวาดล้างปืนเถื่อน",
-          "url": "https://www.thairath.co.th/news/crime/2955189"
-        },
-        {
-          "title": "ล้างบางปืนออนไลน์! ตร.ไซเบอร์บุก 200 จุด รวบ 186 ราย ยึดปืน 228 กระบอก กระสุน 1,294 นัด",
-          "url": "https://mgronline.com/crime/detail/9690000083738"
-        }
-      ],
-      "updatedAt": "2026-08-25T13:50:00+07:00"
     },
     {
       "id": "topic-93f89117ea",
@@ -964,7 +1328,7 @@
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: วอลเลย์บอล / source: Sanook - เปิดหัวแจ่ม! วอลเลย์บอลหญิงไทย ชนะ ออสเตรเลีย 3-0 ประเดิมศึกชิงแชมป์เอเชีย 2026    Sanook",
+      "summary": "ข่าวจาก Google News keyword: วอลเลย์บอล / source: Sanook.com - เปิดหัวแจ่ม! วอลเลย์บอลหญิงไทย ชนะ ออสเตรเลีย 3-0 ประเดิมศึกชิงแชมป์เอเชีย 2026    Sanook.com",
       "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -977,7 +1341,7 @@
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
         {
-          "title": "Sanook",
+          "title": "Sanook.com",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0xRDRjbjJJWW80Z19CaThTZ0pKcmRRWlplY0EtRFZVZnliWUdWOW1SaU1qVkZ1cWNsMEZmaGpMRy1ORGFsUVdYT01qRFc1Zw?oc=5"
         }
       ],
@@ -1016,7 +1380,7 @@
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 100+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 1000+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -1041,20 +1405,20 @@
           "url": "https://money.kapook.com/gallery/303299/1173478"
         },
         {
-          "title": "กรมธนารักษ์จับมือกรุงไทย เปิดตัว ‘Treasury Coin Market’ ตลาดประมูลเหรียญออนไลน์ทุกวันที่ 17 ของเดือน",
-          "url": "https://thestandard.co/treasury-coin-market-online-auction/"
+          "title": "“คลัง” เปิด Treasury Coin Market แห่งแรกของโลก เหรียญ 10 บาท ปี 33 เคาะ 2.54 ล้าน | ข่าวหุ้นธุรกิจ",
+          "url": "https://today.line.me/th/v3/article/3NP71no"
         }
       ],
       "updatedAt": "2026-08-25T16:30:00+07:00"
     },
     {
-      "id": "topic-067ef69e04",
-      "title": "แอมไซยาไนด์",
+      "id": "topic-4aed29d9de",
+      "title": "โยกย้ายมหาดไทย",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 500+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -1062,7 +1426,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#แอมไซยาไนด์"
+        "#โยกย้ายมหาดไทย"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -1071,19 +1435,71 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "ศาลสั่งประหารชีวิต \"แอมไซยาไนด์\" วางยาฆ่า \"ฟ้า-ดาริณี\"ล้างหนี้วงแชร์-ยืมเงิน 2 แสนบาท",
-          "url": "https://mgronline.com/crime/detail/9690000083625"
+          "title": "ขั้วน้ำเงินปักหมุดอำนาจ จัดแนวรบระบบราชการ เสริมความมั่นคงการเมือง",
+          "url": "https://mgronline.com/politics/detail/9690000083744"
         },
         {
-          "title": "ข่าวพิพากษาประหารชีวิต แอม ไซยาไนด์ อีกคดี",
-          "url": "https://news.ch7.com/detail/893294"
+          "title": "\"อนุทิน\" ยันย้าย บิ๊ก มท. ตามวาระ ชู \"นิรัตน์\" เหมาะคุม ปภ.",
+          "url": "https://www.thaipbs.or.th/news/content/509877"
         },
         {
-          "title": "ประหารชีวิต “แอม ไซยาไนด์” คดีที่ 7 ปมวางยาฆ่า “ฟ้า ดาริณี” ล้างหนี้ 6 หมื่น",
-          "url": "https://www.thairath.co.th/news/crime/2955135"
+          "title": "เช็กชื่อ ครม. โยกย้าย 20 บิ๊กมหาดไทย สถ.เข้ากรุ-ดาวรุ่งสายใต้ คุมที่ดิน เซมเบ้ นั่งปภ.",
+          "url": "https://www.matichon.co.th/politics/news_5861280"
         }
       ],
-      "updatedAt": "2026-08-25T14:00:00+07:00"
+      "updatedAt": "2026-08-25T20:20:00+07:00"
+    },
+    {
+      "id": "vs-2026-f5f06ea23a",
+      "title": "ไทย VS ออสเตรเลีย เปิดศึกวอลเลย์บอลหญิงชิงแชมป์เอเชีย 2026",
+      "sourceType": "news",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "ข่าวจาก Google News keyword: วอลเลย์บอล / source: คลาวด์ปัง - ไทย VS ออสเตรเลีย เปิดศึกวอลเลย์บอลหญิงชิงแชมป์เอเชีย 2026    คลาวด์ปัง",
+      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#ไทยVSออสเตรเลียเปิดศึกวอ"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "คลาวด์ปัง",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOaTlVT1pTZ2VpeVBGTlpRejNnMkFjVmNsRUVHdTlSOXVObjdROGNyaG9QVjdZc2NuR1pBa294LWtsLTVObmE2Mlh2QU42QVdEMk5YRnl6bjNMYUw4NDhxOVBINkNKZWdaTnd0eDFZWlpqb3NHX2hPd1E0TGU3a0F3WWpZb0NaWlZSNmtKOGVtRHQ5YThfOTAzdUJ1SGwyWFdPaDdxdkZkWGVEQ3A2REN0YWZoaU5iVDZGZ084ZnkyVi02TFREcXFGNzR1cjdWbC0xX0ZnVFMtb0R5dGxzZ0cw?oc=5"
+        }
+      ],
+      "updatedAt": "2026-08-21T12:08:07+07:00"
+    },
+    {
+      "id": "topic-19cbaf4818",
+      "title": "태국 해군  푸미폰함 엔진 손상 , 한화오션과 무관 … 수주 부담 덜었다",
+      "sourceType": "news",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "ข่าวจาก etoday.co.kr ที่เกี่ยวข้องกับ Thailand ในช่วง 48 ชั่วโมงล่าสุด",
+      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#태국해군푸미폰함엔진손상,한화오션과무관…수주부"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "etoday.co.kr",
+          "url": "https://www.etoday.co.kr/news/view/2617966"
+        }
+      ],
+      "updatedAt": "2026-08-25T15:00:00+07:00"
     },
     {
       "id": "topic-f84ec765f2",
@@ -1110,58 +1526,6 @@
         }
       ],
       "updatedAt": "2026-08-24T15:00:00+07:00"
-    },
-    {
-      "id": "topic-53aad7c364",
-      "title": "สรุปดราม่า ขนม ศศิกานต์ ไม่พอใจ น้องน้ำ ปมลูกอ๊วกใส่ ครูเต้ย ชี้แจงกลายเป็นหนังคนละม้วน",
-      "sourceType": "news",
-      "category": "entertainment",
-      "contentPotential": "high",
-      "riskLevel": "medium",
-      "summary": "ข่าวจาก Google News keyword: ดราม่า / source: Thairath.co.th - สรุปดราม่า ขนม ศศิกานต์ ไม่พอใจ น้องน้ำ ปมลูกอ๊วกใส่ ครูเต้ย ชี้แจงกลายเป็นหนังคนละม้วน    Thairath.co.th",
-      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
-      "creatorAngle": "เล่า reaction ส่วนตัวต่อกระแส แล้วเปิดคำถามให้คนคุยต่อ",
-      "promptIdea": "กระแสนี้ทุกคนอยู่ทีมไหน?",
-      "hashtags": [
-        "#EntertainmentTH",
-        "#คุยเรื่องบันเทิง",
-        "#กระแสวันนี้",
-        "#สรุปดราม่าขนมศศิกานต์ไม่"
-      ],
-      "riskNote": "Medium risk ควรเลี่ยงการพาดพิงบุคคลจริงและใช้คำถามเชิงสร้างสรรค์",
-      "sources": [
-        {
-          "title": "Thairath.co.th",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE12S293V2VXRWpMSGFYYzQxTDc2Qk5lQW9lOXVQOFFfd1F3bFBDVDBiaWU1MlZiMWpETHo1ZHE4WGRwam01NXJQUkMwcUtibUJYSnhfRkh1U1Z5X0VfMnc?oc=5"
-        }
-      ],
-      "updatedAt": "2026-08-21T12:33:10+07:00"
-    },
-    {
-      "id": "hyrox-f5fdf10f46",
-      "title": "\"เต้ย พงศกร\" แชร์มุมมองดราม่า \"HYROX\" กีฬาของคนมีเงิน-ลั่นตอนนี้ยังไม่พร้อมขอวิ่งมาราธอนก่อน!",
-      "sourceType": "news",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "medium",
-      "summary": "ข่าวจาก Google News keyword: ดราม่า / source: เดลินิวส์ - \"เต้ย พงศกร\" แชร์มุมมองดราม่า \"HYROX\" กีฬาของคนมีเงิน-ลั่นตอนนี้ยังไม่พร้อมขอวิ่งมาราธอนก่อน!    เดลินิวส์",
-      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#\"เต้ยพงศกร\"แชร์มุมมองดรา"
-      ],
-      "riskNote": "Medium risk ควรเลี่ยงการพาดพิงบุคคลจริงและใช้คำถามเชิงสร้างสรรค์",
-      "sources": [
-        {
-          "title": "เดลินิวส์",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBmQXg5S0tpZXAtdUJ1WDA5ZUlCZ1g3WFJZdW5HQ1Z5T0g0RFQ2MjZoUVRKN18tc21DOTNlTHhFU1VQVTFKRUJ3a2RBTVgzUG5yUFZ3?oc=5"
-        }
-      ],
-      "updatedAt": "2026-08-20T18:30:00+07:00"
     },
     {
       "id": "tank-day-902bb103fe",
@@ -1213,7 +1577,59 @@
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5LX28wb1JfN2JDM1FsbEdlSW9TRFNZSGtrdnBaZ2pRUjR4YWtOMk9aaVI3a2xRY2JkaXZiVG81Zmp4OFU4b1pBUTdQcDExa3F6S3c2T2xB?oc=5"
         }
       ],
-      "updatedAt": "2026-08-21T14:15:47+07:00"
+      "updatedAt": "2026-08-21T14:14:30+07:00"
+    },
+    {
+      "id": "fedfe-20-c84e54b5e0",
+      "title": "สรุปดราม่า ต้า Fedfe เพจปล่อยคลิปเสียง ปมทรัพย์สิน หุ้น และคดีรวม 20 ล้าน",
+      "sourceType": "news",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "medium",
+      "summary": "ข่าวจาก Google News keyword: ดราม่า / source: Thaiger - สรุปดราม่า ต้า Fedfe เพจปล่อยคลิปเสียง ปมทรัพย์สิน หุ้น และคดีรวม 20 ล้าน    Thaiger",
+      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#สรุปดราม่าต้าFedfeเพจปล่"
+      ],
+      "riskNote": "Medium risk ควรเลี่ยงการพาดพิงบุคคลจริงและใช้คำถามเชิงสร้างสรรค์",
+      "sources": [
+        {
+          "title": "Thaiger",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ORkFTU0JVQkNfdVh3bW9BcjBqS2ZkY3puX0duamdSbnl1OUtLcmlUSndRMTRvSkR5RE5NR09hWG9ocGVuX2praDFoemxsd2ZP?oc=5"
+        }
+      ],
+      "updatedAt": "2026-08-24T09:29:00+07:00"
+    },
+    {
+      "id": "20-ba62182b7b",
+      "title": "สรุปดราม่า! เกิดจากอะไร? \"ต้า เฟ็ดเฟ่\" และ \"ยัต ชัยโสโร\" อดีตเพื่อนรักฟ้องกัน 20 ล้าน",
+      "sourceType": "news",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "medium",
+      "summary": "ข่าวจาก Google News keyword: ดราม่า / source: Thairath.co.th - สรุปดราม่า! เกิดจากอะไร? \"ต้า เฟ็ดเฟ่\" และ \"ยัต ชัยโสโร\" อดีตเพื่อนรักฟ้องกัน 20 ล้าน    Thairath.co.th",
+      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#สรุปดราม่า!เกิดจากอะไร?\""
+      ],
+      "riskNote": "Medium risk ควรเลี่ยงการพาดพิงบุคคลจริงและใช้คำถามเชิงสร้างสรรค์",
+      "sources": [
+        {
+          "title": "Thairath.co.th",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4wWU1LYlp0Z1RjeFAtOWhCT2QxVlExcFNsUGFDOXRMcVJod19VUERWSGJnOW1YLWdKdDhxRHpGUDZsUVI1TUlxcmdDS3IwMmZjUXRrVEl5bkF3d3lLdXc?oc=5"
+        }
+      ],
+      "updatedAt": "2026-08-25T19:43:22+07:00"
     },
     {
       "id": "thai-help-thai-plus",
@@ -1310,13 +1726,13 @@
       "updatedAt": "2026-08-24T02:02:15+07:00"
     },
     {
-      "id": "1-2-1-1-5dd306f9ce",
-      "title": "🍲✨1 เมนู อาหารที่ดีต่อสุขภาพ กินอร่อยได้ แถมช่วยลดความเสี่ยงโรคอ้วน มีอะไรบ้าง? ✅หลักโภชนาการ 2:1:1 ช่วยให้เราเลือกกินอาหารได้อย่างสมดุล อิ่มอร่อย พร้อมดูแลสุขภาพไปด้ว...",
+      "id": "1-008b508d2a",
+      "title": "🍲✨1 เมนู อาหารที่ดีต่อสุขภาพและไม่เสี่ยงต่อโรคอ้วน มีอะไรบ้าง ? กินอร่อยได้แบบไม่รู้สึกผิด แถมสุขภาพดีไปด้วยกันนะคะ 💪🏻💚ถ้าคิดเมนูไม่ออก ตามไปหาคำตอบพร้อมกันในรายการ",
       "sourceType": "news",
       "category": "food",
       "contentPotential": "low",
       "riskLevel": "high",
-      "summary": "ข่าวจาก Google News keyword: อาหาร / source: facebook.com - 🍲✨1 เมนู อาหารที่ดีต่อสุขภาพ กินอร่อยได้ แถมช่วยลดความเสี่ยงโรคอ้วน มีอะไรบ้าง? ✅หลักโภชนาการ 2:1:1 ช่วยให้เราเลือกกินอาหารได้อย่างสมดุล อิ่มอร่อย พร้อมดูแลสุขภาพไปด้วยกันนะคะ💪🏻💚 🎥",
+      "summary": "ข่าวจาก Google News keyword: อาหาร / source: facebook.com - 🍲✨1 เมนู อาหารที่ดีต่อสุขภาพและไม่เสี่ยงต่อโรคอ้วน มีอะไรบ้าง ? กินอร่อยได้แบบไม่รู้สึกผิด แถมสุขภาพดีไปด้วยกันนะคะ 💪🏻💚ถ้าคิดเมนูไม่ออก ตามไปหาคำตอบพร้อมกันในรายการ #รสแลกเงิน ! 📍เ",
       "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
       "creatorAngle": "ใช้เป็นข้อมูลเฝ้าระวังมากกว่าบรีฟโพสต์ หากต้องใช้ควรให้ทีม review ก่อน",
       "promptIdea": "เรื่องนี้ควรเช็กข้อมูลก่อนแชร์ ทุกคนคิดว่าเราควรระวังอะไรบ้าง?",
@@ -1330,10 +1746,10 @@
       "sources": [
         {
           "title": "facebook.com",
-          "url": "https://news.google.com/rss/articles/CBMi5wdBVV95cUxOaUhxSk5vLXdLYkRtNTE5MVdLcXFmakZzQVVMNjNPX3NnUUlIS2lLNHhzdjllRk1RTFJmM29VQXFTMnVWeVBWZzBtaU9iNUdhVjVLY2V5bEFwcGdMRUpraVNONDhrbnA2MnBMVnVfMkl3Q2xZZ3FkOEU4eF9hYVg2VHptTVpjQzlzc3o0WmZBTlA3WV9EdTJ0MWFDbkpNd0NTQ1pXdzd0M2ZPaVZXTV9tSFZsdXY1dldIaDdoRTB0U1Bra0pSTmlyV0x0ci11VldlYjZ1X3h0TjhHeDZJclQ1OEhVTjFSQnlTWkctVmF2dF9OYWs1VXFMYzNEa1ZzOUM0eHNpUUI0SjVBX1BaRDBEbVd5anREVHRjbE0ya0hRX0FsWWM3X0lVRjJCbEtLQWd5dGpYVWFEQ3YtMjZoR19keEZRclNvZlh6QjR0ZlA2ZU1jRVN4aUlEbGdHVlhYLUNGYnluNXBOVkVFc2tOM0N6R2FFLXMtVFFMS2U1WjI3Si12RTFrU2lkMWNzSktuUmpfY2FqQWludGpuQ3l0R2VWNVExM1ctRTd2cklZRlp2RUhQak8tSW8tLUdvVDhjZDVSWEIwa0pTWXozaGRfN3JMS3JsVW5ENkU2SkpLU2VHZXZUdkJWUlhCbFZYcjl5NmplcjFiUWVHbHBSZVBndkxBVTZCR01vckVSY0J5UFJkaXd0VC1KSTBrQkJ1X004VHItRVp2dHFWOGFQVEZtNVVNODJEWDM0WmdjMDlrczV5ZWRpOFdlOHNsTXpQQmdiNThzYlhBTUlCZHNmeEthU04xVE5OMFRkbzdHZF8tYWtKYUNoREZtMzVvN3VDTk1IZmNQaVF1ck9pcXRHS002R2otSG5Tc1BZRjFKcXcycDc2YjcxS2dkYmFPaEh2cHlSNDRkVUIzQmQwNXpnZ1FOTmpKaGRoanVfNW9GUHlzRm9ITm84ZnZpU3ZnQUJ4QmFzd21RLXU0Y3lYbkRTZkRWNDg0enZHaVlySFMwMTlBNjhvSjFqaS05OFFRUmg3VTR5UkpOTDgxTjRrNEE4WlhaVnBLOEp1Mm9yTzFWNWhhRk84N3VsRWdoU3dPTzU1OXpzTnZEVFRrdks2UE1QZjNVektWWVNNeF9ReWgzS0R3dEs4WVI5TzNadXhmOHBBOENZVUx3VFoyQWcwMFNoVzg3X19ER0U2NzlVdjNVRGY4MmRPSm51eTFFT3R3SWxrN01qTUlZSUh0aGduTEVZb2d4cjZFdmlDVjZ0Tkg0Y1pjYjdROGZkd20yOVlFTjZjSWJiRG5oWGg0UzViTFdEY1R2OTMyZFk4OEFNcDA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi8gdBVV95cUxNX0FrN1dJa2dBczlWU25xNGpkY3pCVzZSMk1ZVV80TE5VN1pHLXROQllRWklyMFREXzU3VlRheUJEeWZ6MHIzcnVuNlowdFZrLVBzU0J5eDZ1d3FkQm4xZ21GRWlQcTUwVUlNWHBOTWJrUjdSZ29ScHlLTkM2MmlDeGJiS3djZlBMYXUxc0E4RURoVy1VN1lyTEUzdDhzckpxczh4TUlpLUY5ci1Rb2hjZWgtYTVQbHRRa3gzQzlQanRXc3lFZWFRQUQ1QVpUREhnRy1ocXB5ZERVeWt0b2MzUW9BZzREaHRkZ3g1S3JOZjdvWi02R1lTVlNWTlJIMVNsOFpSemtxZkFzMEZ6a1VBTDZVZXhuekNxNlBLTGxyYmRYZGQ5RkFaNUpmMm5TTnFUdUlDZmgwalh3aWNENjVxNGt1STJPWXlyOEtVRV90VnVKX3k0VEsxbVRPNG04aWRLQVB2Uk1RX21iQjNtRk1iQXN1RWpwYTFySFlldUZjcVFFOTk5eWZRczI0aDJfQ3htUS10ZU8wNFVrSlZfVHFPZEJqZWUySnVyMmI1ZkQwekx1Nk9lTnJTSTE4TTU3bllUTHRuRDI0cy1QbUxQY1pGYndsVWcwNXZVVmpUbXQwbjFiZEFHd29aZ3BQUnl2ZkZaQ3l5dm8zc1IzeDFpeE0yTHNQUXgwbmZub2hwbkJEQWVIejljUGhHSE4xSVFhazU4cDFZVlNFY2VUUURxUUtzdWVEbWZ2QW1lOTFjNXR6OHV3WFBwYW5jT293TXl6WGRDRVhxQ01COFZ3OEJRdVFUcUl4ejlKM3lwV0dsX2Y3amNQakhpZDV0MjlydjNaWGx4NVRDamY1dFpJTk1FVjl2U1BSbTNKbW1FMmdoNHFmNklTeEQzY0YwUXVyOFFRbkk4R2JOeWF6V3NuMVdRRjRpaUNPaXFvWWtwMkl4NjdXZ0NyTlNRUXVHVUpiMVAyS1ViaHd2LVFCYlhSM3Z4dnFaOXB6T3BKbnNtZWhuTEU5a1VyQWxMSFVyd2VaeFE4WE1KREtMZk1qU3FOakZqZWlGOVBkeGVBX1A5dUNGdHFuaXFQT0Z1Rkw5LWdSd2M3NE9MUVpzTWw1WEhwY09BVW1UeGZ3bmZ1a2Ntc2xuUTRrZTc2RlJrQ003N1RCX2RaQm9uWS16a3U0ZUZaMDFoSm1OZHpNbGpqX0F5SDRKRUpJQ19peUIwMlhlN000YmFHZFNDUUcwdzZhSWdrdlc5NXdDT1NRTEZiVDFERkxMd2RBbWtJTGdMM05kTlphMEVrdTRaZVlWMDZYcE5IY3ltXzNFNHhzYnBfWWZVX0QzSGl4TnVnUQ?oc=5"
         }
       ],
-      "updatedAt": "2026-08-24T18:20:09+07:00"
+      "updatedAt": "2026-08-24T15:01:00+07:00"
     }
   ]
 }
