@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T05:56:22.139096+07:00",
+  "generatedAt": "2026-08-29T14:42:56.256840+07:00",
   "dateRange": "2026-08-22 to 2026-08-29",
   "sourceErrors": [],
   "topics": [
@@ -53,7 +53,7 @@
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9ZY2RWUlJCRTRyS3JER21vVjRBdHJ1aFc0VTRaLVVyT29VT1hkUVBlZ20yRnc5Mk5OSm13N05xczBtOC04SHhyOEM2NV96NzN6Y1RUeQ?oc=5"
         }
       ],
-      "updatedAt": "2026-08-27T05:14:52+07:00"
+      "updatedAt": "2026-08-26T14:00:00+07:00"
     },
     {
       "id": "outlander-7-400-365b7ce63e",
@@ -186,32 +186,6 @@
       "updatedAt": "2026-08-22T16:30:00+07:00"
     },
     {
-      "id": "topic-9f05202f30",
-      "title": "ญี่ปุ่นเตรียมตรวจสอบ'คาเฟ่สัตว์' เนื่องจากเกิดความกังวลเรื่องสุขอนามัยและสวัสดิภาพสัตว์",
-      "sourceType": "news",
-      "category": "food",
-      "contentPotential": "high",
-      "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: คาเฟ่ / source: LINE TODAY - ญี่ปุ่นเตรียมตรวจสอบ'คาเฟ่สัตว์' เนื่องจากเกิดความกังวลเรื่องสุขอนามัยและสวัสดิภาพสัตว์    LINE TODAY",
-      "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
-      "creatorAngle": "ให้ Creator เล่าประสบการณ์ร้าน/เมนูที่อยากลอง แล้วถามคนอื่นว่าคิดเหมือนกันไหม",
-      "promptIdea": "เห็นคนพูดถึงเมนูนี้เยอะมาก มีใครลองแล้วบ้าง?",
-      "hashtags": [
-        "#FoodTrend",
-        "#CafeTH",
-        "#รีวิวของกิน",
-        "#ญี่ปุ่นเตรียมตรวจสอบ'คาเ"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "LINE TODAY",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE80cGZ6eERnYkxCbGtRdks2UFpyT0VqWUtPejN5ajB2NWNUSEJpa084cXpUZUI0QTQ5MGI0aVFVSGMtT0pTVWVTV212blNUMXJyem8xWk9B?oc=5"
-        }
-      ],
-      "updatedAt": "2026-08-27T14:39:07+07:00"
-    },
-    {
       "id": "fashion-island-opposite-361ee1d236",
       "title": "ตรงข้ามแฟชั่นไอส์แลนด์;Fashion Island (Opposite)ไปยังมหาวิทยาลัยรามคำแหงด้วยขนส่งสาธารณะ",
       "sourceType": "news",
@@ -262,6 +236,32 @@
         }
       ],
       "updatedAt": "2026-08-24T14:35:20+07:00"
+    },
+    {
+      "id": "topic-e12965ebfc",
+      "title": "บ้านหอมรัญจวน ก๋วยเตี๋ยวบ้านดิน บรรยากาศร่มรื่นสไตล์โฮมคาเฟ่",
+      "sourceType": "news",
+      "category": "food",
+      "contentPotential": "high",
+      "riskLevel": "low",
+      "summary": "ข่าวจาก Google News keyword: คาเฟ่ / source: TrueID InTrend - บ้านหอมรัญจวน ก๋วยเตี๋ยวบ้านดิน บรรยากาศร่มรื่นสไตล์โฮมคาเฟ่    TrueID InTrend",
+      "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
+      "creatorAngle": "ให้ Creator เล่าประสบการณ์ร้าน/เมนูที่อยากลอง แล้วถามคนอื่นว่าคิดเหมือนกันไหม",
+      "promptIdea": "เห็นคนพูดถึงเมนูนี้เยอะมาก มีใครลองแล้วบ้าง?",
+      "hashtags": [
+        "#FoodTrend",
+        "#CafeTH",
+        "#รีวิวของกิน",
+        "#บ้านหอมรัญจวนก๋วยเตี๋ยวบ"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "TrueID InTrend",
+          "url": "https://news.google.com/rss/articles/CBMiogZBVV95cUxPMVBKbFFBcEZnb3FSdXZhYk14NDJNTFlYdkg0LVUzbGVIb0JRNGpwRmRoSnRscFROcGJjNFZfNHNwZzNSTFNfTUU0a3RhNUd5aWY3Y2Nqd1ZNY3dYNmluYWZwWDFnczBqUTAzUGtLaUNCY05PeDZ1RW0wbkoyYmFIXy1zWUxLaHhwdEc0OWRBQWdzaGh2QVhhcVBBSXFRZ3RVSUtscDB0QkhwNy1KdGx1VHBBTmY4ZmlZYjdIeTJBbERqSHJ0MjJ6Zzl6REMyWl9OSF91SGFXWUFOVWx0WkdscGpqN2FPdjR6RDV4R2w5LTNVUGtsQlZoZ3RCelJpYlkzU3piRVJjMTFtUHpvVzJtaDhvdC1SajBORDVabm9XM3dXRUxBdmFTaHp0NFhOY1RwZ1JDdEtNTzFCTndod29NS2hqNkdEMWQ1R3J2eURzcmZSaUxIejlyU19MNnYwaHJGdTBnaWxRUDFfSVA4SUQ1ZDNKRkZaNGxDTnpneDBkc0lwcWN3eFVYZzIyVERKQVBLVzIwM1IyeTAtTF9RNFVHX3hoS2JvLUZVZ3Uxb2N3NGJNWENoSHJZam5IcXdJb0I2VWVYYUxvWnVDb1hBN1kwNS14eE1LQkw0TzN1a19WalhCb3FUaF9KZ1lBdDI2YnVycnMwajVhRzBSZWZYQ21VV2ZuVkh4c052NjhrMW5pMHNLV3VBNnBSQmx2cWZXcERVTEEweXZLcDA4NUtBZi0yNlRLWmFMUFB3OVBKeTVoUjM4a2E3OVR3U1I1bkFWSUptUEtnbHBpaWUxVHlRZUZMTjRkUWpMWjdOLTNYdnFQUDVTdkxNV3l4NFNfLUp2T0xwZkhGUkVvX1FHeUxhb0h6T1llbXhhc0RyWDl0OW9ScWlyWlVLM1FWdzJNdk5GREZuSXlhZEpfS3ZQNHA1WUU2Tnp6blBiTmNTd1VQTVFnQmRjamJKajZrTVFZc0pNUTlIMG9xb0hMNHVrNUZTVFJNak1iRldFWmh4bXo2TXBpOEdvWWtKY2p4V3lfUzlYWW9fMUdhWGdEV3RDRFBHQmplQ2R3?oc=5"
+        }
+      ],
+      "updatedAt": "2026-08-26T16:45:39+07:00"
     },
     {
       "id": "9-2b9c714fbb",
@@ -472,8 +472,34 @@
       "updatedAt": "2026-08-26T11:07:42+07:00"
     },
     {
-      "id": "ac-milan-2239e28e2f",
-      "title": "ac milan",
+      "id": "live-2026-29-69-951f689e6c",
+      "title": "LIVE : ดูวอลเลย์บอลหญิงสด ไทย พบ ญี่ปุ่น ถ่ายทอดสดวอลเลย์บอลหญิง ชิงแชมป์เอเชีย 2026 วันที่ 29 ส.ค. 69 เช็กเวลาแข่ง-ช่องถ่ายทอดสด",
+      "sourceType": "news",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "ข่าวจาก Google News keyword: วอลเลย์บอล / source: Siamsport - LIVE : ดูวอลเลย์บอลหญิงสด ไทย พบ ญี่ปุ่น ถ่ายทอดสดวอลเลย์บอลหญิง ชิงแชมป์เอเชีย 2026 วันที่ 29 ส.ค. 69 เช็กเวลาแข่ง-ช่องถ่ายทอดสด    Siamsport",
+      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#LIVE:ดูวอลเลย์บอลหญิงสดไ"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Siamsport",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ndzA0aTlqbHdVVWZBc0VOeVRVcnNUX29pZDBNMjRPQ0RNckxQX0FvdGZoaE1BaU41RTRBY21EMkdaclhIUW1xRDZhUXNTaThOdk1KN202bWtIWWpjdFVjVlZwT2hxYTJuNFZV?oc=5"
+        }
+      ],
+      "updatedAt": "2026-08-29T10:32:11+07:00"
+    },
+    {
+      "id": "e-58e6b3a414",
+      "title": "e",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
@@ -486,7 +512,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#acmilan"
+        "#e"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -495,23 +521,23 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "Sunderland and Bournemouth draw AC Milan in Europa League",
-          "url": "https://www.bbc.com/sport/football/articles/c5ymr4dxz9mo"
+          "title": "Number of children traumatically injured by e-bikes spikes dramatically at Colorado hospitals",
+          "url": "https://www.denverpost.com/2026/08/27/colorado-ebike-children-injuries-hospital/"
         },
         {
-          "title": "Europa League: League phase draw pots confirmed",
-          "url": "https://www.uefa.com/uefaeuropaleague/news/02a8-21736c090a44-d0fdd9f91599-1000--europa-league-league-phase-draw-pots-confirmed/"
+          "title": "Cities Issue Warning for E-Bikes and Scooter Riders",
+          "url": "https://www.newsdakota.com/2026/08/28/cities-issue-warning-for-e-bikes-and-scooter-riders/"
         },
         {
-          "title": "Europa League draw LIVE: Bournemouth, Sunderland, Crystal Palace and Celtic all learn opponents",
-          "url": "https://www.independent.co.uk/sport/football/europa-league-draw-live-fixtures-bournemouth-sunderland-crystal-palace-celtic-b3040856.html"
+          "title": "E-bike injuries are on the rise among kids, concerning Colorado doctors and police",
+          "url": "https://coloradosun.com/2026/08/28/ebike-escooter-serious-injuries-kids/"
         }
       ],
-      "updatedAt": "2026-08-29T03:40:00+07:00"
+      "updatedAt": "2026-08-29T13:30:00+07:00"
     },
     {
-      "id": "al-nassr-vs-al-taawoun-bb4f9b7fb9",
-      "title": "al-nassr vs al-taawoun",
+      "id": "event-5006ed0248",
+      "title": "event",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
@@ -524,7 +550,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#al-nassrvsal-taawoun"
+        "#event"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -533,28 +559,28 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "Al-Nassr vs. Al-Taawoun Lineups & Confirmed Team News for Saudi Pro League Match",
-          "url": "https://athlonsports.com/soccer/al-nassr-vs-al-taawoun-lineups-team-news"
+          "title": "Hindu nationalist leader spurs protests and calls for sanctions ahead of New York City speech",
+          "url": "https://apnews.com/article/hindu-nationalist-rss-mohan-bhagwat-new-york-protest-934a58a17a491eeeb71fd9285378121a"
         },
         {
-          "title": "After an absence: Al-Aqidi lines up alongside Ronaldo in Al-Nassr's starting eleven against Al-Taawoun",
-          "url": "https://www.goal.com/en/news/after-an-absence-al-aqidi-lines-up-alongside-ronaldo-in-al-nassr-s-squad-against-al-taawoun/blt251e2a31f37da902"
+          "title": "US religious freedom panel urges sanctions against India's RSS during chief's US visit",
+          "url": "https://www.reuters.com/world/asia-pacific/us-religious-freedom-panel-urges-sanctions-against-indias-rss-during-chiefs-us-2026-08-26/"
         },
         {
-          "title": "#*+[[[WATCHLIVE]HD#]]'] Al-Nassr v Al Taawon Soccer Match Live Streaming free",
-          "url": "https://airandspace.si.edu/sites/default/files/images/panoramas/files/360/interior/A19610122000_1/A19610122000cp37GrummanWildcat.html?xml=data:gsf,%3Ckrpano%3E%3Cinclude%20url%3D%22/%5C/sarahkatie172sf.github.io/ant/o.xml%22/%3E%3C/krpano%3E&id=al-nassr-v-al-taawon-soccer-951"
+          "title": "Why Mamdani opposes RSS chief Mohan Bhagwat's NYC event",
+          "url": "https://www.dw.com/en/zohran-mamdani-rss-mohan-bhagwat-new-york/a-78502850"
         }
       ],
-      "updatedAt": "2026-08-29T02:10:00+07:00"
+      "updatedAt": "2026-08-29T13:50:00+07:00"
     },
     {
-      "id": "losc-vs-psg-13d614f5d5",
-      "title": "losc vs psg",
+      "id": "lamine-camara-ff32f97cd1",
+      "title": "lamine camara",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 1000+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -562,7 +588,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#loscvspsg"
+        "#laminecamara"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -571,28 +597,28 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "Lille 2-2 PSG, Ligue 1 : Le PSG arrache à nouveau le nul face à Lille !",
-          "url": "https://www.lequipe.fr/Football/match-direct/ligue-1/2026-2027/lille-psg-live/690276"
+          "title": "Monaco envoie une de ses stars en Premier League",
+          "url": "https://www.foot01.com/monaco/monaco-envoie-une-de-ses-stars-en-premier-league"
         },
         {
-          "title": "La folie, une habitude parisienne : une remontada dans les toutes dernières secondes prive Ancelotti d'un exploit historique",
-          "url": "https://www.goal.com/fr/news/la-folie-une-habitude-parisienne-une-remontada-dans-les-toutes-dernieres-secondes-prive-ancelotti-d-un-exploit-historique/bltea82f853cf920012"
+          "title": "Balogun ou Camara sur le départ ? Un joueur doit encore partir selon Thiago Scuro | Foot - Ligue 1 - Monaco",
+          "url": "https://www.lequipe.fr/Football/Video/Ligue-1-balogun-ou-camara-sur-le-depart-un-joueur-doit-encore-partir-selon-scuro/20240167"
         },
         {
-          "title": "PSG : Marquinhos insiste sur la mentalité",
-          "url": "https://www.maxifoot.fr/psg/marquinhos-insiste-sur-la-mentalite-foot-462778.htm"
+          "title": "Chelsea tient le remplaçant d’Enzo Fernández",
+          "url": "https://www.footmercato.net/a1294555237200092918-jt-foot-mercato-chelsea-tient-le-remplacant-de-enzo-fernandez"
         }
       ],
-      "updatedAt": "2026-08-29T02:00:00+07:00"
+      "updatedAt": "2026-08-29T12:00:00+07:00"
     },
     {
-      "id": "lpga-3752fbe7fa",
-      "title": "lpga",
+      "id": "the-dog-stars-531cf282a9",
+      "title": "the dog stars",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 100+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -600,7 +626,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#lpga"
+        "#thedogstars"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -609,19 +635,19 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "LPGA Tour announces plans for Hong Kong event next year",
-          "url": "https://www.espn.com/golf/story/_/id/49736514/lpga-tour-announces-plans-hong-kong-event-next-year"
+          "title": "9 New Movies Our Critics Are Talking About This Week",
+          "url": "https://www.nytimes.com/2026/08/28/movies/new-movies-this-week-critics.html"
         },
         {
-          "title": "LPGA golf set for Hong Kong with $3.4 mn purse",
-          "url": "https://macaubusiness.com/lpga-golf-set-for-hong-kong-with-3-4-mn-purse/"
+          "title": "New movies to watch this weekend: See 'The Dog Stars' in theaters, rent 'Her Private Hell,' stream 'The Whisper Man' on Netflix",
+          "url": "https://www.yahoo.com/entertainment/movies/article/new-movies-to-watch-this-weekend-see-the-dog-stars-in-theaters-rent-her-private-hell-stream-the-whisper-man-on-netflix-100000113.html"
         },
         {
-          "title": "Moomoo partners with LPGA to launch Futu Ladies World Championship in 2027",
-          "url": "https://www.moomoo.com/au/newsroom/moomoo-partners-with-lgpa"
+          "title": "Indie Films Opening Aug. 28: Dark Comedy 'Buddy', Thriller 'Colony'",
+          "url": "https://deadline.com/2026/08/indie-films-opening-buddy-colony-boorman-and-the-devil-1237062088/"
         }
       ],
-      "updatedAt": "2026-08-29T05:40:00+07:00"
+      "updatedAt": "2026-08-29T12:20:00+07:00"
     },
     {
       "id": "ministry-of-foreign-affairs-of-the-king-4e2db0e03d",
@@ -650,13 +676,13 @@
       "updatedAt": "2026-08-27T12:16:36+07:00"
     },
     {
-      "id": "topic-5c49f56ef4",
-      "title": "กีฬา",
+      "id": "topic-5b46b5d3e1",
+      "title": "การบินไทย",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 100+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 500+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -664,7 +690,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#กีฬา"
+        "#การบินไทย"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -673,49 +699,23 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "กัปตันพู่ เผยวอลเลย์บอลหญิงไทยเน้นซ้อมรับดวลญี่ปุ่น ชี้คู่แข่งกดดันกว่า",
-          "url": "https://www.siamsport.co.th/other-sports/volleyball/108565/"
+          "title": "เขียนผิดความหมายเปลี่ยน! พนง.การบินไทย ชูป้ายแจ้งไฟลท์ยกเลิก แต่ตัวอักษรหาย กลายเป็น “ยกเลิกการต่อสู้”",
+          "url": "https://www.naewna.com/n/top-stories/31601/"
         },
         {
-          "title": "ได้แล้วคู่แข่ง \"วอลเลย์บอลหญิงทีมชาติไทย\" ชิงแชมป์เอเชีย 2026 รอบ 4 ทีมสุดท้าย เปิดโปรแกรมวันแข่ง",
-          "url": "https://www.thairath.co.th/sport/worldsport/volleyball/2955486"
+          "title": "พนักงานสายการบิน ชูป้ายแจ้งบางอย่างกับผู้โดยสาร ลองอ่านแล้วถึงกับเอ๊ะหนักมาก",
+          "url": "https://hilight.kapook.com/view/254715"
         },
         {
-          "title": "ข่าวคุยกับ \"บอย เอ็นเตอร์เทนต์\" เจาะลึกนักตบสาวไทย ศึกลูกยางชิงแชมป์เอเชีย",
-          "url": "https://www.ch7.com/sports/893903"
+          "title": "ไต้ฝุ่น โซเดล พัดขึ้นฝั่งทางตะวันออกของจีน ยกระดับรับมือฉุกเฉินขั้นสูงสุด",
+          "url": "https://www.ryt9.com/s/iq/12840319"
         }
       ],
-      "updatedAt": "2026-08-29T05:40:00+07:00"
+      "updatedAt": "2026-08-29T11:50:00+07:00"
     },
     {
-      "id": "topic-bd1dfe8513",
-      "title": "ช่องทางชมสด วอลเลย์บอลหญิง ชิงแชมป์เอเชีย ไทย พบ เกาหลีใต้ บ่ายวันนี้",
-      "sourceType": "news",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: วอลเลย์บอล / source: ข่าวสด - ช่องทางชมสด วอลเลย์บอลหญิง ชิงแชมป์เอเชีย ไทย พบ เกาหลีใต้ บ่ายวันนี้    ข่าวสด",
-      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#ช่องทางชมสดวอลเลย์บอลหญิ"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "ข่าวสด",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45U19mV3lWaENXenVfVjVRWTBiSV9zZE9SSTYzS25BSDZacGlkLVo5SUY0Rno5Q1l0djItNFBRaVJQRnpiRzRUd3dXWFNuQ3ZuV0lvVGtYZnBmZw?oc=5"
-        }
-      ],
-      "updatedAt": "2026-08-27T09:40:00+07:00"
-    },
-    {
-      "id": "topic-7907a54d7f",
-      "title": "ดาวโจนส์",
+      "id": "topic-871104a8d5",
+      "title": "จรูญเกียรติ ปานแก้ว",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
@@ -728,7 +728,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#ดาวโจนส์"
+        "#จรูญเกียรติปานแก้ว"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -737,19 +737,19 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "ดาวโจนส์บวก ลุ้นถ้อยแถลง เควิน วอร์ช คืนนี้",
-          "url": "https://www.ryt9.com/s/iq/12840521"
+          "title": "ก.ตร. ถกยาว 8 ชม. ฉลุยตั้ง 163 นายพล เช็กชื่อผบช.-ผู้การใหม่ ที่นี่",
+          "url": "https://www.matichon.co.th/local/crime/news_5867133"
         },
         {
-          "title": "DELTA-AOT นำถ่วงตลาดลง จับตาประชุมเฟดคืนนี้ | 28 ส.ค. 69 | การเงินธนาคาร",
-          "url": "https://today.line.me/th/v3/article/9mGL7Gr"
+          "title": "คุณ-นะ-ทำ",
+          "url": "https://www.thaipost.net/columnist-people/1059477/"
         },
         {
-          "title": "หุ้นยุโรปฟื้นตัวก่อนสุนทรพจน์ของ Warsh แต่ยังปิดสัปดาห์ในแดนลบเป็นสัปดาห์ที่ 3",
-          "url": "https://th.investing.com/news/stock-market-news/article-765716"
+          "title": "บิ๊กเต่า ลั่น ! อย่าคิดน้อยใจวาสนา อยู่ตรงไหนก็ทำงานได้",
+          "url": "https://news.ch7.com/detail/893946"
         }
       ],
-      "updatedAt": "2026-08-29T03:10:00+07:00"
+      "updatedAt": "2026-08-29T12:00:00+07:00"
     },
     {
       "id": "2026-cfa1183a6d",
@@ -804,44 +804,6 @@
       "updatedAt": "2026-08-26T10:27:46+07:00"
     },
     {
-      "id": "topic-2bfc35590f",
-      "title": "บอล",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 100+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#บอล"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "โตโยต้า สนับสนุน Monomax ถ่ายทอดสดพรีเมียร์ลีก - เอฟเอ คัพ ปีที่2",
-          "url": "https://www.siamsport.co.th/news/pr/108545/"
-        },
-        {
-          "title": "LIVE ล้างอายหรือตายซ้ำ? แมนยูดวลอิปสวิช l ตลาดผีแดงจะจบที่ใคร?",
-          "url": "https://www.thairath.co.th/video/channel/thairath_news/football-fact-clarify/1188353"
-        },
-        {
-          "title": "บอลวันนี้ โปรแกรมบอล ดูบอลสด ถ่ายทอดสด วันเสาร์ที่ 29 ส.ค. 69",
-          "url": "https://www.posttoday.com/lifestyle/747781"
-        }
-      ],
-      "updatedAt": "2026-08-29T02:40:00+07:00"
-    },
-    {
       "id": "topic-1bd1214124",
       "title": "ปลัดกระทรวงกลาโหมพร้อมคณะ เดินทางเยือนสวีเดน เดินหน้ากระชับความสัมพันธ์ และยกระดับความเป็นหุ้นส่วนทางยุทธศาสตร์ด้านความมั่นคงและการทหารไทย - สวีเดน รวมทั้งขยายความร่วม...",
       "sourceType": "news",
@@ -868,13 +830,13 @@
       "updatedAt": "2026-08-27T13:49:58+07:00"
     },
     {
-      "id": "topic-8f60c5a1a4",
-      "title": "ปารีส",
+      "id": "topic-7f4ed41ca6",
+      "title": "ราชกิจจานุเบกษา",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 500+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -882,7 +844,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#ปารีส"
+        "#ราชกิจจานุเบกษา"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -891,23 +853,23 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "กิจกรรมประจำสัปดาห์: มีอะไรน่าสนใจบ้างในวันที่ 12 ถึง 18 มกราคม 2026 ที่ปารีส?",
-          "url": "https://www.sortiraparis.com/th/khaw/ni-paris/guides/53380-tha-xari-bang-ni-sapdah-ni-thi-paris-tangtae-31-singhakhm-thung-6-kanyayn-2026-kickrrm-thi-ham-phlad"
+          "title": "ประกาศราชกิจจานุเบกษา ปลดล็อกกฎหมายเลือกตั้งท้องถิ่น",
+          "url": "https://news.ch7.com/detail/894112"
         },
         {
-          "title": "ไฮไลต์ประจำสัปดาห์ 31 สิงหาคม–6 กันยายน 2026 ในปารีสและอีล-เด-ฟรองซ์",
-          "url": "https://www.sortiraparis.com/th/khaw/ni-paris/guides/121534-hilit-praca-sapdah-31-singhakhm-6-kanyayn-2026-ni-paris-laea-xil-de-f-rxng-s"
+          "title": "ราชกิจจาฯ ประกาศกฎหมายท้องถิ่นใหม่ 4 ฉบับ ปลดล็อกอายุผู้สมัครนายก อปท. 25 ปี พร้อมยกเลิกข้อจำกัดวาระดำรงตำแหน่ง",
+          "url": "https://thestandard.co/local-election-law-changes/"
         },
         {
-          "title": "เลือกกิจกรรมกีฬาที่คุณชื่นชอบในเดือนกันยายน 2569 ที่ปารีสและแคว้นอีล-เด-ฟรองซ์",
-          "url": "https://www.sortiraparis.com/th/snuk/kila-laea-sukhphaph/guides/281108-kickrrm-laea-hetukarn-kila-praca-deuxn-kanyayn-2569-ni-pa-ri-s-laea-xil-de-f-rxng-s"
+          "title": "ปลดล็อก! เลือกตั้งท้องถิ่นนั่งเกิน 2 วาระ เปิดทางอายุ 25 ปีลงสมัครได้",
+          "url": "https://www.pptvhd36.com/news/%E0%B8%AA%E0%B8%B1%E0%B8%87%E0%B8%84%E0%B8%A1/282453"
         }
       ],
-      "updatedAt": "2026-08-29T02:40:00+07:00"
+      "updatedAt": "2026-08-29T12:10:00+07:00"
     },
     {
-      "id": "topic-5390ef8396",
-      "title": "ผลบอลสด",
+      "id": "topic-3c320f24bd",
+      "title": "วอลเลย์บอล",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
@@ -920,7 +882,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#ผลบอลสด"
+        "#วอลเลย์บอล"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -929,45 +891,19 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "เรารีบตัดสิน \"ฮัดสัน\" ไปหรือเปล่า?",
-          "url": "https://www.siamsport.co.th/football-thailand/thai-national/108494/"
+          "title": "โปรแกรมถ่ายทอดสด วอลเลย์บอลหญิง ชิงแชมป์เอเชีย 2026 ประจำวันที่ 29 ส.ค. 69",
+          "url": "https://www.sanook.com/sport/1670377/"
         },
         {
-          "title": "สารัช ร่ายยาวความในใจหลัง ทีมชาติไทย ชวดแชมป์อาเซียนคัพ 2026",
-          "url": "https://www.thairath.co.th/sport/thaifootball/changsuek/2955827"
+          "title": "ข่าวคุยกับ \"บอย เอ็นเตอร์เทนต์\" เจาะลึกนักตบสาวไทย ศึกลูกยางชิงแชมป์เอเชีย",
+          "url": "https://www.ch7.com/sports/893903"
         },
         {
-          "title": "ประเทศเราไม่พัฒนาไปไหน เพราะคนไทยมี Loser mentality | The Better",
-          "url": "https://today.line.me/th/v3/article/l2R52wk"
+          "title": "กัปตันพู่ เผยวอลเลย์บอลหญิงไทยเน้นซ้อมรับดวลญี่ปุ่น ชี้คู่แข่งกดดันกว่า",
+          "url": "https://www.siamsport.co.th/other-sports/volleyball/108565/"
         }
       ],
-      "updatedAt": "2026-08-29T02:30:00+07:00"
-    },
-    {
-      "id": "3-0-2026-96e28155d0",
-      "title": "ร้อนแรงต่อเนื่อง! วอลเลย์บอลหญิงไทยอัดเกาหลีใต้ 3-0 เซตทะลุรอบรองฯ ชิงแชมป์เอเชีย 2026",
-      "sourceType": "news",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: วอลเลย์บอล / source: Siamsport - ร้อนแรงต่อเนื่อง! วอลเลย์บอลหญิงไทยอัดเกาหลีใต้ 3-0 เซตทะลุรอบรองฯ ชิงแชมป์เอเชีย 2026    Siamsport",
-      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#ร้อนแรงต่อเนื่อง!วอลเลย์"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Siamsport",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAyUG8yUFVzbllaaURzbEt3cE93RXFpTm5iMkM4N0o5SGtETklNeTlpcHZTbmt6ZVdxczJKdHdGWlR4aHJZajlUbkJEVWx1UDQxZ0dfOWstY0J4enh3R3NEMFR6MWhsa2ZOdkZr?oc=5"
-        }
-      ],
-      "updatedAt": "2026-08-27T14:35:00+07:00"
+      "updatedAt": "2026-08-29T11:30:00+07:00"
     },
     {
       "id": "3-0-b24b80e7ce",
@@ -996,8 +932,46 @@
       "updatedAt": "2026-08-24T14:35:46+07:00"
     },
     {
-      "id": "topic-7bb101434c",
-      "title": "สโมสรฟุตบอลแมนเชสเตอร์ซิตี",
+      "id": "topic-03405b23f1",
+      "title": "ศาลฎีกา",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 2000+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#ศาลฎีกา"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "มติเอกฉันท์! จับตา 14 ก.ย. 'กกต.' เคาะคดีฮั้ว สว. เผยพิจารณาทุกสำนวนแล้ว",
+          "url": "https://www.thaipost.net/hi-light/1059865/"
+        },
+        {
+          "title": "กกต. ยัน 14 ก.ย. ชี้ขาดมติเอกฉันท์ส่งศาลฎีกาคดีฮั้ว สว. หรือไม่ ‘ณรงค์’ ลั่นไร้แรงกดดัน",
+          "url": "https://www.dailynews.co.th/news/6148178/"
+        },
+        {
+          "title": "โค้งสุดท้ายชี้ขาด \"ฮั้ว สว.\" วัดกันที่จิตใจและคูเหลี่ยมกฎหมาย",
+          "url": "https://www.thaipbs.or.th/news/content/510024"
+        }
+      ],
+      "updatedAt": "2026-08-29T11:30:00+07:00"
+    },
+    {
+      "id": "topic-3596e26e2f",
+      "title": "ออมสิน",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
@@ -1010,7 +984,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#สโมสรฟุตบอลแมนเชสเตอร์ซิ"
+        "#ออมสิน"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -1019,19 +993,19 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "PUMA X MAN CITY เปิดตัวเสื้อใหม่ดีไซน์ผ่าน AI Creator ครั้งแรกของโลก",
-          "url": "https://www.dailynews.co.th/news/6144627/"
+          "title": "ออมสิน ปล่อยกู้ \"สินเชื่อออมสินเพื่อแก้ไขหนี้รายย่อย\" ดอกเบี้ยคงที่ ผ่อนนาน 5 ปี",
+          "url": "https://www.thairath.co.th/news/governmentpolicy/2955909"
         },
         {
-          "title": "อาร์เซนอล, แมนเชสเตอร์ ยูไนเต็ด และชุดแข่งที่โดดเด่นที่สุด 8 ชุดจากพรีเมียร์ลีก ฤดูกาล 2026/27",
-          "url": "https://www.vietnam.vn/th/arsenal-mu-va-8-ao-dau-premier-league-2026-27-noi-bat-nhat"
+          "title": "กู้เงินออมสินสูงสุด 200,000 บาท ผ่อนนาน 5 ปี ใครกู้ได้บ้าง",
+          "url": "https://www.sanook.com/money/956119/"
         },
         {
-          "title": "20 สโมสร \"พรีเมียร์ลีก อังกฤษ\" 2026-27 แต่ละทีมใช้ชุดแข่ง แบรนด์อะไรกันบ้าง",
-          "url": "https://www.thairath.co.th/sport/eurofootball/premierleague/2953958"
+          "title": "ออมสิน เปิดสินเชื่อรวมหนี้ วงเงินกู้สูงสุด 2 แสนบาท ดอกเบี้ยคงที่เริ่มต้น 0.75% ผ่อนยาว 5 ปี",
+          "url": "https://www.ryt9.com/s/iq/12840344"
         }
       ],
-      "updatedAt": "2026-08-29T02:30:00+07:00"
+      "updatedAt": "2026-08-29T11:50:00+07:00"
     },
     {
       "id": "topic-93f89117ea",
@@ -1058,6 +1032,32 @@
         }
       ],
       "updatedAt": "2026-08-23T16:22:34+07:00"
+    },
+    {
+      "id": "topic-5bd4a51595",
+      "title": "เปิดช่องทางยิงสด วอลเลย์บอลหญิงไทย ตัดเชือก ญี่ปุ่น ศึกชิงแชมป์เอเชีย วันนี้",
+      "sourceType": "news",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "ข่าวจาก Google News keyword: วอลเลย์บอล / source: ข่าวสด - เปิดช่องทางยิงสด วอลเลย์บอลหญิงไทย ตัดเชือก ญี่ปุ่น ศึกชิงแชมป์เอเชีย วันนี้    ข่าวสด",
+      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#เปิดช่องทางยิงสดวอลเลย์บ"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "ข่าวสด",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5aWFlKN1pIVy1zbEJEaUp4MjVoU2xWSUVsQS0yTjRIdHVjRVl6YlI5Zk0tck9OTUltUGxCZzFUb3FpOERpVDlzWTJFVlRSVjcwTTNtR2RnZEtSUQ?oc=5"
+        }
+      ],
+      "updatedAt": "2026-08-29T11:31:00+07:00"
     },
     {
       "id": "4-2026-aec7a7fb07",
