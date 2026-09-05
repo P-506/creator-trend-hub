@@ -1,7 +1,9 @@
 {
-  "generatedAt": "2026-09-05T18:10:24.258777+07:00",
+  "generatedAt": "2026-09-05T22:51:05.101129+07:00",
   "dateRange": "2026-08-29 to 2026-09-05",
-  "sourceErrors": [],
+  "sourceErrors": [
+    "google_news: HTTP Error 503: Service Unavailable"
+  ],
   "topics": [
     {
       "id": "10-netflix-7b2113e508",
@@ -602,13 +604,13 @@
       "updatedAt": "2026-09-03T08:18:51+07:00"
     },
     {
-      "id": "miss-universe-thailand-57e968ad44",
-      "title": "miss universe thailand",
+      "id": "bein-sports-03ef01298d",
+      "title": "bein sports",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 100+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -616,7 +618,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#missuniversethailand"
+        "#beinsports"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -625,23 +627,23 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "เพจ Miss Universe สวนกลับเดือด! ลั่น MUO บริหารในสัดส่วน 50:50 ไม่มีฝ่ายไหนมีสิทธิ์พูดแทนหมด",
-          "url": "https://www.thairath.co.th/entertain/beauty-pageant/2957485"
+          "title": "ثنائية مبكرة من إيساك تقود ليفربول للفوز على إبسويتش",
+          "url": "https://www.reuters.com/ar/sports/GCXUM5LJ6VODHAKG7FF2R7SSVY-2026-09-04/"
         },
         {
-          "title": "สั่นสะเทือนวงการนางงาม! MUO ออกแถลงการณ์ปมความขัดแย้ง ณวัฒน์ สั่งประเมินสิทธิ์ไทยแข่งมิสยูนิเวิร์ส",
-          "url": "https://today.line.me/th/v3/article/5y1vmeR"
+          "title": "نتائج ومواعيد مباراة اليوم في الدوري الإنجليزي الممتاز بتاريخ 5 سبتمبر: فوز ليفربول.",
+          "url": "https://www.vietnam.vn/ar/ket-qua-lich-thi-dau-ngoai-hang-anh-hom-nay-5-9-liverpool-thang"
         },
         {
-          "title": "MGI โต้ Miss Universe ไม่มีอำนาจชี้ชะตา MUT พร้อมใช้กฎหมายหากแทรกแซง",
-          "url": "https://thethaiger.com/th/news/1605549/"
+          "title": "إيزاك يسجل أسرع ثنائية لليفربول في الدوري منذ 15 عاماً",
+          "url": "https://msdrnews.com/124791/%D8%A5%D9%8A%D8%B2%D8%A7%D9%83-%D9%8A%D8%B3%D8%AC%D9%84-%D8%A3%D8%B3%D8%B1%D8%B9-%D8%AB%D9%86%D8%A7%D8%A6%D9%8A%D8%A9-%D9%84%D9%84%D9%8A%D9%81%D8%B1%D8%A8%D9%88%D9%84-%D9%81%D9%8A-%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D9%8A-%D9%85%D9%86%D8%B0-15-%D8%B9%D8%A7%D9%85%D8%A7"
         }
       ],
-      "updatedAt": "2026-09-05T16:40:00+07:00"
+      "updatedAt": "2026-09-05T21:40:00+07:00"
     },
     {
-      "id": "newcastle-vs-bournemouth-001677b955",
-      "title": "newcastle vs bournemouth",
+      "id": "f1-c09bb890b0",
+      "title": "f1",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
@@ -654,7 +656,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#newcastlevsbournemouth"
+        "#f1"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -663,19 +665,57 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "Newcastle United vs Bournemouth: Premier League preview, team news, stats & head-to-head",
-          "url": "https://www.bbc.com/sport/football/live/c6jrx89l5eejt"
+          "title": "F1 qualifying LIVE: Italian Grand Prix 2026 times, results, radio & updates",
+          "url": "https://www.bbc.com/sport/formula1/live/c8ejw95jj4rt"
         },
         {
-          "title": "Sky Bet Sign Up Offer: Bet £5 on Newcastle v Bournemouth, Get £40 in Rewards",
-          "url": "https://www.oddschecker.com/insight/football/20260905-sky-bet-sign-up-offer-bet-5-on-newcastle-v-bournemouth-get-40-in-rewards"
+          "title": "F1 Italian GP LIVE: Final Practice and Qualifying updates, results, stream, highlights from Formula 1 race weekend at Monza",
+          "url": "https://www.skysports.com/f1/live-blog/12433/13581626/f1-italian-gp-live-final-practice-and-qualifying-updates-results-stream-highlights-from-formula-1-race-weekend-at-monza"
         },
         {
-          "title": "Follow all the latest with the Football Tracker",
-          "url": "https://www.flashscore.com/news/football-tracker-live-scores-updates-september-5-6-2026/hfq3Dkqg/"
+          "title": "Russell beats Leclerc and Antonelli to FP2 fastest time",
+          "url": "https://www.formula1.com/en/latest/article/fp2-russell-beats-leclerc-and-antonelli-to-the-fastest-time-in-free-practice-2-ahead-of-italian-grand-prix.4mVLF757oe0NuWE9Caw1wO"
         }
       ],
-      "updatedAt": "2026-09-05T17:40:00+07:00"
+      "updatedAt": "2026-09-05T22:10:00+07:00"
+    },
+    {
+      "id": "mancity-f1af63ecc7",
+      "title": "mancity",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 500+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#mancity"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "Manchester City reach £65m agreement in principle for Everton’s Iliman Ndiaye - The Athletic",
+          "url": "https://www.nytimes.com/athletic/7549722/2026/08/31/iliman-ndiaye-manchester-city-everton-transfer/"
+        },
+        {
+          "title": "Allan squad number revealed",
+          "url": "https://www.mancity.com/news/mens/allan-manchester-city-squad-number-confirmed-63924046"
+        },
+        {
+          "title": "Could Enzo Maresca give an exciting Manchester City signing his first start today?",
+          "url": "https://onefootball.com/en/news/could-enzo-maresca-give-an-exciting-manchester-city-signing-his-first-start-today-43404866"
+        }
+      ],
+      "updatedAt": "2026-09-05T21:30:00+07:00"
     },
     {
       "id": "70-ed67f1871c",
@@ -730,8 +770,8 @@
       "updatedAt": "2026-09-03T20:16:00+07:00"
     },
     {
-      "id": "topic-8c69f0893b",
-      "title": "รัชนก อินทนนท์",
+      "id": "topic-4fd4b792a6",
+      "title": "บุนเดสลีกา",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
@@ -744,7 +784,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#รัชนกอินทนนท์"
+        "#บุนเดสลีกา"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -753,19 +793,57 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "คนแรกของโลก! สื่อนอกชื่นชม \"เมย์ รัชนก\" สร้างหนึ่งสถิติในวงการแบดมินตันโลก",
-          "url": "https://www.sanook.com/sport/1671367/"
+          "title": "วิเคราะห์บอล ชาลเก้ vs บาเยิร์น 5 ก.ย. 69 : เจ้าถิ่นเจองานช้างชนแชมป์เก่า",
+          "url": "https://www.siamsport.co.th/football-international/bundesliga/108897/"
         },
         {
-          "title": "รัชนก ออกมาโพสต์อัพเดทอาการบาดเจ็บ เผยพบกันใหม่เอเชียนเกมส์ ที่ญี่ปุ่น",
-          "url": "https://www.khaosod.co.th/sports/news_10387343"
+          "title": "\"มูเซียลา\" อาจมีลุ้นคืนสนามเจอ \"ชาลเก\" แต่ \"กอมปานี\" ยังไม่เร่งรีบ",
+          "url": "https://www.dailynews.co.th/news/6161964/"
         },
         {
-          "title": "แฟน ๆ ส่งกำลังใจ! เผยอาการล่าสุด เมย์ รัชนก นักแบดมินตันมือ 6 ของโลก",
-          "url": "https://www.siamnews.com/news/sport/52660"
+          "title": "โปรแกรมถ่ายทอดสด ฟุตบอลบุนเดสลีกา เยอรมนี นัดที่ 2 ประจำวันที่ 5-6 ก.ย. 69",
+          "url": "https://www.sanook.com/sport/1671352/"
         }
       ],
-      "updatedAt": "2026-09-05T13:50:00+07:00"
+      "updatedAt": "2026-09-05T22:30:00+07:00"
+    },
+    {
+      "id": "topic-ac64278969",
+      "title": "ฟอเรส",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#ฟอเรส"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "Forrest Wilson Obituary Jul 16, 2026",
+          "url": "https://www.legacy.com/legacy/forrest-wilson"
+        },
+        {
+          "title": "Wake Forest 38-16 Akron (Sep 3, 2026) Game Recap",
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401858204"
+        },
+        {
+          "title": "Wake Forest Football coach Jake Dickert postgame press conference Q&A following 38-16 win over Akron",
+          "url": "https://247sports.com/college/wake-forest/article/wake-forest-football-coach-jake-dickert-postgame-press-conference-qa-following-38-16-win-over-akron-289461886/"
+        }
+      ],
+      "updatedAt": "2026-09-05T21:30:00+07:00"
     },
     {
       "id": "4-2028-ed3abd9436",
@@ -820,8 +898,122 @@
       "updatedAt": "2026-08-31T20:59:48+07:00"
     },
     {
-      "id": "topic-3b7af82c67",
-      "title": "สิงห์ เชียงราย พบ ชลบุรี",
+      "id": "topic-7bb101434c",
+      "title": "สโมสรฟุตบอลแมนเชสเตอร์ซิตี",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#สโมสรฟุตบอลแมนเชสเตอร์ซิ"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "เกลียดกันทั้งแผ่นดิน!ย้อนวีรกรรม ‘เอ็นโซ่’ ก่อนเลื้อยเติมโหดแมนซิตี้",
+          "url": "https://www.siamsport.co.th/football-international/premierleague/108839/"
+        },
+        {
+          "title": "ริเวอร์เพลท ได้ส่วนแบ่งขาย เอ็นโซ่ กว่า 4 ล้านปอนด์ หลังย้ายซบ แมนฯ ซิตี้",
+          "url": "https://www.pptvhd36.com/sport/news/282829"
+        },
+        {
+          "title": "ลิเวอร์พูล-แมนยู รั้งท้าย เปิดรายได้ขายนักเตะ 8 ทีมใหญ่พรีเมียร์ลีก ช่วงซัมเมอร์ 2026-27",
+          "url": "https://www.thairath.co.th/sport/eurofootball/premierleague/2957021"
+        }
+      ],
+      "updatedAt": "2026-09-05T21:40:00+07:00"
+    },
+    {
+      "id": "topic-afd2f7ce56",
+      "title": "อินเตอร์ พบ นาโปลี",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#อินเตอร์พบนาโปลี"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "วิเคราะห์บอล อินเตอร์ มิลาน vs นาโปลี 5 ก.ย. 69 : บิ๊กแมตช์เดือดชิงจ่าฝูงเซเรีย อา",
+          "url": "https://www.siamsport.co.th/football-international/serie-a/108895/"
+        },
+        {
+          "title": "พรีวิวฟุตบอล กัลโช่ เซเรีย อา อิตาลี 2026-27 : อินเตอร์ มิลาน พบ นาโปลี",
+          "url": "https://www.tnnthailand.com/sports/246009/"
+        },
+        {
+          "title": "ลั่นกลองรบ! น้ากรี ยกมี 8 ทีมพร้อมท้าชิงแชมป์เซเรียอา แต่ นาโปลีต้องเเป็นแชมป์ | Soccersuck",
+          "url": "https://today.line.me/th/v3/article/5y1eyvK"
+        }
+      ],
+      "updatedAt": "2026-09-05T22:30:00+07:00"
+    },
+    {
+      "id": "topic-b8fce3dca7",
+      "title": "แมนซิตี้",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 50000+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#แมนซิตี้"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "ดูบอลสด วิเคราะห์บอลพรีเมียร์ลีก แมนฯ ซิตี้ พบ โคเวนทรี 5 ก.ย.69",
+          "url": "https://www.pptvhd36.com/sport/news/282858"
+        },
+        {
+          "title": "ดูบอลสด แมนซิตี้ พบ โคเวนทรี ฟุตบอลพรีเมียร์ลีก อังกฤษ วันนี้ เวลา 21.00 น.",
+          "url": "https://www.sanook.com/sport/1671392/"
+        },
+        {
+          "title": "สยามสปอร์ต FPL Tips: จัดทัพรับ Gameweek 3 แมนซิตี้ชนน้องใหม่ กัปตันฮาลันด์ลุ้น Triple หรือไม่?!",
+          "url": "https://www.siamsport.co.th/football-international/premierleague/108842/"
+        }
+      ],
+      "updatedAt": "2026-09-05T21:30:00+07:00"
+    },
+    {
+      "id": "topic-e90b108772",
+      "title": "แอตมาดริด",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
@@ -834,7 +1026,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#สิงห์เชียงรายพบชลบุรี"
+        "#แอตมาดริด"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -843,28 +1035,28 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "วิเคราะห์บอล ไทยลีก 2026/27 สิงห์ เชียงราย vs ชลบุรี เอฟซี (5-9-69)",
-          "url": "https://www.ballthai.com/%E0%B8%A7%E0%B8%B4%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%B0%E0%B8%AB%E0%B9%8C%E0%B8%9A%E0%B8%AD%E0%B8%A5-%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%A5%E0%B8%B5%E0%B8%81-2026-27-%E0%B8%AA%E0%B8%B4%E0%B8%87%E0%B8%AB%E0%B9%8C-%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%A2-vs-%E0%B8%8A%E0%B8%A5%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5-%E0%B9%80%E0%B8%AD%E0%B8%9F%E0%B8%8B%E0%B8%B5-5-9-69/"
+          "title": "พรีวิวฟุตบอล ลา ลีกา สเปน 2026-27 : แอธเลติก บิลเบา พบ แอตเลติโก มาดริด",
+          "url": "https://www.tnnthailand.com/sports/246008/"
         },
         {
-          "title": "LIVE : ดูบอลสด เชียงราย พบ ชลบุรี ฟุตบอลไทยลีก เวลา 18.00 น.",
-          "url": "https://www.sportingnews.com/th/football/news/live-watch-chiang-rai-united-vs-chonburi-fc-thai-league-2026-27/318a3d7d5c49bd302e71034d"
+          "title": "โปรแกรมถ่ายทอดสดฟุตบอลวันนี้! . - LaLiga 2026/27 แอธ. บิลเบา พบ แอต. มาดริด เวลา 21.15 น. ราโย บาเยกาโน พบ ราซิง ซานตานเดร์ เวลา 23.30 น. บียาร์เรอัล พบ เดปอร์ติโบ ลา คอรุนญา เวลา 02.00 น. - Calcio Serie A 2026/27 ฟิออเรนตินา พบ โตริโน เวลา 20.00 น. อินเตอร์ พบ น",
+          "url": "https://www.facebook.com/Truevisions/posts/%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B8%96%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%97%E0%B8%AD%E0%B8%94%E0%B8%AA%E0%B8%94%E0%B8%9F%E0%B8%B8%E0%B8%95%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%99%E0%B8%B5%E0%B9%89-laliga-202627%E0%B9%81%E0%B8%AD%E0%B8%98-%E0%B8%9A%E0%B8%B4%E0%B8%A5%E0%B9%80%E0%B8%9A%E0%B8%B2-%E0%B8%9E%E0%B8%9A-%E0%B9%81%E0%B8%AD%E0%B8%95-%E0%B8%A1%E0%B8%B2%E0%B8%94%E0%B8%A3%E0%B8%B4%E0%B8%94-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-2115-%E0%B8%99-%E0%B8%A3/1530483152458357/"
         },
         {
-          "title": "วิเคราะห์ไทยลีกเสาร์-อาทิตย์นี้ ‘น้าฉ่วย’ ลุยแข้งเทพ – ‘แชมป์เก่า’ โชว์แกร่ง",
-          "url": "https://www.dailynews.co.th/articles/6165046/"
+          "title": "พรีวิวการแข่งขันระหว่างแอธเลติก บิลบาโอ กับ แอตเลติโก มาดริด: จุดสนใจในศึกแย่งชิงตำแหน่งสูงสุด",
+          "url": "https://www.vietnam.vn/th/nhan-dinh-athletic-club-vs-atletico-madrid-diem-nong-cuoc-dua-top-dau"
         }
       ],
-      "updatedAt": "2026-09-05T17:40:00+07:00"
+      "updatedAt": "2026-09-05T22:00:00+07:00"
     },
     {
-      "id": "topic-f81ef7084a",
-      "title": "อุษา มณี ไว ทยา นนท์",
+      "id": "topic-f38fce1ef5",
+      "title": "แอสตันวิลล่า",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 500+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -872,7 +1064,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#อุษามณีไวทยานนท์"
+        "#แอสตันวิลล่า"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -881,133 +1073,19 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "อุ๊ย! เพจดังเปิดหลักฐานลายมือ “กระติก” อ้างเขียนยืนยันภาพเองต่อพนักงานสอบสวน | THE ROOM 44 CHANNEL",
-          "url": "https://today.line.me/th/v3/article/yz8Gjjz"
+          "title": "วิเคราะห์บอล ฮัลล์ vs แอสตัน วิลล่า 5 ก.ย. 69 : เสือร้ายลุ้นสานต่อฟอร์มแรง",
+          "url": "https://www.siamsport.co.th/football-international/premierleague/108887/"
         },
         {
-          "title": "“แซน” ฟาดเดือด “แม่แตงโม” ควง “ขวัญ” รื้อคดี ลั่นกล้ากันจังเลย ระวังจะลำบากเอง - แจ้งความเท็จ",
-          "url": "https://mgronline.com/entertainment/detail/9690000086768"
+          "title": "ดูบอลสด ถ่ายทอดสด ฮัลล์ พบ แอสตัน วิลล่า พรีเมียร์ลีก วันนี้ 5 ก.ย.69",
+          "url": "https://www.posttoday.com/lifestyle/748179"
         },
         {
-          "title": "บุ๋ม ปนัดดา ห่วงความปลอดภัย “ขวัญ อุษามณี” คดีแตงโม ถ้ามีอะไรให้มาบ้านแม่",
-          "url": "https://www.khaosod.co.th/entertainment/news_10387330"
+          "title": "การคาดการณ์ผลการแข่งขันระหว่าง ฮัลล์ ซิตี้ กับ แอสตัน วิลล่า: โอกาสในการไล่ล่าตำแหน่งสูงสุด",
+          "url": "https://www.vietnam.vn/th/nhan-dinh-hull-city-vs-aston-villa-co-hoi-bam-duoi-ngoi-dau"
         }
       ],
-      "updatedAt": "2026-09-05T16:00:00+07:00"
-    },
-    {
-      "id": "topic-f412b13306",
-      "title": "เขื่อน",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 100+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#เขื่อน"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "พยากรณ์อากาศ ประจำวันที่ 5 กันยายน 2569 กรุงเทพและปริมณฑล มีฝนฟ้าคะนอง ร้อยละ 60 ของพื้นที่ และมีฝนตกหนักบางแห่ง",
-          "url": "https://today.line.me/th/v3/article/8noM5qV?referral=Newscentral"
-        },
-        {
-          "title": "\"กรุงเทพมหานคร\" แจ้งเฝ้าระวังฝนตกหนัก 5-7 ก.ย. อาจเกิดน้ำท่วมขังในบางพื้นที่",
-          "url": "https://www.thairath.co.th/news/local/bangkok/2957649"
-        },
-        {
-          "title": "เตือน 5-7 ก.ย.นี้ รับมือฝนถล่มเหนือ-อีสาน ตะวันออก ขณะน่าน เสี่ยงท่วมซ้ำ หลังดินอิ่มตัว",
-          "url": "https://theactive.thaipbs.or.th/news/disaster-20260905"
-        }
-      ],
-      "updatedAt": "2026-09-05T16:50:00+07:00"
-    },
-    {
-      "id": "5-793580e604",
-      "title": "เสาร์ 5 กันยายน",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 1000+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#เสาร์5กันยายน"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "ดูดวงรายวันประจำวันเสาร์ ที่ 5 กันยายน 2569 สำหรับท่านที่เกิดวันพฤหัสบดี",
-          "url": "https://www.sanook.com/horoscope/332646/"
-        },
-        {
-          "title": "ราศีใดจะเจอ ‘โชคดี’ทางการเงิน รายได้เป็นไปตามหวัง เจรจาราบรื่น รักฝังใจยังมีทางออก",
-          "url": "https://www.matichon.co.th/lifestyle/horoscope-lifestyle/news_5874360"
-        },
-        {
-          "title": "เช็กดวงประจำวันที่ 5 ก.ย. 69 ราศีที่ดาวกาลีสถิต-กันย์",
-          "url": "https://www.dailynews.co.th/articles/6164125/"
-        }
-      ],
-      "updatedAt": "2026-09-05T13:40:00+07:00"
-    },
-    {
-      "id": "topic-47dd5bd240",
-      "title": "แสตมป์ แฟร์เท็กซ์",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 500+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#แสตมป์แฟร์เท็กซ์"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "ผลไฟต์ต่อไฟต์ ศึก ONE Fight Night 47: แสตมป์ vs เซลีนา",
-          "url": "https://www.onefc.com/th/news/one-fight-night-47-stamp-vs-flores-results-and-highlights-for-every-match/"
-        },
-        {
-          "title": "ONE Championship : 16 นักสู้ผ่านด่านตาชั่ง พร้อมซัดเดือดในศึก ONE Fight Night 47 เสาร์ 5 ก.ย.",
-          "url": "https://www.ch7.com/one-championship/newsc/895478"
-        },
-        {
-          "title": "จ้าวเสือใหญ่ แพ้คะแนนมวยโคลอมเบีย พ่าย 5 ไฟต์ติด ศึก ONE Fight Night 47",
-          "url": "https://www.khaosod.co.th/sports/news_10387242"
-        }
-      ],
-      "updatedAt": "2026-09-05T17:40:00+07:00"
+      "updatedAt": "2026-09-05T21:40:00+07:00"
     },
     {
       "id": "2026-4-69-74dd34be86",
@@ -1034,44 +1112,6 @@
         }
       ],
       "updatedAt": "2026-09-04T05:52:00+07:00"
-    },
-    {
-      "id": "topic-8127582455",
-      "title": "โรงไฟฟ้า",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#โรงไฟฟ้า"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "เหตุน้ำท่วมใหญ่เผยให้เห็นปัญหาของการทุ่มหมดหน้าตักในไฟฟ้าพลังงานน้ำของเนปาล",
-          "url": "https://www.bbc.com/thai/articles/cddv2026nz3o"
-        },
-        {
-          "title": "กู้ภัยเนปาลช่วย 2 คนงานรอดชีวิต หลังติดอุโมงค์โคลนถล่มนาน 10 วัน | สวพ.FM91",
-          "url": "https://today.line.me/th/v3/article/8noM3JM"
-        },
-        {
-          "title": "เพจข่าวออนไลน์แชร์คลิปวงจรปิดสุดระทึกเหตุโคลนถล่มเนปาล ! พบที่แท้คลิป AI หลอกคลิก",
-          "url": "https://www.thaipbs.or.th/verify/content/15587"
-        }
-      ],
-      "updatedAt": "2026-09-05T16:30:00+07:00"
     },
     {
       "id": "4-2028-769b1961d8",
@@ -1296,44 +1336,6 @@
         }
       ],
       "updatedAt": "2026-08-31T15:27:00+07:00"
-    },
-    {
-      "id": "topic-7fea10f997",
-      "title": "กรมควบคุมโรคโควิด",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "low",
-      "riskLevel": "high",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "ใช้เป็นข้อมูลเฝ้าระวังมากกว่าบรีฟโพสต์ หากต้องใช้ควรให้ทีม review ก่อน",
-      "promptIdea": "เรื่องนี้ควรเช็กข้อมูลก่อนแชร์ ทุกคนคิดว่าเราควรระวังอะไรบ้าง?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#กรมควบคุมโรคโควิด"
-      ],
-      "riskNote": "High risk ควรให้ทีม review ก่อนนำไป brief Creator และไม่ควรชวนดราม่า",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "\"นพ.ยง\" ชี้โควิด 19 ระบาด ในปีนี้ไม่เหมือนทุกปี เหตุต้นปีพบน้อยมาก-คาดลดลงช่วง ต.ค.",
-          "url": "https://www.thaipbs.or.th/news/content/557475"
-        },
-        {
-          "title": "โควิด-19 ยังสูง! ป่วยสะสมทะลุ 1 แสนราย เสียชีวิต 16 ราย",
-          "url": "https://www.pptvhd36.com/news/%E0%B8%AA%E0%B8%B8%E0%B8%82%E0%B8%A0%E0%B8%B2%E0%B8%9E/282742"
-        },
-        {
-          "title": "หมอยง ชี้ สถานการณ์โควิด 19 ปีนี้ไม่เหมือนทุกปี พร้อมเปรียบเทียบกับไข้หวัดใหญ่",
-          "url": "https://hilight.kapook.com/view/254835"
-        }
-      ],
-      "updatedAt": "2026-09-05T16:30:00+07:00"
     }
   ]
 }
