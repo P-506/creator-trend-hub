@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T12:55:51.469293+07:00",
+  "generatedAt": "2026-09-24T19:36:32.850157+07:00",
   "dateRange": "2026-09-17 to 2026-09-24",
   "sourceErrors": [],
   "topics": [
@@ -160,6 +160,32 @@
       "updatedAt": "2026-09-19T19:00:00+07:00"
     },
     {
+      "id": "topic-acca3b3a3b",
+      "title": "ตรงประเด็น - ซีรีส์แนวตั้ง โอกาสพร้อมความเสี่ยง",
+      "sourceType": "news",
+      "category": "entertainment",
+      "contentPotential": "high",
+      "riskLevel": "low",
+      "summary": "ข่าวจาก Google News keyword: ซีรีส์ / source: Thai PBS - ตรงประเด็น - ซีรีส์แนวตั้ง โอกาสพร้อมความเสี่ยง    Thai PBS",
+      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
+      "creatorAngle": "เล่า reaction ส่วนตัวต่อกระแส แล้วเปิดคำถามให้คนคุยต่อ",
+      "promptIdea": "กระแสนี้ทุกคนอยู่ทีมไหน?",
+      "hashtags": [
+        "#EntertainmentTH",
+        "#คุยเรื่องบันเทิง",
+        "#กระแสวันนี้",
+        "#ตรงประเด็น-ซีรีส์แนวตั้ง"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Thai PBS",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE15Sms0NUMza1FtM1BsY0g1Z2JDQzNiZ3ZIb0E3VUZxc2kyLU1jYjI0bk9CUVIxNFlCa0VHa3NKaHpLZjNPTTduOWU5dDMyR0ZXV0xwNG5UTzFqdmQtdF9laGtCR0FMQ0ptYmFGdVVB?oc=5"
+        }
+      ],
+      "updatedAt": "2026-09-21T12:00:00+07:00"
+    },
+    {
       "id": "low-gi-551aff04fe",
       "title": "ตลาดอาหาร Low GI ในจีนขยายตัวต่อเนื่อง เปิดโอกาสสินค้าอาหารเพื่อสุขภาพไทย",
       "sourceType": "news",
@@ -184,32 +210,6 @@
         }
       ],
       "updatedAt": "2026-09-22T14:00:00+07:00"
-    },
-    {
-      "id": "my-heartbeat-9-926cf338fe",
-      "title": "ตัวอย่าง | ซีรีส์ เรื่อง My Heartbeat สเต็ปรักละลายเธอ ตอนที่ 9",
-      "sourceType": "news",
-      "category": "entertainment",
-      "contentPotential": "high",
-      "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: ซีรีส์ / source: Thai PBS - ตัวอย่าง | ซีรีส์ เรื่อง My Heartbeat สเต็ปรักละลายเธอ ตอนที่ 9    Thai PBS",
-      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
-      "creatorAngle": "เล่า reaction ส่วนตัวต่อกระแส แล้วเปิดคำถามให้คนคุยต่อ",
-      "promptIdea": "กระแสนี้ทุกคนอยู่ทีมไหน?",
-      "hashtags": [
-        "#EntertainmentTH",
-        "#คุยเรื่องบันเทิง",
-        "#กระแสวันนี้",
-        "#ตัวอย่าง|ซีรีส์เรื่องMyH"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Thai PBS",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kdndjbEtQNUhiRWNaRTdqbnZiODdlN3lRdy1KZldvamlkRGxZWkVabmExc0NHcHAybHBmNlRBZERERVBQanVDOGVBNm8xWDJIOU0tcEFSYXQwT2hMb3ZkUUF4WVVkY25NZUE?oc=5"
-        }
-      ],
-      "updatedAt": "2026-09-19T15:00:54+07:00"
     },
     {
       "id": "sb-maison-co-flagship-store-6eb3b9d310",
@@ -244,7 +244,7 @@
       "category": "food",
       "contentPotential": "high",
       "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: คาเฟ่ / source: COP'S Magazine - ผงะทั้งร้าน! ศุลกากรช่องจอมบุกค้น “คาเฟ่บะหมี่ ตปท.” กลางเมืองโคราช เจอวัตถุดิบหนีภาษี-ไร้ อย. อึ้งสินค้าหมดอายุอื้อ!    COP'S Magazine",
+      "summary": "ข่าวจาก Google News keyword: คาเฟ่ / source: cops-magazine.com - ผงะทั้งร้าน! ศุลกากรช่องจอมบุกค้น “คาเฟ่บะหมี่ ตปท.” กลางเมืองโคราช เจอวัตถุดิบหนีภาษี-ไร้ อย. อึ้งสินค้าหมดอายุอื้อ!    cops-magazine.com",
       "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
       "creatorAngle": "ให้ Creator เล่าประสบการณ์ร้าน/เมนูที่อยากลอง แล้วถามคนอื่นว่าคิดเหมือนกันไหม",
       "promptIdea": "เห็นคนพูดถึงเมนูนี้เยอะมาก มีใครลองแล้วบ้าง?",
@@ -257,7 +257,7 @@
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
         {
-          "title": "COP'S Magazine",
+          "title": "cops-magazine.com",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0xMlhqZmRBalNGTm1RMGEwalJQZ2VXd3FWOE9aSjg3bWZsUTgtcm1GNEp4blpuRG5fTlNxNWFVUVF1TDZ1WlY2TE1sVEZXVjNyZGpuUklB?oc=5"
         }
       ],
@@ -322,7 +322,7 @@
       "category": "food",
       "contentPotential": "high",
       "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: คาเฟ่ / source: travel.trueid.net - รีวิวTake Me Home Park Khaoyai คาเฟ่เครื่องบินกลางทุ่งดอกไม้    travel.trueid.net",
+      "summary": "ข่าวจาก Google News keyword: คาเฟ่ / source: TrueID - รีวิวTake Me Home Park Khaoyai คาเฟ่เครื่องบินกลางทุ่งดอกไม้    TrueID",
       "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
       "creatorAngle": "ให้ Creator เล่าประสบการณ์ร้าน/เมนูที่อยากลอง แล้วถามคนอื่นว่าคิดเหมือนกันไหม",
       "promptIdea": "เห็นคนพูดถึงเมนูนี้เยอะมาก มีใครลองแล้วบ้าง?",
@@ -335,7 +335,7 @@
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
         {
-          "title": "travel.trueid.net",
+          "title": "TrueID",
           "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5pU2ZPdW5zRERKZnRCYVBQUzVxb0YzQ2gxZ3llV0Rwc1NyNGo2TkQzd20wTXRhdHlrZUxnTXhvSF85WUw5NlRkeVV6UHZDSk1tY2t4QTh0U3k?oc=5"
         }
       ],
@@ -420,13 +420,39 @@
       "updatedAt": "2026-09-22T22:32:50+07:00"
     },
     {
+      "id": "defa-b7c3f23685",
+      "title": "“ศุภจี” ดันไทยนำเจรจา DEFA ชูอาหาร-ลงทุน ยกระดับเศรษฐกิจอาเซียน",
+      "sourceType": "news",
+      "category": "food",
+      "contentPotential": "high",
+      "riskLevel": "low",
+      "summary": "ข่าวจาก Google News keyword: อาหาร / source: Thai PBS - “ศุภจี” ดันไทยนำเจรจา DEFA ชูอาหาร-ลงทุน ยกระดับเศรษฐกิจอาเซียน    Thai PBS",
+      "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
+      "creatorAngle": "ให้ Creator เล่าประสบการณ์ร้าน/เมนูที่อยากลอง แล้วถามคนอื่นว่าคิดเหมือนกันไหม",
+      "promptIdea": "เห็นคนพูดถึงเมนูนี้เยอะมาก มีใครลองแล้วบ้าง?",
+      "hashtags": [
+        "#FoodTrend",
+        "#CafeTH",
+        "#รีวิวของกิน",
+        "#“ศุภจี”ดันไทยนำเจรจาDEFA"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Thai PBS",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBfSTQtb0I4ZFBWRlQtc3ZSWGZORnBsQi1CMEo5ZlFBQVZEZ2NDQTRWQUw2cjNBbThUYWp3OGlUMEw2bERFYUNDTGdZdUU2Mk5iSlZEd182WDg?oc=5"
+        }
+      ],
+      "updatedAt": "2026-09-21T14:25:41+07:00"
+    },
+    {
       "id": "iconsiam-thai-t-reasures-18-20-042897a654",
       "title": "“แฟชั่นไทยเท่” บุก ICONSIAM! THAI T’REASURES เปลี่ยนของดีประเทศไทยสู่แฟชั่นร่วมสมัย 18–20 ก.ย. นี้",
       "sourceType": "news",
       "category": "beauty",
       "contentPotential": "high",
       "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: แฟชั่น / source: bltbangkok.com - “แฟชั่นไทยเท่” บุก ICONSIAM! THAI T’REASURES เปลี่ยนของดีประเทศไทยสู่แฟชั่นร่วมสมัย 18–20 ก.ย. นี้    bltbangkok.com",
+      "summary": "ข่าวจาก Google News keyword: แฟชั่น / source: BLT Bangkok - “แฟชั่นไทยเท่” บุก ICONSIAM! THAI T’REASURES เปลี่ยนของดีประเทศไทยสู่แฟชั่นร่วมสมัย 18–20 ก.ย. นี้    BLT Bangkok",
       "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
       "creatorAngle": "ชวนแชร์สไตล์ ไอเท็ม หรือเทคนิคที่ใช้จริงโดยไม่ขายของแข็งเกินไป",
       "promptIdea": "สไตล์นี้ถ้าแต่งในชีวิตจริงจะรอดไหม?",
@@ -439,7 +465,7 @@
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
         {
-          "title": "bltbangkok.com",
+          "title": "BLT Bangkok",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9pb05uQkFTNFBLb212SE05QTQ3Sk9VQURkYUJqb3FveGRxeldlVFBhSnh5X2Z2V3lYalZTYWlzaFAyaUFNTkpmRVJSNGpJd0xTX1pLNTJ3?oc=5"
         }
       ],
@@ -498,13 +524,13 @@
       "updatedAt": "2026-09-21T12:19:33+07:00"
     },
     {
-      "id": "america-s-got-talent-live-d25b64cb79",
-      "title": "america's got talent live",
+      "id": "linkin-park-9ff08f1930",
+      "title": "linkin park",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 500+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 10000+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -512,7 +538,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#america'sgottalentlive"
+        "#linkinpark"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -521,19 +547,19 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
+          "title": "Teen rocker Nene Royal becomes first Thai to win America's Got Talent",
+          "url": "https://www.bbc.com/news/articles/cqzjzl3d1409o"
+        },
+        {
           "title": "Nene Royal Deploys ‘Seven Nation Army’ on ‘AGT’ Final: Watch",
           "url": "https://www.billboard.com/culture/tv-film/nene-royal-seven-nation-army-agt-final-watch-1236345169/"
         },
         {
-          "title": "Nene Royal triumphs on America's Got Talent",
-          "url": "https://www.bangkokpost.com/life/arts-and-entertainment/3324804/nene-royal-triumphs-on-americas-got-talent"
-        },
-        {
-          "title": "LIVE UPDATES: AGT 2026's Real-Time Finale Spoilers",
-          "url": "https://www.nbc.com/nbc-insider/agt-2026-finale-spoilers-live-updates"
+          "title": "‘America’s Got Talent’ Crowns a New Winner: See Who Won Season 21 and the $1 Million Prize",
+          "url": "https://people.com/america-got-talent-season-21-winner-revealed-12132164"
         }
       ],
-      "updatedAt": "2026-09-24T09:50:00+07:00"
+      "updatedAt": "2026-09-24T08:10:00+07:00"
     },
     {
       "id": "2-3-20-42263b63fd",
@@ -667,12 +693,12 @@
           "url": "https://today.line.me/th/v3/article/Nv5vemO"
         },
         {
-          "title": "ประกาศปรับขึ้น \"ราคาน้ำมัน\" กลุ่มดีเซลทุกชนิด เว้นเบนซิน-โซฮอล์ มีผลพรุ่งนี้",
-          "url": "https://www.thairath.co.th/news/society/2961560"
+          "title": "ราคาน้ำมันพรุ่งนี้ 25 กันยายน 2569 อัปเดตล่าสุด \"เบนซิน-ดีเซล\" ลิตรละกี่บาท",
+          "url": "https://www.thairath.co.th/news/society/2961776"
         },
         {
-          "title": "ราคาน้ำมันวันนี้ 24 ก.ย. 2569 เบนซิน-ดีเซล-แก๊สโซฮอล์ ลิตรละกี่บาท",
-          "url": "https://www.sanook.com/money/957651/"
+          "title": "กองทุนน้ำมันฯลดการอุดหนุนดีเซลลง ปล่อยราคาขายปลีกขยับขึ้น 75สต./ลิตรมีผล 24 ก.ย.นี้",
+          "url": "https://mgronline.com/business/detail/9690000093034"
         }
       ],
       "updatedAt": "2026-09-24T05:40:00+07:00"
@@ -701,45 +727,19 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "โปรแกรมเอเชียนเกมส์ 2026 วันที่ 23 ก.ย.69 ฟุตบอลชายไทย พบ ญี่ปุ่น",
-          "url": "https://www.thaipbs.or.th/news/content/558377"
+          "title": "ฟุตบอลชายไทย พ่าย ญี่ปุ่น 0-3 ลิ่วดวลจีน รอบ 8 ทีมเอเชียนเกมส์ 2026",
+          "url": "https://www.thaipbs.or.th/news/content/558430"
         },
         {
-          "title": "สถิติชี้ช้างศึก U23 โดนเด็กญี่ปุ่น U21 กดมิดด้าม แต่ยังลิ่วรอบ 8 ทีม",
-          "url": "https://www.siamsport.co.th/asian-games/109750/"
+          "title": "ความห่างไทย-ญี่ปุ่น เหมือนประถมเจอมหา'ลัย",
+          "url": "https://www.siamsport.co.th/football-thailand/thai-national/109787/"
         },
         {
-          "title": "\"ช้างศึก\" ต้านไม่ไหว พ่าย ญี่ปุ่น 0-3 จบรองแชมป์กลุ่ม ลิ่วดวลจีน รอบ 8 ทีม ศึกเอเชียนเกมส์ 2026 | สวพ.FM91",
-          "url": "https://today.line.me/th/v3/article/JPyP58y"
+          "title": "\"ทีมชาติไทย U23\" แพ้ \"ญี่ปุ่น\" มองในแง่ดี ได้เห็น ”ทีมระดับโลก“ ว่าเล่นอย่างไร!",
+          "url": "https://www.thairath.co.th/sport/thaifootball/changsuek/2961670"
         }
       ],
       "updatedAt": "2026-09-23T20:50:00+07:00"
-    },
-    {
-      "id": "3-8-2026-9a8cb467e7",
-      "title": "วอลเลย์บอลหญิงไทย ตบอัด คีร์กีซสถาน 3 เซตรวด ลิ่วเข้ารอบ 8 ทีมเอเชียนเกมส์ 2026",
-      "sourceType": "news",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: วอลเลย์บอล / source: Siamsport - วอลเลย์บอลหญิงไทย ตบอัด คีร์กีซสถาน 3 เซตรวด ลิ่วเข้ารอบ 8 ทีมเอเชียนเกมส์ 2026    Siamsport",
-      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#วอลเลย์บอลหญิงไทยตบอัดคี"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Siamsport",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE04UF83NlQ3MnQzbm1mWDBXOVU5Z0JvUHd2WGp3RGZ1d296REhpYWp3Ry1rdUlGSk9ycmN2ekhQNzg5VzVleW14RlViTFdpY1B6a1AxM0dwZ0NGR1k?oc=5"
-        }
-      ],
-      "updatedAt": "2026-09-17T18:15:40+07:00"
     },
     {
       "id": "2-3-2026-495d1fa4b0",
@@ -791,16 +791,16 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "หวยลาววันนี้ 22 กันยายน 2569 ตรวจผลหวยลาว หวยลาววันนี้ออกอะไร?",
-          "url": "https://www.sanook.com/news/9907315/"
+          "title": "ตรวจหวยลาววันนี้ อังคาร 22 ก.ย. 2569 เช็กผลหวยลาวงวดล่าสุด หวยลาวพัฒนา 5/45",
+          "url": "https://www.pptvhd36.com/news/%E0%B8%A5%E0%B8%AD%E0%B8%95%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B8%B5%E0%B9%88/283937"
         },
         {
-          "title": "ตรวจผลหวยลาว 23 ก.ย. 69 รางวัลเลข 6 ตัว สถิติย้อนหลังวันพุธ",
-          "url": "https://thethaiger.com/th/news/1612672/"
+          "title": "หวยลาววันนี้ 23 กันยายน 2569 ตรวจผลหวยลาว หวยลาววันนี้ออกอะไร?",
+          "url": "https://www.sanook.com/video/clip/1596196/"
         },
         {
-          "title": "ตรวจหวยลาววันนี้ พุธ 23 ก.ย. 2569 เช็กผลหวยลาวงวดล่าสุด หวยลาวพัฒนา 5/45",
-          "url": "https://www.pptvhd36.com/news/%E0%B8%A5%E0%B8%AD%E0%B8%95%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B8%B5%E0%B9%88/284010"
+          "title": "หวยลาววันนี้ งวดประจำวันที่ 24 กันยายน 2569 ผลหวยพัฒนา ตรวจรางวัล ล่าสุด หวยลาว ออกอะไร | Khaosod",
+          "url": "https://today.line.me/th/v3/article/ZapgerO?view=topic&referral=number"
         }
       ],
       "updatedAt": "2026-09-23T20:50:00+07:00"
@@ -812,7 +812,7 @@
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: ความสัมพันธ์ / source: moomoo.com - เช็กค่าความสัมพันธ์ของพอร์ต (Portfolio Correlation) - วันที่ 22    moomoo.com",
+      "summary": "ข่าวจาก Google News keyword: ความสัมพันธ์ / source: Moomoo - เช็กค่าความสัมพันธ์ของพอร์ต (Portfolio Correlation) - วันที่ 22    Moomoo",
       "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -825,11 +825,37 @@
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
         {
-          "title": "moomoo.com",
+          "title": "Moomoo",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZG5rUzkybnhOb01UUlU4SVpwdGs0bEYxQ3dvUW9PNl9yUFB2bjNBQ0lHOWJ3ZklGQlc1d0JaRUp5bENEdVVYSG9FWV9fSkVhbi1kd184TmNWUUxKV2R2enBpdlVmQkZ5WnlWTDZUOVBneHRwaFpyYlRRN1htS2sxZDYyM3RzNG1SbXBjRmlKUW5pMTBUcGlnSV9R?oc=5"
         }
       ],
       "updatedAt": "2026-09-20T14:00:00+07:00"
+    },
+    {
+      "id": "3-0-397a708222",
+      "title": "เซตสองคัมแบ็กสุดโหด! วอลเลย์บอลหญิงไทยอัดอินโดนีเซีย3-0 เข้ารอบรองฯเอเชียนเกมส์",
+      "sourceType": "news",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "ข่าวจาก Google News keyword: วอลเลย์บอล / source: Siamsport - เซตสองคัมแบ็กสุดโหด! วอลเลย์บอลหญิงไทยอัดอินโดนีเซีย3-0 เข้ารอบรองฯเอเชียนเกมส์    Siamsport",
+      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#เซตสองคัมแบ็กสุดโหด!วอลเ"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Siamsport",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5YVmRSb1FWWjBJazhfckJ0OUt4S092OVZSQm9Jek9NbUF0RFdWWXQ5RWkyRDQzUGdSbzM4WWxPVjh4QWZFbEtpaXh5V19ndE1uV2YxRUx6bnRDd1U?oc=5"
+        }
+      ],
+      "updatedAt": "2026-09-20T09:32:00+07:00"
     },
     {
       "id": "topic-f37234e46b",
@@ -855,16 +881,16 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "ช่องทางชม ถ่ายทอดสด ประกาศผล AGT 2026 ลุ้น \"เนเน่ รอยัล\" คว้าแชมป์",
-          "url": "https://www.pptvhd36.com/news/%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A7%E0%B8%9A%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%97%E0%B8%B4%E0%B8%87/283992"
+          "title": "“แอ๊ด คาราบาว” เห็นตรงกับ “เสก โลโซ” เชื่อ “เนเน่” คือศิลปินโลกที่ 100 ปีจะเจอสักคนบนโลกนี้ ทุกคนจึงรวมตัวกันซัปพอร์ต",
+          "url": "https://mgronline.com/entertainment/detail/9690000093262"
         },
         {
-          "title": "“รทสช.” ยินดี “เนเน่ รอยัล”สร้างชื่อประเทศไทยบนเวทีโลก ชี้ศักยภาพเยาวชนไทยไปได้ไกล",
-          "url": "https://www.thairath.co.th/news/politic/2961671"
+          "title": "‘อนุทิน’ ยินดี ‘เนเน่ รอยัล’ คว้าแชมป์ America’s Got Talent Season 21 | The Reporters",
+          "url": "https://today.line.me/th/v3/article/vXL73mo"
         },
         {
-          "title": "“ฌอน” แฟนคลับชาวอเมริกัน ผู้เปลี่ยนเด็กสาวเปิดหมวกข้างถนนในภูเก็ต ให้กลายเป็นแชมป์ AGT",
-          "url": "https://mgronline.com/entertainment/detail/9690000093153"
+          "title": "ฮือฮา! เปิดราคาคอนโดหรูย่านบางนา ที่ \"เจ้าสัวธนินท์\" มอบให้ \"เนเน่ รอยัล\"",
+          "url": "https://www.sanook.com/money/957735/"
         }
       ],
       "updatedAt": "2026-09-24T08:00:00+07:00"
@@ -893,16 +919,16 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "รวม 5 แอปฯ พยากรณ์อากาศ–ติดตามสถานการณ์น้ำ ที่ควรมีติดเครื่อง",
-          "url": "https://www.thaipbs.or.th/news/content/558402"
+          "title": "สถานีประชาชน",
+          "url": "https://www.thaipbs.or.th/program/People/watch/pnx8wkz9e70g"
         },
         {
-          "title": "ผู้เชี่ยวชาญด้านอุตุฯ ออกโรงเตือน! กราฟิกบนแอปพยากรณ์อากาศ ซ่อนกับดักความเข้าใจผิด",
-          "url": "https://www.thaipost.net/general-news/1075032/"
+          "title": "กทม. เตรียมพร้อมเพิ่มพื้นที่รับน้ำ พร่องคลองสายหลักรับมือฝนหนัก 24-27 ก.ย. ย้ำน้ำเหนือยังไม่ถึงขั้นวิกฤต",
+          "url": "https://thestandard.co/bma-flood-prep-rain/"
         },
         {
-          "title": "กรมอุตุฯ เตือน 23–27 ก.ย. ฝนตกหนักถึงหนักมาก แนะประชาชนติดตามข้อมูลใกล้ชิด | สวพ.FM91",
-          "url": "https://today.line.me/th/v3/article/DRjRMaB"
+          "title": "ตราดฝนถล่ม 5 ชม. น้ำป่าหลากคลองแอ่งท่วมพื้นที่เกษตร ปภ.เตือนช้างทูน-หนองบอน",
+          "url": "https://mgronline.com/local/detail/9690000093374"
         }
       ],
       "updatedAt": "2026-09-24T04:00:00+07:00"
@@ -914,7 +940,7 @@
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: วอลเลย์บอล / source: Sanook.com - ใครต้องเจอใคร? โปรแกรมถ่ายทอดสด รอบ 8 ทีม วอลเลย์บอลหญิงเอเชียนเกมส์ 2026    Sanook.com",
+      "summary": "ข่าวจาก Google News keyword: วอลเลย์บอล / source: Sanook - ใครต้องเจอใคร? โปรแกรมถ่ายทอดสด รอบ 8 ทีม วอลเลย์บอลหญิงเอเชียนเกมส์ 2026    Sanook",
       "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -927,37 +953,11 @@
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
         {
-          "title": "Sanook.com",
+          "title": "Sanook",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1uMGxuekt0dFFid0t6N095S1M0LVN2d0xTNk95UXF1R0tzWVNRVWVERUoxNXRFSnA1UzRwYXk5cEdvT3RZVFdaWVdFTk9sQQ?oc=5"
         }
       ],
       "updatedAt": "2026-09-19T09:13:00+07:00"
-    },
-    {
-      "id": "topic-8e69041cc8",
-      "title": "ไทยรัฐทีวี",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 2000+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#ไทยรัฐทีวี"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        }
-      ],
-      "updatedAt": "2026-09-23T17:30:00+07:00"
     },
     {
       "id": "the-scandal-8-57816d7640",
@@ -992,7 +992,7 @@
       "category": "entertainment",
       "contentPotential": "high",
       "riskLevel": "medium",
-      "summary": "ข่าวจาก Google News keyword: ซีรีส์ / source: Sanook.com - เรื่องย่อ หมอดูจอมลวง A Prophet (2026) ซีรีส์จีนโรแมนติกดราม่าสาธารณรัฐ    Sanook.com",
+      "summary": "ข่าวจาก Google News keyword: ซีรีส์ / source: Sanook - เรื่องย่อ หมอดูจอมลวง A Prophet (2026) ซีรีส์จีนโรแมนติกดราม่าสาธารณรัฐ    Sanook",
       "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
       "creatorAngle": "เล่า reaction ส่วนตัวต่อกระแส แล้วเปิดคำถามให้คนคุยต่อ",
       "promptIdea": "กระแสนี้ทุกคนอยู่ทีมไหน?",
@@ -1005,7 +1005,7 @@
       "riskNote": "Medium risk ควรเลี่ยงการพาดพิงบุคคลจริงและใช้คำถามเชิงสร้างสรรค์",
       "sources": [
         {
-          "title": "Sanook.com",
+          "title": "Sanook",
           "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFAyZzkzVXY2UGNPRWdNVi13dnRrLTZnWEdKVF83N3FDb3hTZ3hWOWZCWjNPbHlISnowM2J1UHlJbGNVaTBnRDREUUFfMWQ?oc=5"
         }
       ],
@@ -1038,39 +1038,13 @@
       "updatedAt": "2026-09-18T15:35:03+07:00"
     },
     {
-      "id": "topic-60ad7166ba",
-      "title": "ญี่ปุ่นเร่งแก้ปัญหา ดราม่า 'เอเชียนเกมส์' นักกีฬาวิจารณ์ที่พักไม่สะดวกสบาย",
-      "sourceType": "news",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "medium",
-      "summary": "ข่าวจาก Google News keyword: ดราม่า / source: bangkokbiznews - ญี่ปุ่นเร่งแก้ปัญหา ดราม่า 'เอเชียนเกมส์' นักกีฬาวิจารณ์ที่พักไม่สะดวกสบาย    bangkokbiznews",
-      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#ญี่ปุ่นเร่งแก้ปัญหาดราม่"
-      ],
-      "riskNote": "Medium risk ควรเลี่ยงการพาดพิงบุคคลจริงและใช้คำถามเชิงสร้างสรรค์",
-      "sources": [
-        {
-          "title": "bangkokbiznews",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCYnVJMjlUU0FCNU5FbElWTXpRcVJMb0Yzd1hFdUFrSUZHNG1fbElnMXV5dkE2ZkxQSlp0bnpLcjNUblBtMmJ5dWU4SlFqcTZPRW1nc3pPQUZHeU9ZbERRZVVJdTEyU0U?oc=5"
-        }
-      ],
-      "updatedAt": "2026-09-17T16:01:11+07:00"
-    },
-    {
       "id": "32-f9f63da8a0",
       "title": "ดราม่า ‘ลิซ่า’ จิบเบียร์ไทยออกสื่อสากล เพจดังฉอดจี้ใจดำ ม.32 กฎหมายย้อนแย้ง!",
       "sourceType": "news",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "medium",
-      "summary": "ข่าวจาก Google News keyword: ดราม่า / source: เดลินิวส์ - ดราม่า ‘ลิซ่า’ จิบเบียร์ไทยออกสื่อสากล เพจดังฉอดจี้ใจดำ ม.32 กฎหมายย้อนแย้ง!    เดลินิวส์",
+      "summary": "ข่าวจาก Google News keyword: ดราม่า / source: dailynews.co.th - ดราม่า ‘ลิซ่า’ จิบเบียร์ไทยออกสื่อสากล เพจดังฉอดจี้ใจดำ ม.32 กฎหมายย้อนแย้ง!    dailynews.co.th",
       "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -1083,11 +1057,37 @@
       "riskNote": "Medium risk ควรเลี่ยงการพาดพิงบุคคลจริงและใช้คำถามเชิงสร้างสรรค์",
       "sources": [
         {
-          "title": "เดลินิวส์",
+          "title": "dailynews.co.th",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBwWExxb2VMRUNqTFloekxHWS1rNDF0aVE0eWhsd2pCMG8xNVVRT2dleWRpN0lQZlRhLVBHU05QRzNqbXkySFQ2YUNWamg3b09ZcVFj?oc=5"
         }
       ],
       "updatedAt": "2026-09-18T12:45:00+07:00"
+    },
+    {
+      "id": "topic-b0b6bfcc81",
+      "title": "ลิซ่า ดราม่า “หมดแก้ว” ทางออกกฎหมาย เครื่องดื่มแอลกอฮอล์ ปมแบนลิดรอนรายย่อย",
+      "sourceType": "news",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "medium",
+      "summary": "ข่าวจาก Google News keyword: ดราม่า / source: Thairath.co.th - ลิซ่า ดราม่า “หมดแก้ว” ทางออกกฎหมาย เครื่องดื่มแอลกอฮอล์ ปมแบนลิดรอนรายย่อย    Thairath.co.th",
+      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#ลิซ่าดราม่า“หมดแก้ว”ทางอ"
+      ],
+      "riskNote": "Medium risk ควรเลี่ยงการพาดพิงบุคคลจริงและใช้คำถามเชิงสร้างสรรค์",
+      "sources": [
+        {
+          "title": "Thairath.co.th",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB5c3lILU5QUFJBNWRPU2tLTklfZXBOdmZkYWxOSmtLYlI3N21QMUhIN3ktSzdaanZidzN1T0ZtN1pLS3BHSU5pLW1VcmViVDVCN2M0bmFualZXZC1zd2Mw?oc=5"
+        }
+      ],
+      "updatedAt": "2026-09-18T15:42:02+07:00"
     },
     {
       "id": "topic-5936d01579",
@@ -1139,16 +1139,16 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "วิธีลงทะเบียนรับสิทธิ \"ไทยช่วยไทยพลัส\" สำหรับผู้ที่หลุดจาก \"บัตรสวัสดิการแห่งรัฐ\"",
-          "url": "https://www.thairath.co.th/news/society/2961579"
+          "title": "หนุน “ไทยช่วยไทย พลัส” ส.อ.ท.ชี้กระตุ้นกำลังซื้อ ดันเงินหมุนเข้า SMEs",
+          "url": "https://www.thaipbs.or.th/news/content/558490"
         },
         {
-          "title": "\"ไทยช่วยไทยพลัส\" ต้องเติมเงินเท่าไหร่ หลังคลังประกาศ แจก 1,000 บาท",
-          "url": "https://www.sanook.com/money/957647/"
+          "title": "วิธีใช้งานแอปฯ เป๋าตัง ยืนยันสิทธิไทยช่วยไทยพลัส (เพิ่มเติม) รับเงิน 1,000 บาท",
+          "url": "https://www.thairath.co.th/news/society/2961738"
         },
         {
-          "title": "รัฐบาลเผย “ไทยช่วยไทย พลัส 60/40” ปลายเดือนยังแรง 22 ก.ย. ใช้จ่าย 827.9 ล้านบาท | สวพ.FM91",
-          "url": "https://today.line.me/th/v3/article/3N1NKBW"
+          "title": "ตลาดสดเงียบเหงา รอเงิน ไทยช่วยไทย พลัส",
+          "url": "https://www.ch7.com/news/183794/"
         },
         {
           "title": "Thai PBS",
@@ -1182,32 +1182,6 @@
         }
       ],
       "updatedAt": "2026-09-18T15:43:49+07:00"
-    },
-    {
-      "id": "35-2c981b2d8d",
-      "title": "อังกฤษเร่งปลุกประชาชนรับมือ “สงครามยุคใหม่” แนะสำรองอาหาร–น้ำ ผบ.ทหารเตือนเสี่ยงสูงสุดในรอบ 35 ปี",
-      "sourceType": "news",
-      "category": "food",
-      "contentPotential": "low",
-      "riskLevel": "high",
-      "summary": "ข่าวจาก Google News keyword: อาหาร / source: LINE TODAY - อังกฤษเร่งปลุกประชาชนรับมือ “สงครามยุคใหม่” แนะสำรองอาหาร–น้ำ ผบ.ทหารเตือนเสี่ยงสูงสุดในรอบ 35 ปี    LINE TODAY",
-      "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
-      "creatorAngle": "ใช้เป็นข้อมูลเฝ้าระวังมากกว่าบรีฟโพสต์ หากต้องใช้ควรให้ทีม review ก่อน",
-      "promptIdea": "เรื่องนี้ควรเช็กข้อมูลก่อนแชร์ ทุกคนคิดว่าเราควรระวังอะไรบ้าง?",
-      "hashtags": [
-        "#FoodTrend",
-        "#CafeTH",
-        "#รีวิวของกิน",
-        "#อังกฤษเร่งปลุกประชาชนรับ"
-      ],
-      "riskNote": "High risk ควรให้ทีม review ก่อนนำไป brief Creator และไม่ควรชวนดราม่า",
-      "sources": [
-        {
-          "title": "LINE TODAY",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1EXzRXQ0tQN3Boa2xPYndVcEhLeng5U2FIYnNjdGJNNFNLTi1vWVc0QTV6eG9EcERDTUpXdHhPeGhndzM4UEFsWG9DcTkydDdTTFQtdmdB?oc=5"
-        }
-      ],
-      "updatedAt": "2026-09-18T22:16:51+07:00"
     }
   ]
 }
