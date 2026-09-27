@@ -1,7 +1,9 @@
 {
-  "generatedAt": "2026-09-26T23:55:43.085049+07:00",
-  "dateRange": "2026-09-19 to 2026-09-26",
-  "sourceErrors": [],
+  "generatedAt": "2026-09-27T13:23:39.295365+07:00",
+  "dateRange": "2026-09-20 to 2026-09-27",
+  "sourceErrors": [
+    "google_news: HTTP Error 503: Service Unavailable"
+  ],
   "topics": [
     {
       "id": "7-2567-ch7on-ch7on-1db283bf17",
@@ -556,7 +558,7 @@
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 100+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 1000+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -573,28 +575,28 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "How OpenAI’s Rogue A.I. Agents Tried to Trick a Robot Detector",
-          "url": "https://www.nytimes.com/2026/09/25/technology/openai-hugging-face-hack.html"
+          "title": "OpenAI’s A.I. Went Rogue and Meddled With U.S. Government Websites",
+          "url": "https://www.nytimes.com/2026/09/25/technology/openais-ai-us-government-websites.html"
         },
         {
-          "title": "Rogue OpenAI agents targeted three separate US government websites",
-          "url": "https://www.cnn.com/2026/09/26/tech/openai-agents-rogue-government-websites"
+          "title": "World in Brief: Dozens more OpenAI hacks; Trump rejects Iran ceasefire offer",
+          "url": "https://www.economist.com/the-world-in-brief/2026/09/27/6b23e98a-7094-4a0e-a096-45184c2fd72d"
         },
         {
-          "title": "OpenAI's models accessed public US Census, SEC data, Bloomberg News reports",
-          "url": "https://www.reuters.com/business/openais-models-accessed-public-us-census-sec-data-bloomberg-news-reports-2026-09-26/"
+          "title": "OpenAI says its AI agents escaped a secure ‘sandbox’ again last weekend and it is pausing training for a second time",
+          "url": "https://fortune.com/2026/09/26/openai-ai-agents-secure-sandbox-escape-training-pause-second-time-hugging-face-hack/"
         }
       ],
       "updatedAt": "2026-09-26T21:40:00+07:00"
     },
     {
-      "id": "dazn-4fa7964530",
-      "title": "dazn",
+      "id": "england-vs-spain-6360de57ab",
+      "title": "england vs spain",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 500+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 2000+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -602,7 +604,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#dazn"
+        "#englandvsspain"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -611,28 +613,28 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "++[TV.Stream]!!] Finland vs San Marino 𝐋𝐈𝐕𝐄 Ｔｖ Ｃｈａｎｎｅｌ ꜱᴇᴘᴛᴇᴍʙᴇʀ, 2026",
-          "url": "https://czechinvest.gov.cz/panorama/CZI-Holesov/index.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2NvbGxhYnN0eWVtLmdpdGh1Yi5pby9uZXdzL3hwLnhtbCIvPjwva3JwYW5vPg==&id=video-finland-vs-san-marino-2026-66745"
+          "title": "England embrace chaos - but Spain show it never claims big prizes",
+          "url": "https://www.bbc.com/sport/football/articles/cqx2zz6d5716o"
         },
         {
-          "title": "Finland 'humble' ahead of San Marino trip but winning the group is the goal",
-          "url": "https://www.flashscore.co.za/news/soccer-uefa-nations-league-finland-humble-ahead-of-san-marino-trip-but-winning-the-group-is-the-goal/dtB7xDLH/"
+          "title": "Oyarzabal earns Spain Nations League win as England pay for Kane penalty miss",
+          "url": "https://www.theguardian.com/football/2026/sep/26/england-spain-nations-league-match-report"
         },
         {
-          "title": "San Marino vs Finland: UEFA Nations League stats & head-to-head",
-          "url": "https://www.bbc.com/sport/football/live/c617j245eg7gt"
+          "title": "Nations League highlights: England 2-3 Spain",
+          "url": "https://www.uefa.com/uefanationsleague/video/highlights/02a9-21afe5894bd0-9ebd6f317b02-1000--nations-league-highlights-england-2-3-spain/"
         }
       ],
-      "updatedAt": "2026-09-26T16:10:00+07:00"
+      "updatedAt": "2026-09-27T01:10:00+07:00"
     },
     {
-      "id": "fred-astaire-585bbd788c",
-      "title": "fred astaire",
+      "id": "google-s-birthday-72ac2acaf5",
+      "title": "google's birthday",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 1000+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 20000+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -640,7 +642,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#fredastaire"
+        "#google'sbirthday"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -649,57 +651,19 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "Margaret Qualley & Sabrina Carpenter Join Tom Holland In Fred Astaire Biopic",
-          "url": "https://deadline.com/2026/09/margaret-qualley-sabrina-carpenter-fred-astaire-biopic-1237114080/"
+          "title": "Google Celebrates 28th Birthday With Nostalgic Doodle From Its Early Days",
+          "url": "https://www.ndtv.com/feature/google-turns-28-celebrates-birthday-with-nostalgic-doodle-12103823"
         },
         {
-          "title": "Sabrina Carpenter to Play Ginger Rogers in Tom Holland-Starring Fred Astaire Biopic",
-          "url": "https://www.rollingstone.com/music/music-news/sabrina-carpenter-ginger-rogers-tom-holland-astaire-biopic-1235632317/"
+          "title": "In 1998, an investor writes a $100,000 cheque to a startup called Google, which was running out of a garag",
+          "url": "https://m.economictimes.com/news/new-updates/in-1998-an-investor-writes-a-100000-cheque-to-a-startup-called-google-which-was-running-out-of-a-garage-founders-larry-page-sergey-brin-set-it-up-as-a-business-the-very-next-day-now-the-company-is-worth-more-than-4-trillion/articleshow/134513837.cms"
         },
         {
-          "title": "Margaret Qualley, Sabrina Carpenter Join Tom Holland’s Fred Astaire Biopic",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/margaret-qualley-sabrina-carpenter-tom-holland-fred-astaire-1236710264/"
+          "title": "Google at 28: How Larry Page and Sergey Brin built a technology giant",
+          "url": "https://www.storyboard18.com/amp/digital/google-at-28-how-larry-page-and-sergey-brin-built-a-technology-giant-111472.htm"
         }
       ],
-      "updatedAt": "2026-09-26T11:10:00+07:00"
-    },
-    {
-      "id": "t-rkiye-vs-france-e4618dfc7d",
-      "title": "türkiye vs france",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 500+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#türkiyevsfrance"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "Zidane: Mbappe's injury is not good news",
-          "url": "https://www.espn.com/video/clip/_/id/50033670/mbappe-injury-not-good-news"
-        },
-        {
-          "title": "Real Madrid star spotted back at Valdebebas after leaving NT camp with injury",
-          "url": "https://sports.yahoo.com/articles/real-madrid-star-spotted-back-161500303.html"
-        },
-        {
-          "title": "UEFA Nations League Matchday 1 highlights, round-up: Kylian Mbappé gives Zinédine Zidane's France winning start, Belgium tame Italy",
-          "url": "https://www.uefa.com/uefanationsleague/news/02a9-21abb9d8b85c-0d9416d472ce-1000--uefa-nations-league-matchday-1-highlights-round-up-kylian-/"
-        }
-      ],
-      "updatedAt": "2026-09-26T01:30:00+07:00"
+      "updatedAt": "2026-09-27T06:20:00+07:00"
     },
     {
       "id": "weather-tomorrow-2ec893127f",
@@ -725,28 +689,28 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "What to expect from the much-anticipated Giants-Daboll reunion",
-          "url": "https://www.espn.com/nfl/story/_/id/50028799/what-expect-new-york-giants-brian-daboll-tennessee-titans-reunion"
+          "title": "NASCAR at Kansas: Key info, links, results for Chase race weekend",
+          "url": "https://www.nascar.com/news-media/2026/09/26/nascar-at-kansas-key-info-links-results-for-chase-race-weekend/"
         },
         {
-          "title": "Titans-Giants tickets are available for as little as $17",
-          "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/titans-giants-tickets-are-available-for-as-little-as-17"
+          "title": "Larson leads Hamlin by single point in Cup Series playoffs",
+          "url": "https://www.thescore.com/nascar/news/3609170/larson-leads-hamlin-by-single-point-in-cup-series-playoffs"
         },
         {
-          "title": "Players to watch in Week 3 matchup",
-          "url": "https://www.giants.com/news/week-3-tennessee-titans-jameis-winston-cam-skattebo-isaiah-likely-abdul-carter-jevon-holland"
+          "title": "Is the NASCAR Cup Race Happening Sunday at Kansas? Latest Weather Forecast",
+          "url": "https://sports.yahoo.com/articles/nascar-cup-race-happening-sunday-164852978.html"
         }
       ],
       "updatedAt": "2026-09-26T20:20:00+07:00"
     },
     {
-      "id": "u-23-23-5b2ab5ae54",
-      "title": "จีน u-23 พบ ไทย ยู-23",
+      "id": "topic-e5054ef68b",
+      "title": "ดูบอลไทยสดวันนี้",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 10000+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 100+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -754,7 +718,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#จีนu-23พบไทยยู-23"
+        "#ดูบอลไทยสดวันนี้"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -763,19 +727,19 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "ช้างศึกมีเฮ \"ทีมชาติไทย\" ได้ข่าวดีก่อนบู๊จีน ฟุตบอลเอเชียนเกมส์ 2026 รอบ 8 ทีม",
-          "url": "https://www.thairath.co.th/sport/thaifootball/changsuek/2961886"
+          "title": "\"ฮัดสัน\" ชมเปาะช้างศึกแกร่ง-สั่งลืมชัยชนะโฟกัสซดเวียดนาม",
+          "url": "https://www.siamsport.co.th/football-thailand/thai-national/109910/"
         },
         {
-          "title": "\"โค้ชวัง\" ยกจีนแข็งแกร่งกว่า ชี้ช่องแข้งไทยต้องกลับไปพัฒนา",
-          "url": "https://www.siamsport.co.th/asian-games/109909/"
+          "title": "LIVE ดูบอลสด ปากีสถาน พบ ทีมชาติไทย บอลไทยวันนี้ (26 ก.ย.) 16.00 น. FIFA ASEAN CUP 2026",
+          "url": "https://www.thairath.co.th/sport/thaifootball/changsuek/2958686"
         },
         {
-          "title": "ฟุตบอลชายทีมชาติไทย พ่าย จีน 0-3 ส่งท้ายศึกเอเชียนเกมส์ 2026 รอบ 8 ทีม",
-          "url": "https://www.thaipbs.or.th/news/content/558600"
+          "title": "ธีรศักดิ์ แฮตทริก พาช้างศึกชุดใหญ่ ถล่มปากีสถาน ประเดิม ฟีฟ่า อาเซียน คัพ 2026 | Khaosod",
+          "url": "https://today.line.me/th/v3/article/oqpayej"
         }
       ],
-      "updatedAt": "2026-09-26T12:50:00+07:00"
+      "updatedAt": "2026-09-26T16:50:00+07:00"
     },
     {
       "id": "topic-2223a8e103",
@@ -853,16 +817,16 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "LIVE ดูบอลสด ปากีสถาน พบ ทีมชาติไทย บอลไทยวันนี้ (26 ก.ย.) 16.00 น. FIFA ASEAN CUP 2026",
-          "url": "https://www.thairath.co.th/sport/thaifootball/changsuek/2958686"
+          "title": "\"โค้ชวัง\" ยกจีนแข็งแกร่งกว่า ชี้ช่องแข้งไทยต้องกลับไปพัฒนา",
+          "url": "https://www.siamsport.co.th/asian-games/109909/"
         },
         {
-          "title": "\"ฮัดสัน\" ชมเปาะช้างศึกแกร่ง-สั่งลืมชัยชนะโฟกัสซดเวียดนาม",
-          "url": "https://www.siamsport.co.th/football-thailand/thai-national/109910/"
+          "title": "ฟุตบอลชายทีมชาติไทย พ่าย จีน 0-3 ส่งท้ายศึกเอเชียนเกมส์ 2026 รอบ 8 ทีม",
+          "url": "https://www.thaipbs.or.th/news/content/558600"
         },
         {
-          "title": "โปรแกรม ฟุตบอลทีมชาติไทย สู้ศึกฟีฟ่า อาเซียน คัพ 2026 ที่อินโดนีเซีย",
-          "url": "https://www.sanook.com/sport/1672512/"
+          "title": "LIVE ดูบอลสด จีน พบ ไทย เอเชียนเกมส์ 2026 วันนี้ (26 ก.ย.) 13.00 น. รอบ 8 ทีมสุดท้าย",
+          "url": "https://www.thairath.co.th/sport/asiangame/2961535"
         }
       ],
       "updatedAt": "2026-09-26T16:20:00+07:00"
@@ -894,6 +858,44 @@
       "updatedAt": "2026-09-21T10:20:12+07:00"
     },
     {
+      "id": "topic-2f1b860a77",
+      "title": "พยากรณ์อากาศ",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 2000+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#พยากรณ์อากาศ"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "กทม.อัปเดต เตือนหลีกเลี่ยงถนน 31 เส้นทาง น้ำท่วมขังสูง",
+          "url": "https://www.thaipbs.or.th/news/content/558668"
+        },
+        {
+          "title": "รัฐบาลชวนโหลดแอป “เช็คน้ำ” รู้ทันน้ำท่วม เช็กพิกัด-พื้นที่เสี่ยง-ระดับน้ำ พร้อมแจ้งเตือนล่วงหน้า",
+          "url": "https://today.line.me/th/v3/article/8nMmZMx"
+        },
+        {
+          "title": "กทม. อัปเดต 31 ถนนสายหลักน้ำท่วมขัง 135 จุดทั่วกรุงอ่วม สั่งรถเล็กหลีกเลี่ยงเส้นทางวิกฤตระดับน้ำสูงกว่า 20 ซม.",
+          "url": "https://thestandard.co/bangkok-flood-update-31-main-roads/"
+        }
+      ],
+      "updatedAt": "2026-09-27T06:10:00+07:00"
+    },
+    {
       "id": "5-2026-c5ef9f54cb",
       "title": "ลุ้นเดือด 5 เซต! \"สาวไทย\" สู้สุดใจพ่าย จีน ศึกวอลเลย์บอลเอเชียนเกมส์ 2026",
       "sourceType": "news",
@@ -920,13 +922,13 @@
       "updatedAt": "2026-09-21T17:18:00+07:00"
     },
     {
-      "id": "topic-b9e3b88ad0",
-      "title": "เขตหนองจอก",
+      "id": "2026-743914c1d7",
+      "title": "สรุป เหรียญ เอเชีย น เกมส์ 2026",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 5000+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 500+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -934,16 +936,66 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#เขตหนองจอก"
+        "#สรุปเหรียญเอเชียนเกมส์20"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
         {
           "title": "Google Trends",
           "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "สรุปเหรียญเอเชียนเกมส์ 2026 วันที่ 26 ก.ย.69 จีน 107 ทอง, ไทย 8 ทอง",
+          "url": "https://www.thaipbs.or.th/news/content/558648"
+        },
+        {
+          "title": "กกท.เชื่อมั่นไทยยังได้ลุ้น 15 ทอง ผลงานครึ่งทางเอเชียนเกมส์น่าพอใจ-ทำลายสถิติเพียบ",
+          "url": "https://mgronline.com/sport/detail/9690000094210"
+        },
+        {
+          "title": "SeoulStation : ‘เตนล์ ชิตพล’ ควง ‘เอส ศุภ’ ส่งต่อแรงบันดาลใจคนรุ่นใหม่ ชวนเชียร์ศึกเอเชียนเกมส์ 2026",
+          "url": "https://www.dailynews.co.th/news/6222664/"
         }
       ],
-      "updatedAt": "2026-09-26T07:20:00+07:00"
+      "updatedAt": "2026-09-27T05:50:00+07:00"
+    },
+    {
+      "id": "topic-f4b2b38903",
+      "title": "อังกฤษ พบ สเปน",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 20000+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#อังกฤษพบสเปน"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "มองบวกไว้ก่อน! \"แฮร์รี่ เคน\" เชื่ออังกฤษสู้กับสเปนได้สูสี แม้สุดท้ายพ่าย 2-3",
+          "url": "https://www.siamsport.co.th/football-international/national-team/109923/"
+        },
+        {
+          "title": "\"สิงโต\" เขี้ยวกุดแพ้ \"กระทุงดุ\" คาถ้ำ \"เคน\" บอดโทษ",
+          "url": "https://www.dailynews.co.th/news/6225076/"
+        },
+        {
+          "title": "ดูบอลสด วิเคราะห์บอลเนชั่นส์ ลีก อังกฤษ พบ สเปน 26 ก.ย.69",
+          "url": "https://www.pptvhd36.com/sport/news/284164"
+        }
+      ],
+      "updatedAt": "2026-09-27T00:50:00+07:00"
     },
     {
       "id": "portfolio-correlation-22-2d396e72bd",
@@ -996,44 +1048,6 @@
         }
       ],
       "updatedAt": "2026-09-20T09:42:35+07:00"
-    },
-    {
-      "id": "topic-d120434945",
-      "title": "เนชันส์ลีก",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#เนชันส์ลีก"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "วิเคราะห์บอล อังกฤษ vs สเปน 26 ก.ย. 69 สิงโตคำรามชนแชมป์โลกที่เวมบลีย์",
-          "url": "https://www.siamsport.co.th/football-international/national-team/109870/"
-        },
-        {
-          "title": "ทูเคิลบ่นพาลเมอร์ถอนตัวบ่อยเกินไป ทำพลาดโอกาสดีๆ ในทีมชาติอังกฤษ",
-          "url": "https://www.matichon.co.th/sport/footballinter/news_5906079"
-        },
-        {
-          "title": "ดูบอลสด วิเคราะห์บอลเนชั่นส์ ลีก อังกฤษ พบ สเปน 26 ก.ย.69",
-          "url": "https://www.pptvhd36.com/sport/news/284164"
-        }
-      ],
-      "updatedAt": "2026-09-26T03:40:00+07:00"
     },
     {
       "id": "2026-4-1915a38423",
@@ -1111,16 +1125,16 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "กฟน. ประกาศยกเลิกการดับไฟตามแผนในวันที่ 27 กันยายน 69 ทุกพื้นที่",
-          "url": "https://www.pptvhd36.com/news/%E0%B8%AA%E0%B8%B1%E0%B8%87%E0%B8%84%E0%B8%A1/284180"
+          "title": "สลดรับสายฝน! ยายเก็บของเก่าวัย 58 โดนไฟช็อต ดับคาแฟลตเคหะคลองจั่น | The Bangkok Insight",
+          "url": "https://today.line.me/th/v3/article/mWp9pjz"
         },
         {
-          "title": "MEA ยกเลิกการดับไฟตามแผนทุกพื้นที่ 27 กันยายนนี้ บรรเทาความเดือดร้อนช่วงน้ำท่วมขัง | สวพ.FM91",
-          "url": "https://today.line.me/th/v3/article/3N1Bo1y"
+          "title": "‘เจเศรษฐ์’ ยันจ่ายเยียวยาผู้เสียชีวิตจากเหตุไฟดูดคลองจั่น 2 ล้านบาท",
+          "url": "https://www.dailynews.co.th/news/6225659/"
         },
         {
-          "title": "การประปาฯ แจ้งพื้นที่น้ำไม่ไหล-ไหลอ่อน 26 กันยายน 2569 เช็กเลยกระทบที่ไหนบ้าง",
-          "url": "https://www.thairath.co.th/news/society/2961968"
+          "title": "น้ำท่วมแฟลตการเคหะคลองจั่น หญิงอายุ 58 ปี ถูกไฟดูด จมน้ำเสียชีวิต | CH7ON อัปเดตข่าวใหม่ ข่าวช่อง 7HD | CH7ON",
+          "url": "https://www.ch7.com/news/184727/"
         }
       ],
       "updatedAt": "2026-09-26T22:50:00+07:00"
