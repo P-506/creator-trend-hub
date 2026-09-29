@@ -1,9 +1,7 @@
 {
-  "generatedAt": "2026-09-29T20:51:04.530336+07:00",
-  "dateRange": "2026-09-22 to 2026-09-29",
-  "sourceErrors": [
-    "gdelt: HTTP Error 429: Too Many Requests"
-  ],
+  "generatedAt": "2026-09-30T03:30:57.403614+07:00",
+  "dateRange": "2026-09-23 to 2026-09-30",
+  "sourceErrors": [],
   "topics": [
     {
       "id": "1-3-577f408877",
@@ -38,7 +36,7 @@
       "category": "entertainment",
       "contentPotential": "high",
       "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: ซีรีส์ / source: Sanook.com - \"เอสเธอร์\" ลุยซีรีส์แนวตั้งไทย-จีนครั้งแรก ประกบ \"หวงจี้หยวน\" เคมีเป็นยังไง?    Sanook.com",
+      "summary": "ข่าวจาก Google News keyword: ซีรีส์ / source: Sanook - \"เอสเธอร์\" ลุยซีรีส์แนวตั้งไทย-จีนครั้งแรก ประกบ \"หวงจี้หยวน\" เคมีเป็นยังไง?    Sanook",
       "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
       "creatorAngle": "เล่า reaction ส่วนตัวต่อกระแส แล้วเปิดคำถามให้คนคุยต่อ",
       "promptIdea": "กระแสนี้ทุกคนอยู่ทีมไหน?",
@@ -51,11 +49,37 @@
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
         {
-          "title": "Sanook.com",
+          "title": "Sanook",
           "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9RMC1FUm91V19EbVladmg4ZDN2UTE3TDljUTNqN0ZoMlpKdEVGd3oyOHJvLURhTUp3WUNpQkJJQ2pjRDdXNDNSQTYzLWQ?oc=5"
         }
       ],
       "updatedAt": "2026-09-24T18:42:08+07:00"
+    },
+    {
+      "id": "8-2026-64c0d20b03",
+      "title": "8 เทรนด์สุขภาพปี 2026 สุขภาพดีวันนี้ ต้องสตรองทั้งกาย-ใจ-ความสัมพันธ์ ยันสัตว์เลี้ยง",
+      "sourceType": "news",
+      "category": "lifestyle",
+      "contentPotential": "high",
+      "riskLevel": "low",
+      "summary": "ข่าวจาก Google News keyword: ความสัมพันธ์ / source: Marketeer Online - 8 เทรนด์สุขภาพปี 2026 สุขภาพดีวันนี้ ต้องสตรองทั้งกาย-ใจ-ความสัมพันธ์ ยันสัตว์เลี้ยง    Marketeer Online",
+      "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
+      "creatorAngle": "โยงกับชีวิตประจำวันของ Creator และถามประสบการณ์คนในคอมมูนิตี้",
+      "promptIdea": "ช่วงนี้มีใครเจอเรื่องแบบนี้เหมือนกันไหม?",
+      "hashtags": [
+        "#LifestyleTH",
+        "#ชีวิตประจำวัน",
+        "#แชร์ประสบการณ์",
+        "#8เทรนด์สุขภาพปี2026สุขภา"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Marketeer Online",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1aS0hrWFN2N2pXbERlcjVYWWpNTi02cDJhVjRqbHZyQTV4VnVPcVpZQzBOUVdsWmlWREk0bXEzRFVBUkROaWFtSE9wdXZiS3hBTlB1Xw?oc=5"
+        }
+      ],
+      "updatedAt": "2026-09-29T17:31:08+07:00"
     },
     {
       "id": "ch7hd-417e2e36ef",
@@ -82,32 +106,6 @@
         }
       ],
       "updatedAt": "2026-09-28T18:10:51+07:00"
-    },
-    {
-      "id": "lotus-s-go-fresh-lotus-s-app-307821d41c",
-      "title": "Lotus’s Go Fresh เติมสต๊อกต่อเนื่อง ให้ชุมชนเข้าถึงอาหารสดและของจำเป็นใกล้บ้าน พร้อมทางเลือกสั่งซื้อผ่าน Lotus’s App ในพื้นที่ที่จัดส่งได้ช่วงน้ำท่วม",
-      "sourceType": "news",
-      "category": "food",
-      "contentPotential": "high",
-      "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: อาหาร / source: efin.finance - Lotus’s Go Fresh เติมสต๊อกต่อเนื่อง ให้ชุมชนเข้าถึงอาหารสดและของจำเป็นใกล้บ้าน พร้อมทางเลือกสั่งซื้อผ่าน Lotus’s App ในพื้นที่ที่จัดส่งได้ช่วงน้ำท่วม    efin.finance",
-      "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
-      "creatorAngle": "ให้ Creator เล่าประสบการณ์ร้าน/เมนูที่อยากลอง แล้วถามคนอื่นว่าคิดเหมือนกันไหม",
-      "promptIdea": "เห็นคนพูดถึงเมนูนี้เยอะมาก มีใครลองแล้วบ้าง?",
-      "hashtags": [
-        "#FoodTrend",
-        "#CafeTH",
-        "#รีวิวของกิน",
-        "#Lotus’sGoFreshเติมสต๊อกต"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "efin.finance",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1YUElnaGg1X3hoUUFrR21GWHJsN0RlZEJUWHlsc3dvemR4RGt4cDhxSUJmTXZLRTczNmRQUVhXb2NBS3ItcjE1U1ltVElLdkpTWDU1Vk9zbTNoNXBHMThPazJn?oc=5"
-        }
-      ],
-      "updatedAt": "2026-09-29T15:15:00+07:00"
     },
     {
       "id": "not-yours-boys-love-26-14403f008a",
@@ -214,32 +212,6 @@
       "updatedAt": "2026-09-23T21:07:06+07:00"
     },
     {
-      "id": "acres-cafe-06f06a8fce",
-      "title": "นั่งจิบกาแฟชิล ๆ \"ACRES CAFE\" อรัญประเทศ จ.สระแก้ว",
-      "sourceType": "news",
-      "category": "food",
-      "contentPotential": "high",
-      "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: คาเฟ่ / source: TrueID Food - นั่งจิบกาแฟชิล ๆ \"ACRES CAFE\" อรัญประเทศ จ.สระแก้ว    TrueID Food",
-      "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
-      "creatorAngle": "ให้ Creator เล่าประสบการณ์ร้าน/เมนูที่อยากลอง แล้วถามคนอื่นว่าคิดเหมือนกันไหม",
-      "promptIdea": "เห็นคนพูดถึงเมนูนี้เยอะมาก มีใครลองแล้วบ้าง?",
-      "hashtags": [
-        "#FoodTrend",
-        "#CafeTH",
-        "#รีวิวของกิน",
-        "#นั่งจิบกาแฟชิลๆ\"ACRESCAF"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "TrueID Food",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ZWnl0UTB2WXAtNnhHNzZMeFBlNWpYVDgzVFlQNlFoWjhHcGtTSWdrd0dJSkxFMWZmTFYtVm4wcFVieVlqb2Rmc0gxaU4xMmhEWkFzMGJ3?oc=5"
-        }
-      ],
-      "updatedAt": "2026-09-29T16:22:30+07:00"
-    },
-    {
       "id": "6-32837a02b6",
       "title": "น้ำท่วมกรุงกระทบค้าปลีก “แฟชั่นไอส์แลนด์-เดอะ พรอมานาด” ปิดชั่วคราว ด้าน “แม่ทองสุก” ปิด 6 สาขา",
       "sourceType": "news",
@@ -264,6 +236,32 @@
         }
       ],
       "updatedAt": "2026-09-26T11:05:04+07:00"
+    },
+    {
+      "id": "3-5-77092497ce",
+      "title": "น้ำป่าเขาใหญ่ทะลัก! คาเฟ่ดังสั่งปิดชั่วคราว ลำตะคองสูงแตะ 3 เมตร 5 ตำบลรับมือมวลน้ำค่ำนี้",
+      "sourceType": "news",
+      "category": "food",
+      "contentPotential": "high",
+      "riskLevel": "low",
+      "summary": "ข่าวจาก Google News keyword: คาเฟ่ / source: แนวหน้า - น้ำป่าเขาใหญ่ทะลัก! คาเฟ่ดังสั่งปิดชั่วคราว ลำตะคองสูงแตะ 3 เมตร 5 ตำบลรับมือมวลน้ำค่ำนี้    แนวหน้า",
+      "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
+      "creatorAngle": "ให้ Creator เล่าประสบการณ์ร้าน/เมนูที่อยากลอง แล้วถามคนอื่นว่าคิดเหมือนกันไหม",
+      "promptIdea": "เห็นคนพูดถึงเมนูนี้เยอะมาก มีใครลองแล้วบ้าง?",
+      "hashtags": [
+        "#FoodTrend",
+        "#CafeTH",
+        "#รีวิวของกิน",
+        "#น้ำป่าเขาใหญ่ทะลัก!คาเฟ่"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "แนวหน้า",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8xdlJzc29jcElIYjlqV3lZS1hoOG9nbE1uUG15d2QzR3BUQkZEWW96YzJOY2JkVkVmM2V2VEtPSGV1ZVRMdWs3bV9sZmpCRV85TlhSbXFB?oc=5"
+        }
+      ],
+      "updatedAt": "2026-09-25T14:19:19+07:00"
     },
     {
       "id": "topic-421c90bc4d",
@@ -394,6 +392,32 @@
         }
       ],
       "updatedAt": "2026-09-23T23:42:37+07:00"
+    },
+    {
+      "id": "topic-f2ed77d9a2",
+      "title": "อยู่ไม่ไหว! เช็กราคาอาหารจานเดียวปรับราคามากแค่ไหน",
+      "sourceType": "news",
+      "category": "food",
+      "contentPotential": "high",
+      "riskLevel": "low",
+      "summary": "ข่าวจาก Google News keyword: อาหาร / source: smartsme.co.th - อยู่ไม่ไหว! เช็กราคาอาหารจานเดียวปรับราคามากแค่ไหน    smartsme.co.th",
+      "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
+      "creatorAngle": "ให้ Creator เล่าประสบการณ์ร้าน/เมนูที่อยากลอง แล้วถามคนอื่นว่าคิดเหมือนกันไหม",
+      "promptIdea": "เห็นคนพูดถึงเมนูนี้เยอะมาก มีใครลองแล้วบ้าง?",
+      "hashtags": [
+        "#FoodTrend",
+        "#CafeTH",
+        "#รีวิวของกิน",
+        "#อยู่ไม่ไหว!เช็กราคาอาหาร"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "smartsme.co.th",
+          "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQNkNsOVYwcmZYS0NBU1d4Y1dTckhhTnJtcVNneVdkalJmV0JNdnhjQmpqakhNRjVzSlVHdHFKczNjQkNtM0Z0YkZMS21DMFhUMHdaWW5haHQ2TFlET0k3bTc0MDJER2hVNzNHRTNvdkhGTzR2RndRZUhZSEkwV2k2dHNMcHVNYmxjZUx4YWY4OWtYajdOaV9haGZKU0lFMnRDaUZDM3EwX3djaGI2NzY1ZFlGVktIcFZaaXYyZzQtN3ZtRHBQOXZDT2syUXBQYVNMbkZoT1RGeWVzdFQ3MnhJT3VTdGdUa2pkNEdjODJuRXRUSWc1U0ZSV3JnUTZtSXZPdmhqdGNZUEVNR3I3aEt3d0owUQ?oc=5"
+        }
+      ],
+      "updatedAt": "2026-09-29T11:40:19+07:00"
     },
     {
       "id": "milano-city-fashion-week-2026-40bb084915",
@@ -578,32 +602,6 @@
       "updatedAt": "2026-09-25T15:12:32+07:00"
     },
     {
-      "id": "match-day-28-14-00-20-edfbe03a87",
-      "title": "Match Day! 🇹🇭หนุ่มไทย เจออิหร่าน🇮🇷 วันที่ 28 ก.ย. เวลา 14.00 น. 🏐นัดที่สองรอบแบ่งกลุ่มสายบี ศึกวอลเลย์บอลชายเอเชียนเกมส์ ครั้งที่ 20 ที่ประเทศญี่ปุ่น",
-      "sourceType": "news",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: วอลเลย์บอล / source: facebook.com - Match Day! 🇹🇭หนุ่มไทย เจออิหร่าน🇮🇷 วันที่ 28 ก.ย. เวลา 14.00 น. 🏐นัดที่สองรอบแบ่งกลุ่มสายบี ศึกวอลเลย์บอลชายเอเชียนเกมส์ ครั้งที่ 20 ที่ประเทศญี่ปุ่น #TVA #SAT #NSDF #volleyballtha",
-      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#MatchDay!🇹🇭หนุ่มไทยเจออิ"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "facebook.com",
-          "url": "https://news.google.com/rss/articles/CBMi0AZBVV95cUxNekI4VHZha0hhMW11ai1TWXNiQXJOS3lLNnJaUzQ0WHM1NEFHbVF0LW53a3pPNjF4ckE4VXNrUHZaMF9iUlFfbktTdlk0MWw2YzVaSlJzQk85cnVLSUNDQkZ5cEU2emt3QXh4Q3VQSXZ5NF9ENTBTWnd4STdpSjZBTU9zZjUxM2I2dlJpcWxjdm9kbUV1UkdlT3J4YkpsN1BBRWJuamt0aER3X1ZtQm9CMmFwSFh3dVlWc2JjYk5NWWRmVFotQzF5NDNuYVBlcEhIeXE4dnp3ckVEZzlHcl9kcmdDSDBGaFY3ZExmbWhMdmVreUVwMV9pVXhycEZ5RGl2WHdBQXRlMzlCcEd1WjlUcGMxbEVXZC16N0NPb2xZaWFQOS10eTJpdUh4VVMxN01hUXBOUkR1SG1lM3o3MXlPSjNyU3ZNLUlYWkdVZTd3UU9lNUpwNGNrY0xMUWZMNnVJTExTQlZ5cks4Rm5TZVJvempBbnk1MVQ4TWJqeWhwRjRyaGJLclhPRUlSd3I1MTU4MVhnZ0hIdVFJcnFwdjBCNF9Qb3dfVl9qdHRNaFR6UVZ2dDRRdVBXenlna0NhSEs0MzkyQXNsbTFTVl9LSDV2d2JUNUpBa0pTTXppaEpMUzhubXYyWUVEZW13TDVrWm42YlNYUW9QdXk2ODg4bnNtUjdpWUhZYVRKcDF2ZXV2bm85d21HOWwyLVVJdEd2d2JhaVY2V2RqV3V4NVp6RlA3Vnl1MEQxYUY1NmFQbVJlbVBvcnJGS1BmOGNIVUpGaGpCX1lmbXU1VmxBRGZDUDZzSzFvcWxaYUVqNm9xMExnOGEwa3U5dXBOZW9UWE9ReUZwYU9jRW1Pd2ZLQVpMcnZodDJYdU4xRllsYkoxdF9QMDFEd2RiQ01ENHI0SHRDYS1JalBDU1NqOU5DV2VsbnF4Nl9PaWltb2pyREdING8xcFI3VHVPcVVSZjFtc2ZYbEJLcWhEN2R6bHBUazdjMmc5dnpxTjZ5TGowZm00VExWc2gzLUdhMU45aWJHZkNtVUZTZzdFRlhtb0xva3EyQi1ZYjFMMXhkOWZhREJDTFN2UHFGZFRyX1BxaFZubnVhUnFEYlZjX29nNmhiLXFkb0FFSA?oc=5"
-        }
-      ],
-      "updatedAt": "2026-09-28T08:00:16+07:00"
-    },
-    {
       "id": "playground-97bcc1d3cd",
       "title": "PLAYGROUND ชวนฟังซิงเกิลใหม่ \"เก้าอี้ดนตรี\" ตัวแทนความสัมพันธ์ ไม่คบ ไม่ผูกมัด เป็นได้แค่เซฟโซนชั่วคราว",
       "sourceType": "news",
@@ -630,13 +628,13 @@
       "updatedAt": "2026-09-25T10:20:00+07:00"
     },
     {
-      "id": "uae-c9519878c0",
-      "title": "UAE รับ เนทันยาฮู เยือนประเทศ หารือความสัมพันธ์ทวิภาคี-สถานการณ์อิหร่าน",
+      "id": "thailand-volleyball-association-802a73d13a",
+      "title": "Thailand Volleyball Association สมาคมกีฬาวอลเลย์บอลแห่งประเทศไทย. . สด! นักกีฬาวอลเลย์บอลหญิงชุดประวัติศาสตร์เดินทางกลับจากการแข่งขันกีฬาเอเชียนเกมส์",
       "sourceType": "news",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: ความสัมพันธ์ / source: RYT9 - UAE รับ เนทันยาฮู เยือนประเทศ หารือความสัมพันธ์ทวิภาคี-สถานการณ์อิหร่าน    RYT9",
+      "summary": "ข่าวจาก Google News keyword: วอลเลย์บอล / source: facebook.com - Thailand Volleyball Association สมาคมกีฬาวอลเลย์บอลแห่งประเทศไทย. . สด! นักกีฬาวอลเลย์บอลหญิงชุดประวัติศาสตร์เดินทางกลับจากการแข่งขันกีฬาเอเชียนเกมส์ #TVA #SAT #NSDF #volleyballtha",
       "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -644,16 +642,16 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#UAEรับเนทันยาฮูเยือนประเ"
+        "#ThailandVolleyballAssoci"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
         {
-          "title": "RYT9",
-          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1uUEZsQjJiUGlsQk4zcUlmSUVTZHMzLVd3eWhxbVVIeUdfNHZrZUdUS0ZsamVrT0JIT3VYaFAtdWZpRklva28tVTNB?oc=5"
+          "title": "facebook.com",
+          "url": "https://news.google.com/rss/articles/CBMivAhBVV95cUxOQWlwTUZ0blBaTVl2d0hXZ3FFd2dnWERoVUk4Mk9ndmxFLU5hOWJOVVFjbGhXdTJldEQ3eVI0cDJjakJHdzQteWM1UVdoRWhpd3pnZ25TQmVHc2JVSWRzeGh5MXJOV3JjX3ZIdHdPYnQ1dU1DUWpubFdWMTlLMng4LWdXNHdEd3ZlUFJlb3JoQTlJZkhoMjhfQXU2bjNJVl9BdF9zbmFFcW5VV2NvdTIwMERNZmoyRnl6a3l4bmt0XzhTaEZYTVY1eFhNaWZUcl83Q3dTcWpDWTFWWWVRRXJBTm5fTHpLUHAzbFZKYjl3dU9HU2s1bVZxZnVXQTQ2SDk5RVhWc1I4a1lDdkxycjhYellwTmlqR1hUWUtxTGNHWTE0Z2hPS1VpdGtvYWtDdHRhRXFHYnVWZU1qcUo0eWJIcTI1dmRvdmhiRHpNNlhBMldBcjhCV2t0RHFuZlVkdE40YTRLVW5RUGJucnhUTjBKMGlOTEhtZ2hEbUprdGtndFZWaGVqQ1NXeFdiVkpRakwzYjRmeHhGV3hjVzNnR1dwVkF2RGFWaV9UNmNka2kzWjZ2MXJFdnVYSjRrcjE2czFsam0wcURZV1NHbElhT2tyeXh1SkhCSGRWd2dVOC00UFh2VmdKTW5TUGRMaU91RER4eVhGb3gxSUlFVDNwRXMzQmduaWlSNnNGMEJfdXlKMWlHTVlnMmtHQlpncld1cC1yUTViLUpwV3dXRWRJTUtFdzdwdG5XTHJNRm56SlhOdDhVU0otaTlqY1pqR0RwR256V2pjOW4xYWJ4WTNNenN2VXZZbFQzRDN4SzJqSmphNnVuUGtUTm5may1JS2IyWGhoMkk1c3VpR0I0VTR3UFdfWWNaLUpEUFI2RFJFZF9UejJVcVItNVdXV0MzWDBlRm9OWmlVWmlmaWx6Z3d6T0pyeDd6S3VlSlV6UnV6UWUzY09vdXZLWXFpWFhhU3R2Sl8tTDRVaFJ5b2FrOURYNVd2TngybmFoek42aFF0SDMzT3hDTC1VWFB0djVkVnU3enhZektKdmEwVElsejhZSUpXamZSU2NjWk9jdEtmM24yczgxUEJZX1hHUmZOQ3VCZWthZ0l4M01ZbWRjUFY2Z1RPbi1nOEtubF84eVZfYzhhTnpjQlpvd2RYZ0F1NnZDdklWZllGMEptaVNKWDd0ZnduOFltSTZkWWthMzdlWWxfcng0Y1MyR0Z6Si1hZ2wyTVhOSm5lY3VuSHY0MlZ2ZGlEcTB6ZG5DYnhxUmRLQUxwc0drbGZGZHJrMjRXUjQxb0djQkFPTjNEYXFuZ2N4R3ZEU2tzS0JpMF81SEtTWC1vY0F3N2VDV3VUTkhrNVZNU0R0b0pySGNYU0oyd0VqOXYzSkdldEZja2ZVMmQ4RzVBNlc0cWZJd2owRmZhc1JsZF9rdWpySkhuQ0hSb2pv?oc=5"
         }
       ],
-      "updatedAt": "2026-09-29T16:29:11+07:00"
+      "updatedAt": "2026-09-23T15:34:25+07:00"
     },
     {
       "id": "australia-vs-brazil-8ea4753f7a",
@@ -683,57 +681,19 @@
           "url": "https://www.bbc.com/sport/football/live/cr93e47wkzydt"
         },
         {
-          "title": "Australia 2-4 Brazil: men’s international football friendly – live",
-          "url": "https://www.theguardian.com/football/live/2026/sep/29/socceroos-australia-vs-brazil-football-live-scores"
+          "title": "Brazil beat Socceroos in fractious, entertaining clash",
+          "url": "https://www.abc.net.au/news/2026-09-29/socceroos-live-updates-australia-vs-brazil-brisbane/107204744"
         },
         {
-          "title": "St. Pauli midfielder scores wonder goal in Australia’s second friendly against star-studded Brazil",
-          "url": "https://sports.yahoo.com/articles/st-pauli-midfielder-scores-wonder-133100210.html"
+          "title": "Brazil’s brutal response to insane Socceroos burst as WC hero’s wonder strike stuns",
+          "url": "https://www.foxsports.com.au/football/socceroos/football-2026-australia-socceroos-vs-brazil-live-updates-and-score-international-friendly-teams-highlights-how-to-watch-and-stream/news-story/f82d53e7459d05655b932faf847fd4c7"
         }
       ],
       "updatedAt": "2026-09-29T17:40:00+07:00"
     },
     {
-      "id": "belgium-vs-france-558e797957",
-      "title": "belgium vs france",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 1000+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#belgiumvsfrance"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "Belgium 0-1 France: Michael Olise scores late to secure win for Zinedine Zidane's side",
-          "url": "https://www.bbc.com/sport/football/live/cmzxzevvrd6nt"
-        },
-        {
-          "title": "Nations League: Olise’s late stunner leads France past Belgium, Italy rout Turkey",
-          "url": "https://www.theguardian.com/football/2026/sep/28/nations-league-belgium-france-turkey-italy-northern-ireland-hungary"
-        },
-        {
-          "title": "From “missing” against Spain to dazzling and earning Zidane’s admiration",
-          "url": "https://www.mundodeportivo.com/en/20260929/1004232476/from-missing-against-spain-to-dazzling-and-earning-zidane-s-admiration.html"
-        }
-      ],
-      "updatedAt": "2026-09-29T01:20:00+07:00"
-    },
-    {
-      "id": "topic-fe4c953b5c",
-      "title": "ตุรกี พบ อิตาลี",
+      "id": "czechia-vs-england-da145453df",
+      "title": "czechia vs england",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
@@ -746,7 +706,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#ตุรกีพบอิตาลี"
+        "#czechiavsengland"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -755,19 +715,83 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "วิเคราะห์บอล ตุรกี vs อิตาลี 28 ก.ย. 69 อัซซูรี่เร่งคืนฟอร์ม",
-          "url": "https://www.siamsport.co.th/football-international/national-team/109972/"
+          "title": "Czech Republic vs England LIVE: Nations League score, lineups, commentary & updates",
+          "url": "https://www.bbc.com/sport/football/live/c5x2z793kwwjt"
         },
         {
-          "title": "มันชินี่พอใจคุมอัซซูรี่คว้าชัยเหนือตุรกี พุ่งเป้าลุยฝรั่งเศสนัดหน้า",
-          "url": "https://www.matichon.co.th/sport/footballinter/news_5910192"
+          "title": "England star ruled out of clash with Czech Republic as Rio Ngumoha called up",
+          "url": "https://www.independent.co.uk/sport/football/england-czech-republic-nations-league-ngumoha-o-reilly-b3058144.html"
         },
         {
-          "title": "ประวัติศาสตร์! สามพี่น้องเอสโปซิโต้ทำสถิติเทียบเท่าสถิติทีมชาติอิตาลี 111 ปี",
-          "url": "https://today.line.me/th/v3/article/EXwla1P"
+          "title": "Arsenal defender sits out England training but Mikel Arteta shouldn’t worry just yet",
+          "url": "https://www.fourfourtwo.com/person/player/arsenal-defender-sits-out-england-training-but-mikel-arteta-shouldnt-worry-just-yet"
         }
       ],
-      "updatedAt": "2026-09-29T02:10:00+07:00"
+      "updatedAt": "2026-09-30T01:20:00+07:00"
+    },
+    {
+      "id": "spain-vs-croatia-235e4e895c",
+      "title": "spain vs croatia",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 1000+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#spainvscroatia"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "Spain vs Croatia: UEFA Nations League stats & head-to-head",
+          "url": "https://www.bbc.com/sport/football/live/c83v4061dv9kt"
+        },
+        {
+          "title": "'It is only natural that there will be changes'",
+          "url": "https://www.besoccer.com/new/it-is-only-natural-that-there-will-be-changes-1432155"
+        },
+        {
+          "title": "Kovacic: \"Respetamos a España, pero no le tenemos miedo a nadie\"",
+          "url": "https://onefootball.com/en/video/kovacic-respetamos-a-espana-pero-no-le-tenemos-miedo-a-nadie-43534714"
+        }
+      ],
+      "updatedAt": "2026-09-30T01:20:00+07:00"
+    },
+    {
+      "id": "14-2026-0889c29f6d",
+      "title": "ทีมไหนอยู่อันดับไหน? สรุปครบทั้ง 14 ชาติ ศึกวอลเลย์บอลหญิง เอเชียนเกมส์ 2026",
+      "sourceType": "news",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "ข่าวจาก Google News keyword: วอลเลย์บอล / source: Sanook - ทีมไหนอยู่อันดับไหน? สรุปครบทั้ง 14 ชาติ ศึกวอลเลย์บอลหญิง เอเชียนเกมส์ 2026    Sanook",
+      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#ทีมไหนอยู่อันดับไหน?สรุป"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Sanook",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE44Z1AwOVlGN2ZscWRkdExYZWZWS0F6MWF4YmFtRlgzSFdoTkhlOUp4WE9aYlI3S0hFWHJFTDBTblNtd0FPZC1EbUFsSjVCZw?oc=5"
+        }
+      ],
+      "updatedAt": "2026-09-23T09:10:00+07:00"
     },
     {
       "id": "topic-533502b37a",
@@ -793,16 +817,16 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "ราคาน้ำมันเบนซินขึ้นอยู่กับปัจจัยใดบ้าง ?",
-          "url": "https://news.trueid.net/detail/XDbX48nG1287"
+          "title": "ราคาน้ำมันวันพรุ่งนี้ 30 ก.ย. อัปเดตราคาน้ำมันทุกชนิด จาก 4 ปั๊มใหญ่ที่นี่",
+          "url": "https://today.line.me/th/v3/article/8nMk2Jz?referral=crypto"
         },
         {
-          "title": "เจาะโครงสร้างราคาน้ำมันโลก เมื่อ 'ภาษี' คือตัวกำหนดความต่าง",
-          "url": "https://www.bangkokbiznews.com/corporate-moves/economics/1248285"
+          "title": "ราคาน้ำมันวันนี้ 29 ก.ย. 2569 เบนซิน-ดีเซล-แก๊สโซฮอล์ ลิตรละกี่บาท",
+          "url": "https://www.sanook.com/money/958115/"
         },
         {
-          "title": "เขียนเกี่ยวกับ น้ำมันเบนซิน",
-          "url": "https://intrend.trueid.net/jobs/39649"
+          "title": "ราคาน้ำมันพรุ่งนี้ 30 กันยายน 2569 อัปเดตล่าสุด \"เบนซิน-ดีเซล\" ลิตรละกี่บาท",
+          "url": "https://www.thairath.co.th/news/society/2962987"
         }
       ],
       "updatedAt": "2026-09-29T12:10:00+07:00"
@@ -814,7 +838,7 @@
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 20000+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 50000+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -835,12 +859,12 @@
           "url": "https://www.thairath.co.th/sport/thaifootball/changsuek/2958696"
         },
         {
-          "title": "ถ่ายทอดสดฟุตบอล 'ทีมชาติไทย พบ เวียดนาม’ ดูบอลสด ฟีฟ่า อาเซียน คัพ 2026",
-          "url": "https://www.bangkokbiznews.com/news/sport/1254116"
+          "title": "ฮัดสันยกช้างศึกหัวใจแกร่ง ช่วยกันปราบเวียดนาม ปลื้มพาทีมจ่อชิงฟีฟ่า อาเซียนคัพ",
+          "url": "https://www.matichon.co.th/sport/footballlocal/news_5912045"
         },
         {
-          "title": "เทียบสถิติก่อนเกม ทีมชาติไทย VS เวียดนาม ศึกฟุตบอล ฟีฟ่า อาเซียน คัพ 2026",
-          "url": "https://www.sanook.com/sport/1672587/"
+          "title": "ช้างศึก ซ้อมครั้งสุดท้าย ติวเข้มแท็กติก-ลูกตั้งเตะ ลุยชน เวียดนาม FIFA ASEAN CUP 2026",
+          "url": "https://www.ch7.com/en/news/187940/"
         }
       ],
       "updatedAt": "2026-09-29T19:10:00+07:00"
@@ -872,77 +896,13 @@
       "updatedAt": "2026-09-25T06:07:00+07:00"
     },
     {
-      "id": "2026-f68955cb9d",
-      "title": "ผลวอลเลย์บอลสด “อินโดนีเซีย” พบ “ไทย” วอลเลย์บอลชาย “เอเชียนเกมส์ 2026” รอบแบ่งกลุ่ม",
-      "sourceType": "news",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: วอลเลย์บอล / source: thairath.co.th - ผลวอลเลย์บอลสด “อินโดนีเซีย” พบ “ไทย” วอลเลย์บอลชาย “เอเชียนเกมส์ 2026” รอบแบ่งกลุ่ม    thairath.co.th",
-      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#ผลวอลเลย์บอลสด“อินโดนีเซ"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "thairath.co.th",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBuZ2JCRTZLRHNnUzdOaUZ0WThIYjkwUnlDQko4OVl2UHJHRmtIM0xGcWdFRGpPUHhkc2lzZkVQdTJCaEJzOGtGMEV0RmJlS25FUl8tNTUxTjFYa0gwb3Yw?oc=5"
-        }
-      ],
-      "updatedAt": "2026-09-27T16:36:00+07:00"
-    },
-    {
-      "id": "topic-a081fc4a1b",
-      "title": "ฝรั่งเศส",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 500+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#ฝรั่งเศส"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "นักเรียนฝรั่งเศสยกระดับประท้วงเดือด จี้ปรับปรุงระบบการศึกษา ถูกรวบแล้ว 164 คน",
-          "url": "https://www.dailynews.co.th/news/6231806/"
-        },
-        {
-          "title": "วัยรุ่นฝรั่งเศสปิดล้อมโรงเรียน สหภาพแรงงานลงถนนประท้วงรัฐบาลตัดงบ",
-          "url": "https://www.thaipost.net/abroad-news/1078899/"
-        },
-        {
-          "title": "การหยุดงานในวันอังคารนี้: สามสาย RER และสองสาย Transilien ได้รับผลกระทบ คาดการณ์การจราจร",
-          "url": "https://www.sortiraparis.com/th/khaw/ni-paris/articles/352813-kar-hyud-ngan-ni-wan-xangkhar-ni-sam-say-rer-laea-sxng-say-transilien-di-rab-phlk-ra-thb-khad-karn-kar-cracr"
-        }
-      ],
-      "updatedAt": "2026-09-29T02:10:00+07:00"
-    },
-    {
       "id": "28-69-726383985b",
       "title": "รายละเอียดโปรแกรมถ่ายทอดสด วอลเลย์บอลชาย ไทย พบ อิหร่าน 28 ก.ย. 69",
       "sourceType": "news",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: วอลเลย์บอล / source: readthecloud.co - รายละเอียดโปรแกรมถ่ายทอดสด วอลเลย์บอลชาย ไทย พบ อิหร่าน 28 ก.ย. 69    readthecloud.co",
+      "summary": "ข่าวจาก Google News keyword: วอลเลย์บอล / source: คลาวด์ปัง - รายละเอียดโปรแกรมถ่ายทอดสด วอลเลย์บอลชาย ไทย พบ อิหร่าน 28 ก.ย. 69    คลาวด์ปัง",
       "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -955,20 +915,20 @@
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
         {
-          "title": "readthecloud.co",
+          "title": "คลาวด์ปัง",
           "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNS2Z0Z3gtcnFIdHVEeDB5T0RTd3hZWmpuVzZkaVB6T1BtWmdBSVlWRFk1dWc1WTJUOHBSR0RtMl9iRXMzWHRDSm9fWlZjS0dxVV9DSDl5ZEZEX1B6eXV0N2tUT09nR1Y5UEpwSElGUGZ0U1ZkSExtenNfbzMzeXZjdWhqR0Roei13NDl4bjN2aHB6N2tLSE8tMU1ZTjBRemRIOENDaDZrT2pQa0pkUlBBOHc1NjlzYzFiRUhxdWZjMlVHSDJzOVlhbjRVQ0piOUxtSVRXMS1yWWVvWGRnalh1R1IyN2NnRS16QlM4bmR3R18xWWhzeDhZM1dweWNWUQ?oc=5"
         }
       ],
       "updatedAt": "2026-09-28T10:01:43+07:00"
     },
     {
-      "id": "5-2026-74bc571ea1",
-      "title": "ลุ้นระทึกยาว 5 เซต! วอลเลย์บอลชายไทย อัด อินโดนีเซีย ศึกเอเชียนเกมส์ 2026",
+      "id": "3-2-20-67194868be",
+      "title": "วอลเลย์บอลชายไทย เฉือน อินโดนีเซีย 3-2 เซต ศึกเอเชียนเกมส์ ครั้งที่ 20",
       "sourceType": "news",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: วอลเลย์บอล / source: Sanook.com - ลุ้นระทึกยาว 5 เซต! วอลเลย์บอลชายไทย อัด อินโดนีเซีย ศึกเอเชียนเกมส์ 2026    Sanook.com",
+      "summary": "ข่าวจาก Google News keyword: วอลเลย์บอล / source: Siamsport - วอลเลย์บอลชายไทย เฉือน อินโดนีเซีย 3-2 เซต ศึกเอเชียนเกมส์ ครั้งที่ 20    Siamsport",
       "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -976,25 +936,25 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#ลุ้นระทึกยาว5เซต!วอลเลย์"
+        "#วอลเลย์บอลชายไทยเฉือนอิน"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
         {
-          "title": "Sanook.com",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE82dlhUbmVvanFUSjFiWUd0UDE4cVBELXlISUdsWUV0X1NPNDd2NnBZMUowNlcxdDdya1l0V25PN3FMV3dPUXkxeHVIVE1uQQ?oc=5"
+          "title": "Siamsport",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBXVURPNTZNcUVuRmVzZkhGZjNSLWRXRzc0S0N1Y3BQSDRfaXdwZ05JZUd4N21LV09lRUlJT3ZmZXJDd2FQczhmdm5Fb0xiMXlDV2daWHBDb1E3alE?oc=5"
         }
       ],
-      "updatedAt": "2026-09-27T16:39:00+07:00"
+      "updatedAt": "2026-09-27T18:23:46+07:00"
     },
     {
-      "id": "topic-1ed5d0d5ee",
-      "title": "เบลเยียม พบ ฝรั่งเศส",
+      "id": "topic-ce7b8d1ee2",
+      "title": "สเปน พบ โครเอเชีย",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 10000+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 5000+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -1002,7 +962,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#เบลเยียมพบฝรั่งเศส"
+        "#สเปนพบโครเอเชีย"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -1011,19 +971,57 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "ซีดาน ปลื้ม! ฝรั่งเศส ครองเกมอยู่หมัดก่อนเชือด เบลเยียม เนชั่นส์ ลีก",
-          "url": "https://www.siamsport.co.th/football-international/national-team/110026/"
+          "title": "LIVE : ดูบอลสด สเปน พบ โครเอเชีย ยูฟ่า เนชั่นส์ ลีก 29 ก.ย. 69 พร้อมช่องดูบอลถ่ายทอดสด",
+          "url": "https://www.siamsport.co.th/football-international/national-team/110041/"
         },
         {
-          "title": "ซีดาน พาตราไก่เฮ 2 นัดติด!! ฝรั่งเศส บุกชนะ เบลเยี่ยม 1-0",
-          "url": "https://www.thairath.co.th/sport/video/undefined/1192831"
+          "title": "ดูบอลสด วิเคราะห์บอลเนชั่นส์ ลีก สเปน พบ โครเอเชีย 29 ก.ย.69",
+          "url": "https://www.pptvhd36.com/sport/news/284323"
         },
         {
-          "title": "\"โอลีเซ\" ซัดชัยพา \"ตราไก่\" บุกเชือดเบลเยียม",
-          "url": "https://www.dailynews.co.th/news/6230872/"
+          "title": "\"เต้ยเป๋าตุง\" ฟันธง (29 ก.ย.69) ชี้ 7 คู่เด่น ทีมลุ้นเข้าวิน เน้นๆ 3 บอลเต็ง",
+          "url": "https://siamrath.co.th/sports/324969"
         }
       ],
-      "updatedAt": "2026-09-29T00:50:00+07:00"
+      "updatedAt": "2026-09-30T00:50:00+07:00"
+    },
+    {
+      "id": "topic-cf7edfcae2",
+      "title": "เช็กเกีย พบ อังกฤษ",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 5000+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#เช็กเกียพบอังกฤษ"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "เพื่อความต่อเนื่อง! ทูเคิ่ล แย้มเปลี่ยนทีมไม่กี่ตำแหน่ง อังกฤษ ดวล เช็กเกีย",
+          "url": "https://www.siamsport.co.th/football-international/national-team/110023/"
+        },
+        {
+          "title": "ดูบอลสด วิเคราะห์บอลเนชั่นส์ ลีก เช็ก พบ อังกฤษ 29 ก.ย.69",
+          "url": "https://www.pptvhd36.com/sport/news/284309"
+        },
+        {
+          "title": "ทูเคิลยันไม่ฟังสโมสรขอให้โรเตชั่นนักเตะ จัดชุดใหญ่ลุยเช็กหลังแพ้สเปนนัดแรก",
+          "url": "https://www.matichon.co.th/sport/footballinter/footballinterengland/news_5909107"
+        }
+      ],
+      "updatedAt": "2026-09-30T00:50:00+07:00"
     },
     {
       "id": "2026-fc7f9dc04a",
@@ -1052,30 +1050,68 @@
       "updatedAt": "2026-09-23T11:38:00+07:00"
     },
     {
-      "id": "topic-c1202de3a4",
-      "title": "“ดราม่าเอเชียนเกมส์ญี่ปุ่น สะเทือนมาตรฐานเจ้าภาพ”",
+      "id": "topic-7160c86e70",
+      "title": "ไทย",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 500+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#ไทย"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "เซี่ย เจิ้นเย่ ชู \"บิว ภูริพล\" ดาวเด่นกรีฑาเอเชีย ลั่นต่อให้ \"โบลต์\" ก็วิ่งผลัดคนเดียวไม่ได้",
+          "url": "https://www.siamsport.co.th/asian-games/110044/"
+        },
+        {
+          "title": "ไทยยื่นประท้วงไม่สำเร็จ ไต้ฝุ่นหนุ่มวืดเหรียญเอเชียนเกมส์ “ต้า”? ซัดเกรียนอย่าทำเก่งกว่าโค้ช",
+          "url": "https://mgronline.com/sport/detail/9690000094849"
+        },
+        {
+          "title": "สาวไทยโชว์หัวใจสู้เกินร้อย คว้าเหรียญเงินมาครองได้สำเร็จ",
+          "url": "https://www.thaipbs.or.th/program/stories/h9elqoimf46n"
+        }
+      ],
+      "updatedAt": "2026-09-29T22:00:00+07:00"
+    },
+    {
+      "id": "gen-z-ai-039f0262c5",
+      "title": "ถือกาแฟเย็นไปสัมภาษณ์งานได้ไหม? ดราม่าที่ ‘ไม่ได้เกี่ยวกับกาแฟเลย’ แต่กำลังสะท้อนการชิงอำนาจระหว่างหัวหน้ากับ Gen Z ในที่ทำงานยุค AI",
       "sourceType": "news",
-      "category": "entertainment",
+      "category": "lifestyle",
       "contentPotential": "high",
       "riskLevel": "medium",
-      "summary": "ข่าวจาก Google News keyword: ดราม่า / source: สมาคมนักข่าวนักหนังสือพิมพ์แห่งประเทศไทย - “ดราม่าเอเชียนเกมส์ญี่ปุ่น สะเทือนมาตรฐานเจ้าภาพ”    สมาคมนักข่าวนักหนังสือพิมพ์แห่งประเทศไทย",
-      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
-      "creatorAngle": "เล่า reaction ส่วนตัวต่อกระแส แล้วเปิดคำถามให้คนคุยต่อ",
-      "promptIdea": "กระแสนี้ทุกคนอยู่ทีมไหน?",
+      "summary": "ข่าวจาก Google News keyword: ดราม่า / source: Techsauce - ถือกาแฟเย็นไปสัมภาษณ์งานได้ไหม? ดราม่าที่ ‘ไม่ได้เกี่ยวกับกาแฟเลย’ แต่กำลังสะท้อนการชิงอำนาจระหว่างหัวหน้ากับ Gen Z ในที่ทำงานยุค AI    Techsauce",
+      "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
+      "creatorAngle": "โยงกับชีวิตประจำวันของ Creator และถามประสบการณ์คนในคอมมูนิตี้",
+      "promptIdea": "ช่วงนี้มีใครเจอเรื่องแบบนี้เหมือนกันไหม?",
       "hashtags": [
-        "#EntertainmentTH",
-        "#คุยเรื่องบันเทิง",
-        "#กระแสวันนี้",
-        "#“ดราม่าเอเชียนเกมส์ญี่ปุ"
+        "#LifestyleTH",
+        "#ชีวิตประจำวัน",
+        "#แชร์ประสบการณ์",
+        "#ถือกาแฟเย็นไปสัมภาษณ์งาน"
       ],
       "riskNote": "Medium risk ควรเลี่ยงการพาดพิงบุคคลจริงและใช้คำถามเชิงสร้างสรรค์",
       "sources": [
         {
-          "title": "สมาคมนักข่าวนักหนังสือพิมพ์แห่งประเทศไทย",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5sNjBfT09LVHFwTy1qV1ZZb3loNkJ6MW1WdkxFZk5BbVp6X19JWC1wQWdESEJteTkxRlNLNi1GRmlyWG1pX1hBSUkwTDFiMFl4SVE?oc=5"
+          "title": "Techsauce",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYlF3SnU3TW9uQVIzUEQtVXpZa0lwOERWOUs3ZWR1Vms5NUo1anhQdjJFOXFYcjNkZmxjX0RXQTVGUkUwbTlkTkVhdnhyUUZsVEl5eGVWbVphNXNTUW9yTzJ1dGJyX09ITDJ0QzhsVlZVZmlrc0J4Q0JjX0FpWHVaY3laNjd4T21PNEdoOE93cUpISGJEeDJF?oc=5"
         }
       ],
-      "updatedAt": "2026-09-29T14:45:31+07:00"
+      "updatedAt": "2026-09-25T12:12:59+07:00"
     },
     {
       "id": "topic-20871e7b18",
@@ -1153,16 +1189,16 @@
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBVYjBBb3psX0pUYnZJVnlNWFZGVzRTLUJNM3ZLZmw1aFVadE9JM3FFUHU3U1h5bjlKejZRUVJkS0xUUWZxY0F4Yld3dG5FMDhMTjRmUEgzUXM1d2s?oc=5"
         },
         {
-          "title": "Sanook.com",
+          "title": "Sanook",
           "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5RZTU1TERUenVmVDB1S2JzOGVRd2gxZTJOa0NyUDRfZWJxeWVrbjFUSDhNck5wN29fVmNubl9jaGlYcUN1VTBFR1U5QVU?oc=5"
-        },
-        {
-          "title": "facebook.com",
-          "url": "https://news.google.com/rss/articles/CBMi3gZBVV95cUxQcloxRFM2aXVQU3lrZWdVZ0xDNDZqV0tYbnNRTUIwWEtPS2wwR2hRX2NDalVDQUZ1ZDZ5MlhBN25QbFo1enNBVENDbjhvMWY4UFVmSE1CRHFrOTEyUHVTOXdLSGx6UGxBYkxRYkVPcXhncnc2ZVdDbXozSlZEalE0ZDA1YmRoczlCdFFTc0luRFBwVjhabTZvMXd1S3pDUXp3MThkX0xVaGRVNnY4V0VkNzFJWGszdXhGZmNyM3l5TGNwZkhyTTRpRERIb0kyaUF3ZFN6SlE2a1BweXJFNVc1Z012c0FXUlFNQmUyRnpQYTdpT2c2NzNWT19Ndm9pb1lKbHFwTlZaVFhVTzhpbDRYV19zVjJBYzBHN1BSWjdPQ3Y0VWYwa2ZjcmI5Q1o1QXhWOHVVZkNNZTFyMl9NWnZYMndyS01kVlhsT2c5bGhDNlAzbFBBZ0JYNmRaaDYxb2IxWTU2dlQxV2F1Q3dvN2hCRnVKTThTMmRPLWJQS0RFZWVhaUJ2NnVkSG5Vd0p3MzUyQ1cwVW9oWmYtcVdTeEMzeEFJWU5pbi1BaGs5clVzV2ItMXAxd182bllvbGlhbEhQVUp4NDVEVEtkb1RiOWRUd2Nua0ZSb093RjlKLXBhN2k0bnNSZjlWblhjTFRtLTI5eUh2N0JfaXFBc0pQNGwxTElkTDFKMHFGeUlENkVKRWluR0Z1bVFLRnRCaDA5d1NTSXVQYzl1Y2dYeVhhekpfWVllaXZKbTZjNUxiVVpDQTlna3BPc3hOSjJpMDVrSEJYSllJbG5xemR6d1N5SGI0U2lQMnYxVHEzMUZ6VkJTSTdYbEdUUkJnczctRUY1bERTU3NrYlFUZTlGekxUQm1HZnQ4ZVVfcFhGMVlCWG1Oa2E3eV9tZTNVUF9BVk91OTV3ZXlXZmZ5dDJsX3M0WlM1VEY1SWhNZWt4WllpNVlObFBmN3NYc3BtekVJYXlwdVkzLWwwWG1LNUFRUV9IUjhkdzhyZWtGOFozUTJjUDZhelY1R2M5VFhpaGg5clhkSjhQYnEzSk5PMUh6emtOSHVESVVKeFpZTEpWZXB0UHJCTDBGeElXdXgxT1NNazZzekNrZEhVek12dHQtVHctc1J3TnZtaWpMZDhCMUtFWXN3?oc=5"
         },
         {
           "title": "thairath.co.th",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1qTHdIM2xVczViaFVDZEJYVmg5WDRHY2ptZGYwb3VTOWt6a3FIS1BSdXItTEh2WkdPUHNBV3RwQ0ZrOExXYTN3YWUtQWI0RWRWSVFPdW9hQXJIdnM?oc=5"
+        },
+        {
+          "title": "thestandard.co",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB2NVZrTXdUTlo3azNpNDViUjZ3S1F3TkE3blhIbFhlUk9RY1RpSkpOVjR5WEtJNFZ1T3MtS1BULVRqNUxHRkVNWlMzNHNrTFpYUElsbl9hTXVqaWphZ2xYaDBB?oc=5"
         },
         {
           "title": "ch7.com",
@@ -1172,13 +1208,13 @@
       "updatedAt": "2026-09-27T06:00:00+07:00"
     },
     {
-      "id": "topic-57d364f22c",
-      "title": "“เบนซ์ พรชิตา” เคลียร์ดราม่าโผล่คอมเมนต์ “หนิง“ หลังลงภาพคู่ “มิค“",
+      "id": "100-a0d42b8f4f",
+      "title": "“โบว์ เมลดา“ เคลียร์ชัดดราม่าทัวร์ลงหาว่าหิวเงิน ปมเรียกสินสอด 100 ล้านจาก “อาเล็ก”",
       "sourceType": "news",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "medium",
-      "summary": "ข่าวจาก Google News keyword: ดราม่า / source: Daradaily - “เบนซ์ พรชิตา” เคลียร์ดราม่าโผล่คอมเมนต์ “หนิง“ หลังลงภาพคู่ “มิค“    Daradaily",
+      "summary": "ข่าวจาก Google News keyword: ดราม่า / source: Daradaily - “โบว์ เมลดา“ เคลียร์ชัดดราม่าทัวร์ลงหาว่าหิวเงิน ปมเรียกสินสอด 100 ล้านจาก “อาเล็ก”    Daradaily",
       "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -1186,16 +1222,16 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#“เบนซ์พรชิตา”เคลียร์ดราม"
+        "#“โบว์เมลดา“เคลียร์ชัดดรา"
       ],
       "riskNote": "Medium risk ควรเลี่ยงการพาดพิงบุคคลจริงและใช้คำถามเชิงสร้างสรรค์",
       "sources": [
         {
           "title": "Daradaily",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB4bjZQV2NjWmx6aTExT2FxZFVTeDhDaXVWWmV2d0ViTWJ2OGdxWWtwNUFfVlFnVmp1NmdlYTZpOHlWMTVHNEhBb2Rlc3BJb0h3d2Y4ZnV3?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBDdlI0aFJ2NjhneGc5RVFKd0piTlB6cEhRLXhNanEwODdrUnd3Q0h4bFZMZmNObGMwZVZkTUtFVnBiWDR1SUlDNTQydGFoSHFYWWNyOA?oc=5"
         }
       ],
-      "updatedAt": "2026-09-26T17:09:38+07:00"
+      "updatedAt": "2026-09-29T09:00:42+07:00"
     },
     {
       "id": "bkk-drift-ae76edd71c",
