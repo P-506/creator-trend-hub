@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-01T21:24:01.736158+07:00",
-  "dateRange": "2026-09-24 to 2026-10-01",
+  "generatedAt": "2026-10-02T03:52:23.995828+07:00",
+  "dateRange": "2026-09-25 to 2026-10-02",
   "sourceErrors": [],
   "topics": [
     {
@@ -114,7 +114,7 @@
       "category": "entertainment",
       "contentPotential": "high",
       "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: ซีรีส์ / source: Sanook - Netflix เข้าใหม่ ซีรีส์-หนัง ประจำเดือนตุลาคม 2026    Sanook",
+      "summary": "ข่าวจาก Google News keyword: ซีรีส์ / source: Sanook.com - Netflix เข้าใหม่ ซีรีส์-หนัง ประจำเดือนตุลาคม 2026    Sanook.com",
       "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
       "creatorAngle": "เล่า reaction ส่วนตัวต่อกระแส แล้วเปิดคำถามให้คนคุยต่อ",
       "promptIdea": "กระแสนี้ทุกคนอยู่ทีมไหน?",
@@ -127,7 +127,7 @@
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
         {
-          "title": "Sanook",
+          "title": "Sanook.com",
           "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5WS3pkWXgxVHR3R0diYkRscXNScHBPUmhLUjhubXFCcXQyYi1mNDcxRmozWGNveGNXMVZyRVp1SkNZQzVsblJKZEc3ZzY?oc=5"
         }
       ],
@@ -212,13 +212,13 @@
       "updatedAt": "2026-09-26T11:05:04+07:00"
     },
     {
-      "id": "6-9-feb7f2c82e",
-      "title": "น้ำท่วมดันต้นทุนเกษตร–อาหาร เสียหาย 6.9 หมื่นล้าน\"ข้าว\"เสียหายหนักสุด",
+      "id": "6-9-952ac1a0e6",
+      "title": "น้ำท่วมดันต้นทุนเกษตร–อาหาร เสียหาย 6.9 หมื่นล้าน \"ข้าว\" เสียหายหนักสุด",
       "sourceType": "news",
       "category": "food",
       "contentPotential": "high",
       "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: อาหาร / source: Thai PBS - น้ำท่วมดันต้นทุนเกษตร–อาหาร เสียหาย 6.9 หมื่นล้าน\"ข้าว\"เสียหายหนักสุด    Thai PBS",
+      "summary": "ข่าวจาก Google News keyword: อาหาร / source: Thai PBS - น้ำท่วมดันต้นทุนเกษตร–อาหาร เสียหาย 6.9 หมื่นล้าน \"ข้าว\" เสียหายหนักสุด    Thai PBS",
       "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
       "creatorAngle": "ให้ Creator เล่าประสบการณ์ร้าน/เมนูที่อยากลอง แล้วถามคนอื่นว่าคิดเหมือนกันไหม",
       "promptIdea": "เห็นคนพูดถึงเมนูนี้เยอะมาก มีใครลองแล้วบ้าง?",
@@ -576,44 +576,6 @@
       "updatedAt": "2026-09-29T16:29:11+07:00"
     },
     {
-      "id": "argentina-vs-bolivia-181dbe9f80",
-      "title": "argentina vs bolivia",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 2000+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#argentinavsbolivia"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "Argentina vs Bolivia: Friendlies stats & head-to-head",
-          "url": "https://www.bbc.com/sport/football/live/cv1j46lpw8n8t"
-        },
-        {
-          "title": "Argentina have already tried to retire the No.10 shirt: Will they do it again for Lionel Messi?",
-          "url": "https://www.fourfourtwo.com/person/player/argentina-have-already-tried-to-retire-the-no-10-shirt-will-they-do-it-again-for-lionel-messi"
-        },
-        {
-          "title": "Lautaro equals Aguero, becomes Argentina's third-highest scorer in history",
-          "url": "https://www.gazetaexpress.com/en/Lautaro-equals-Aguero-to-become-Argentina%27s-third-highest-scorer/"
-        }
-      ],
-      "updatedAt": "2026-10-01T06:30:00+07:00"
-    },
-    {
       "id": "chat-gpt-4def203c98",
       "title": "chat gpt",
       "sourceType": "trends",
@@ -637,28 +599,28 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "Malicious Custom GPTs Turn ChatGPT Into RAT Delivery Lure",
-          "url": "https://www.darkreading.com/cyberattacks-data-breaches/malicious-custom-gpts-chatgpt-rat-delivery-lure"
+          "title": "ChatGPT maker wants to be the App Store for AI as safety concerns grow",
+          "url": "https://finance.yahoo.com/technology/ai/articles/chatgpt-maker-wants-app-store-013825295.html"
         },
         {
-          "title": "Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix Lures",
-          "url": "https://thehackernews.com/2026/09/attackers-abuse-chatgpt-custom-gpts-to.html"
+          "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT's own office suite",
+          "url": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/"
         },
         {
-          "title": "Hackers host fake ChatGPT model on its official website — but really it's just malware",
-          "url": "https://www.techradar.com/pro/security/hackers-host-fake-chatgpt-model-on-its-official-website-but-really-its-just-malware"
+          "title": "ChatGPT Space Is A Shared Hub For Work Projects And Personal AI Agents",
+          "url": "https://www.engadget.com/2272248/chatgpt-space-for-work/"
         }
       ],
       "updatedAt": "2026-10-01T09:10:00+07:00"
     },
     {
-      "id": "facebook-cbe6489090",
-      "title": "facebook",
+      "id": "denmark-vs-portugal-7152a7b8f7",
+      "title": "denmark vs portugal",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 50000+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 500+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -666,7 +628,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#facebook"
+        "#denmarkvsportugal"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -675,19 +637,19 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "Eight Years On, Cambridge Analytica Scandal Catches Up With Meta in Santa Fe",
-          "url": "https://www.techpolicy.press/eight-years-on-cambridge-analytica-scandal-catches-up-with-meta-in-santa-fe/"
+          "title": "Denmark vs Portugal: UEFA Nations League stats & head-to-head",
+          "url": "https://www.bbc.com/sport/football/live/cvrl6660y8w3t"
         },
         {
-          "title": "New Mexico jury finds Facebook liable for over 43 million violations of consumer protection law",
-          "url": "https://fortune.com/2026/09/26/facebook-liable-violations-new-mexico-consumer-protection-lawand-meta-200-billion-penalties/"
+          "title": "Licensable picture: Denmark v Portugal: Group Stage - UEFA Nations League",
+          "url": "https://www.reutersconnect.com/item/denmark-v-portugal-group-stage-uefa-nations-league/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMU5VUlBITzAwMDUzWFJMWg"
         },
         {
-          "title": "Meta misled users about Facebook data practices, New Mexico jury finds",
-          "url": "https://www.reuters.com/business/meta-misled-consumers-case-over-cambridge-analytica-scandal-new-mexico-jury-says-2026-09-25/"
+          "title": "Cancelo produces exquisite chip to break the deadlock",
+          "url": "https://www.besoccer.com/new/cancelo-produces-exquisite-chip-to-break-the-deadlock-1432591"
         }
       ],
-      "updatedAt": "2026-10-01T08:20:00+07:00"
+      "updatedAt": "2026-10-02T01:50:00+07:00"
     },
     {
       "id": "lottery-46b1499f5c",
@@ -713,23 +675,23 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "Wisconsin Lottery Mega Millions, Pick 3 results for Sept. 25, 2026",
-          "url": "https://www.jsonline.com/story/news/local/2026/09/25/wisconsin-lottery-results-friday-september-25-2026/91949410007/"
+          "title": "Hoosier Lottery News",
+          "url": "https://hoosierlottery.com/Hoosier-Lottery-News/News-Releases/$2-2-Million-Jackpot-Winning-Hoosier-Lotto-Ticket"
         },
         {
-          "title": "California Lottery Powerball, Daily 3 Midday winning numbers for Sept. 30, 2026",
-          "url": "https://www.desertsun.com/story/news/local/2026/09/30/california-lottery-results-wednesday-september-30-2026/92034255007/"
+          "title": "Indianapolis couple plans to pay off mortgage, car with Hoosier Lottery windfall",
+          "url": "https://www.wthr.com/article/news/lottery/indianapolis-couple-plans-to-pay-off-mortgage-car-with-hoosier-lottery-winnings-game-prize-jackpot/531-81af9dce-22ca-41f8-b464-84d2ee5fdb50"
         },
         {
-          "title": "Mass Lottery Powerball, Numbers Midday winning numbers for Sept. 28, 2026",
-          "url": "https://www.yahoo.com/news/articles/mass-lottery-powerball-numbers-midday-033033711.html"
+          "title": "Indianapolis woman wins nearly $200,000 while playing Hoosier Lottery Fast Play game",
+          "url": "https://fox59.com/news/indianapolis-woman-wins-nearly-200000-while-playing-hoosier-lottery-fast-play-game/"
         }
       ],
       "updatedAt": "2026-10-01T15:50:00+07:00"
     },
     {
-      "id": "outlook-0d5591d63e",
-      "title": "outlook",
+      "id": "topic-71f414a381",
+      "title": "กรีซ พบ เนเธอร์แลนด์",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
@@ -742,7 +704,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#outlook"
+        "#กรีซพบเนเธอร์แลนด์"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -751,23 +713,23 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "Accenture stock surges as record bookings dispel AI fears",
-          "url": "https://finance.yahoo.com/markets/article/accenture-stock-surges-as-record-bookings-dispel-ai-fears-133857510.html"
+          "title": "วิเคราะห์บอล กรีซ vs เนเธอร์แลนด์ 1 ต.ค. 69 อัศวินสีส้มวัดจ่าฝูง",
+          "url": "https://www.siamsport.co.th/football-international/national-team/110115/"
         },
         {
-          "title": "Accenture shares surge 22% as consultancy confounds AI fears",
-          "url": "https://www.ft.com/content/e1074ce0-cd16-4a91-9934-50df917b3b20?syn-25a6b1a6=1"
+          "title": "การทำนายผลฟุตบอลระหว่างกรีซกับเนเธอร์แลนด์: ฟาน ไดจ์ค จะเจอกับความท้าทายในเมืองเทสซาโลนิกิ",
+          "url": "https://www.vietnam.vn/th/nhan-dinh-bong-da-hy-lap-vs-ha-lan-van-dijk-gap-thu-thach-tai-thessaloniki"
         },
         {
-          "title": "Accenture Revenue Rises on Growth Across Geographies, Industries",
-          "url": "https://www.wsj.com/business/earnings/accenture-revenue-rises-on-growth-across-geographies-industries-d29ad725"
+          "title": "ดูบอลสด วิเคราะห์บอลเนชั่นส์ ลีก กรีซ พบ เนเธอร์แลนด์ 1 ต.ค.69",
+          "url": "https://www.pptvhd36.com/sport/news/284463"
         }
       ],
-      "updatedAt": "2026-10-01T08:50:00+07:00"
+      "updatedAt": "2026-10-02T01:40:00+07:00"
     },
     {
-      "id": "topic-f7fe2d818d",
-      "title": "ตรวจหวย",
+      "id": "1-2569-d11a5ea011",
+      "title": "ตรวจหวย1ตุลาคม2569",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
@@ -780,7 +742,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#ตรวจหวย"
+        "#ตรวจหวย1ตุลาคม2569"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -801,7 +763,7 @@
           "url": "https://mgronline.com/stockmarket/detail/9690000095877"
         }
       ],
-      "updatedAt": "2026-10-01T15:00:00+07:00"
+      "updatedAt": "2026-10-01T15:20:00+07:00"
     },
     {
       "id": "topic-d4389bf144",
@@ -879,57 +841,19 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "“ฉัตรชัย” เผยพระราชพิธีพระบรมศพ “พระพันปีหลวง” ธ.ค. 69 “พระองค์ภา” ก.พ. 70",
-          "url": "https://www.thairath.co.th/news/politic/2963354"
-        },
-        {
           "title": "'ฉัตรชัย' สักการะสิ่งศักดิ์สิทธิ์ รับงาน ปลัดสปน. วันแรก ภูมิใจ ได้โอกาสทำงาน พระราชพิธี",
           "url": "https://www.khaosod.co.th/politics/news_10420763"
         },
         {
           "title": "ฉัตรชัย สวมหมวกปลัดสปน. พร้อมสานต่องานให้บรรลุเป้า มั่นใจประสบการณ์อยู่สมช.มา 35 ปี",
           "url": "https://www.matichon.co.th/politics/news_5913337"
+        },
+        {
+          "title": "ปลัดสำนักนายกฯคนใหม่ สานต่อเตรียมงานพระราชพิธีพระบรมศพสมพระเกียรติ-ดูแลเยียวยาประชาชนประสบอุทกภัย",
+          "url": "https://www.js100.com/en/site/news/view/164846"
         }
       ],
       "updatedAt": "2026-10-01T17:20:00+07:00"
-    },
-    {
-      "id": "topic-d89ae92dff",
-      "title": "ยืนยันตัวตนบัตรสวัสดิการแห่งรัฐ",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 2000+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#ยืนยันตัวตนบัตรสวัสดิการ"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "เริ่มวันนี้! ใช้บัตรสวัสดิการแห่งรัฐ คลังเผย ยืนยันสิทธิได้ถึง 12 ม.ค.70",
-          "url": "https://www.thaipbs.or.th/news/content/558963"
-        },
-        {
-          "title": "\"มดดำ\" สงสัย \"บัตรคนจน\" คนจนจริง แต่ถูกตัดสิทธิ์ | 1 ต.ค. 69 | ข่าวใส่ไข่",
-          "url": "https://www.thairath.co.th/tv/program/news-with-egg/1193251"
-        },
-        {
-          "title": "เงิน 1,000 บาท เข้าบัตรสวัสดิการแห่งรัฐ 2569 แล้ว 1 ต.ค. 69",
-          "url": "https://www.sanook.com/money/958415/"
-        }
-      ],
-      "updatedAt": "2026-10-01T06:40:00+07:00"
     },
     {
       "id": "28-69-726383985b",
@@ -964,7 +888,7 @@
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: วอลเลย์บอล / source: Sanook - ลุ้นระทึกยาว 5 เซต! วอลเลย์บอลชายไทย อัด อินโดนีเซีย ศึกเอเชียนเกมส์ 2026    Sanook",
+      "summary": "ข่าวจาก Google News keyword: วอลเลย์บอล / source: Sanook.com - ลุ้นระทึกยาว 5 เซต! วอลเลย์บอลชายไทย อัด อินโดนีเซีย ศึกเอเชียนเกมส์ 2026    Sanook.com",
       "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -977,7 +901,7 @@
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
         {
-          "title": "Sanook",
+          "title": "Sanook.com",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE82dlhUbmVvanFUSjFiWUd0UDE4cVBELXlISUdsWUV0X1NPNDd2NnBZMUowNlcxdDdya1l0V25PN3FMV3dPUXkxeHVIVE1uQQ?oc=5"
         }
       ],
@@ -1011,15 +935,41 @@
           "url": "https://www.thaipbs.or.th/news/content/558980"
         },
         {
-          "title": "พายุฝนถล่มกรุง ลูกเห็บตกหลายพื้นที่ ชาวบ้านบอกเพิ่งเคยเห็นครั้งแรก",
-          "url": "https://mgronline.com/crime/detail/9690000095901"
-        },
-        {
           "title": "ตลิ่งชันฝนหนักสุด 91 มม. น้ำท่วมซ้ำ กทม กับ เจาะ จุด แจม : 1 ตุลาคม 2569 | สวพ.FM91",
           "url": "https://today.line.me/th/v3/article/WBpNgJQ"
+        },
+        {
+          "title": "พายุฝนถล่มกรุง ลูกเห็บตกหลายพื้นที่ ชาวบ้านบอกเพิ่งเคยเห็นครั้งแรก",
+          "url": "https://mgronline.com/crime/detail/9690000095901"
         }
       ],
       "updatedAt": "2026-10-01T16:20:00+07:00"
+    },
+    {
+      "id": "0-3-8-2026-3aba69a402",
+      "title": "วอลเลย์บอลชายไทย พ่าย จีน 0-3 เซต รอบ 8 ทีมสุดท้าย เอเชียนเกมส์ 2026",
+      "sourceType": "news",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "ข่าวจาก Google News keyword: วอลเลย์บอล / source: Thai PBS - วอลเลย์บอลชายไทย พ่าย จีน 0-3 เซต รอบ 8 ทีมสุดท้าย เอเชียนเกมส์ 2026    Thai PBS",
+      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#วอลเลย์บอลชายไทยพ่ายจีน0"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Thai PBS",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1yNHZ6dlhUd3JwRXN1YjY1clpnUXpWWEZpWjdqb25zcnRiWmZDeHR3TVM1dm1zLUtZVEFnSjB5bXl4LXBHQ1JjLW93dTBaMDQ4ZUpYV20yeVQ?oc=5"
+        }
+      ],
+      "updatedAt": "2026-10-01T16:46:51+07:00"
     },
     {
       "id": "topic-d98bc69ddd",
@@ -1049,41 +999,91 @@
           "url": "https://www.sanook.com/news/9908039/"
         },
         {
-          "title": "ตรวจหวยลาววันนี้ พฤหัสบดี 1 ต.ค. 2569 เช็กผลหวยลาวงวดล่าสุด หวยลาวพัฒนา 5/45",
-          "url": "https://www.pptvhd36.com/news/%E0%B8%A5%E0%B8%AD%E0%B8%95%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B8%B5%E0%B9%88/284487"
+          "title": "ตรวจหวยลาววันนี้ พุธ 30 ก.ย. 2569 เช็กผลหวยลาวงวดล่าสุด หวยลาวพัฒนา 5/45",
+          "url": "https://www.pptvhd36.com/news/%E0%B8%A5%E0%B8%AD%E0%B8%95%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B8%B5%E0%B9%88/284416"
         },
         {
-          "title": "เจาะลึกกระแสความฮิตและประสบการณ์ลุ้นผล \"หวยลาวออกอะไร\"",
-          "url": "https://news.trueid.net/detail/m3kaVE5qdL5B"
+          "title": "หวยลาววันนี้ 28 กันยายน 2569 ผลหวยพัฒนา ชมการถ่ายทอดสด",
+          "url": "https://readthecloud.co/%E0%B8%AB%E0%B8%A7%E0%B8%A2%E0%B8%A5%E0%B8%B2%E0%B8%A7%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%99%E0%B8%B5%E0%B9%89-28-%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B8%99-2569/"
         }
       ],
       "updatedAt": "2026-10-01T15:40:00+07:00"
     },
     {
-      "id": "2026-1-69-bb4ebc5b3d",
-      "title": "โปรแกรมแข่งขันเอเชียนเกมส์ 2026 วันที่ 1 ต.ค.69 วอลเลย์บอลชายไทย พบ จีน",
-      "sourceType": "news",
+      "id": "topic-5bb00f698c",
+      "title": "เวลส์ พบ นอร์เวย์",
+      "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: วอลเลย์บอล / source: Thai PBS - โปรแกรมแข่งขันเอเชียนเกมส์ 2026 วันที่ 1 ต.ค.69 วอลเลย์บอลชายไทย พบ จีน    Thai PBS",
-      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 2000+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
       "hashtags": [
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#โปรแกรมแข่งขันเอเชียนเกม"
+        "#เวลส์พบนอร์เวย์"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
         {
-          "title": "Thai PBS",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9tcmgwcTBvVlpzb0VBRHhHN1dXczVTcV9DbDVtSkhWX21BbC1ZU0I4bUZrWlVPcVh1UE9tamwzYmU1YnNZVzBXLU54UkdVRElMTXdzb2RvSXk?oc=5"
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "วิเคราะห์บอล เวลส์ vs นอร์เวย์ 1 ต.ค. 69 มังกรแดงลุ้นคืนฟอร์มรับศึกฮาลันด์",
+          "url": "https://www.siamsport.co.th/football-international/national-team/110113/"
+        },
+        {
+          "title": "การทำนายผลฟุตบอลระหว่างเวลส์กับนอร์เวย์: ฮาแลนด์จะทดสอบแนวรับของคาร์ดิฟฟ์",
+          "url": "https://www.vietnam.vn/th/nhan-dinh-bong-da-xu-wales-vs-na-uy-haaland-thu-lua-hang-thu-cardiff"
+        },
+        {
+          "title": "วิเคราะห์บอล เดนมาร์ก vs โปรตุเกส 1 ต.ค. 69 ฝอยทองล่าชัย 3 นัดรวด",
+          "url": "https://www.siamsport.co.th/football-international/national-team/110114/"
         }
       ],
-      "updatedAt": "2026-10-01T07:18:30+07:00"
+      "updatedAt": "2026-10-02T01:10:00+07:00"
+    },
+    {
+      "id": "topic-cbc9166e1e",
+      "title": "โปรตุเกสบอล",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 1000+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#โปรตุเกสบอล"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "โรนัลโด้ถอนทีมชาติเพราะอะไร? เปิดปมเชซุสขอโทษแต่ไม่ทำตามสัญญา",
+          "url": "https://www.siamsport.co.th/football-international/national-team/110147/"
+        },
+        {
+          "title": "พี่สาว โรนัลโด้ ของขึ้น โพสต์ถึงน้องชาย หลังเจอดราม่าหนักกับ ทีมชาติโปรตุเกส",
+          "url": "https://www.thairath.co.th/sport/eurofootball/2963402"
+        },
+        {
+          "title": "\"โรนัลโด\" ประกาศถอนทัพฝอยทองหลังประชุมเคลียร์ใจ \"เชซุส\"",
+          "url": "https://www.dailynews.co.th/news/6237634/"
+        }
+      ],
+      "updatedAt": "2026-10-02T02:20:00+07:00"
     },
     {
       "id": "20-d0d1f2e011",
@@ -1118,7 +1118,7 @@
       "category": "lifestyle",
       "contentPotential": "high",
       "riskLevel": "medium",
-      "summary": "ข่าวจาก Google News keyword: ดราม่า / source: Techsauce - ถือกาแฟเย็นไปสัมภาษณ์งานได้ไหม? ดราม่าที่ ‘ไม่ได้เกี่ยวกับกาแฟเลย’ แต่กำลังสะท้อนการชิงอำนาจระหว่างหัวหน้ากับ Gen Z ในที่ทำงานยุค AI    Techsauce",
+      "summary": "ข่าวจาก Google News keyword: ดราม่า / source: techsauce.co - ถือกาแฟเย็นไปสัมภาษณ์งานได้ไหม? ดราม่าที่ ‘ไม่ได้เกี่ยวกับกาแฟเลย’ แต่กำลังสะท้อนการชิงอำนาจระหว่างหัวหน้ากับ Gen Z ในที่ทำงานยุค AI    techsauce.co",
       "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
       "creatorAngle": "โยงกับชีวิตประจำวันของ Creator และถามประสบการณ์คนในคอมมูนิตี้",
       "promptIdea": "ช่วงนี้มีใครเจอเรื่องแบบนี้เหมือนกันไหม?",
@@ -1131,7 +1131,7 @@
       "riskNote": "Medium risk ควรเลี่ยงการพาดพิงบุคคลจริงและใช้คำถามเชิงสร้างสรรค์",
       "sources": [
         {
-          "title": "Techsauce",
+          "title": "techsauce.co",
           "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYlF3SnU3TW9uQVIzUEQtVXpZa0lwOERWOUs3ZWR1Vms5NUo1anhQdjJFOXFYcjNkZmxjX0RXQTVGUkUwbTlkTkVhdnhyUUZsVEl5eGVWbVphNXNTUW9yTzJ1dGJyX09ITDJ0QzhsVlZVZmlrc0J4Q0JjX0FpWHVaY3laNjd4T21PNEdoOE93cUpISGJEeDJF?oc=5"
         }
       ],
@@ -1235,16 +1235,16 @@
       "riskNote": "Medium risk ควรอ้างอิงแหล่งทางการและเตือนให้ระวังลิงก์ปลอมหรือข้อมูลผิด",
       "sources": [
         {
+          "title": "facebook.com",
+          "url": "https://news.google.com/rss/articles/CBMipgdBVV95cUxQOXFGS2tPQjFnb1ZkSnVnVElzWlVLNllrT2dGTUdMSjFhSzdWdHJmUGZUbFVmckNfSlhPWlc2dXdyZzJ2aHV3S1lhNUNYcVJqbHVnZGRSTzdleko0Y2RrTWlhMXVFSG9iYzRYeG1WSEdzUGhBX2FfNzdNTncxcXpPQjNYYlFzM2hwZXhlOHdzTm5aYng0bWctT0J1SUZSZUZmbnpwejA4OWYtM3JqTm50UGRocWN6bWR1OUVSTWwzTHhRWkN5cEhCSVBqY1Nfck0wOFJIVkxQQUU1bEFQd2dyb3FVbFFWRkltRFdYQk1rVWw3RlBYY0R2X0JYdGY1ODRmRTRQMmpXTDZwNUlOYlBITGQyS3liQlNpSHZCQ3RldGNUUmpYNHkzek5IdTlpMklGRzVLdHgyQ2NPWVAzSDhjNkg3WWNYV1laaVk4UGdtc3dLdzZ0NEZsTE9oRG1EaVU2a2JNOVFzM0NsYjBVUHl4YXBPZ002cGtPckVNZ202SFF4TjJjY0x0R3RDOWxVSzhSZE0tRDl4YnFSajVkaFR2eGhER3M3THM1U3JuXzh6WElGaUI1QVBIYnRSanlBaHJBX1FRVnFidkljd051cF9qbmZVdGNQdDBpbmRLWHk4OThpUlJHUlE0TDhPMjN5RHR3QlFCc1JpUkNGajlnUFRpdEFRZDJLMUtiMzlXVjlJUjZ5ak5MZnI2N04wckRkOC1CdEVEcXUwU1VTcExOc054MG53MUVQd2hHM3JRQ2pCNi1LX2FWWDFTNm5IdXZHOTlFLWN2d1VvcGdxWklIQUhyYVNjdzc0alMzRkl2UUNlWVE3cGRLOXNJYlotY1hvRTV0aG9XVUo5SHp1c1FrQUhodmJvLTdmc3JqMFBwcVBFNW41bUt0WXNRb2E5eU9IUXJRUndnNF9VLXVmbVJqcWNkNGpXbVpOVTNESVJhOWRtY3pmQTdMNlhOY3JZb1ZIdGlZOU10eHd5N3dMelN4UTNHV3hNNUxoQ0tOU0kyd014LWdYZXVNOHJ2dG1sdlN4bFY1MUl1MVRaQ2I0a1llS3p4RkRxRTcxQTRxdEl4MVJQNlEwbmJLNWY5UmNta3BwTWFoSnQtU0FQSmtwc3NseVNQMmtkSldpTnJ4cnRNMDV3dTlRNTUya2NGSVc4UnFaUVdQQTlTNTlBRFVudUFGblRENDBGVDJ4MFBVQUhORzJ0YW9SUndxaV9pM0JIT1k4WEVHdmpPUzhB?oc=5"
+        },
+        {
           "title": "thairath.co.th",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1NYzkwM0ZTeHBweFZ4eEp3MXVoU2oyWFNzdnozUG5mT1RIV21WX1ZSWlJOZkZtNlZMMGdsZS1CSzhsa1FrdF9YOUVTM19IUXJUSlVjOE9SUzNLTmc?oc=5"
         },
         {
-          "title": "Sanook",
+          "title": "Sanook.com",
           "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9wT2FsaWNxLWVMSEdvME92RENTbzlCeXprZWlXUDJWekg5TmtwUTNUTG1qU1BhUGRuWUtRaGdnbFJJcXV2TzFMUVFRQVk?oc=5"
-        },
-        {
-          "title": "kapook.com",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE94RlZfZ0ZWMER4R3BLU2F4TlFtWEdpbm5iclRPMlZJT09IY3hwTE5pRHd1Qmpodzc3dW0xM01rMXlxMGx2SHk2UTJBdWk0Tk1SbEE?oc=5"
         },
         {
           "title": "ข่าวสด",
@@ -1255,7 +1255,7 @@
           "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ZQUJzaXBwLUdNR0pOaVRrak1kRll2X3NxdUYwOVEyVktrZWJOTTAyVllTSVQweUxIamdYX0tVNFM1dTlzenlfWHNKWXpidDVOSzdmMnUzOHFoX2E0?oc=5"
         }
       ],
-      "updatedAt": "2026-09-30T13:00:00+07:00"
+      "updatedAt": "2026-10-01T09:48:10+07:00"
     },
     {
       "id": "100-a0d42b8f4f",
