@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T03:52:23.995828+07:00",
+  "generatedAt": "2026-10-02T13:48:06.576960+07:00",
   "dateRange": "2026-09-25 to 2026-10-02",
   "sourceErrors": [],
   "topics": [
@@ -82,32 +82,6 @@
       "updatedAt": "2026-09-30T11:51:55+07:00"
     },
     {
-      "id": "lotus-s-go-fresh-d60c8679a6",
-      "title": "Lotus’s Go Fresh เติมสต๊อกต่อเนื่อง ให้ชุมชนเข้าถึงอาหารสดและของจำเป็นใกล้บ้าน",
-      "sourceType": "news",
-      "category": "food",
-      "contentPotential": "high",
-      "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: อาหาร / source: ThaiPublica - Lotus’s Go Fresh เติมสต๊อกต่อเนื่อง ให้ชุมชนเข้าถึงอาหารสดและของจำเป็นใกล้บ้าน    ThaiPublica",
-      "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
-      "creatorAngle": "ให้ Creator เล่าประสบการณ์ร้าน/เมนูที่อยากลอง แล้วถามคนอื่นว่าคิดเหมือนกันไหม",
-      "promptIdea": "เห็นคนพูดถึงเมนูนี้เยอะมาก มีใครลองแล้วบ้าง?",
-      "hashtags": [
-        "#FoodTrend",
-        "#CafeTH",
-        "#รีวิวของกิน",
-        "#Lotus’sGoFreshเติมสต๊อกต"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "ThaiPublica",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9uZHo1d0NYaXpDTGtoendWaGx0ZW4zMXRsOFpVX1hNZFVmM2JjenBVdDFqbUVKMjNuamppaUg0dmVJZWt0RGlsaDhjaUQ3Nnk0VHFWdl82dmF2ekJQQ0RjVFNodGRlRV9UUjkzbk9vRlFoczh4emdmYw?oc=5"
-        }
-      ],
-      "updatedAt": "2026-09-30T09:15:28+07:00"
-    },
-    {
       "id": "netflix-2026-f9ef8aa0f1",
       "title": "Netflix เข้าใหม่ ซีรีส์-หนัง ประจำเดือนตุลาคม 2026",
       "sourceType": "news",
@@ -166,7 +140,7 @@
       "category": "food",
       "contentPotential": "high",
       "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: คาเฟ่ / source: มติชนออนไลน์ - VJN Café คาเฟ่น้องใหม่ย่านงามวงศ์วาน ชูเมนูจากวัตถุดิบคุณภาพ พร้อมผลิตภัณฑ์ที่ได้รับรางวัลระดับนานาชาติ    มติชนออนไลน์",
+      "summary": "ข่าวจาก Google News keyword: คาเฟ่ / source: Matichon Online - VJN Café คาเฟ่น้องใหม่ย่านงามวงศ์วาน ชูเมนูจากวัตถุดิบคุณภาพ พร้อมผลิตภัณฑ์ที่ได้รับรางวัลระดับนานาชาติ    Matichon Online",
       "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
       "creatorAngle": "ให้ Creator เล่าประสบการณ์ร้าน/เมนูที่อยากลอง แล้วถามคนอื่นว่าคิดเหมือนกันไหม",
       "promptIdea": "เห็นคนพูดถึงเมนูนี้เยอะมาก มีใครลองแล้วบ้าง?",
@@ -179,11 +153,89 @@
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
         {
-          "title": "มติชนออนไลน์",
+          "title": "Matichon Online",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAtY3JZNkprNENUUVhxSmtMOHlCXzBzWjhHUkpnemplbnFIcVU4aUZmUHB3a0FfUGNZc1U0NkFKQS0xSHJMUmVPRTBDaV9QdzRqSU85V2dtQzA0c3lFLUE?oc=5"
         }
       ],
       "updatedAt": "2026-10-01T15:06:19+07:00"
+    },
+    {
+      "id": "topic-1e95651493",
+      "title": "กลุ่ม ปตท. ส่งต่อความห่วงใย เร่งส่งมอบอาหารและน้ำดื่ม เติมพลังใจให้ผู้ประสบอุทกภัยพื้นที่กรุงเทพและปริมณฑล",
+      "sourceType": "news",
+      "category": "food",
+      "contentPotential": "high",
+      "riskLevel": "low",
+      "summary": "ข่าวจาก Google News keyword: อาหาร / source: ThaiPublica - กลุ่ม ปตท. ส่งต่อความห่วงใย เร่งส่งมอบอาหารและน้ำดื่ม เติมพลังใจให้ผู้ประสบอุทกภัยพื้นที่กรุงเทพและปริมณฑล    ThaiPublica",
+      "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
+      "creatorAngle": "ให้ Creator เล่าประสบการณ์ร้าน/เมนูที่อยากลอง แล้วถามคนอื่นว่าคิดเหมือนกันไหม",
+      "promptIdea": "เห็นคนพูดถึงเมนูนี้เยอะมาก มีใครลองแล้วบ้าง?",
+      "hashtags": [
+        "#FoodTrend",
+        "#CafeTH",
+        "#รีวิวของกิน",
+        "#กลุ่มปตท.ส่งต่อความห่วงใ"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "ThaiPublica",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5uUjNxQnQ2U2NrNDFSLWJ2bWYyZGN4eE95ckFnNlJhRGptTjdCNUxtb3ZrYnVQTjhLNkR4Sk01S0NPWXlSMFEyZHlmb0VpMkpwcjViTjNOdVFXdVZj?oc=5"
+        }
+      ],
+      "updatedAt": "2026-09-29T12:43:49+07:00"
+    },
+    {
+      "id": "12-17-2026-freedom-244ed365a1",
+      "title": "จัดเต็ม 12 โชว์ 17 แบรนด์ดัง แอล แฟชั่น วีก 2026 ชู ‘Freedom’ ขับเคลื่อนแฟชั่นไทยสู่สากล",
+      "sourceType": "news",
+      "category": "beauty",
+      "contentPotential": "high",
+      "riskLevel": "low",
+      "summary": "ข่าวจาก Google News keyword: แฟชั่น / source: Matichon Online - จัดเต็ม 12 โชว์ 17 แบรนด์ดัง แอล แฟชั่น วีก 2026 ชู ‘Freedom’ ขับเคลื่อนแฟชั่นไทยสู่สากล    Matichon Online",
+      "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
+      "creatorAngle": "ชวนแชร์สไตล์ ไอเท็ม หรือเทคนิคที่ใช้จริงโดยไม่ขายของแข็งเกินไป",
+      "promptIdea": "สไตล์นี้ถ้าแต่งในชีวิตจริงจะรอดไหม?",
+      "hashtags": [
+        "#BeautyTalk",
+        "#FashionTH",
+        "#ไอเดียแต่งตัว",
+        "#จัดเต็ม12โชว์17แบรนด์ดัง"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Matichon Online",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1IRjUySURpTkV4ZnpMaFJCNlY5OFo0TklsOUlCaUZYbWtZMnVIYWpOdVZZSkxHLXVlODhGalNHZ1h1SzVVNFVMcF9UbFMxTUhZa2lJVlFMZjZ2QVFnc2I3UWR4ZUdVY3hV?oc=5"
+        }
+      ],
+      "updatedAt": "2026-09-27T14:34:21+07:00"
+    },
+    {
+      "id": "my-heartbeat-11-4a36d2f6bb",
+      "title": "ตัวอย่าง | ซีรีส์ เรื่อง My Heartbeat สเต็ปรักละลายเธอ ตอนที่ 11",
+      "sourceType": "news",
+      "category": "entertainment",
+      "contentPotential": "high",
+      "riskLevel": "low",
+      "summary": "ข่าวจาก Google News keyword: ซีรีส์ / source: Thai PBS - ตัวอย่าง | ซีรีส์ เรื่อง My Heartbeat สเต็ปรักละลายเธอ ตอนที่ 11    Thai PBS",
+      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
+      "creatorAngle": "เล่า reaction ส่วนตัวต่อกระแส แล้วเปิดคำถามให้คนคุยต่อ",
+      "promptIdea": "กระแสนี้ทุกคนอยู่ทีมไหน?",
+      "hashtags": [
+        "#EntertainmentTH",
+        "#คุยเรื่องบันเทิง",
+        "#กระแสวันนี้",
+        "#ตัวอย่าง|ซีรีส์เรื่องMyH"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Thai PBS",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4tdHhSbUdTSUpKV2NMV2hMaUlBc19ubnJ0V2Q4STMySk1ZTzM1bzd4SXVnTzBrOUgwYlhLdFNfNlk0QllFZks2bnNLeW0tQzE3UzJPeTNMRzdfYUFpZGlmZ1JtRlZtdmlyemc?oc=5"
+        }
+      ],
+      "updatedAt": "2026-09-26T14:00:00+07:00"
     },
     {
       "id": "6-32837a02b6",
@@ -210,32 +262,6 @@
         }
       ],
       "updatedAt": "2026-09-26T11:05:04+07:00"
-    },
-    {
-      "id": "6-9-952ac1a0e6",
-      "title": "น้ำท่วมดันต้นทุนเกษตร–อาหาร เสียหาย 6.9 หมื่นล้าน \"ข้าว\" เสียหายหนักสุด",
-      "sourceType": "news",
-      "category": "food",
-      "contentPotential": "high",
-      "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: อาหาร / source: Thai PBS - น้ำท่วมดันต้นทุนเกษตร–อาหาร เสียหาย 6.9 หมื่นล้าน \"ข้าว\" เสียหายหนักสุด    Thai PBS",
-      "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
-      "creatorAngle": "ให้ Creator เล่าประสบการณ์ร้าน/เมนูที่อยากลอง แล้วถามคนอื่นว่าคิดเหมือนกันไหม",
-      "promptIdea": "เห็นคนพูดถึงเมนูนี้เยอะมาก มีใครลองแล้วบ้าง?",
-      "hashtags": [
-        "#FoodTrend",
-        "#CafeTH",
-        "#รีวิวของกิน",
-        "#น้ำท่วมดันต้นทุนเกษตร–อา"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Thai PBS",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5jSVRJdTV6eXFmeHdaN2NINGgxRGIyd3pMTTczbkRDa0NnbVY3anNrank1czJKRENnSm1nZ2RhYlJ1VzUtUnV2dnoyNlVPZkY2Q25mbDJnZnI?oc=5"
-        }
-      ],
-      "updatedAt": "2026-10-01T13:55:01+07:00"
     },
     {
       "id": "3-5-77092497ce",
@@ -316,32 +342,6 @@
       "updatedAt": "2026-09-28T09:30:00+07:00"
     },
     {
-      "id": "a-prophet-2026-05bd683831",
-      "title": "รีวิว หมอดูจอมลวง A Prophet (2026) ซีรีส์จีน",
-      "sourceType": "news",
-      "category": "entertainment",
-      "contentPotential": "high",
-      "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: ซีรีส์ / source: TrueID - รีวิว หมอดูจอมลวง A Prophet (2026) ซีรีส์จีน    TrueID",
-      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
-      "creatorAngle": "เล่า reaction ส่วนตัวต่อกระแส แล้วเปิดคำถามให้คนคุยต่อ",
-      "promptIdea": "กระแสนี้ทุกคนอยู่ทีมไหน?",
-      "hashtags": [
-        "#EntertainmentTH",
-        "#คุยเรื่องบันเทิง",
-        "#กระแสวันนี้",
-        "#รีวิวหมอดูจอมลวงAProphet"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "TrueID",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5IcHRnVjljaF94aWUta1BWTWRBbUdQZ0xHdVJEaGMyNnZtcnZtbkhnQTR6N2NHbWdKaGZ6TkpsV1B1T2JxWjZha1ZHRzdaQVBaUGk2cUp0ZUxvcE1hYUZZaXdn?oc=5"
-        }
-      ],
-      "updatedAt": "2026-09-25T12:44:43+07:00"
-    },
-    {
       "id": "topic-ed2d742467",
       "title": "สวนละมุน คาเฟ่ลับบรรยากาศดีกลางหุบเขาบ้านผาฮี้ เชียงราย",
       "sourceType": "news",
@@ -366,6 +366,32 @@
         }
       ],
       "updatedAt": "2026-10-01T17:20:29+07:00"
+    },
+    {
+      "id": "topic-8bbf7ae471",
+      "title": "สำนักสารนิเทศ สำนักงานปลัดกระทรวงสาธารณสุข",
+      "sourceType": "news",
+      "category": "food",
+      "contentPotential": "high",
+      "riskLevel": "low",
+      "summary": "ข่าวจาก Google News keyword: อาหาร / source: สำนักสารนิเทศ สำนักงานปลัดกระทรวงสาธารณสุข - สำนักสารนิเทศ สำนักงานปลัดกระทรวงสาธารณสุข    สำนักสารนิเทศ สำนักงานปลัดกระทรวงสาธารณสุข",
+      "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
+      "creatorAngle": "ให้ Creator เล่าประสบการณ์ร้าน/เมนูที่อยากลอง แล้วถามคนอื่นว่าคิดเหมือนกันไหม",
+      "promptIdea": "เห็นคนพูดถึงเมนูนี้เยอะมาก มีใครลองแล้วบ้าง?",
+      "hashtags": [
+        "#FoodTrend",
+        "#CafeTH",
+        "#รีวิวของกิน",
+        "#สำนักสารนิเทศสำนักงานปลั"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "สำนักสารนิเทศ สำนักงานปลัดกระทรวงสาธารณสุข",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tOGxkSkZYU0k4THE3Q0pUck5rLTJrYnFkR09UVVJ4alRrSno5cUc4NS01RFBPWTVEWUhVZC1Wd1lIdXFVUlNqR0h3UzN4ZmoxZi1mQ25EbGV6dw?oc=5"
+        }
+      ],
+      "updatedAt": "2026-09-29T16:49:14+07:00"
     },
     {
       "id": "topic-27700310b1",
@@ -418,32 +444,6 @@
         }
       ],
       "updatedAt": "2026-09-28T14:00:00+07:00"
-    },
-    {
-      "id": "milano-city-fashion-week-2026-40bb084915",
-      "title": "แบรนด์แฟชั่นไทยร่วมแสดงผลงานในงาน Milano City Fashion Week 2026",
-      "sourceType": "news",
-      "category": "beauty",
-      "contentPotential": "high",
-      "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: แฟชั่น / source: ditp.go.th - แบรนด์แฟชั่นไทยร่วมแสดงผลงานในงาน Milano City Fashion Week 2026    ditp.go.th",
-      "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
-      "creatorAngle": "ชวนแชร์สไตล์ ไอเท็ม หรือเทคนิคที่ใช้จริงโดยไม่ขายของแข็งเกินไป",
-      "promptIdea": "สไตล์นี้ถ้าแต่งในชีวิตจริงจะรอดไหม?",
-      "hashtags": [
-        "#BeautyTalk",
-        "#FashionTH",
-        "#ไอเดียแต่งตัว",
-        "#แบรนด์แฟชั่นไทยร่วมแสดงผ"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "ditp.go.th",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5sMlFpNTc5M1lVYU9qYXdSQnFvM05OMmkwV1AyRHdreWpGMjBsSDZIM1hGMWlkUkRuNmNxampObi1UcWN2T3FaaTBxS0ZrUlljZnlCc2sxcUV1cmFuR1JDcmZ3?oc=5"
-        }
-      ],
-      "updatedAt": "2026-09-26T14:00:00+07:00"
     },
     {
       "id": "26-5879a99f0f",
@@ -504,7 +504,7 @@
       "category": "food",
       "contentPotential": "high",
       "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: คาเฟ่ / source: Brand Buffet - “Café Amazon” เปิดตัว “Fizzpresso” กาแฟซ่า น้ำตาล 0% เติมความสดชื่นได้ตลอดวัน    Brand Buffet",
+      "summary": "ข่าวจาก Google News keyword: คาเฟ่ / source: brandbuffet.in.th - “Café Amazon” เปิดตัว “Fizzpresso” กาแฟซ่า น้ำตาล 0% เติมความสดชื่นได้ตลอดวัน    brandbuffet.in.th",
       "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
       "creatorAngle": "ให้ Creator เล่าประสบการณ์ร้าน/เมนูที่อยากลอง แล้วถามคนอื่นว่าคิดเหมือนกันไหม",
       "promptIdea": "เห็นคนพูดถึงเมนูนี้เยอะมาก มีใครลองแล้วบ้าง?",
@@ -517,7 +517,7 @@
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
         {
-          "title": "Brand Buffet",
+          "title": "brandbuffet.in.th",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB0R0RuX3J4VTYxVUp3ZUF1YWFPY0RTdEVZOXNrMlFyY0hBaWNxN0pXTjJfWGxzdWxTRks3V2JIM0xpOEpDVTBWQi1SRjZJMHBWOUxfOWtWNGlocTFpWlhWYXZ4ZnI5TGxub2NmVjdR?oc=5"
         }
       ],
@@ -582,7 +582,7 @@
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 50000+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 20000+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -599,19 +599,19 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "ChatGPT maker wants to be the App Store for AI as safety concerns grow",
-          "url": "https://finance.yahoo.com/technology/ai/articles/chatgpt-maker-wants-app-store-013825295.html"
+          "title": "ChatGPT can now virtually try on clothes for you",
+          "url": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/"
         },
         {
-          "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT's own office suite",
-          "url": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/"
+          "title": "ChatGPT Can Now Help You Virtually Try On Clothes",
+          "url": "https://www.engadget.com/2275295/chatgpt-can-now-help-you-virtually-try-on-clothes/"
         },
         {
-          "title": "ChatGPT Space Is A Shared Hub For Work Projects And Personal AI Agents",
-          "url": "https://www.engadget.com/2272248/chatgpt-space-for-work/"
+          "title": "OpenAI Rolls Out Virtual Try-On and Favorites for ChatGPT Shoppers",
+          "url": "https://finance.biggo.com/news/91366e68-b867-4086-a7cd-fa216558efbc"
         }
       ],
-      "updatedAt": "2026-10-01T09:10:00+07:00"
+      "updatedAt": "2026-10-02T09:10:00+07:00"
     },
     {
       "id": "denmark-vs-portugal-7152a7b8f7",
@@ -620,7 +620,7 @@
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 500+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 1000+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -637,19 +637,57 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "Denmark vs Portugal: UEFA Nations League stats & head-to-head",
-          "url": "https://www.bbc.com/sport/football/live/cvrl6660y8w3t"
+          "title": "Nations League: Ronaldo-less Portugal prosper while Klopp gets first win as Germany coach",
+          "url": "https://www.theguardian.com/football/2026/oct/01/nations-league-portugal-denmark-germany-serbia"
         },
         {
-          "title": "Licensable picture: Denmark v Portugal: Group Stage - UEFA Nations League",
-          "url": "https://www.reutersconnect.com/item/denmark-v-portugal-group-stage-uefa-nations-league/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMU5VUlBITzAwMDUzWFJMWg"
+          "title": "Portugal edge Denmark in Ronaldo's absence",
+          "url": "https://www.bangkokpost.com/sports/3330119/portugal-edge-denmark-in-ronaldos-absence"
         },
         {
-          "title": "Cancelo produces exquisite chip to break the deadlock",
-          "url": "https://www.besoccer.com/new/cancelo-produces-exquisite-chip-to-break-the-deadlock-1432591"
+          "title": "How to watch Denmark vs Portugal for FREE: Live stream Nations League game with Cristiano Ronaldo absent",
+          "url": "https://www.fourfourtwo.com/competition/watch-denmark-vs-portugal-nations-league-free"
         }
       ],
       "updatedAt": "2026-10-02T01:50:00+07:00"
+    },
+    {
+      "id": "facebook-cbe6489090",
+      "title": "facebook",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 20000+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#facebook"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "New Mexico wants Meta to pay up to $40 billion in penalties after data privacy trial",
+          "url": "https://www.reuters.com/world/us/new-mexico-wants-meta-pay-up-40-billion-penalties-after-data-privacy-trial-2026-10-01/"
+        },
+        {
+          "title": "Judge delays ruling on Facebook payout in New Mexico trial",
+          "url": "https://www.kob.com/new-mexico/santa-fe-northern-new-mexico/judge-to-rule-on-facebook-payout-in-new-mexico-trial/"
+        },
+        {
+          "title": "New Mexico attorney asks for $40B penalty against Meta in state case",
+          "url": "https://www.krqe.com/news/new-mexico/new-mexico-court-to-rule-on-penalties-meta-faces-in-privacy-violation-case/"
+        }
+      ],
+      "updatedAt": "2026-10-02T08:30:00+07:00"
     },
     {
       "id": "lottery-46b1499f5c",
@@ -675,16 +713,16 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "Hoosier Lottery News",
-          "url": "https://hoosierlottery.com/Hoosier-Lottery-News/News-Releases/$2-2-Million-Jackpot-Winning-Hoosier-Lotto-Ticket"
+          "title": "Haltom City resident wins $2 million on scratch-off ticket bought in Arlington",
+          "url": "https://www.wfaa.com/article/news/lottery/haltom-city-resident-wins-2-million-on-scratch-off-ticket/287-e8478989-5a69-4b6e-8613-a3c42b9ef8c1"
         },
         {
-          "title": "Indianapolis couple plans to pay off mortgage, car with Hoosier Lottery windfall",
-          "url": "https://www.wthr.com/article/news/lottery/indianapolis-couple-plans-to-pay-off-mortgage-car-with-hoosier-lottery-winnings-game-prize-jackpot/531-81af9dce-22ca-41f8-b464-84d2ee5fdb50"
+          "title": "Four Texans win $5 million in Texas Lottery scratch-ticket prizes",
+          "url": "https://www.beaumontenterprise.com/news/article/texas-lottery-5-million-winners-22458339.php"
         },
         {
-          "title": "Indianapolis woman wins nearly $200,000 while playing Hoosier Lottery Fast Play game",
-          "url": "https://fox59.com/news/indianapolis-woman-wins-nearly-200000-while-playing-hoosier-lottery-fast-play-game/"
+          "title": "POLL: How do you feel about automated license plate tracking in local neighborhoods?",
+          "url": "https://foxsanantonio.com/newsletter-daily/poll-how-do-you-feel-about-automated-license-plate-tracking-in-local-neighborhoods-san-antonio-flock-cameras"
         }
       ],
       "updatedAt": "2026-10-01T15:50:00+07:00"
@@ -717,8 +755,8 @@
           "url": "https://www.siamsport.co.th/football-international/national-team/110115/"
         },
         {
-          "title": "การทำนายผลฟุตบอลระหว่างกรีซกับเนเธอร์แลนด์: ฟาน ไดจ์ค จะเจอกับความท้าทายในเมืองเทสซาโลนิกิ",
-          "url": "https://www.vietnam.vn/th/nhan-dinh-bong-da-hy-lap-vs-ha-lan-van-dijk-gap-thu-thach-tai-thessaloniki"
+          "title": "ทีมชาติเนเธอร์แลนด์รอดพ้นจากความพ่ายแพ้ต่อกรีซได้อย่างเหลือเชื่อ",
+          "url": "https://www.vietnam.vn/th/dt-ha-lan-thoat-thua-ngoan-muc-truoc-hy-lap"
         },
         {
           "title": "ดูบอลสด วิเคราะห์บอลเนชั่นส์ ลีก กรีซ พบ เนเธอร์แลนด์ 1 ต.ค.69",
@@ -728,51 +766,13 @@
       "updatedAt": "2026-10-02T01:40:00+07:00"
     },
     {
-      "id": "1-2569-d11a5ea011",
-      "title": "ตรวจหวย1ตุลาคม2569",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 1000000+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#ตรวจหวย1ตุลาคม2569"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "ตรวจหวย 1/10/69 ผลสลากกินแบ่งรัฐบาล ตรวจลอตเตอรี่ 1 ต.ค. 69",
-          "url": "https://www.sanook.com/news/9908018/"
-        },
-        {
-          "title": "ผลสลากกินแบ่งรัฐบาล งวดประจำวันที่ 1 ต.ค. 69 เลขที่ออกได้แก่ | สวพ.FM91",
-          "url": "https://today.line.me/th/v3/article/rmp7rww"
-        },
-        {
-          "title": "คนเดียวรับ 42 ล้าน สลากดิจิทัลแตก 186 ล้าน! รางวัลที่ 1 รวม 31 ใบ",
-          "url": "https://mgronline.com/stockmarket/detail/9690000095877"
-        }
-      ],
-      "updatedAt": "2026-10-01T15:20:00+07:00"
-    },
-    {
       "id": "topic-d4389bf144",
       "title": "นายกฯ ร่วมงานวันเอกภาพเยอรมนี ย้ำความสัมพันธ์ยาวนาน พร้อมส่งเสริมความร่วมมือรอบด้าน",
       "sourceType": "news",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: ความสัมพันธ์ / source: มติชนออนไลน์ - นายกฯ ร่วมงานวันเอกภาพเยอรมนี ย้ำความสัมพันธ์ยาวนาน พร้อมส่งเสริมความร่วมมือรอบด้าน    มติชนออนไลน์",
+      "summary": "ข่าวจาก Google News keyword: ความสัมพันธ์ / source: Matichon Online - นายกฯ ร่วมงานวันเอกภาพเยอรมนี ย้ำความสัมพันธ์ยาวนาน พร้อมส่งเสริมความร่วมมือรอบด้าน    Matichon Online",
       "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -785,37 +785,49 @@
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
         {
-          "title": "มติชนออนไลน์",
+          "title": "Matichon Online",
           "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9oMV9PN1VXS2VXWUhQX2IwTnhLQXBYc1E4b0hQekQyV1A4UGxSSEg0ME9KRWtlTjg3c1VTeHRWcUJiNDBRdHZOX183SUFCSW50S296QnNQNlF1cmx6?oc=5"
         }
       ],
       "updatedAt": "2026-09-30T21:33:30+07:00"
     },
     {
-      "id": "2026-8-573dc68389",
-      "title": "ผลวอลเลย์บอลสด “ตบหนุ่มไทย” พบ “จีน” วอลเลย์บอลชาย “เอเชียนเกมส์ 2026” รอบ 8 ทีมสุดท้าย",
-      "sourceType": "news",
+      "id": "topic-9ebf4d22ac",
+      "title": "น้ำ",
+      "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: วอลเลย์บอล / source: thairath.co.th - ผลวอลเลย์บอลสด “ตบหนุ่มไทย” พบ “จีน” วอลเลย์บอลชาย “เอเชียนเกมส์ 2026” รอบ 8 ทีมสุดท้าย    thairath.co.th",
-      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
       "hashtags": [
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#ผลวอลเลย์บอลสด“ตบหนุ่มไท"
+        "#น้ำ"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
         {
-          "title": "thairath.co.th",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBsWG00OUpSTWlnMkxMRW94a284VUZabzI5V3lHcms2clZPNjNrcnVuVVFsZzN5MzQxT3ZKbDdlTEljZ05tY1pIMDBmVjNpbnZieWRXelFlWkVIc0tBZ093?oc=5"
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "ต้านไม่อยู่! เจ้าพระยาระบาย 2,500 ลบ.ม./วินาที กระสอบทรายพัง น้ำทะลักท่วมสรรพยาขยายวงกว่า 1,000 ครัวเรือน",
+          "url": "https://mgronline.com/local/detail/9690000096071"
+        },
+        {
+          "title": "ปภ.แจ้งเตือนระดับน้ำเพิ่มสูงขึ้น อ.เมืองนครสวรรค์ พบคันดินกั้นน้ำแตกหลายจุด ท่วมสูง",
+          "url": "https://www.thairath.co.th/news/local/2963681"
+        },
+        {
+          "title": "สทนช.อัปเดตสถานการณ์น้ำทั่วประเทศ 2 ต.ค. อ่างเก็บน้ำภาคตะวันตก ความจุแตะ 95%",
+          "url": "https://www.thaipbs.or.th/news/content/559007"
         }
       ],
-      "updatedAt": "2026-10-01T15:32:00+07:00"
+      "updatedAt": "2026-10-02T05:50:00+07:00"
     },
     {
       "id": "topic-d44a991a44",
@@ -841,16 +853,16 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
+          "title": "“ฉัตรชัย” เผยพระราชพิธีพระบรมศพ “พระพันปีหลวง” ธ.ค. 69 “พระองค์ภา” ก.พ. 70",
+          "url": "https://www.thairath.co.th/news/politic/2963354"
+        },
+        {
           "title": "'ฉัตรชัย' สักการะสิ่งศักดิ์สิทธิ์ รับงาน ปลัดสปน. วันแรก ภูมิใจ ได้โอกาสทำงาน พระราชพิธี",
           "url": "https://www.khaosod.co.th/politics/news_10420763"
         },
         {
           "title": "ฉัตรชัย สวมหมวกปลัดสปน. พร้อมสานต่องานให้บรรลุเป้า มั่นใจประสบการณ์อยู่สมช.มา 35 ปี",
           "url": "https://www.matichon.co.th/politics/news_5913337"
-        },
-        {
-          "title": "ปลัดสำนักนายกฯคนใหม่ สานต่อเตรียมงานพระราชพิธีพระบรมศพสมพระเกียรติ-ดูแลเยียวยาประชาชนประสบอุทกภัย",
-          "url": "https://www.js100.com/en/site/news/view/164846"
         }
       ],
       "updatedAt": "2026-10-01T17:20:00+07:00"
@@ -931,16 +943,16 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "กทม.ฝนตกหนักหลายพื้นที่ รัชดาฯ-ลาดพร้าว-โชคชัย 4 ลูกเห็บตก",
-          "url": "https://www.thaipbs.or.th/news/content/558980"
+          "title": "“ลูกเห็บหลงฤดู” เหตุการณ์ลูกเห็บตกกลางกรุง เมื่อ 1 ต.ค. 69",
+          "url": "https://www.thaipbs.or.th/sciandtech/science/4471"
         },
         {
           "title": "ตลิ่งชันฝนหนักสุด 91 มม. น้ำท่วมซ้ำ กทม กับ เจาะ จุด แจม : 1 ตุลาคม 2569 | สวพ.FM91",
           "url": "https://today.line.me/th/v3/article/WBpNgJQ"
         },
         {
-          "title": "พายุฝนถล่มกรุง ลูกเห็บตกหลายพื้นที่ ชาวบ้านบอกเพิ่งเคยเห็นครั้งแรก",
-          "url": "https://mgronline.com/crime/detail/9690000095901"
+          "title": "ด่วน! ฝนถล่มกรุง “ลาดพร้าว-วังหิน” เจอลูกเห็บตก ชาวบ้านแตกตื่น",
+          "url": "https://www.dailynews.co.th/news/6239894/"
         }
       ],
       "updatedAt": "2026-10-01T16:20:00+07:00"
@@ -972,44 +984,6 @@
       "updatedAt": "2026-10-01T16:46:51+07:00"
     },
     {
-      "id": "topic-d98bc69ddd",
-      "title": "หวยลาววันนี้",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 20000+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#หวยลาววันนี้"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "หวยลาววันนี้ 1 ตุลาคม 2569 ตรวจผลหวยลาว หวยลาววันนี้ออกอะไร?",
-          "url": "https://www.sanook.com/news/9908039/"
-        },
-        {
-          "title": "ตรวจหวยลาววันนี้ พุธ 30 ก.ย. 2569 เช็กผลหวยลาวงวดล่าสุด หวยลาวพัฒนา 5/45",
-          "url": "https://www.pptvhd36.com/news/%E0%B8%A5%E0%B8%AD%E0%B8%95%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B8%B5%E0%B9%88/284416"
-        },
-        {
-          "title": "หวยลาววันนี้ 28 กันยายน 2569 ผลหวยพัฒนา ชมการถ่ายทอดสด",
-          "url": "https://readthecloud.co/%E0%B8%AB%E0%B8%A7%E0%B8%A2%E0%B8%A5%E0%B8%B2%E0%B8%A7%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%99%E0%B8%B5%E0%B9%89-28-%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B8%99-2569/"
-        }
-      ],
-      "updatedAt": "2026-10-01T15:40:00+07:00"
-    },
-    {
       "id": "topic-5bb00f698c",
       "title": "เวลส์ พบ นอร์เวย์",
       "sourceType": "trends",
@@ -1037,12 +1011,12 @@
           "url": "https://www.siamsport.co.th/football-international/national-team/110113/"
         },
         {
-          "title": "การทำนายผลฟุตบอลระหว่างเวลส์กับนอร์เวย์: ฮาแลนด์จะทดสอบแนวรับของคาร์ดิฟฟ์",
-          "url": "https://www.vietnam.vn/th/nhan-dinh-bong-da-xu-wales-vs-na-uy-haaland-thu-lua-hang-thu-cardiff"
+          "title": "ผลบอล ฮาลันด์ ช่วยไม่ไหว ทีมชาตินอร์เวย์ 10 คนแพ้ เวลส์ ยูฟ่าเนชั่นส์ลีก",
+          "url": "https://www.thairath.co.th/sport/eurofootball/otherleague/2963647"
         },
         {
-          "title": "วิเคราะห์บอล เดนมาร์ก vs โปรตุเกส 1 ต.ค. 69 ฝอยทองล่าชัย 3 นัดรวด",
-          "url": "https://www.siamsport.co.th/football-international/national-team/110114/"
+          "title": "ใบแดงนั้นเป็นจุดเปลี่ยนสำคัญที่ทำให้ นอร์เวย์ พ่ายแพ้ให้กับ เวลส์ ไป 1-2",
+          "url": "https://www.vietnam.vn/th/the-do-buoc-ngoat-na-uy-guc-nga-1-2-truoc-xu-wales"
         }
       ],
       "updatedAt": "2026-10-02T01:10:00+07:00"
@@ -1071,19 +1045,45 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "โรนัลโด้ถอนทีมชาติเพราะอะไร? เปิดปมเชซุสขอโทษแต่ไม่ทำตามสัญญา",
-          "url": "https://www.siamsport.co.th/football-international/national-team/110147/"
+          "title": "เดจาวูยุคเทนฮาก! เจาะชนวนรอยร้าว โรนัลโด้ กับโค้ชโปรตุเกสและทางลงที่สมเกียรติ",
+          "url": "https://www.siamsport.co.th/football-international/national-team/110172/"
         },
         {
-          "title": "พี่สาว โรนัลโด้ ของขึ้น โพสต์ถึงน้องชาย หลังเจอดราม่าหนักกับ ทีมชาติโปรตุเกส",
-          "url": "https://www.thairath.co.th/sport/eurofootball/2963402"
+          "title": "ไม่มีโด้ไม่ใช่ปัญหา! \"ฝอยทอง\" บุกถลุง \"โคนม\" ยับคาบ้าน",
+          "url": "https://www.dailynews.co.th/news/6240929/"
         },
         {
-          "title": "\"โรนัลโด\" ประกาศถอนทัพฝอยทองหลังประชุมเคลียร์ใจ \"เชซุส\"",
-          "url": "https://www.dailynews.co.th/news/6237634/"
+          "title": "\"เมสซี่\" และ \"โรนัลโด้\" บทสุดท้ายในทีมชาติที่แสนแตกต่างของสองราชา",
+          "url": "https://www.pptvhd36.com/sport/news/284520"
         }
       ],
       "updatedAt": "2026-10-02T02:20:00+07:00"
+    },
+    {
+      "id": "2026-8-880eae83db",
+      "title": "โปรแกรมวอลเลย์บอลชายเอเชียนเกมส์ 2026 รอบ 8 ทีมสุดท้าย",
+      "sourceType": "news",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "ข่าวจาก Google News keyword: วอลเลย์บอล / source: pptvhd36.com - โปรแกรมวอลเลย์บอลชายเอเชียนเกมส์ 2026 รอบ 8 ทีมสุดท้าย    pptvhd36.com",
+      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#โปรแกรมวอลเลย์บอลชายเอเช"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "pptvhd36.com",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBQVHpFMXNLSTlYUzVJOGc2RkdYT19TR1Z0XzZWYV9jdGMxSHM3ejhBM1pTRTZVZVpaZ09SQzdQTE81YTJmWUlEb2VxU2RwRlNDZDRxTA?oc=5"
+        }
+      ],
+      "updatedAt": "2026-09-30T10:35:00+07:00"
     },
     {
       "id": "20-d0d1f2e011",
@@ -1110,32 +1110,6 @@
         }
       ],
       "updatedAt": "2026-10-01T13:04:37+07:00"
-    },
-    {
-      "id": "gen-z-ai-039f0262c5",
-      "title": "ถือกาแฟเย็นไปสัมภาษณ์งานได้ไหม? ดราม่าที่ ‘ไม่ได้เกี่ยวกับกาแฟเลย’ แต่กำลังสะท้อนการชิงอำนาจระหว่างหัวหน้ากับ Gen Z ในที่ทำงานยุค AI",
-      "sourceType": "news",
-      "category": "lifestyle",
-      "contentPotential": "high",
-      "riskLevel": "medium",
-      "summary": "ข่าวจาก Google News keyword: ดราม่า / source: techsauce.co - ถือกาแฟเย็นไปสัมภาษณ์งานได้ไหม? ดราม่าที่ ‘ไม่ได้เกี่ยวกับกาแฟเลย’ แต่กำลังสะท้อนการชิงอำนาจระหว่างหัวหน้ากับ Gen Z ในที่ทำงานยุค AI    techsauce.co",
-      "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
-      "creatorAngle": "โยงกับชีวิตประจำวันของ Creator และถามประสบการณ์คนในคอมมูนิตี้",
-      "promptIdea": "ช่วงนี้มีใครเจอเรื่องแบบนี้เหมือนกันไหม?",
-      "hashtags": [
-        "#LifestyleTH",
-        "#ชีวิตประจำวัน",
-        "#แชร์ประสบการณ์",
-        "#ถือกาแฟเย็นไปสัมภาษณ์งาน"
-      ],
-      "riskNote": "Medium risk ควรเลี่ยงการพาดพิงบุคคลจริงและใช้คำถามเชิงสร้างสรรค์",
-      "sources": [
-        {
-          "title": "techsauce.co",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYlF3SnU3TW9uQVIzUEQtVXpZa0lwOERWOUs3ZWR1Vms5NUo1anhQdjJFOXFYcjNkZmxjX0RXQTVGUkUwbTlkTkVhdnhyUUZsVEl5eGVWbVphNXNTUW9yTzJ1dGJyX09ITDJ0QzhsVlZVZmlrc0J4Q0JjX0FpWHVaY3laNjd4T21PNEdoOE93cUpISGJEeDJF?oc=5"
-        }
-      ],
-      "updatedAt": "2026-09-25T12:12:59+07:00"
     },
     {
       "id": "irreplaceable-youku-netflix-556a77757a",
@@ -1216,6 +1190,58 @@
       "updatedAt": "2026-09-28T12:05:00+07:00"
     },
     {
+      "id": "topic-cd1c4aa81f",
+      "title": "พิมรี่พาย โละหมดโกดังน้ำท่วมไม่เหลือ หนี้สินรุมเร้า ซัดดราม่า ลั่นดูสภาพถ้ารวยจะเป็นแบบนี้เหรอ",
+      "sourceType": "news",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "medium",
+      "summary": "ข่าวจาก Google News keyword: ดราม่า / source: ข่าวสด - พิมรี่พาย โละหมดโกดังน้ำท่วมไม่เหลือ หนี้สินรุมเร้า ซัดดราม่า ลั่นดูสภาพถ้ารวยจะเป็นแบบนี้เหรอ    ข่าวสด",
+      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#พิมรี่พายโละหมดโกดังน้ำท"
+      ],
+      "riskNote": "Medium risk ควรเลี่ยงการพาดพิงบุคคลจริงและใช้คำถามเชิงสร้างสรรค์",
+      "sources": [
+        {
+          "title": "ข่าวสด",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBaOURpcVgybjlZNU1zMzFldWpZM3A1akk1NHZRSG91cXBGUlQxSE5iZXFaaGpVWjIybzlWWGloOVlOSW4tMGdYczNBSGgxRTg2ZlRONVZHTUtfQWFQZFNXM19TVUdTQQ?oc=5"
+        }
+      ],
+      "updatedAt": "2026-09-29T11:36:00+07:00"
+    },
+    {
+      "id": "vs-27-09-69-ccc42ace78",
+      "title": "เตือนภัยหรือสร้างผวา?! ดราม่าเดือดเพจดัง VS กรมอุตุฯ งานนี้ใครกันแน่ที่พัง?! (27/09/69)",
+      "sourceType": "news",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "medium",
+      "summary": "ข่าวจาก Google News keyword: ดราม่า / source: facebook.com - เตือนภัยหรือสร้างผวา?! ดราม่าเดือดเพจดัง VS กรมอุตุฯ งานนี้ใครกันแน่ที่พัง?! (27/09/69) #news1 #ข่าววันนี้ #ข่าวดัง #เอาอยู่ #ดราม่าน้ำท่วม    facebook.com",
+      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#เตือนภัยหรือสร้างผวา?!ดร"
+      ],
+      "riskNote": "Medium risk ควรเลี่ยงการพาดพิงบุคคลจริงและใช้คำถามเชิงสร้างสรรค์",
+      "sources": [
+        {
+          "title": "facebook.com",
+          "url": "https://news.google.com/rss/articles/CBMilAdBVV95cUxOb1F1RVUwN3VpQld5MzNyRGFHM01oaTZYUUZMRkpTZjdMZTZacVlNdW0xb0pUNnJMeE9HcVNEUE1LQlFYTXBhRXhVMi10UUpOVTVQN0JENWtCNDFuTE9EaE1STy1GWVpTV1FFRTNweDVkdldYb19jLUpMekZKa2V4XzNHR3NsQU1tOXpvMUZ3R1pCeXAzcGNzUVFmRldhQ1RvYlVzWjZaMjRPaTJfYlRncHZHMF8zWTBjNjF1VUtHX3lQZ2FqeC1zc212VWtBYlRQZGVHSThISXdLekYzMVhNdTVuX01SbERzQ0c0dXJBWmpIU1lXRWZ1N1dCeXlUUjlIaTNneExBbGVKcmtQcTdQbjVvNzllczRONkV4RlNETGEza084cVNTOTlLWEFIc192S1FJejVqMjlTaUM4bjN3TFNiVzhmeVpmdWE3WS12V3RVQ3hNVGdtN0NxVXNSOUF0Nkp0VkxsWW9Ud3NzdTN1SUV2Mml3UVR2bGJjTnRyWmZuck1WX1l3T3JJUWlEaWN6SGhBcF80U2F6bnF4NGotQ3dicEppd2x2a0ZXVjhrd3pEQkwzOUxvV2FraXhjVC14WjVMcW5xM2hJQkQ0clIxbDVhcTl2TG5wOV9EOVE0TE42OEtzR2ZQckc2UDY1UmJUOGh6Z1RnZldsLUs4NzV0QllfVFBPNW0zc3Vmd0g3UThxUTdFQ3hHcVlmeXlmT1RzOTZCdnM3bFQ0eEgydWNrN1d6NDk1bVhzTHVyNVc3WlpJY2pET3hQQlRmR3lsUGtPbFphSnhWUGl3Z0xZX0lrUllZLVNPclEzZm95RWU0Z1NUT1NuaDNZeXFlZDg1NWFsWWJIVFFSMU41RTNZZjRBM3JQbGpfVVJXSE9xTHJHN1ozVHVNSDRsRlRDdUhvWjRwME9qbjFXbENTUzI1aEN3dVR6WGJ1QXBvNzQ4ZjZsRzlTZ01aYWdmXzdvSlN5VnBmT1pZejBTNjc1ZHkxcnZXckNqT3R6UUZpN3ZMYzFYMjhIelZuZWhRUkVqeHR1NUVtQktkTGdXdzZzZnQ5VThYamFoZ0t0eWgya3BHSXlaYVdsOWVZZ2NGNUhjbFRZN1ZkRjdBR2RMOHdzWndobXBtTmdWdnl2LXpSdmRnbDdTMFRteUctMnE1LThaalI0cjBnVXdPS2NNSFdYM3JFb2tSYWRMaTl2dHF1b2R1RWFTUi1DZ0hl?oc=5"
+        }
+      ],
+      "updatedAt": "2026-09-27T16:40:15+07:00"
+    },
+    {
       "id": "thai-help-thai-plus",
       "title": "ไทยช่วยไทยพลัส / คนละครึ่งพลัส",
       "sourceType": "news",
@@ -1247,11 +1273,11 @@
           "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9wT2FsaWNxLWVMSEdvME92RENTbzlCeXprZWlXUDJWekg5TmtwUTNUTG1qU1BhUGRuWUtRaGdnbFJJcXV2TzFMUVFRQVk?oc=5"
         },
         {
-          "title": "ข่าวสด",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBaODF3RmdaS3ZCWlpCYTJ6a0hGcnNhSzdwRWdYaUZvc3BWSzlsSWdGMTNZUHJ2blZoSTNxenFUWmhSVktMTmhvZUtkZ1lJVUFRS01zazNaVHJoQjJTbmVIWkFKZw?oc=5"
+          "title": "thansettakij",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE12eVZzSng2OXZhbXZqT0JBUU1pTEVlbGp4dTZSSGJKV2Robjd5Y1VyZWNOTTRId2dLUXo3aFU4M1F1N0JLZmJUdnY4VjVRM2hDZWxuZl83Y1NVakRP?oc=5"
         },
         {
-          "title": "komchadluek",
+          "title": "komchadluek.net",
           "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ZQUJzaXBwLUdNR0pOaVRrak1kRll2X3NxdUYwOVEyVktrZWJOTTAyVllTSVQweUxIamdYX0tVNFM1dTlzenlfWHNKWXpidDVOSzdmMnUzOHFoX2E0?oc=5"
         }
       ],
@@ -1282,32 +1308,6 @@
         }
       ],
       "updatedAt": "2026-09-29T09:00:42+07:00"
-    },
-    {
-      "id": "bkk-drift-ae76edd71c",
-      "title": "📣 ไม่แคร์ดราม่า! เฉลยตัวจริงคนขี่เจ็ตสกีซิ่งกลางถนนน้ำท่วม เจ้าตัวอัปคลิปโปรดักชันหรูลงเอง พร้อมแคปชั่น \"BKK DRIFT\" ​🔵 เปิดวาร์ปเจ้าของคลิป ◼️ หลังจากคลิปเจ็ตสกีซิ่งสร...",
-      "sourceType": "news",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "medium",
-      "summary": "ข่าวจาก Google News keyword: ดราม่า / source: facebook.com - 📣 ไม่แคร์ดราม่า! เฉลยตัวจริงคนขี่เจ็ตสกีซิ่งกลางถนนน้ำท่วม เจ้าตัวอัปคลิปโปรดักชันหรูลงเอง พร้อมแคปชั่น \"BKK DRIFT\" ​🔵 เปิดวาร์ปเจ้าของคลิป ◼️ หลังจากคลิปเจ็ตสกีซิ่งสร้างคลื่นจนรั้",
-      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#📣ไม่แคร์ดราม่า!เฉลยตัวจร"
-      ],
-      "riskNote": "Medium risk ควรเลี่ยงการพาดพิงบุคคลจริงและใช้คำถามเชิงสร้างสรรค์",
-      "sources": [
-        {
-          "title": "facebook.com",
-          "url": "https://news.google.com/rss/articles/CBMiiwhBVV95cUxQNEJ3VzA1dDVOMlRBRzR2VXZlN05feF9EZWpLRzh2dEF3R1hqRllUbm4zRF9odlBhcEt6dThrRndOY2JnWVRUOEVBUlNUVlFWZVVSSk9BN0VkZDBaRll1eFhFMDR2WDFTS0RkOU1ZWE1OZU9jbnBabUZVZUYwczdfVG1GdHpDOGw4Y2xjeEJsQTlycmpQMW0wek00SWF6VnBkWXdKSGxrNXFubW9vQkZreTJaNzhNZER1cElfcGx3VUFhaFVHUkQzb0o0ODJjcUlqNFZldzk2OUIzenJRTU5XNG5nNmV2Rmd5LXNLcDUwanpJb19sTG9CXzdBNk5PNW16d21IbUtHSEFMbmQwdXJhRHBNM2luVm1LR3BIZmJ0MUF5YVBkeHFIRWFqQ1AtczJJTHlkVzNSTmx1dDhjcm9OZWYyUm5SYndFZUxIU3V2aFhBN21zc3Z0alpxVjBZQnZTdVJtcGk3a054bXRhT0NyclRzb3E2UFQ4NElPRGo1b2hOeFFsTTh2SnRYSF8zVlNEdlF5ME14SW82Rm52U0MxdTlpN29ZQUp0eEhfVWxHR0pkOGFXODg1SnBkU0pmd0kybnRzQ3IzRG50TzVFQkV1TVBTWkFTcXRyTW5VbVctTFplOXRaQkVyU1JoSlJ0clhORC1vR0thcjNVVWZ1eTlNWjdWUmpnOFl4WlRMLTZ3ZnVDdW5UT3pKZk9CMW50Ti1UVkt0dVo1YktCaVQtVUlHMTAtRXRXWDlDQTAyVlRfbjNEYkpCZ1l3Q210SVRENXdQQmd3MjJqS2RWZUpOaFROWUJDbE9ERzEtZjRtYm9jMUY5X1ktb0xRajFFZ0NBWkRwX3hxaTQySDJvaF90eVZMVXlhZmNNTkJfN1dTTEVZb0VtYjJ5MXhadmRqZ3Q0Y25SN1FZdERya3pCeHFNM29jREliN2Q0QllGQ2dKRVRBNTkydEZqMkMzblNyWlktTjkydVRySEFuS2dIUFludHkwRG1IYmtMM3pGSXlab3hXQTFQbGIwZTQ2djh5YWFKbUpXeWFYdGR0aWNDQTZJT01jczhaMXRFZ2tfMjV3MHNQR1BfcWtlYzhjSFkxNjZ0U0RnLUNnVTd4eDh5b1ZJT2szZUZONGt2ZmxZbXh0V2pWb0hwYnJuVzdnVndTLTRQRDlPdVRoVWJtQ0QxYjFubXpaS29DRGxSVDdqVnRjY2x0Y3AzZl9xU0V2SmVpTjVtNTQ4QWgxTk5haFlYX2YwT0x6ck5QWE9WazZpNEtmN0hJTVowLTFtenRPMmp6ZzM4N1hucXpVd1dIMkliaW04VnlkakMtQ3FUZml4bm1hUVFpTFdkYnkxdGs4NktUaV9ZaWhreUktUF91bzAxeTg?oc=5"
-        }
-      ],
-      "updatedAt": "2026-09-27T19:45:43+07:00"
     },
     {
       "id": "politics-30-69-19-00-5799292ebd",
