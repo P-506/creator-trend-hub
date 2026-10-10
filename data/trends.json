@@ -1,8 +1,36 @@
 {
-  "generatedAt": "2026-10-10T13:47:05.860937+07:00",
+  "generatedAt": "2026-10-10T20:22:56.154514+07:00",
   "dateRange": "2026-10-03 to 2026-10-10",
-  "sourceErrors": [],
+  "sourceErrors": [
+    "gdelt: HTTP Error 429: Too Many Requests"
+  ],
   "topics": [
+    {
+      "id": "miu-miu-ss27-9f99535cbc",
+      "title": "'เอมี่-ทสร' เดินแบบ Miu Miu SS27 ปารีสแฟชั่นวีกครั้งแรก!",
+      "sourceType": "news",
+      "category": "beauty",
+      "contentPotential": "high",
+      "riskLevel": "low",
+      "summary": "ข่าวจาก Google News keyword: แฟชั่น / source: Vogue Thailand - 'เอมี่-ทสร' เดินแบบ Miu Miu SS27 ปารีสแฟชั่นวีกครั้งแรก!    Vogue Thailand",
+      "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
+      "creatorAngle": "ชวนแชร์สไตล์ ไอเท็ม หรือเทคนิคที่ใช้จริงโดยไม่ขายของแข็งเกินไป",
+      "promptIdea": "สไตล์นี้ถ้าแต่งในชีวิตจริงจะรอดไหม?",
+      "hashtags": [
+        "#BeautyTalk",
+        "#FashionTH",
+        "#ไอเดียแต่งตัว",
+        "#'เอมี่-ทสร'เดินแบบMiuMiu"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Vogue Thailand",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeXNCWWFFUmN1VFRxMFFvU1FKbjl4SllIeHJraDhVOUFLVTVxczJITkxQWUhOY1pFUlhWNlVwME9NVzFyeHJsZk5qRC1XdXBYTi00UXcxcGV0TWI0eDlpdy1TR3RrcjV4WUVKYVV6LXBOaWdRRkw4NEpYaGROYlhTS3kwUmFzMURN?oc=5"
+        }
+      ],
+      "updatedAt": "2026-10-05T10:46:44+07:00"
+    },
     {
       "id": "15-2569-f4ebc81ce3",
       "title": "15 คาเฟ่พัทยา 2569 ติดทะเล วิวสวย ถ่ายรูปปัง สายชิลห้ามพลาด",
@@ -28,6 +56,58 @@
         }
       ],
       "updatedAt": "2026-10-09T14:51:59+07:00"
+    },
+    {
+      "id": "baan-kerd-faf8565fe4",
+      "title": "BAAN KERD คาเฟ่และบรันช์ย่านชิดลม ที่ใช้วัตถุดิบจากฟาร์มไทย",
+      "sourceType": "news",
+      "category": "food",
+      "contentPotential": "high",
+      "riskLevel": "low",
+      "summary": "ข่าวจาก Google News keyword: คาเฟ่ / source: thestandard.co - BAAN KERD คาเฟ่และบรันช์ย่านชิดลม ที่ใช้วัตถุดิบจากฟาร์มไทย    thestandard.co",
+      "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
+      "creatorAngle": "ให้ Creator เล่าประสบการณ์ร้าน/เมนูที่อยากลอง แล้วถามคนอื่นว่าคิดเหมือนกันไหม",
+      "promptIdea": "เห็นคนพูดถึงเมนูนี้เยอะมาก มีใครลองแล้วบ้าง?",
+      "hashtags": [
+        "#FoodTrend",
+        "#CafeTH",
+        "#รีวิวของกิน",
+        "#BAANKERDคาเฟ่และบรันช์ย่"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "thestandard.co",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5uRjZqb1hiTzhMelh2LWFrdTFvb0ozVElNUnpzSV92UmxvTGtERjk4NnFMTEM5WnJ2TEg5RFlqQVZ2TlJzR29jQTR0V2Uwc3VyNmlsTFlWX3RsdzJoQUEzWU9QcjZORS1zWmc?oc=5"
+        }
+      ],
+      "updatedAt": "2026-10-10T01:22:53+07:00"
+    },
+    {
+      "id": "flood-be26755227",
+      "title": "FLOOD: สิงห์อาสาลุยฉะเชิงเทรา ส่งน้ำดื่ม–อาหารช่วยน้ำท่วม หลังสถานการณ์น้ำท่วมยังน่าเป็นห่วง สิงห์อาสา ร่วมกับ สมาคมธุรกิจการอาหารจังหวัดฉะเชิงเทรา จัดเตรียมอาหารปรุงส...",
+      "sourceType": "news",
+      "category": "food",
+      "contentPotential": "high",
+      "riskLevel": "low",
+      "summary": "ข่าวจาก Google News keyword: อาหาร / source: Facebook - FLOOD: สิงห์อาสาลุยฉะเชิงเทรา ส่งน้ำดื่ม–อาหารช่วยน้ำท่วม หลังสถานการณ์น้ำท่วมยังน่าเป็นห่วง สิงห์อาสา ร่วมกับ สมาคมธุรกิจการอาหารจังหวัดฉะเชิงเทรา จัดเตรียมอาหารปรุงสุก 3,000 กล่อ",
+      "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
+      "creatorAngle": "ให้ Creator เล่าประสบการณ์ร้าน/เมนูที่อยากลอง แล้วถามคนอื่นว่าคิดเหมือนกันไหม",
+      "promptIdea": "เห็นคนพูดถึงเมนูนี้เยอะมาก มีใครลองแล้วบ้าง?",
+      "hashtags": [
+        "#FoodTrend",
+        "#CafeTH",
+        "#รีวิวของกิน",
+        "#FLOOD:สิงห์อาสาลุยฉะเชิง"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Facebook",
+          "url": "https://news.google.com/rss/articles/CBMi3AdBVV95cUxPVloxRmZQT0lwRG5MczJZY0VPTk1laHZ1WGszbUh3Y09LM0k3a2hIV1lUZEd3QUg5amtlT3RoRHlaX2hQcmdJeFlXd1ZBNllybGlIaERhVnRNMUp3bm8zMEM1YmF3WHhwVlhHaDQtNGc1UXIxbVhKbzFuWldhaGYxcnhrSk1BVU5JbDZIVWFYY3dhbTA4U0xLQWU4TmxYb3NGVXd1QjZZUkpQbW9aSU05QlU5cVk2SE9kUThIVzA1T3F2MXlLMXdneG0xYy1EMmZNb19qMmRjT0h2NGE3UlB5QnVXa3Y3MmxjRmgzWGVaYnMwMjNJT0FVMXdzYWlxdk5EWlpCQlIxTzFTeVphMGliNkExdUJkSjBieldUS3JVVWVGUGJQQnBWcXZ6bmM4cU9aeTZhMi1DbVhjNG9ta2JtZ3A0Y2dwR2d6OU9zRk5nQUtPOWxSb29VY0pZTmtLQUhrVWYwaGhkdnVJRGpzb3plSmEyNERMWGthdHQ0RVY5ZEY4VEVMYVlpbV8tZFZ4NlBQZ05QRXYyYjM4N19PNTcxdjE0YXFKZV9BVjRxYmtIcGk0WmRHMUJ0bEhqNU9fQW91dlBLRlo1ZVNmb2JvTmJXcVBQRDNJOEQxdmRVSk9nX2dvZFBiUGNaYjBGcE5idXF1YTAta2d5N1F1RWpWYWQwbjAya3ZlRHlSbDlZNXhBZFdib21YelRWRXJ4aE5yV1hXZkw2eHBBNDZTYmtCaXhfLVYzbHlTQXNPU18wa21pMlB3ZFZfZTNsNDZJU05scVBDNWpKcUZuX1dRbDNXRHliSU1ISU5Jak1GQUZwWUZIZGtzNlV4NjFTNF9IcnVleHNQN25uUDdwSkZkNXBOVEVCN3E2NUJpNkFrWG9XOHBYU3BnTHhUVFpsajB2ZjFwRloxWGp2STBYZHRubUtGMnBXa0JJSUh0ZFdOWHNQZU14cUZpRFB5ZUxJc0czY19laTN2N3NZZEhZSVNPc0pjOVFmTVJnZlR3SXFjemlZYUxxbU9sRVlrOHdrVUlJNDMxTk11WkdvTVFUYXgyRlNKUFBZUWxZRHN4ZVp2aDE4cV9SWkw3Sk9JVTlfVVlEUXFYWVBYZFhxSjNjQThyNHJTamUxMUtXaGlBbU41eFVwVWFFd2NQemExUU1iMER6b3hhTGd6S0UzTDlKb3hfTkpOSURTbm03VFJxTHpBR1NWVzJSTnhTRWQ5TW9vSjQwR2ZiNHk5ZUd3cVJGTnlwZl9Delo5dW50SXJyenBxWjNDZUdXdWEzdkstMkN6eE9rMFdkbS1OekpTU2VUUUlYMklJ?oc=5"
+        }
+      ],
+      "updatedAt": "2026-10-09T19:18:04+07:00"
     },
     {
       "id": "topic-9825cbcd55",
@@ -186,32 +266,6 @@
       "updatedAt": "2026-10-08T10:46:32+07:00"
     },
     {
-      "id": "topic-421c90bc4d",
-      "title": "ผงะทั้งร้าน! ศุลกากรช่องจอมบุกค้น “คาเฟ่บะหมี่ ตปท.” กลางเมืองโคราช เจอวัตถุดิบหนีภาษี-ไร้ อย. อึ้งสินค้าหมดอายุอื้อ!",
-      "sourceType": "news",
-      "category": "food",
-      "contentPotential": "high",
-      "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: คาเฟ่ / source: COP'S Magazine - ผงะทั้งร้าน! ศุลกากรช่องจอมบุกค้น “คาเฟ่บะหมี่ ตปท.” กลางเมืองโคราช เจอวัตถุดิบหนีภาษี-ไร้ อย. อึ้งสินค้าหมดอายุอื้อ!    COP'S Magazine",
-      "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
-      "creatorAngle": "ให้ Creator เล่าประสบการณ์ร้าน/เมนูที่อยากลอง แล้วถามคนอื่นว่าคิดเหมือนกันไหม",
-      "promptIdea": "เห็นคนพูดถึงเมนูนี้เยอะมาก มีใครลองแล้วบ้าง?",
-      "hashtags": [
-        "#FoodTrend",
-        "#CafeTH",
-        "#รีวิวของกิน",
-        "#ผงะทั้งร้าน!ศุลกากรช่องจ"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "COP'S Magazine",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0xMlhqZmRBalNGTm1RMGEwalJQZ2VXd3FWOE9aSjg3bWZsUTgtcm1GNEp4blpuRG5fTlNxNWFVUVF1TDZ1WlY2TE1sVEZXVjNyZGpuUklB?oc=5"
-        }
-      ],
-      "updatedAt": "2026-10-03T14:46:32+07:00"
-    },
-    {
       "id": "2026-2dda47381a",
       "title": "มัดรวมซีรีส์มาใหม่ ตุลาคม 2026 ตุลาตาแตกไม่เกินจริงงงง!!! รอดูเรื่องไหนกันบ้างคะ?👀😆📌📌📌",
       "sourceType": "news",
@@ -288,32 +342,6 @@
         }
       ],
       "updatedAt": "2026-10-07T11:43:53+07:00"
-    },
-    {
-      "id": "ai-d33936c08e",
-      "title": "ร้านอาหารในสหรัฐฯ หันใช้ AI ทำภาพเมนูเพื่อประหยัดงบ แต่ลูกค้ากลับรู้สึกขนลุกแทนที่จะหิว เพราะดูเหมือนอาหารของมนุษย์ต่างดาว",
-      "sourceType": "news",
-      "category": "food",
-      "contentPotential": "high",
-      "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: อาหาร / source: Facebook - ร้านอาหารในสหรัฐฯ หันใช้ AI ทำภาพเมนูเพื่อประหยัดงบ แต่ลูกค้ากลับรู้สึกขนลุกแทนที่จะหิว เพราะดูเหมือนอาหารของมนุษย์ต่างดาว #อาหาร #ขนลุก #ai #thestandardwealth    Facebook",
-      "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
-      "creatorAngle": "ให้ Creator เล่าประสบการณ์ร้าน/เมนูที่อยากลอง แล้วถามคนอื่นว่าคิดเหมือนกันไหม",
-      "promptIdea": "เห็นคนพูดถึงเมนูนี้เยอะมาก มีใครลองแล้วบ้าง?",
-      "hashtags": [
-        "#FoodTrend",
-        "#CafeTH",
-        "#รีวิวของกิน",
-        "#ร้านอาหารในสหรัฐฯหันใช้A"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Facebook",
-          "url": "https://news.google.com/rss/articles/CBMi9wdBVV95cUxPZXlLUlQtNnpfZjFITlRFZzJ5b2IyUm9rbjliLU1RLXZSX2xqZzZ5WlJEYUhraTE3dlhOcm51WW5ZUWttWEFwYl9yZERhUnJaYmVxMFVBeVVqSUZZNmxUdWxWY3Y1YjJSZkJiYnV1SVRucUw2d3ZUZGQ1ODU2YUx5WTZidS0wNTZSUWZlUVRCZXpPTlV3a1VpSVlfM2tnUElmSVJNZ1UycVdTTnhla1ZIMWs0XzZHY1pDQlZpQ3k5NlFmeDQ4X2pva1JCUTB1dmJhZGpDVzkzNTRSVDZaNXJNTVJCalNFSmkzU0xRRHQzRUJKeDdyN3BteFh0ekhKS1BxaEJGb09oZW1yYVdPNlROLVExV1VBQXdJWU1nd1Azal9aQmFsRXRWak5leW8wd2FXX0xiV3hSZEtGZ2RYSjFtOGFRcmFkOVV6c19ZbVNnMU9pY3B0cVQySk4zNzBIVEMyeWVhY2ZHRk9uWmVTRVoyZHhGMmhWSXNRdC1HdF9BTTZ1T1I3cTVNT1p2bU56MkVtOThXZUJtcTBsSkRjcjJlR0tqSkpVVFY0bHVXLTRmSG9mM1FCNEVVZmI1THNfaUE0RFYyQ203VDdOT1dMVUtuRlVWNzdORjZCd3F3UHlSd19Oc01jeUhLNVlJbTVBcFlBdXhnMUhaZEIyS3BsalN4OGtuODNkV3BrVWN0NEQ1azBpU3Z6UkZ6LXByOTJ4a0dIdWpZYnlnbEpMRGNJckpPZmt4QWx1cF9Zd2FHcUd6NWJlb2hZckNuRHB6WVA2SEVKX2UxOWlkallfUUdhVFppc0lncXZuSnBkUDRMSHZUTXExdXlXbzVnRmRTdlB5MGlwQ3p4b2l0T2pybllHc1hTZFZJbzRMSE4yd3R5QVlpRXlnNG53bFhxQjVyT1RaUG84bldMb1dkaXhKUkVPVmN6ZmFtWVptQVhZblVyRm9SMWo2aERfamFCek9veEpWNnRlSTRwNU5QenllUFhzN3h3OUdUdzFVQUJUNVJMS2JiU0ZGSGxCc3d4b2xpd2hMTThaRFd2bmRoQ0tLM1diOFFwUFotcXNMcnpQWTVMVDVITkhOcnpXbG1kM2JWMU1ncHdWLWxmWExhNGxfRy1ubUFyS3BDXzRNOFRGRWdDa2RncmZzZkloTlJQOE5XblpTd05RQk1JbzlJT1l4YmlINXpDOWRWWnBSRlJJemNzdzhBTWVzOVBTQnJkbW1TVVZ2UHk1LUJLSVhsa0RoVTd6eXRaQmhvN0NQT0d1alVTRm5OdGowbGxfN1FsVjNuYS1LR2J5MmFZZVE1TWgxVzVDZko0VkZqY251QmVBZTZYMVRRZ1RpakFKNnVz?oc=5"
-        }
-      ],
-      "updatedAt": "2026-10-05T22:16:38+07:00"
     },
     {
       "id": "fashion-visionary-bangkok-international-02d686c389",
@@ -446,32 +474,6 @@
       "updatedAt": "2026-10-09T16:03:24+07:00"
     },
     {
-      "id": "visionary-stage-202-1470db2d4f",
-      "title": "‘Visionary Stage 202’ รวมพลังดีไซเนอร์รุ่นใหม่ ถ่ายทอดความเป็นไทย ผ่านแฟชั่นร่วมสมัย",
-      "sourceType": "news",
-      "category": "beauty",
-      "contentPotential": "high",
-      "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: แฟชั่น / source: มติชนออนไลน์ - ‘Visionary Stage 202’ รวมพลังดีไซเนอร์รุ่นใหม่ ถ่ายทอดความเป็นไทย ผ่านแฟชั่นร่วมสมัย    มติชนออนไลน์",
-      "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
-      "creatorAngle": "ชวนแชร์สไตล์ ไอเท็ม หรือเทคนิคที่ใช้จริงโดยไม่ขายของแข็งเกินไป",
-      "promptIdea": "สไตล์นี้ถ้าแต่งในชีวิตจริงจะรอดไหม?",
-      "hashtags": [
-        "#BeautyTalk",
-        "#FashionTH",
-        "#ไอเดียแต่งตัว",
-        "#‘VisionaryStage202’รวมพล"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "มติชนออนไลน์",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBDdzdwQVNvdlNKUnIteGp6a2JaalB0M2JPX1gtWkNQUFdXRFVZemN5VjJOUDYzVEFJWkQxc0loaGJpMDRWX0M4UU1SblpUa2d0eXNSRW00Snp0dmVvMm1kTVA4V09URWhP?oc=5"
-        }
-      ],
-      "updatedAt": "2026-10-03T14:24:59+07:00"
-    },
-    {
       "id": "topic-4648ba02ec",
       "title": "“ชื่น” คาเฟ่น่ารัก สไตล์อังกฤษ จุดเช็กอินสายคาเฟ่ที่สระบุรี",
       "sourceType": "news",
@@ -522,6 +524,31 @@
         }
       ],
       "updatedAt": "2026-10-08T13:29:00+07:00"
+    },
+    {
+      "id": "pmyc-412415304d",
+      "title": "#PMYCวอลเลย์บอลระดับจังหวัด",
+      "sourceType": "news",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "ข่าวจาก Google News keyword: วอลเลย์บอล / source: Facebook - #PMYCวอลเลย์บอลระดับจังหวัด #PMYCVolleyballPostMatch สานต่อความฝัน! “โรงเรียนพล” พร้อมรวมพลังสู้รอบภูมิภาคศึกลูกยาง PMYC …………………………. ทีมนักตบลูกยางสาวน้อย “โรงเรียนพล” จากขอนแก่น พ",
+      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Facebook",
+          "url": "https://news.google.com/rss/articles/CBMikAZBVV95cUxPbHdPUDhvLW9ORVNMSDFOMXZzZDZxN3BXd2FoZ2lUNEZFeTlhQll0WVpxQ0VfVlFfYUd4SjhuSWZSQmJFanRQXzhIWkRHOFl6eWl1NmNyT2JEd3NUMm9ZbmFodkktUTNTZDhOY1dzeXZYU3lhOTlTLW9zc3lPa3dienBmRWVCUU5Za09CZm9UUkRoTVpveXgwMDRrMlBBOEpONVpTbWhDbEFnQ1BaYlRtUElMTjVOeDJTcUZzQXFxTTJmQWNsSURvU1gxbmVfODc2UzlRU1Y1RXE3WFYwV3ZwLXAtUnliMWhpcW1PVTJOTjNwLU1EUjJiSHlTMmdSSmNPM3VHUkc4ODZ0d1EzSFo5eUdxODVUZHRkVkxIQjFkQXNWUFZzTGJBa0dDUExlRWVCOG1udHRIT3hfeC1vS01FQlNYM0xwU3c3d3dGT2NIMTlybWJpVFBGbWl3bHJsV25wMU1IVEpsWkFELW9OajFsdXRqZEFoNnIxUnhYV04yZGZxZEtlQzRVWGJ6WndZUW8yNnlJbWlxLW9GTmJ5amRWSkI2R2R0VjNxc2E3dEwzSVo3d2JMbkNRUzl6QnBkdGpvcjdQRnJQUEZsNHlRSml4a0xSZEFqNFlzdVlWM04tbG14eDRsdEUyTUtMZ3h5ZHEzaENPTFFLQ2duNDJyWm1Ldk5zbEJpWlZxNW82dnNhM3dvSThxdy1vY09Bbml0cWQwSzhOR001OW0wODRDRjBuanJMdFNVcTdnYlUxRnZRQVBoVE5pTDdKVXV1S0E2WHZoR0JiMW5NXzVKbjE1ZFhmbDZYM0FOYkJ2UzhhTWdkem0wWDVXd0VqbEdNR0toRVViRkl5THBLME5aUjJLWFh2VzlrcmFuWFM2NUR3cEtaQ2lzRFFERkE1MHZZMU5HVGtZU0VJQ2toTE9rcDdHYlNsSnRaekctbjBkVUhhdFRzWmpwTUpwbzJlLU93V1ZjUlNVd2o1MkZDSG84SEEzSHZPZnMtNmxJVnFfcjU2cHVjZEFZaVZfVlZTM2R6LVFhRmJX?oc=5"
+        }
+      ],
+      "updatedAt": "2026-10-05T18:22:20+07:00"
     },
     {
       "id": "topic-7e897207ad",
@@ -576,8 +603,8 @@
       "updatedAt": "2026-10-08T11:33:54+07:00"
     },
     {
-      "id": "panama-earthquake-today-a4ce82b828",
-      "title": "panama earthquake today",
+      "id": "liverpool-068942c83f",
+      "title": "liverpool",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
@@ -590,7 +617,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#panamaearthquaketoday"
+        "#liverpool"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -599,28 +626,28 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "Powerful magnitude 7.7 earthquake hits Panama, damaging buildings",
-          "url": "https://www.bbc.com/news/articles/c620r39zdp9wo"
+          "title": "On demand: Watch Andoni Iraola's pre-Manchester City press conference",
+          "url": "https://www.liverpoolfc.com/news/andoni-iraola-liverpool-manchester-city-press-conference-premier-league"
         },
         {
-          "title": "Powerful 7.7-magnitude earthquake strikes Panama and triggers panic in capital",
-          "url": "https://www.theguardian.com/world/2026/oct/09/panama-earthquake"
+          "title": "The Premier League is back: welcome to the new era of post-verdict unreality | Barney Ronay",
+          "url": "https://www.theguardian.com/football/2026/oct/09/the-premier-league-is-back-welcome-to-the-new-era-of-post-verdict-unreality"
         },
         {
-          "title": "Panama rocked by 2 powerful earthquakes and multiple aftershocks, prompting evacuations",
-          "url": "https://apnews.com/article/panama-earthquake-e4e5dc85829714db88a74de3b7019d55"
+          "title": "Man City face Anfield cauldron after guilty Premier League verdicts",
+          "url": "https://www.bangkokpost.com/sports/3334170/man-city-face-anfield-cauldron-after-guilty-premier-league-verdicts"
         }
       ],
-      "updatedAt": "2026-10-10T13:10:00+07:00"
+      "updatedAt": "2026-10-10T20:00:00+07:00"
     },
     {
-      "id": "wetter-0f67890823",
-      "title": "wetter",
+      "id": "premier-league-standings-fdc56c5696",
+      "title": "premier league standings",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 100+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -628,7 +655,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#wetter"
+        "#premierleaguestandings"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -637,83 +664,19 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "Erster Schnee auf den Bergen? Wetter in Oberbayern wird jetzt richtig herbstlich",
-          "url": "https://www.ovb-online.de/weltspiegel/bayern/wetter-in-oberbayern-schnee-in-den-alpen-und-frostgefahr-94534339.html"
+          "title": "Scout Selection: Best Fantasy team for Gameweek 6",
+          "url": "https://www.premierleague.com/en/news/4730172/scout-selection-best-fantasy-team-for-gameweek-6"
         },
         {
-          "title": "Wetterbericht für Bayern (09.10.2026)",
-          "url": "https://www.berliner-sonntagsblatt.de/Deutschland/Wetterbericht-fuer-Bayern-09-10-2026--370144.html"
+          "title": "What to do with Joao Pedro? FPL gameweek six dilemmas",
+          "url": "https://www.bbc.com/sport/football/articles/cq4g1pk9w8y0o"
         },
         {
-          "title": "Von Sommer zu Herbst: Landkreis Augsburg erlebt Temperatursturz und Regen",
-          "url": "https://www.augsburger-allgemeine.de/schwabmuenchen/wetter-landkreis-augsburg-temperatursturz-am-donnerstag-und-regen-wetterumschwung-2-115451958"
+          "title": "Who is the best captain for FPL Gameweek 6?",
+          "url": "https://www.fantasyfootballscout.co.uk/2026/10/09/who-is-the-best-captain-for-fpl-gameweek-6-5/"
         }
       ],
-      "updatedAt": "2026-10-10T07:10:00+07:00"
-    },
-    {
-      "id": "topic-b1bed82d4c",
-      "title": "กุล วุฒิ วิทิต ศานต์",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 2000+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#กุลวุฒิวิทิตศานต์"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "รับโอนเรียบร้อย! ส่องเงินรางวัล \"วิว กุลวุฒิ\" เจ้าของ 2 เหรียญเอเชียนเกมส์ 2026",
-          "url": "https://www.sanook.com/sport/1672999/"
-        },
-        {
-          "title": "ส่องท็อป 10 มือวางโลก หลัง \"วิว กุลวุฒิ\" ทวงคืนมือ 1 ของโลก แบดมินตัน ชายเดี่ยว อีกครั้ง",
-          "url": "https://www.thairath.co.th/sport/worldsport/2964759"
-        },
-        {
-          "title": "เมย์ รัชนก ยึดมือ 5 โลกต่อเนื่อง! หมิว รั้งท็อป 10 หลังจบเอเชี่ยนเกมส์ 2026",
-          "url": "https://www.matichon.co.th/sport/thai-sport/news_5924321"
-        }
-      ],
-      "updatedAt": "2026-10-10T07:50:00+07:00"
-    },
-    {
-      "id": "topic-ec196ff94b",
-      "title": "ความสัมพันธ์ด้านกลาโหมระหว่างฟิลิปปินส์กับสาธารณรัฐเกาหลีเปลี่ยนไปสู่ความร่วมมือทางอุตสาหกรรม",
-      "sourceType": "news",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: ความสัมพันธ์ / source: Indo-Pacific Defense FORUM - ความสัมพันธ์ด้านกลาโหมระหว่างฟิลิปปินส์กับสาธารณรัฐเกาหลีเปลี่ยนไปสู่ความร่วมมือทางอุตสาหกรรม    Indo-Pacific Defense FORUM",
-      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#ความสัมพันธ์ด้านกลาโหมระ"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Indo-Pacific Defense FORUM",
-          "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxPRDFnay1mMVp3ZWdwT0xGQjkybkk2WFJIRG5LQUt4TXkxQlJVcWs2N0hWQV9UaXNjTG9ZaEpqdHlFbnpwWnFPYXBnRkdsaFJ5SVFVUm1jMUROZVludW4zLVJRcC1JektWR2lMUHNISzB3cUZuVmtMeWIyOENsUWt1QUlrZlJlM3EwWG5YTi10Y04wOHdQMEY5emJUMkdGNUhib3F1dFoyVWdVVmh1aUxoWGJSYk50NVBrbExzaDB1TXN2dGpCOGRZNHZhTFNJbWdfSTJYRGZvOWFaRnpMaWowWlZ2Z293OXI2MFZtVXZrVkpCcVZfOXdBSDdraHFBSEN6dW9ySzB1VXZwOFdLNzRWUDZmWjZtaGh5ZHlsTVo2UDIyRUt1c3J5X3J1R1A3Q2pMeDRsRnc0UVk1RkxXTDBXXzRWcEpYbzFRcVVnNE1PZ2NrUjRUOEdTOXA4UQ?oc=5"
-        }
-      ],
-      "updatedAt": "2026-10-08T21:37:23+07:00"
+      "updatedAt": "2026-10-10T20:00:00+07:00"
     },
     {
       "id": "friendly-football-match-d2edc77902",
@@ -742,6 +705,32 @@
       "updatedAt": "2026-10-07T22:07:11+07:00"
     },
     {
+      "id": "2026-16-00-b483387f67",
+      "title": "ช่องทางถ่ายทอดสด วอลเลย์บอลหญิง เอสวี ลีก ไทยแลนด์ เกมส์ 2026 วันนี้ 16.00 น",
+      "sourceType": "news",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "ข่าวจาก Google News keyword: วอลเลย์บอล / source: Sanook - ช่องทางถ่ายทอดสด วอลเลย์บอลหญิง เอสวี ลีก ไทยแลนด์ เกมส์ 2026 วันนี้ 16.00 น.    Sanook",
+      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#ช่องทางถ่ายทอดสดวอลเลย์บ"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Sanook",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9IQkM0WWdUUGp4T25NU3J1OTViamhoT1J0ZlZEWlA0Qy1GVkQ1c2pXUXJnam5COUtkTWprcmYyYkNGWkdvSnlsZ0t5aFdlQQ?oc=5"
+        }
+      ],
+      "updatedAt": "2026-10-10T09:35:00+07:00"
+    },
+    {
       "id": "topic-ab2767d0e9",
       "title": "ช่องทางถ่ายทอดสด วอลเลย์บอลหญิงไทย พบ ฝูเจี้ยน ศึกรายการพิเศษ ที่ประเทศจีน",
       "sourceType": "news",
@@ -766,44 +755,6 @@
         }
       ],
       "updatedAt": "2026-10-04T19:26:00+07:00"
-    },
-    {
-      "id": "topic-13681eb828",
-      "title": "ตารางบอลวันนี้",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#ตารางบอลวันนี้"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "ชี้ 4 ตัวเต็งบอลน่าเชียร์ 10 ต.ค. 69 : ทีเด็ดบอลวันนี้ ลุ้น สโต๊ค ซิตี้, แมนส์ฟิลด์ ซิวชัย!",
-          "url": "https://www.siamsport.co.th/football-international/other/110520/"
-        },
-        {
-          "title": "วิเคราะห์บอล อาร์เซน่อล vs ลีดส์ 10 ต.ค. 69 ปืนใหญ่หวังกู้ฟอร์ม",
-          "url": "https://www.siamsport.co.th/football-international/premierleague/110498/"
-        },
-        {
-          "title": "ดูบอลสด วิเคราะห์บอลพรีเมียร์ลีก อาร์เซน่อล พบ ลีดส์ 10 ต.ค.69",
-          "url": "https://www.pptvhd36.com/sport/news/284988"
-        }
-      ],
-      "updatedAt": "2026-10-10T06:20:00+07:00"
     },
     {
       "id": "2569-b684cbcdc6",
@@ -832,8 +783,8 @@
       "updatedAt": "2026-10-08T20:26:00+07:00"
     },
     {
-      "id": "topic-7095ad027e",
-      "title": "ปานามา",
+      "id": "topic-43f63f24ff",
+      "title": "บาเยิร์น",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
@@ -846,7 +797,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#ปานามา"
+        "#บาเยิร์น"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -855,45 +806,19 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "แผ่นดินไหวขนาด 7.7 เขย่าปานามา ประชาชนอพยพออกนอกอาคาร",
-          "url": "https://www.thaipbs.or.th/news/content/570713"
+          "title": "วิเคราะห์บอล เอาก์สบวร์ก vs บาเยิร์น 10 ต.ค. 69 เสือใต้ล่าชัย 4 นัดติด",
+          "url": "https://www.siamsport.co.th/football-international/bundesliga/110504/"
         },
         {
-          "title": "แผ่นดินไหวขนาด 7.6 เขย่าชายฝั่งทางใต้ของปานามา",
-          "url": "https://th.investing.com/news/economy-news/article-93CH-797938"
+          "title": "เอาก์สบวร์ก vs. บาเยิร์น มิวนิค – ศึกดาร์บีแห่งบาวาเรีย เมื่อทีมเล็กกลายเป็นฝันร้ายของเสือใต้",
+          "url": "https://thestandard.co/augsburg-bayern-munich-bavaria-derby/"
         },
         {
-          "title": "แผ่นดินไหว 7.7 เขย่าปานามา อาคารพังเสียหาย ประชาชน 4.6 ล้านคนรับรู้แรงสั่นสะเทือน",
-          "url": "https://today.line.me/th/v3/article/YapQjva?view=topic&referral=worldnews"
+          "title": "LIVE : ดูบอลสด เอาก์สวร์ก พบ บาเยิร์น มิวนิค ฟุตบอลบุนเดสลีกา เวลา 20.30 น.",
+          "url": "https://www.sportingnews.com/th/football/news/live-watch-augsburg-vs-bayern-munich-bundesliga-2026-27/e070e7cd427bd8721df6c0ce"
         }
       ],
-      "updatedAt": "2026-10-10T10:00:00+07:00"
-    },
-    {
-      "id": "2026-138607ea90",
-      "title": "ปิดฉากคว้าชัย! วอลเลย์บอลชายไทย สู้เดือดอัด อินเดีย ศึกลูกยางเอเชียนเกมส์ 2026",
-      "sourceType": "news",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: วอลเลย์บอล / source: Sanook - ปิดฉากคว้าชัย! วอลเลย์บอลชายไทย สู้เดือดอัด อินเดีย ศึกลูกยางเอเชียนเกมส์ 2026    Sanook",
-      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#ปิดฉากคว้าชัย!วอลเลย์บอล"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Sanook",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAzVlZ1QlJhaWp2cXpDNF92amluSW90S0V5SXBqOV9EZ1R1NmdWZk9uY3JnR0I4enloUmwxWjJLb3RDTmFRZDVZZVJMc2lNZw?oc=5"
-        }
-      ],
-      "updatedAt": "2026-10-03T13:48:00+07:00"
+      "updatedAt": "2026-10-10T19:40:00+07:00"
     },
     {
       "id": "3-a4b990b601",
@@ -922,13 +847,13 @@
       "updatedAt": "2026-10-06T23:03:13+07:00"
     },
     {
-      "id": "one-291b464b42",
-      "title": "ผลมวย one",
+      "id": "topic-1a6c28c01d",
+      "title": "ผลบอล",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 500+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -936,7 +861,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#ผลมวยone"
+        "#ผลบอล"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -945,28 +870,28 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "ผลไฟต์ต่อไฟต์ ศึก ONE ลุมพินี 174 & The Inner Circle 34",
-          "url": "https://www.onefc.com/th/live-results/the-inner-circle-34-and-one-friday-fights-174-results-and-highlights-for-every-match/"
+          "title": "ผลบอล: การท่าเรือ เอฟซี โดน เปอร์ซิบ บันดุง รัวพลิกแซงชนะ 3-1 นัดแรกศึก Shopee Cup",
+          "url": "https://www.siamsport.co.th/football-thailand/thaileague-1/110460/"
         },
         {
-          "title": "รุสตัม กด 2 นับชนะ สุริยันต์เล็ก เฮ 9 ไฟต์รวด ศึก ONE ลุมพินี 174",
-          "url": "https://www.siamsport.co.th/other-sports/boxing/110516/"
+          "title": "‘สิงห์เจ้าท่า’ ช็อก! ทีมอินโดฯ ยิงรัวๆ ท้ายเกมแซงชนะ",
+          "url": "https://www.dailynews.co.th/news/6260577/"
         },
         {
-          "title": "ONE ลุมพินี : ตัวแทนไทยเหมา! 4 นักสู้ปิดเกมสวย ฟันโบนัสรวม 1.4 ล้านบาท ศึก ONE ลุมพินี 174",
-          "url": "https://www.ch7.com/news/192700/"
+          "title": "ประเดิมโค้ชใหม่ไม่สวย! การท่าเรือ พ่ายเปอร์ซิบ บันดุง ศึกชิงแชมป์สโมสรอาเซียน",
+          "url": "https://www.khaosod.co.th/sports/news_10430910"
         }
       ],
-      "updatedAt": "2026-10-10T13:10:00+07:00"
+      "updatedAt": "2026-10-10T19:20:00+07:00"
     },
     {
-      "id": "topic-674e7080e7",
-      "title": "ลิเวอร์พูล",
+      "id": "topic-712aff11f4",
+      "title": "ฟูแล่ม",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 100+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -974,7 +899,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#ลิเวอร์พูล"
+        "#ฟูแล่ม"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -983,19 +908,19 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "อาร์เน่อ สล็อต อดีตกุนซือ ลิเวอร์พูล ได้งานใหม่แล้ว",
-          "url": "https://www.thairath.co.th/sport/eurofootball/premierleague/2965335"
+          "title": "Ipswich Town vs Fulham: Premier League preview, team news, stats & head-to-head",
+          "url": "https://www.bbc.com/sport/football/live/c5j9knn18r08t"
         },
         {
-          "title": "ไก่สนไหมพี่ว่างอยู่! สล็อต เปิดใจ สนคุม สเปอร์ส หากเด แซร์บี้โดนเด้ง | Soccersuck",
-          "url": "https://today.line.me/th/v3/article/JPy21DP"
+          "title": "Cottage Tactico: High intensity Tractor Boys",
+          "url": "https://www.fulhamfc.com/news/2026/october/09/cottage-tactico-high-intensity-tractors-boys/"
         },
         {
-          "title": "\"อาร์เน่อ สล็อต\" สนคุม \"สเปอร์ส\" ลุ้นเสียบแทน \"โรแบร์โต้ เด แซร์บี้\" หากไก่เดือยทองตัดสินใจปลด",
-          "url": "https://siamrath.co.th/sports/327715"
+          "title": "Ipswich vs Fulham LIVE! Premier League score updates, news, prediction and lineups",
+          "url": "https://www.skysports.com/football/live-blog/13592685/ipswich-vs-fulham-live-premier-league-score-updates-news-prediction-and-lineups"
         }
       ],
-      "updatedAt": "2026-10-10T06:30:00+07:00"
+      "updatedAt": "2026-10-10T19:10:00+07:00"
     },
     {
       "id": "sports-rehabilitation-club-spo-088cc6655e",
@@ -1024,46 +949,8 @@
       "updatedAt": "2026-10-09T15:26:31+07:00"
     },
     {
-      "id": "2569-e9705b20ea",
-      "title": "เช็คสถานะเงินเยียวยาน้ําท่วม 2569",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#เช็คสถานะเงินเยียวยาน้ํา"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "ปภ.แนะ 2 ช่องทางเช็กสถานะเงินเยียวยาน้ำท่วมปี 2569",
-          "url": "https://www.thaipbs.or.th/news/content/568001"
-        },
-        {
-          "title": "แจ้งปิดปรับปรุงระบบ claim.bangkok.go.th ชั่วคราว คืนนี้ 9 ตุลาคม 2569",
-          "url": "https://www.thairath.co.th/news/society/2965206"
-        },
-        {
-          "title": "เช็กยอดด่วน วันนี้ ปภ.-ออมสิน โอนเงินเยียวยาน้ำท่วมแล้ว 3,483 ครัวเรือน",
-          "url": "https://www.dailynews.co.th/news/6262284/"
-        }
-      ],
-      "updatedAt": "2026-10-10T12:00:00+07:00"
-    },
-    {
-      "id": "topic-e1b3e84b0d",
-      "title": "เมื่อชีวิตไม่เหมือนฝัน",
+      "id": "topic-a391e7a34e",
+      "title": "สวอนซี",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
@@ -1076,7 +963,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#เมื่อชีวิตไม่เหมือนฝัน"
+        "#สวอนซี"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -1085,28 +972,142 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "รู้จัก 4 นักแสดง เมื่อชีวิตไม่เหมือนฝัน The Vanishing Beauty",
-          "url": "https://entertainment.trueid.net/detail/AwoBN8ze5akV"
+          "title": "Watch: Canary Call after Swansea City v Norwich City",
+          "url": "https://www.bbc.com/sport/football/live/c6d93nyvqw17t"
         },
         {
-          "title": "ประวัติ ฉางหัวเซิน (Chang Huasen) นักแสดงจีนดาวรุ่งสุดหล่อ ผลงานแน่นเสน่ห์ขโมยใจแฟนๆ",
-          "url": "https://www.sanook.com/movie/190230/"
+          "title": "Swansea vs. Norwich Lineups, Live Streaming, How & Where to Watch EFL Championship on TV",
+          "url": "https://sports.yahoo.com/articles/swansea-vs-norwich-lineups-live-093500027.html"
         },
         {
-          "title": "รู้จัก ฉางหัวเซิน (Chang Huasen) จาก The Vanishing Beauty",
-          "url": "https://entertainment.trueid.net/detail/EQjRZO7wzDLQ"
+          "title": "Injured Socceroo in a race to be fit for Asian Cup",
+          "url": "https://www.inkl.com/news/injured-socceroo-in-a-race-to-be-fit-for-asian-cup"
         }
       ],
-      "updatedAt": "2026-10-10T10:30:00+07:00"
+      "updatedAt": "2026-10-10T19:30:00+07:00"
     },
     {
-      "id": "9-2569-2026-16-18-6a2fb5c19e",
-      "title": "📆โปรแกรมแข่งขันวอลเลย์บอลชายหาดวันที่ 9 ต.ค. 2569 🏐การแข่งขันวอลเลย์บอลชายหาด “ยูโร่เค้ก ไทยแลนด์ บีช วอลเลย์บอล 2026” รุ่นอายุ 16 ปีและ 18 ปี รอบคัดเลือก ภาคเหนือ ณ โ...",
+      "id": "topic-f937119012",
+      "title": "อาร์เน่สล็อต",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 2000+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#อาร์เน่สล็อต"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "อาร์เน่อ สล็อต ได้งานใหม่หลังแยกทางลิเวอร์พูล-จับตาคืนวงการคุมทีม",
+          "url": "https://www.siamsport.co.th/football-international/other/110533/"
+        },
+        {
+          "title": "ไก่สนไหมพี่ว่างอยู่! สล็อต เปิดใจ สนคุม สเปอร์ส หากเด แซร์บี้โดนเด้ง | Soccersuck",
+          "url": "https://today.line.me/th/v3/article/JPy21DP"
+        },
+        {
+          "title": "อาร์เน่อ สล็อต อดีตกุนซือ ลิเวอร์พูล ได้งานใหม่แล้ว",
+          "url": "https://www.thairath.co.th/sport/eurofootball/premierleague/2965335"
+        }
+      ],
+      "updatedAt": "2026-10-10T18:40:00+07:00"
+    },
+    {
+      "id": "topic-72fa650470",
+      "title": "ฮานอยวันนี้",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 100+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#ฮานอยวันนี้"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "\"หวยฮานอยวันนี้\" 9 ต.ค. 2569 หวยฮานอยล่าสุด ตรวจหวยฮานอย 9/10/69",
+          "url": "https://www.komchadluek.net/lottery/lotto/624026"
+        },
+        {
+          "title": "หวยฮานอย ประจำวันที่ 10/10/69",
+          "url": "https://siamrath.co.th/lottery/327960"
+        },
+        {
+          "title": "\"สถิติหวยฮานอย\" 5 ต.ค. 69 หวยฮานอยวันนี้ ฮานอยย้อนหลัง 5/10/69",
+          "url": "https://www.komchadluek.net/lottery/lottery-statistics/623736"
+        }
+      ],
+      "updatedAt": "2026-10-10T18:50:00+07:00"
+    },
+    {
+      "id": "topic-925c7b9e02",
+      "title": "เกรด",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 100+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#เกรด"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "PTTEP โบรกฯ อัปเกรด ‘ซื้อ’ เป้าใหม่ 170 บาท ปันผลสูง 6.6% | The Bangkok Insight",
+          "url": "https://today.line.me/th/v3/article/0MWZYon"
+        },
+        {
+          "title": "4 โบรกเชียร์ “ซื้อ” PTTEP มองกำไร Q3 แกร่ง ราคาขายก๊าซหนุน-วอลุ่มฟื้น ชูเป้าสูงสุด 179 บ.",
+          "url": "https://www.kaohoon.com/news/870697"
+        },
+        {
+          "title": "ลุ้นน้ำมันดิบดูไบ ต.ค.-พ.ย. 'ปตท.' คาดทรงตัวกรอบ 95-105 ดอลลาร์ หลัง ก.ย. สวิง",
+          "url": "https://www.bangkokbiznews.com/economics/1254632"
+        }
+      ],
+      "updatedAt": "2026-10-10T18:50:00+07:00"
+    },
+    {
+      "id": "imf-77-67d428d8ea",
+      "title": "เปิดความสัมพันธ์ ไทย และ IMF ความร่วมมือกว่า 77 ปี เป็นอย่างไร",
       "sourceType": "news",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: วอลเลย์บอล / source: Facebook - 📆โปรแกรมแข่งขันวอลเลย์บอลชายหาดวันที่ 9 ต.ค. 2569 🏐การแข่งขันวอลเลย์บอลชายหาด “ยูโร่เค้ก ไทยแลนด์ บีช วอลเลย์บอล 2026” รุ่นอายุ 16 ปีและ 18 ปี รอบคัดเลือก ภาคเหนือ ณ โรงเรียนเม็งรา",
+      "summary": "ข่าวจาก Google News keyword: ความสัมพันธ์ / source: thestandard.co - เปิดความสัมพันธ์ ไทย และ IMF ความร่วมมือกว่า 77 ปี เป็นอย่างไร    thestandard.co",
       "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -1114,16 +1115,54 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#📆โปรแกรมแข่งขันวอลเลย์บอ"
+        "#เปิดความสัมพันธ์ไทยและIM"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
         {
-          "title": "Facebook",
-          "url": "https://news.google.com/rss/articles/CBMi5gdBVV95cUxQdTQtQk5mT3lYZFpjOVdCTHhuaXBUVE9GX3BZMjJZUEp0anRLbU9ESXB4ODdiSUFlQWtQdk1oVUU4MnBPU200WDZ4VzRFSXFycFNvRFR6VWxhc1U1ek84T0NsbjEwY0xlS3hlQUMtOTRFN29qM29FZHQ3UGROSGVYMFgtRHdSNlJvZkQ4MDdYMmZlSnlPYVVUbnFlVE5aOTNPX0lVenQtN3FRRXdQVFZKZHRnT24za1UtWjR4TzVLOW40eFA2SzdaSjRJemplaDVrNEJMZVhUTUE3UE1CZF9Sb2lGZUMyaWl5a1JGS2xtZnlreEJmVU9sQTFQWWRFMmhOZm5xWUJsNW5oNk5oRUptWXFPN0dtV0tvdV9TOUZreXRQREd4RVI4M09FUFhnOElYWFVTTWRPZG1oZEwxZHZlUXlQSVRVUzRNMHhMb0daV0ZDaFlpeG5FUzhwYjA4cllSYWlweU5ZUHY4RE9BN2hyVmtqdk1uM0pYTnljSjNKMFNFYU84Qm41Y0hmbktxUk54SHFQZHpLRHBRLWRsZHljYkVHeG81LXJ2RE56UlBGSU9Qald4QmhKWm81SmlJSzJaQ0J1SGtFbkdzRTQ0cWRHV3dRM1FlMkYycHhPQmpnVUxqZTlCdWF3Nk5xN1c2dW1pT0pYaHJobDdSbFNoR0dWdUFwS2NSSUhUa2l4RVBCQnQ3d0h2dWE0UUI0ajkzOVZpd2Fnck56Qk53bGp2QTBIVVc3aXFSRnZrczRPUlp0U2tNZTRHQlYydUI3aEo5ZDRlSEtjM2dEcUdxNF93UndiMXZuLXA5Zk1STlR0NHRSdGlERXNzc0JhemFvVll1ZXJ0N29YeVlFeHl1OWtVOWhMamZHWGhYbXBBMWRKQTdHOWN2SkZqcUNCVGJGNHgwNDFEa0tFWXJUTzVpU2dqNGdNVFF5YTF1aC1VQXdWNGdMdEZzZTZmS1pmSGp4TllCQnNXLTJWOUFWWWJmZlNMb3h1WWpoQmhreGZScGZyZzc2RnV2dEZpN1UtNks2N1ZFc0gwRTEyQ1BueVpiTGlpTnFOTUFqS0M0RTh5N2l0MldITnJ5NWZjZkpPV2xrbDJIZjJUdDVXM2plYUlyc2xpQVNsYjBOMG1zOXlERmFnVWYwVThkeUtxczVKN0Y3THMyRy03LW5JVkZhQVdtRmRkUHB0Y3NPTEZNc3NodHJXdjNCU1JuM2VzcXZRRjA4cTBOZk9SV2Z6UVNMY1RkekhPMDVpQ0t4WDl3U1I0Wkx4R0RVSmJnNDBYNmhMV3A2c29QaklZNkl0TmFxQXhVa2VWR19wVEp5aE53Zw?oc=5"
+          "title": "thestandard.co",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE55ZHUwVVhUaGxQNmQxMzFXNS1rRzk4SW5WOXJxZ2JqZnpmdFBPX2tqR2Nzcjlvd2xaM1BFV2V2QkozVGh3ekZzVXBUSHA5bFF3N1lHZEphcm1hQVI5VGZqS1lLUS1rYVhs?oc=5"
         }
       ],
-      "updatedAt": "2026-10-08T21:34:25+07:00"
+      "updatedAt": "2026-10-10T02:58:57+07:00"
+    },
+    {
+      "id": "topic-c875c92d0b",
+      "title": "แอตเลติโก มาดริด",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 100+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#แอตเลติโกมาดริด"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "เกร็ดก่อนเกมดู อลาเบส VS แอต.มาดริด ศึก ลาลีกา พีพีทีวี ยิงสด",
+          "url": "https://www.pptvhd36.com/sport/news/284934"
+        },
+        {
+          "title": "ศึกบิ๊กทีมลาลีก้า ราชันชุดขาว-ตราหมี ยิงสด 4 สัปดาห์เดือด ตลอดเดือนตุลาคมนี้",
+          "url": "https://www.matichon.co.th/sport/footballinter/news_5925730"
+        },
+        {
+          "title": "โปรแกรมถ่ายทอดสดฟุตบอลวันนี้! . - LaLiga 2026/27 ราโย บาเยกาโน พบ แอธ. บิลเบา เวลา 19.00 ทางช่อง beIN 2 (608) อลาเบส พบ แอต. มาดริด เวลา 21.15 ทางช่อง beIN 2 (608) บาร์เซโลนา พบ เคตาเฟ เวลา 23.30 ทางช่อง beIN 1 (607) เรอัล มาดริด พบ บียาร์เรอัล เวลา 02.00",
+          "url": "https://www.facebook.com/Truevisions/posts/%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B8%96%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%97%E0%B8%AD%E0%B8%94%E0%B8%AA%E0%B8%94%E0%B8%9F%E0%B8%B8%E0%B8%95%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%99%E0%B8%B5%E0%B9%89-laliga-202627%E0%B8%A3%E0%B8%B2%E0%B9%82%E0%B8%A2-%E0%B8%9A%E0%B8%B2%E0%B9%80%E0%B8%A2%E0%B8%81%E0%B8%B2%E0%B9%82%E0%B8%99-%E0%B8%9E%E0%B8%9A-%E0%B9%81%E0%B8%AD%E0%B8%98-%E0%B8%9A%E0%B8%B4%E0%B8%A5%E0%B9%80%E0%B8%9A%E0%B8%B2-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-1900-/1563794145793924/?locale=th_TH"
+        }
+      ],
+      "updatedAt": "2026-10-10T19:40:00+07:00"
     },
     {
       "id": "topic-0056c26408",
@@ -1223,12 +1262,12 @@
       "riskNote": "Medium risk ควรอ้างอิงแหล่งทางการและเตือนให้ระวังลิงก์ปลอมหรือข้อมูลผิด",
       "sources": [
         {
-          "title": "Marketeer Online",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5nYzNqNWlqc2Q1dnZJX1N5WXd6Qy1XZmc4YllqWVZkUzNEanRxa0xNTXIyeWgyQ1dWZF9EbmJFMWJNYVlCcHJ3R3VfV1JtdzZJcmttOQ?oc=5"
-        },
-        {
           "title": "www.ch7.com",
           "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA3aWR4ZkJadWxINUZZVEN0ejdsSmpqZmc2WXRKUUU0Z2xvMkNwREdHUE5xeUk0UWViUFlKUmZrcFpXc0xQR3REMHRXWQ?oc=5"
+        },
+        {
+          "title": "Sanook",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1rN09ySUJCdnVvaElMRG9lWTFsWVc1cnNoQ2RWMjJsRXpKRXpySUtOeFdRalpSNExraUF2dW1qdk9RSHVXNlR1c19yb08?oc=5"
         },
         {
           "title": "Mint Magazine Thailand",
@@ -1243,7 +1282,7 @@
           "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE92dUpueTZQVThMY2N6ODNhcUc3WnFxMW5QMnZ1Szh4M1hiUkltTmp3aE50RFNmZlRUNU1INHpNNDV4blJIM1QyU1VB?oc=5"
         }
       ],
-      "updatedAt": "2026-10-08T15:05:53+07:00"
+      "updatedAt": "2026-10-08T21:48:45+07:00"
     },
     {
       "id": "topic-44d5deeebe",
@@ -1296,44 +1335,6 @@
         }
       ],
       "updatedAt": "2026-10-05T18:32:21+07:00"
-    },
-    {
-      "id": "topic-f37eac2ca8",
-      "title": "ตรวจสอบสิทธิเลือกตั้งประกันสังคม",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "low",
-      "riskLevel": "high",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 500+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "ใช้เป็นข้อมูลเฝ้าระวังมากกว่าบรีฟโพสต์ หากต้องใช้ควรให้ทีม review ก่อน",
-      "promptIdea": "เรื่องนี้ควรเช็กข้อมูลก่อนแชร์ ทุกคนคิดว่าเราควรระวังอะไรบ้าง?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#ตรวจสอบสิทธิเลือกตั้งประ"
-      ],
-      "riskNote": "High risk ควรให้ทีม review ก่อนนำไป brief Creator และไม่ควรชวนดราม่า",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "“จุลพันธ์” ลั่นเลือกตั้งบอร์ดประกันสังคมพร้อม 100% พร้อมระดมเจ้าหน้าที่ 4.7 หมื่นคนดูแลเลือกตั้ง 11 ต.ค.นี้",
-          "url": "https://today.line.me/th/v3/article/8nMVVwR"
-        },
-        {
-          "title": "“วิรัลย์ยา วงษ์จันทร์” เบอร์ 5 ชวนนายจ้างเตรียมเอกสาร–เช็กหน่วยเลือกตั้งบอร์ดประกันสังคม ก่อนใช้สิทธิ 11 ต.ค.",
-          "url": "https://mgronline.com/business/detail/9690000098482"
-        },
-        {
-          "title": "สปส.พร้อมร้อยเปอร์เซ็นต์! เลือกตั้งบอร์ดประกันสังคม",
-          "url": "https://www.dailynews.co.th/news/6263935/"
-        }
-      ],
-      "updatedAt": "2026-10-10T11:00:00+07:00"
     }
   ]
 }
