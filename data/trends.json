@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T00:49:21.481380+07:00",
+  "generatedAt": "2026-10-21T12:47:35.581608+07:00",
   "dateRange": "2026-10-14 to 2026-10-21",
   "sourceErrors": [],
   "topics": [
@@ -10,7 +10,7 @@
       "category": "food",
       "contentPotential": "high",
       "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: อาหาร / source: ผู้จัดการออนไลน์ - \"บุฟเฟต์นานาชาติ\" จัดเต็มความอร่อย คุณพ่อทานฟรี 23 - 25 ตุลาคมนี้ ที่ ห้องอาหารเปรมประชากร และ ห้องอาหารสรัสวดี    ผู้จัดการออนไลน์",
+      "summary": "ข่าวจาก Google News keyword: อาหาร / source: MGR Online - \"บุฟเฟต์นานาชาติ\" จัดเต็มความอร่อย คุณพ่อทานฟรี 23 - 25 ตุลาคมนี้ ที่ ห้องอาหารเปรมประชากร และ ห้องอาหารสรัสวดี    MGR Online",
       "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
       "creatorAngle": "ให้ Creator เล่าประสบการณ์ร้าน/เมนูที่อยากลอง แล้วถามคนอื่นว่าคิดเหมือนกันไหม",
       "promptIdea": "เห็นคนพูดถึงเมนูนี้เยอะมาก มีใครลองแล้วบ้าง?",
@@ -23,7 +23,7 @@
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
         {
-          "title": "ผู้จัดการออนไลน์",
+          "title": "MGR Online",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1KZ2pDbkJqOWVZXzV1MHRKQVRrVmdNY3VDOUpBSG9YdFpsS3BGamg4YmsyNi01YjJmRmxUc3BoaVVJSU1MbnZTdExUenp1bXg5UjVlaXNKZ2hkajVNYVE?oc=5"
         }
       ],
@@ -56,82 +56,30 @@
       "updatedAt": "2026-10-14T17:29:03+07:00"
     },
     {
-      "id": "16-2569-world-food-day-a3f7960af4",
-      "title": "16 ตุลาคม 2569 เป็นวันอะไร? รู้จัก \"วันอาหารโลก\" (World Food Day) มีความสำคัญอย่างไร",
+      "id": "c-p-s-c-p-s-western-club-a2b30e85e8",
+      "title": "C P S ชวนคอมมูนิตี้สายแฟชั่น สัมผัสกลิ่นอายแฟชั่นสไตล์เวสเทิร์น ในงาน “C P S WESTERN CLUB” สนุกกับดีไซน์เวิร์กช็อปผ้าบันดานา และดนตรีสดจาก “ฮิวโก้ - จุลจักร”",
       "sourceType": "news",
-      "category": "food",
+      "category": "beauty",
       "contentPotential": "high",
       "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: อาหาร / source: Thairath.co.th - 16 ตุลาคม 2569 เป็นวันอะไร? รู้จัก \"วันอาหารโลก\" (World Food Day) มีความสำคัญอย่างไร    Thairath.co.th",
+      "summary": "ข่าวจาก Google News keyword: แฟชั่น / source: Positioningmag - C P S ชวนคอมมูนิตี้สายแฟชั่น สัมผัสกลิ่นอายแฟชั่นสไตล์เวสเทิร์น ในงาน “C P S WESTERN CLUB” สนุกกับดีไซน์เวิร์กช็อปผ้าบันดานา และดนตรีสดจาก “ฮิวโก้ - จุลจักร”    Positioningmag",
       "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
-      "creatorAngle": "ให้ Creator เล่าประสบการณ์ร้าน/เมนูที่อยากลอง แล้วถามคนอื่นว่าคิดเหมือนกันไหม",
-      "promptIdea": "เห็นคนพูดถึงเมนูนี้เยอะมาก มีใครลองแล้วบ้าง?",
+      "creatorAngle": "ชวนแชร์สไตล์ ไอเท็ม หรือเทคนิคที่ใช้จริงโดยไม่ขายของแข็งเกินไป",
+      "promptIdea": "สไตล์นี้ถ้าแต่งในชีวิตจริงจะรอดไหม?",
       "hashtags": [
-        "#FoodTrend",
-        "#CafeTH",
-        "#รีวิวของกิน",
-        "#16ตุลาคม2569เป็นวันอะไร?"
+        "#BeautyTalk",
+        "#FashionTH",
+        "#ไอเดียแต่งตัว",
+        "#CPSชวนคอมมูนิตี้สายแฟชั่"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
         {
-          "title": "Thairath.co.th",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB2bmN1Tkh6UTRONGpuWFpUa2k2NURob0lKUHVuV2Z1U0xOdUlWbm4xTHdIa2lmNGNQeDRmb1lpMDkxNHphaEFuWjd3LTZobmR3cTJ3UC1GVjV0Mnd1MlJRdllRdw?oc=5"
+          "title": "Positioningmag",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9uQTVqZDRoRlRhX2pVNmltdjZrZENUMVZZVmhTRHJEcHBqVmhjNU84SGNlTE1Ud0JnZFN0WWVfRV81YmxYX2pmMnFHdGtRcVhLMzM4?oc=5"
         }
       ],
-      "updatedAt": "2026-10-16T06:19:00+07:00"
-    },
-    {
-      "id": "love-me-to-hurt-me-6-4deeab72ae",
-      "title": "Love Me To Hurt Me ซีรีส์ของ แทน-หยู่ยู้ เตรียมออกอากาศ 6 พ.ย. นี้",
-      "sourceType": "news",
-      "category": "entertainment",
-      "contentPotential": "high",
-      "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: ซีรีส์ / source: thestandard.co - Love Me To Hurt Me ซีรีส์ของ แทน-หยู่ยู้ เตรียมออกอากาศ 6 พ.ย. นี้    thestandard.co",
-      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
-      "creatorAngle": "เล่า reaction ส่วนตัวต่อกระแส แล้วเปิดคำถามให้คนคุยต่อ",
-      "promptIdea": "กระแสนี้ทุกคนอยู่ทีมไหน?",
-      "hashtags": [
-        "#EntertainmentTH",
-        "#คุยเรื่องบันเทิง",
-        "#กระแสวันนี้",
-        "#LoveMeToHurtMeซีรีส์ของแ"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "thestandard.co",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Ka0xwY0NUR0JyQ0sxLVNjVm1mMkRqUDdLT1ZQSVRFQVhzakplNHR6WHlVV2NUeTVlNFN1OUVLRjNDc2NLbEQxaXdPV1BLVGVzQnBudlRaUzg3ZDdXX2lwWER0TzBiN1RoeHBUdQ?oc=5"
-        }
-      ],
-      "updatedAt": "2026-10-20T15:15:08+07:00"
-    },
-    {
-      "id": "bluegold-coffee-mini-zoo-4067b864eb",
-      "title": "คาเฟ่สวนสัตว์ Bluegold Coffee Mini Zoo",
-      "sourceType": "news",
-      "category": "food",
-      "contentPotential": "high",
-      "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: คาเฟ่ / source: TrueID Food - คาเฟ่สวนสัตว์ Bluegold Coffee Mini Zoo    TrueID Food",
-      "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
-      "creatorAngle": "ให้ Creator เล่าประสบการณ์ร้าน/เมนูที่อยากลอง แล้วถามคนอื่นว่าคิดเหมือนกันไหม",
-      "promptIdea": "เห็นคนพูดถึงเมนูนี้เยอะมาก มีใครลองแล้วบ้าง?",
-      "hashtags": [
-        "#FoodTrend",
-        "#CafeTH",
-        "#รีวิวของกิน",
-        "#คาเฟ่สวนสัตว์BluegoldCof"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "TrueID Food",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9jblNKaVhyLUxuUkpFMTVZUzhfV3BQY2UyMnRnV2Z6SXhndUlaX2otQ3lTQlFhRWhwLWhvUEJMbERpLXJiWWpJYjBnTTVaRW5GZ2drX1dn?oc=5"
-        }
-      ],
-      "updatedAt": "2026-10-14T11:43:17+07:00"
+      "updatedAt": "2026-10-20T14:08:04+07:00"
     },
     {
       "id": "4-bifw2026-b3edb6faeb",
@@ -140,7 +88,7 @@
       "category": "beauty",
       "contentPotential": "high",
       "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: แฟชั่น / source: Matichon Online - จัดเต็ม 4 วัน BIFW2026 ตอกย้ำมหานครแฟชั่น ขับเคลื่อนอุตสาหกรรมแฟชั่นไทยสู่อนาคต    Matichon Online",
+      "summary": "ข่าวจาก Google News keyword: แฟชั่น / source: มติชนออนไลน์ - จัดเต็ม 4 วัน BIFW2026 ตอกย้ำมหานครแฟชั่น ขับเคลื่อนอุตสาหกรรมแฟชั่นไทยสู่อนาคต    มติชนออนไลน์",
       "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
       "creatorAngle": "ชวนแชร์สไตล์ ไอเท็ม หรือเทคนิคที่ใช้จริงโดยไม่ขายของแข็งเกินไป",
       "promptIdea": "สไตล์นี้ถ้าแต่งในชีวิตจริงจะรอดไหม?",
@@ -153,7 +101,7 @@
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
         {
-          "title": "Matichon Online",
+          "title": "มติชนออนไลน์",
           "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBjRzJ5NW4ydHdmdHpfNkl3WllHczRpbi10RTVwTlhGeV9YS2I0UlNYczhWR0o1YUpFdjdob0JRYVVTNXoyekU1dDQ2M2R4RWE1VjZFdDl5Zk84OGx6aDQyY1o3WkpWM0lr?oc=5"
         }
       ],
@@ -238,30 +186,56 @@
       "updatedAt": "2026-10-20T19:09:20+07:00"
     },
     {
-      "id": "topic-1d4a2d2500",
-      "title": "ผนึกพลังดีไซเนอร์ไทย ผลักดันกรุงเทพฯ สู่มหานครแฟชั่นแห่งเอเชีย!?",
+      "id": "netflix-2026-10e512bae7",
+      "title": "ปักหมุดรอ! รวมลิสต์หนัง-ซีรีส์ Netflix น่าดูช่วงปลายปี 2026",
       "sourceType": "news",
-      "category": "beauty",
+      "category": "entertainment",
       "contentPotential": "high",
       "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: แฟชั่น / source: ผู้จัดการออนไลน์ - ผนึกพลังดีไซเนอร์ไทย ผลักดันกรุงเทพฯ สู่มหานครแฟชั่นแห่งเอเชีย!?    ผู้จัดการออนไลน์",
-      "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
-      "creatorAngle": "ชวนแชร์สไตล์ ไอเท็ม หรือเทคนิคที่ใช้จริงโดยไม่ขายของแข็งเกินไป",
-      "promptIdea": "สไตล์นี้ถ้าแต่งในชีวิตจริงจะรอดไหม?",
+      "summary": "ข่าวจาก Google News keyword: ซีรีส์ / source: Tatler Asia - ปักหมุดรอ! รวมลิสต์หนัง-ซีรีส์ Netflix น่าดูช่วงปลายปี 2026    Tatler Asia",
+      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
+      "creatorAngle": "เล่า reaction ส่วนตัวต่อกระแส แล้วเปิดคำถามให้คนคุยต่อ",
+      "promptIdea": "กระแสนี้ทุกคนอยู่ทีมไหน?",
       "hashtags": [
-        "#BeautyTalk",
-        "#FashionTH",
-        "#ไอเดียแต่งตัว",
-        "#ผนึกพลังดีไซเนอร์ไทยผลัก"
+        "#EntertainmentTH",
+        "#คุยเรื่องบันเทิง",
+        "#กระแสวันนี้",
+        "#ปักหมุดรอ!รวมลิสต์หนัง-ซ"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
         {
-          "title": "ผู้จัดการออนไลน์",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBUTW1hSUZiN05sUmtRYzcwMC1EdzktZE1FRTNDODlQVmpvSTlhaFpIOHNEOFhlMUtPM2x6TEVLUHdHaWpCcEJydFI2NDl4Y3MwLU5KdnJhSXVjejRLSElYb2lfMGk?oc=5"
+          "title": "Tatler Asia",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPU0JYTXRER0RRWGpBV0tnTHdJM3J6aWVTSkNLeFd0aEY2QmJmWlFMaHNxVUJVUjFVNEJDdENjX3JtV0NHZkJhZ0hfODhGdTlrZ3lRX2liMG93bWZTWnFTVjlkTF9SNnM1eDlaZVBjcDNzeU9NS2dla0VSTS1zQlQtWkt1VUJFbjRoS0QxWm1YZk4xc1U?oc=5"
         }
       ],
-      "updatedAt": "2026-10-16T12:51:00+07:00"
+      "updatedAt": "2026-10-16T23:16:48+07:00"
+    },
+    {
+      "id": "topic-7ba56d1331",
+      "title": "รีวิวซีรีส์",
+      "sourceType": "news",
+      "category": "entertainment",
+      "contentPotential": "high",
+      "riskLevel": "low",
+      "summary": "ข่าวจาก Google News keyword: ซีรีส์ / source: TrueID InTrend - รีวิวซีรีส์ #ลำนำสารทฤดู The Lament of Autumn (2026)    TrueID InTrend",
+      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
+      "creatorAngle": "เล่า reaction ส่วนตัวต่อกระแส แล้วเปิดคำถามให้คนคุยต่อ",
+      "promptIdea": "กระแสนี้ทุกคนอยู่ทีมไหน?",
+      "hashtags": [
+        "#EntertainmentTH",
+        "#คุยเรื่องบันเทิง",
+        "#กระแสวันนี้",
+        "#รีวิวซีรีส์"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "TrueID InTrend",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBaSU8wUm9MYkFuNlVaNmc1VTh5Y1FCN2txSWNvMWdta3N1M2I5bVdZR1ZYZFgwc3BPdzBzcUltb3dMOTQwYUNxS29uM3pTTWs?oc=5"
+        }
+      ],
+      "updatedAt": "2026-10-19T12:05:13+07:00"
     },
     {
       "id": "bifw2026-10-fashion-ecosystem-a337a57d21",
@@ -290,6 +264,32 @@
       "updatedAt": "2026-10-14T17:33:21+07:00"
     },
     {
+      "id": "topic-aad8ea9d56",
+      "title": "สายเจต้องเลิฟ คาเฟ่อเมซอนมีเมนูเจช่วงเทศกาลกินเจ",
+      "sourceType": "news",
+      "category": "food",
+      "contentPotential": "high",
+      "riskLevel": "low",
+      "summary": "ข่าวจาก Google News keyword: คาเฟ่ / source: TrueID Food - สายเจต้องเลิฟ คาเฟ่อเมซอนมีเมนูเจช่วงเทศกาลกินเจ    TrueID Food",
+      "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
+      "creatorAngle": "ให้ Creator เล่าประสบการณ์ร้าน/เมนูที่อยากลอง แล้วถามคนอื่นว่าคิดเหมือนกันไหม",
+      "promptIdea": "เห็นคนพูดถึงเมนูนี้เยอะมาก มีใครลองแล้วบ้าง?",
+      "hashtags": [
+        "#FoodTrend",
+        "#CafeTH",
+        "#รีวิวของกิน",
+        "#สายเจต้องเลิฟคาเฟ่อเมซอน"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "TrueID Food",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9EcTBhRFNEWTU2SE5xMG1odVRsRlBrdFVfTURZMndrT0VDeFZFWE8xazQ2QVJwZ3FlazlmaHlseUJBeEthQjB1LUVCbEN4VjhDdzRycUpn?oc=5"
+        }
+      ],
+      "updatedAt": "2026-10-19T12:52:51+07:00"
+    },
+    {
       "id": "siam-center-fashion-visionary-b82cebb3da",
       "title": "ส่องรันเวย์ Siam Center Fashion Visionary ปรากฏการณ์ครั้งสำคัญของดีไซเนอร์ไทยรุ่นใหม่!",
       "sourceType": "news",
@@ -316,13 +316,13 @@
       "updatedAt": "2026-10-15T11:20:17+07:00"
     },
     {
-      "id": "chong-aroi-2026-2-caf4849fee",
-      "title": "อุดรธานีเตรียมจัด CHONG AROI 2026 รวมคนรักชาและคาเฟ่ ต่อยอดงานชงอร่อยครั้งที่ 2 เชื่อมโยงการท่องเที่ยวและเศรษฐกิจท้องถิ่น",
+      "id": "7-3749235235",
+      "title": "อัลบั้มภาพ 7 คาเฟ่วิวดอยหลวงเชียงดาว จิบกาแฟชมเขา ฟีลดีต่อใจ",
       "sourceType": "news",
       "category": "food",
       "contentPotential": "high",
       "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: คาเฟ่ / source: ThaiPR.NET - อุดรธานีเตรียมจัด CHONG AROI 2026 รวมคนรักชาและคาเฟ่ ต่อยอดงานชงอร่อยครั้งที่ 2 เชื่อมโยงการท่องเที่ยวและเศรษฐกิจท้องถิ่น    ThaiPR.NET",
+      "summary": "ข่าวจาก Google News keyword: คาเฟ่ / source: kapook.com - อัลบั้มภาพ 7 คาเฟ่วิวดอยหลวงเชียงดาว จิบกาแฟชมเขา ฟีลดีต่อใจ    kapook.com",
       "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
       "creatorAngle": "ให้ Creator เล่าประสบการณ์ร้าน/เมนูที่อยากลอง แล้วถามคนอื่นว่าคิดเหมือนกันไหม",
       "promptIdea": "เห็นคนพูดถึงเมนูนี้เยอะมาก มีใครลองแล้วบ้าง?",
@@ -330,16 +330,42 @@
         "#FoodTrend",
         "#CafeTH",
         "#รีวิวของกิน",
-        "#อุดรธานีเตรียมจัดCHONGAR"
+        "#อัลบั้มภาพ7คาเฟ่วิวดอยหล"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
         {
-          "title": "ThaiPR.NET",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAzNEFGaUxoWlV2V1FBYVBwOTdqT1VNV2dQdnh6bThEX0FRWHdkY004RVJJVi1KdmtZSWI5MjZNVkEzMHNvZGZGOXFHU1JlZzNEaEtv?oc=5"
+          "title": "kapook.com",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5NVm40V0h4RU1zRXJaQkNvd29rMTAwTmVLUkxJam40cm9WTWlZWHNIclBQcjBZbWJNYVdxVUEwX2lYd29vTFI0WlVPcDZrTVJkRHc?oc=5"
         }
       ],
-      "updatedAt": "2026-10-14T10:16:00+07:00"
+      "updatedAt": "2026-10-14T16:34:58+07:00"
+    },
+    {
+      "id": "topic-e1ea1ba737",
+      "title": "เจาะลึกความเสี่ยงของสินค้าอาหารนำเข้าจากนโยบายกำแพงภาษีนำเข้าสหรัฐฯ",
+      "sourceType": "news",
+      "category": "food",
+      "contentPotential": "high",
+      "riskLevel": "low",
+      "summary": "ข่าวจาก Google News keyword: อาหาร / source: กรมส่งเสริมการค้าระหว่างประเทศ (DITP) - เจาะลึกความเสี่ยงของสินค้าอาหารนำเข้าจากนโยบายกำแพงภาษีนำเข้าสหรัฐฯ    กรมส่งเสริมการค้าระหว่างประเทศ (DITP)",
+      "whyItMatters": "เป็นข่าวหรือหัวข้อที่ต่อยอดเป็นประสบการณ์ส่วนตัวและโพสต์ชวนคุยได้",
+      "creatorAngle": "ให้ Creator เล่าประสบการณ์ร้าน/เมนูที่อยากลอง แล้วถามคนอื่นว่าคิดเหมือนกันไหม",
+      "promptIdea": "เห็นคนพูดถึงเมนูนี้เยอะมาก มีใครลองแล้วบ้าง?",
+      "hashtags": [
+        "#FoodTrend",
+        "#CafeTH",
+        "#รีวิวของกิน",
+        "#เจาะลึกความเสี่ยงของสินค"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "กรมส่งเสริมการค้าระหว่างประเทศ (DITP)",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9oVUdaeHo5dXJqb2twcWE3VjJreWNHN1pneUsxVDdkZ1FiTlBQdUdacE1naGJBc3BKcWxkUWpUUDlqLXJNWjhFOGVMcjllN240Q3NRTGV5T3VESVRMY2g4X3NR?oc=5"
+        }
+      ],
+      "updatedAt": "2026-10-17T11:00:00+07:00"
     },
     {
       "id": "topic-aba2bc35f0",
@@ -394,13 +420,13 @@
       "updatedAt": "2026-10-17T18:35:52+07:00"
     },
     {
-      "id": "where-the-mask-ends-2026-a46675aa03",
-      "title": "แนะนำซีรีส์จีน ปลดหน้ากาก Where the Mask Ends (2026)",
+      "id": "topic-eae161bb72",
+      "title": "ใส่ใจระดับสิบ!! “เบสท์ รักษ์วนีย์” ขึ้นแท่นนางเอกซีรีส์จีน พร้อมซิ่งรถหรูต้อนรับ “จินเจียหยู” มาไทยด้วยตัวเอง",
       "sourceType": "news",
       "category": "entertainment",
       "contentPotential": "high",
       "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: ซีรีส์ / source: TrueID Entertainment - แนะนำซีรีส์จีน ปลดหน้ากาก Where the Mask Ends (2026)    TrueID Entertainment",
+      "summary": "ข่าวจาก Google News keyword: ซีรีส์ / source: Daradaily - ใส่ใจระดับสิบ!! “เบสท์ รักษ์วนีย์” ขึ้นแท่นนางเอกซีรีส์จีน พร้อมซิ่งรถหรูต้อนรับ “จินเจียหยู” มาไทยด้วยตัวเอง    Daradaily",
       "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
       "creatorAngle": "เล่า reaction ส่วนตัวต่อกระแส แล้วเปิดคำถามให้คนคุยต่อ",
       "promptIdea": "กระแสนี้ทุกคนอยู่ทีมไหน?",
@@ -408,16 +434,16 @@
         "#EntertainmentTH",
         "#คุยเรื่องบันเทิง",
         "#กระแสวันนี้",
-        "#แนะนำซีรีส์จีนปลดหน้ากาก"
+        "#ใส่ใจระดับสิบ!!“เบสท์รัก"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
         {
-          "title": "TrueID Entertainment",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBwN0R0SlpiTDFGa3dXN3ZxeTFjN0pCZlRjcUFzcENSWVdZMlJfc1U1WklTUW56RGFpOG8wNW1jS29iYVJjc0FhUDEtTGRPMGZMV2tKUFNNbGpmckR6UUR0RndB?oc=5"
+          "title": "Daradaily",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBqTVdvV2EtWV81LXF5STFZSnhDeE1tV29SQnNmcmxUOXJPOFQ3MkZHaVc2OUNMQWc3cG9QWERjQmQxaENfWU1XVUl4Wi1hM09aQ1FVcw?oc=5"
         }
       ],
-      "updatedAt": "2026-10-15T10:02:36+07:00"
+      "updatedAt": "2026-10-18T23:01:19+07:00"
     },
     {
       "id": "topic-e77d5b1e6e",
@@ -498,6 +524,31 @@
       "updatedAt": "2026-10-19T16:28:34+07:00"
     },
     {
+      "id": "meettheplayers-6c1dfee721",
+      "title": "#MeetThePlayers",
+      "sourceType": "news",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "ข่าวจาก Google News keyword: วอลเลย์บอล / source: Facebook - #MeetThePlayers #PMYCวอลเลย์บอลระดับภูมิภาค 🎖ดาวเด่นภูมิภาคที่น่าจับตามอง “ระมิง” สาวน้อยแห่งล้านนา พกความสูง 180 ซม. พาทีมมุ่งทะยานสู่รอบภูมิภาค\" หลังจบการแข่งขัน Prime Minister’s",
+      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Facebook",
+          "url": "https://news.google.com/rss/articles/CBMi8AZBVV95cUxQMHVsZ0U1b3NYeXNueWh6bjk4ZEh1dlN5T3ZDNTBfYjJfNUdMWkpSeHcyaEpBclgzYWdXX0U2Nk1GZTk4cDNaWDRxZEIxenUxaDVCV0MwdGxhVlRzNHEzWjMyU2U2WjhxdU5uZ2x1cU9Jb2ZRdkUySHhDWnk1TWdYaDYzZTkzZlluR1RROXFadXZzTU5haXZ4aElTdUFfZjVXekJ0ZHc1UXZKaVVzWW9KSzZyMnhVVUx3TzZlQVRJV0tQLXZtM0JrenJLLUZWX1BSLXM5MkVwc05IcWJ2Qllfcl9rdGhCck1KV3ppX2VtcUc4TGVybnVlZVZETS1ES3RzSnE5bWhqNFpCcXVOczlpTkJ5TFRNWU5lZFR4aTd0dC1WUXZsRmlmM1JKb1J3eGhETDRxRDFlTlFONi1ja3MtM3Q3U1FVVnFEMU5SR0xyanpOejRYakpKYm9maVcySzI0b3dNamplM2xnN21qbUZpRGxUVnktRUkyYlV5UzN6X2NwbmxIeV9taU5lVDJ0SUt6eEl2dkhlY0xBRlZMcU5tcG0yMi1vcW80NndSdmdkZHlDWHpCdWN5X1JpUE5Pc0drdFV4NldveVBQLTRfdE51TFpQeVpxVWVxNmh4UXRDRm45a3BHazZOR0VrQ0NINHZMS2t2dkk4TGk2YVZDa1JGeUw3NExlR2dWMzFXT0hzY19RdzY5NTBkaXRSdk51eEo5MmRZaWplLTh0a2dYUUxqTnRNRWZBUzh1RHA3SXFoeXVzbWdZM3M3Ykl4UXNpclRnTmdxdV9FNWx5U1dnZEJGTzBGRlc1WlhLQWd0eTA3Q3pPTzY5Sk04YkFWSXctQUpNcHBLQ1BSLWJWc2JISFpiUVB3MzE1SG85U0Rnb3BYYmt6T1FfRW53dVQyU2hYSVpodGhWR1VFU195QVpfSzFwbnJPa0s1QnVTcEszU1Y2aVNqQ2FIR1JycGluQmRJcWoxaHhkX0phLW5zcU9tRTlOVnlxTWZZbzdacHQtd1RUY3ZBTHFsUVZTSWZWald2aFJpYzRjUkJYVkRMZkItMXk5T01ERTgzb3kzTlh5RFhSQ3lJMDFfbU1NTkpqX0R5UkRvemV4c2FRd1RWTzdpZjdyRk9ER3NkckJBSXhDRGVaelJ3QmtfYV9telBPbnRLekhM?oc=5"
+        }
+      ],
+      "updatedAt": "2026-10-16T18:04:28+07:00"
+    },
+    {
       "id": "pmyc-148be86a95",
       "title": "#PMYCวอลเลย์บอลระดับภูมิภาค",
       "sourceType": "news",
@@ -522,51 +573,17 @@
         {
           "title": "Facebook",
           "url": "https://news.google.com/rss/articles/CBMipgZBVV95cUxPS1NCekZIb0loTlBTSEs1Z05FeFBHaV9GTDRUbXhKZVpVV1N4WmRIbnZna29PS2oydzhwYnNwZ3FXVnl4VjZZVDFCNjZvX2l1akFSVThFbUhOSEpUQ1F3N01jNk5Ddmpqc1gyRUJkUHVhanZqLXZtMGxUaHhJUzkxY2dXVHlEcjFTaGw5WWprcUh5QzdRU3NCR0FQQU9iMktYeTVnUlM5RGNOaXZwdXRMQlR5TGVBYzh1c29aWXl1VzRwc1NrMWQ4SF85MFlGc1JhdlJfX0M0bGgxWERWcEZnWUljUzl6b3dKUmhpYThZQVlXSzZGS0hUelVtOGhXWVdBcXJJVzZfVDVQbThBM3JRbXl6OUhhWW5QWUJXRkhXTXFhZVZXYUFfNFhORjhXejUyaTVpdUtjV2sxMWRhYVQ1RlhsZVlfaFBNd3ppVUQ4TjRvODNqdTlLcHpDeFc1OEJ0d2xJLVRfYjYyZmswaTU5c2NwVTd1b1Rlc2xBYUNxU2ZZOGZrVnNjQkR0S3YtcmJIaHBaZXRwd1RzUzBJOFFSOGg5emVtV19QdnBMcXA4bDVZU2JrVHFJblVCNlBrZlFRckM4eTJlNG1FZlQ0QzRtaVMzak51UC1NQXpMSmx4UkZPZmFNc3V0SlNqRnlUZXNJcDNNMU9aNmVLaGZWaENhOWpiM2Z2WE45TDQ3N1ZEQ3R4ZXB0SkwyYmtPZHlwbTF5MURqdHYzWjdNa2djNVEtUkktWjhIN0VhQTdoZHRMc0pIUF9fZmJkLXJYVXlzem5hVVhnd0otSzZ5QWVXYmlTYmZYXzREWGp5eVcyUXJELWFkRzB1RkZQUEJhQ05QZEZvbzJqRU9hRzZoc0V0eW9HblRraDc2amYzNFZmTkVtQVZXNEttNllfRHZUcTdDNU5SYWJYalFtcFhnVlR0dWx0X3pXUmVOLXBJS2ZTN1RFS3BuOEJoSG9OS1piMDJxNUdRcjd3dm9KbzBORXBXRGUtQ0ZVMU5FdGtvSG9YRVI1cGdQV1ktbGo3MmxTYWoyWS01MEdTdEd0eWpaeFlVVHM5UWJSeHdoQQ?oc=5"
+        },
+        {
+          "title": "Facebook",
+          "url": "https://news.google.com/rss/articles/CBMipgZBVV95cUxQMm1fNFFmRDJGLWUxR3hlXzhvcWxIaHFyb2xOLWI5RlY1V3BlaGkyUURjNUs2aEpKTGtVUm5GaVNZLWh2Rm1Uc3RvRmFWdlpQeThQRlB5eHpXWUJXU1M5TEw4Q3M5cGxBbGRxNzRtdlZiMEphNEVSUEFfenlKbmVYVGVNM3hMSjFjdlZ4MzlXanJUeExhV29teHQ4anlVa1NwWUFIalJIaVAtbTlCSlNrajVUN0psZDlOX1JtZE5YN280aWJuUzl4ZnV2ZTRTa1I1dlJHMmxkQmJKWkphRGdnWUpuUnN0RkJpQTJNSVZIcWdkOWozUktMdHpobEcwRmduQmNCbWxQUW56bXdkdHd5VjE4RTQ4ZGtKMU15RjdSOF9FWGVqRmdxNURuNU1IQy1xWEo1MG5pVTBaTzJ6bTNCdDVwU3BRNko5d2lFdk90ZFhlM2pORmg0bWdDTmVKUjVHcGVWM0ZHRW5JdjZsU1ZtZFMyWHVvc3Y4X3A3Q2tQNWlUNS0td0JkUzNtYVVjck1FTnlKMnk0NXZGUXpVR2NSMXl3QldoTnhQNFRoVS1zYmctV1BBeWh3X2g4R3lyUzVWNFhialhTTXFoQXBxb19ySGhzcUNObWtPNVYyY2JMRXVZM255UUxfb2pCZHk0WkFxcDJVd0xaNFQ0cUh4ZmNMd19Bc01KbGJxVHFYdFJVNFdUT0VSdTRqLWNMTmxXUFRQLWlxd3VPMjRXSFBocGZPTlNfVTJmWF90R1BPSUtobUZOZklYX1gzUnJGQXgzT3FZTXFtYWsySkp3UGZpcXFseGJhYWtJbzJHcDJoc0psMmpocFU1RE1XYmZCRGtHYzRRYzhfdkN2X19udnROck5NcUVCSk1QZlNVNlZ5ODdaWmp2QUVmV0owdzhRbWZlbGdULWMwbDhyalVtNmNQeHF0STVwVFpNR0MwWEQwazN0dVcxUlpEeXQ5SFdieHdCYkU0cXloMmUyRnpOSUkzbFl6S2JVeDZHbEZsUGlzbDRVZlVOaGh5QmRITDZDV2c2NEVKNmJ0WTFnMXFGOGdvLWNBVmJNQkF3Zw?oc=5"
         }
       ],
       "updatedAt": "2026-10-19T09:00:34+07:00"
     },
     {
-      "id": "abby-choi-3588d74b08",
-      "title": "abby choi",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 500+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#abbychoi"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "Abby Choi did not have enough cash in year before death, murder trial told",
-          "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3371478/abby-choi-did-not-have-enough-cash-year-death-murder-trial-told"
-        },
-        {
-          "title": "The legal soap opera of the dismembered influencer in Hong Kong: a millionaire fortune and a family crime",
-          "url": "https://www.mundoamerica.com/news/2026/10/20/6ad729fcfc6c83ef568b4595.html"
-        },
-        {
-          "title": "‘A pack of lies’: Abby Choi’s mother rejects claims Kwong family repaid her debts, investigator testifies",
-          "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/13/a-pack-of-lies-abby-chois-mother-rejects-claims-kwong-family-repaid-her-debts--investigator-testifies"
-        }
-      ],
-      "updatedAt": "2026-10-20T19:30:00+07:00"
-    },
-    {
-      "id": "jun-maeda-e69aede22b",
-      "title": "jun maeda",
+      "id": "21-d61c8144dd",
+      "title": "21 ตุลาคม",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
@@ -579,7 +596,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#junmaeda"
+        "#21ตุลาคม"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -588,19 +605,95 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "Kanon, Air, Clannad, Heaven Burns Red's Jun Maeda in Palliative Care for Pharyngeal Cancer",
-          "url": "https://www.animenewsnetwork.com/news/2026-10-19/kanon-air-clannad-heaven-burns-red-jun-maeda-in-palliative-care-for-pharyngeal-cancer/.242983"
+          "title": "มรภ.อยุธยา เปิดฉาก 'AYOTHAYA Games' อย่างยิ่งใหญ่ เฟ้นหาตัวแทนนักกีฬาลุยรอบมหกรรม ม.วลัยลักษณ์",
+          "url": "https://www.dailynews.co.th/news/6290594/"
         },
         {
-          "title": "Jun Maeda Enters Palliative Care for Throat Cancer Ahead of Heaven Burns Red Final Chapter Update",
-          "url": "https://www.invenglobal.com/articles/27361/jun-maeda-enters-palliative-care-for-throat-cancer-ahead-of-heaven-burns-red-final-chapter-update"
+          "title": "แวดวงกีฬา เชียงใหม่ วันที่ 21 ตุลาคม 2569",
+          "url": "https://www.chiangmainews.co.th/sport/4189207/"
         },
         {
-          "title": "One Of Japan’s Premier Visual Novel Writers Enters Palliative Care For Throat Cancer",
-          "url": "https://kotaku.com/one-of-japans-premier-visual-novel-writers-enters-palliative-care-for-throat-cancer-2000747620"
+          "title": "มทร.ตะวันออก ร่วมพิธีเปิดการแข่งขันกีฬามหาวิทยาลัยแห่งประเทศไทย ครั้งที่ 52 รอบคัดเลือกเขตภาคกลาง",
+          "url": "https://www.rmutto.ac.th/index.php?menu=showpicture&checkd=2774"
         }
       ],
-      "updatedAt": "2026-10-20T19:20:00+07:00"
+      "updatedAt": "2026-10-21T08:50:00+07:00"
+    },
+    {
+      "id": "fedex-847ca05848",
+      "title": "fedex",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 100+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#fedex"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "At least $963,000 in trading cards stolen from FedEx truck in California",
+          "url": "https://www.espn.com/espn/story/_/id/50229905/at-least-963000-trading-cards-stolen-fedex-truck"
+        },
+        {
+          "title": "Trading card collectors taking action after $1 million Orange County heist",
+          "url": "https://www.cbsnews.com/losangeles/video/trading-card-collectors-taking-action-after-1-million-orange-county-heist/"
+        },
+        {
+          "title": "Thieves steal nearly $1 million worth of Pokémon cards in SoCal FedEx truck break in",
+          "url": "https://abcnews.com/US/thieves-steal-1-million-worth-pokmon-cards-socal/story?id=137407837"
+        }
+      ],
+      "updatedAt": "2026-10-21T08:40:00+07:00"
+    },
+    {
+      "id": "siamsport-c78bc0109f",
+      "title": "siamsport",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 100+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#siamsport"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "งานนี้ยาวแน่! เทน ฮาก แฉยับ โรนัลโด้ ทำแมนยูผิดหวัง ไม่ทุ่มเทเพื่อทีม",
+          "url": "https://www.siamsport.co.th/football-international/premierleague/111000/"
+        },
+        {
+          "title": "เทน ฮาก ร่ายยาวจวก โรนัลโด้ ถึงช่วงร่วมงานกันที่ แมนยู",
+          "url": "https://www.thairath.co.th/sport/eurofootball/premierleague/2967399"
+        },
+        {
+          "title": "หาป๊อปคอร์นมาครับ! ETH ซัดบอร์ดผีหลังขาย แม็กโท ออกจากทีม บอกบอร์ดพวกผิดสัญญา | Soccersuck",
+          "url": "https://today.line.me/th/v3/article/60o5g76"
+        }
+      ],
+      "updatedAt": "2026-10-21T07:50:00+07:00"
     },
     {
       "id": "tinder-85-62-49fb93af3a",
@@ -655,8 +748,46 @@
       "updatedAt": "2026-10-20T22:03:39+07:00"
     },
     {
-      "id": "topic-8c974dd40e",
-      "title": "บาซ่าปารีส",
+      "id": "topic-22d0079f54",
+      "title": "ตำรวจ",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 100+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#ตำรวจ"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "ปส.เอาจริง วิสามัญ 2 ศพ คนร้ายลักลอบขนยาไอซ์ ในพื้นที่เขาย้อย",
+          "url": "https://today.line.me/th/v3/article/5yv5lBM?view=topic&referral=hotclip"
+        },
+        {
+          "title": "ตำรวจ ปส.ยิงปะทะขบวนการขนยาไอซ์ วิสามัญฯ 2 คน ที่เพชรบุรี",
+          "url": "https://www.thaipbs.or.th/news/content/571391"
+        },
+        {
+          "title": "\"บิ๊กเอ็ม\" นำทีม ปส.วิฯ พ่อค้ายานรก 2 ศพ เหิมยิงสู้ ค้นรถเจอไอซ์ครึ่งตัน คาดลำเลียงจากเหนือลงใต้",
+          "url": "https://mgronline.com/crime/detail/9690000101505"
+        }
+      ],
+      "updatedAt": "2026-10-21T08:10:00+07:00"
+    },
+    {
+      "id": "topic-c0e3d1d75b",
+      "title": "ติเกรส พบ ลีออน",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
@@ -669,16 +800,66 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#บาซ่าปารีส"
+        "#ติเกรสพบลีออน"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
         {
           "title": "Google Trends",
           "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "Tigres vs León match lineup | Liga MX · 21 Oct 2026",
+          "url": "https://www.ysscores.com/en/lineup/5830946/Tigres-UANL-vs-Club-Le%C3%B3n-FC"
+        },
+        {
+          "title": "Licensable picture: Liga MX - Tigres UANL v Leon",
+          "url": "https://www.reutersconnect.com/item/liga-mx-tigres-uanl-v-leon/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQUwwQlNOTzY"
+        },
+        {
+          "title": "Tigres v Leon Odds",
+          "url": "https://sportsbook.fanduel.com/soccer/mexican-liga-mx/tigres-v-leon-36207273"
         }
       ],
-      "updatedAt": "2026-10-20T20:40:00+07:00"
+      "updatedAt": "2026-10-21T10:50:00+07:00"
+    },
+    {
+      "id": "topic-645852b0c9",
+      "title": "นาบิลอานาน",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 100+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#นาบิลอานาน"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "เข้าแผนทุกอย่าง! \"นาบิล\" เผยเคล็ดลับรับมือลูกเตะคาล์ฟคิก \"ยูกิ โยซะ\"",
+          "url": "https://www.sanook.com/sport/1673253/"
+        },
+        {
+          "title": "“โจนาธาน แฮ็กเกอร์ตี\" ย้ำไม่มีใครโค่นบัลลังก์คิกบ็อกซิงได้ หลังบุกโค่น “ฮิโรกิ อากิโมโตะ” คาถิ่น",
+          "url": "https://www.dailynews.co.th/news/6290205/"
+        },
+        {
+          "title": "ถึงไทยก็ของขึ้น! ทำไม นาบิล เดือด โยซะ? เจาะปมคำว่า \"น่าเบื่อ\" หลังศึก ONE Samurai",
+          "url": "https://www.siamsport.co.th/other-sports/boxing/110916/"
+        }
+      ],
+      "updatedAt": "2026-10-21T10:20:00+07:00"
     },
     {
       "id": "where-the-mask-ends-fbb59962fa",
@@ -707,13 +888,13 @@
       "updatedAt": "2026-10-19T11:21:24+07:00"
     },
     {
-      "id": "topic-6f9fbd119f",
-      "title": "พายุไต้ฝุ่น",
+      "id": "topic-55db3ea3ff",
+      "title": "ฝนดาวตก",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 500+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -721,7 +902,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#พายุไต้ฝุ่น"
+        "#ฝนดาวตก"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -730,28 +911,28 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "อุตุฯอัปเดตสถานการณ์พายุไต้ฝุ่น “จำปี” ไม่มีแนวโน้มเคลื่อนเข้าไทย!",
-          "url": "https://www.pptvhd36.com/news/%E0%B8%AA%E0%B8%B1%E0%B8%87%E0%B8%84%E0%B8%A1/285522"
+          "title": "คืน 21-เช้า 22 ต.ค. 69 “ฝนดาวตกโอไรออนิดส์” คาดตกสูงสุดเฉลี่ย 20 ดวงต่อชั่วโมง",
+          "url": "https://www.thairath.co.th/news/society/2967433"
         },
         {
-          "title": "กรมอุตุนิยมวิทยา เผยสถานการณ์ พายุไต้ฝุ่นจำปี แม้ไม่เคลื่อนเข้าสู่ประเทศไทย | Khaosod",
-          "url": "https://today.line.me/th/v3/article/5yv5k3K"
+          "title": "คืน 21-เช้า 22 ต.ค. \"ฝนดาวตกโอไรออนิดส์\" อัตราการตกเฉลี่ยสูงสุด 20 ดวงต่อชั่วโมง",
+          "url": "https://www.thaipbs.or.th/news/content/571317"
         },
         {
-          "title": "เช็กเส้นทางพายุไต้ฝุ่น \"จำปี\" มุ่งหน้าเข้าไต้หวัน ไม่มีแนวโน้มเข้าไทย",
-          "url": "https://www.thaipbs.or.th/news/content/571269"
+          "title": "ฝนดาวตกโอไรออนิดส์ 2569 คืนนี้ ดูเวลาไหน ทิศอะไร พร้อมวิธีรับมือแสงจันทร์รบกวน",
+          "url": "https://www.thansettakij.com/general-news/671903"
         }
       ],
-      "updatedAt": "2026-10-20T19:40:00+07:00"
+      "updatedAt": "2026-10-21T09:00:00+07:00"
     },
     {
-      "id": "topic-b299d27ea9",
-      "title": "ลมฟ้าอากาศ",
+      "id": "topic-f0508c2b76",
+      "title": "พฤศจิกายน",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 500+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 100+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -759,7 +940,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#ลมฟ้าอากาศ"
+        "#พฤศจิกายน"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -768,19 +949,57 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "สภาพอากาศวันนี้ 20 ต.ค. ภาคตะวันออก-ใต้ มีฝนต่อเนื่อง ตกหนักถึงหนักมากบางแห่ง",
-          "url": "https://www.thairath.co.th/news/local/2967203"
+          "title": "ราศีไหนเตรียมเฮ! ดวงพลิกจากร้ายกลายเป็นดี แถมมีลุ้นข่าวดีเรื่องรับทรัพย์",
+          "url": "https://www.sanook.com/horoscope/336190/"
         },
         {
-          "title": "เตรียมรับมือก่อนฝนมา สั่งพร้อมทุกพื้นที่ภาคใต้ เตรียมเครื่องจักร–เฝ้าระวังน้ำท่วม",
-          "url": "https://www.dailynews.co.th/news/6289152/"
+          "title": "12 ราศี พบราศีดวงพลิกฟื้น สิ่งดีๆ ที่กำลังรอคุณอยู่ | News In Thailand",
+          "url": "https://today.line.me/th/v3/article/zNMYJJW"
         },
         {
-          "title": "“วีระศักดิ์” นำอาสาเพื่อนพึ่ง (ภาฯ) เตรียมถุงยังชีพ 3 พันถุง ส่งพักรอที่ยะลา รับมือฝนหนักภาคใต้",
-          "url": "https://mgronline.com/politics/detail/9690000101074"
+          "title": "5 ราศี ดาวอาทิตย์ ย้าย ดวงชะตาพลิกผัน รับรางวัลใหญ่ หลุดพ้นหนี้สิน",
+          "url": "https://www.khaosod.co.th/horoscope/news_10442168"
         }
       ],
-      "updatedAt": "2026-10-20T21:10:00+07:00"
+      "updatedAt": "2026-10-21T10:00:00+07:00"
+    },
+    {
+      "id": "topic-308760e412",
+      "title": "วอลเลย์บอลหญิงทีมชาติไทย",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 2000+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#วอลเลย์บอลหญิงทีมชาติไทย"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "ดราม่าในโลกลูกยาง",
+          "url": "https://www.siamsport.co.th/other-sports/volleyball/111012/"
+        },
+        {
+          "title": "“โมเม ธนัชชา” เตรียมชี้แจงปมทีมชาติ ลั่นถึงเวลาเหมาะสม หลายเรื่องบิดเบือนความจริง",
+          "url": "https://www.thairath.co.th/sport/worldsport/volleyball/2967063"
+        },
+        {
+          "title": "ไม่ได้อยากดราม่า! \"โมเม ธนัชชา\" ลูกยางสาวไทยตั้งคำถาม 6 ข้อ หลังไม่เข้าร่วมทีมชาติทั้งปี",
+          "url": "https://www.sanook.com/sport/1673238/"
+        }
+      ],
+      "updatedAt": "2026-10-21T08:40:00+07:00"
     },
     {
       "id": "topic-e060508a1a",
@@ -809,120 +1028,6 @@
       "updatedAt": "2026-10-16T12:22:24+07:00"
     },
     {
-      "id": "topic-699bd69ca5",
-      "title": "สมชัย ศรีสุทธิยากร",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#สมชัยศรีสุทธิยากร"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "นักวิชาการ-สส.-สื่อ รวม 8 คน ถูกร้องเอาผิดฐานอั้งยี่-ยุยงปลุกปั่น ปมถอดรหัสคิวอาร์โค้ดบัตรเลือกตั้ง",
-          "url": "https://thestandard.co/eight-accused-qr-code-ballot/"
-        },
-        {
-          "title": "ยธ. ส่งดีเอสไอเชือด นักวิชาการ-ช่างภาพ ผิดอั้งยี่ คดีถ่ายบัตรเลือกตั้งเห็นบาร์โค้ด",
-          "url": "https://www.matichon.co.th/politics/news_5940839"
-        },
-        {
-          "title": "ร้อง DSI เอาผิด 8 ราย ถ่ายภาพบัตรเลือกตั้ง-ถอดรหัสบาร์โค้ด",
-          "url": "https://th.headtopics.com/news/361936573629359174434-89015479"
-        }
-      ],
-      "updatedAt": "2026-10-20T23:20:00+07:00"
-    },
-    {
-      "id": "topic-d98bc69ddd",
-      "title": "หวยลาววันนี้",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 20000+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#หวยลาววันนี้"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "ตรวจหวยลาววันนี้ อังคาร 20 ต.ค. 2569 เช็กผลหวยลาวงวดล่าสุด หวยลาวพัฒนา 5/45",
-          "url": "https://www.pptvhd36.com/news/%E0%B8%A5%E0%B8%AD%E0%B8%95%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B8%B5%E0%B9%88/285553"
-        },
-        {
-          "title": "หวยลาววันนี้ 20 ตุลาคม 2569 ตรวจผลหวยลาว หวยลาววันนี้ออกอะไร?",
-          "url": "https://www.sanook.com/news/9909707/"
-        },
-        {
-          "title": "ตรวจหวยลาว งวด 20/10/69 เช็กเลข 6 ตัว วิเคราะห์เลขนามสัตว์ สถิติหวยย้อนหลัง",
-          "url": "https://thethaiger.com/th/news/1622233/"
-        }
-      ],
-      "updatedAt": "2026-10-20T20:30:00+07:00"
-    },
-    {
-      "id": "neom-24de298bb9",
-      "title": "อัล นาสร์ ริยาด พบ neom",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#อัลนาสร์ริยาดพบneom"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "Cristiano Ronaldo suffers setback as Kingsley Coman is reportedly sidelined for Al Nassr vs Neom",
-          "url": "https://worldsoccertalk.com/news/cristiano-ronaldo-suffers-setback-as-kingsley-coman-is-reportedly-sidelined-for-al-nassr-vs-neom/"
-        },
-        {
-          "title": "Al-Nassr vs Neom LIVE Score Updates in Saudi Pro League Match",
-          "url": "https://www.vavel.com/en-us/soccer/2026/10/20/1276099-al-nassr-vs-neom-live-score-updates-in-saudi-pro-league-match.html"
-        },
-        {
-          "title": "The rescue plan has begun: eight returnees knocking on Al-Nassr's doors",
-          "url": "https://www.goal.com/en/news/the-rescue-plan-has-begun-eight-returnees-knocking-on-al-nassr-s-doors/blt7525bd1b2661c786"
-        }
-      ],
-      "updatedAt": "2026-10-21T00:30:00+07:00"
-    },
-    {
       "id": "american-fair-250-16-the-standard-f3329fd25c",
       "title": "เชียงใหม่จัดใหญ่ ‘American Fair’ ฉลอง 250 ปี สหรัฐอเมริกา ชูความสัมพันธ์-วัฒนธรรมสองชาติ วันนี้ (16 ตุลาคม) ช่างภาพข่าว The standard ลงพื้นที่สวนองค์การบริหารส่วนจังหว...",
       "sourceType": "news",
@@ -949,72 +1054,8 @@
       "updatedAt": "2026-10-16T20:27:38+07:00"
     },
     {
-      "id": "sea-v-cup-2026-1-15b53dae6d",
-      "title": "เปิดโปรแกรมวอลเลย์บอลหญิง SEA V Cup 2026 สนาม 1 รูปแบบการแข่งขัน-วิธีตัดสินทีมแชมป์",
-      "sourceType": "news",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: วอลเลย์บอล / source: Thairath.co.th - เปิดโปรแกรมวอลเลย์บอลหญิง SEA V Cup 2026 สนาม 1 รูปแบบการแข่งขัน-วิธีตัดสินทีมแชมป์    Thairath.co.th",
-      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#เปิดโปรแกรมวอลเลย์บอลหญิ"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Thairath.co.th",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5NRHZQcEpVUWF5YnI4ekRPN2g0bFhKQngyNDlPbHprbjQ3VjdLVnk5UnBkbE1KdUJETHktZS11dFdqd2dTdWFtaHptUGp3NV9CNWFBdFVlaWQ5UmNjNjBzS1MxWTgwQkhUcXk2czM2Zw?oc=5"
-        }
-      ],
-      "updatedAt": "2026-10-18T11:45:00+07:00"
-    },
-    {
-      "id": "topic-5621b4039d",
-      "title": "เฟแนร์บาห์เช พบ สลาเวีย ปราก",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 500+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#เฟแนร์บาห์เชพบสลาเวียปรา"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "Fenerbahçe vs Slavia Prague: UEFA Champions League stats & head-to-head",
-          "url": "https://www.bbc.com/sport/football/live/cxdd821m4j1jt"
-        },
-        {
-          "title": "October 21, 2026: Cincinnati vs DC United: First Half Winner Soccer Prediction Market",
-          "url": "https://robinhood.com/us/en/prediction-markets/soccer/events/cincinnati-vs-dc-united-first-half-winner-oct-21-2026/"
-        },
-        {
-          "title": "Fenerbahce vs Slavia Prague LIVE: Greenwood scores as Guendouzi makes horror error in Champions League clash",
-          "url": "https://www.thesun.co.uk/sport/40702908/fenerbahce-vs-slavia-prague-live-score-result-champions-league-updates/"
-        }
-      ],
-      "updatedAt": "2026-10-20T23:00:00+07:00"
-    },
-    {
-      "id": "topic-42983453f5",
-      "title": "โบรุสเซียดอร์ทมุนด์",
+      "id": "topic-967c8fc868",
+      "title": "เนกาซ่า",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
@@ -1027,7 +1068,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#โบรุสเซียดอร์ทมุนด์"
+        "#เนกาซ่า"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -1036,71 +1077,19 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "โปรแกรมบอลวันนี้ 20 ต.ค. 69 ดูบอลสด ดูUCL ลิเวอร์พูล พบ บียาร์เรอัล, เปแอสเช พบ บาร์เซโลน่า พร้อมช่องถ่ายทอดสด",
-          "url": "https://www.siamsport.co.th/football-international/ucl/110955/"
+          "title": "💪 Chivas beat Necaxa and snap at América's heels",
+          "url": "https://sports.yahoo.com/articles/chivas-beat-necaxa-snap-am-021800010.html"
         },
         {
-          "title": "อิราโอล่าเซ็ง \"ลิเวอร์พูล\" เจอ 2 ข่าวร้ายล่าสุด ก่อนพบ บียาร์เรอัล UCL นัด 3",
-          "url": "https://www.thairath.co.th/sport/eurofootball/uefa/2967250"
+          "title": "Guadalajara vs Necaxa Prediction, Betting Tips, Lineups & Odds | 20 Oct 2026",
+          "url": "https://www.sportsgambler.com/betting-tips/football/guadalajara-vs-necaxa-prediction-lineups-odds-2026-10-20/"
         },
         {
-          "title": "อิราโอล่า ย้ำชัด มูญอซ พร้อมลงเล่นทุกตำแหน่งที่ลิเวอร์พูลต้องการ",
-          "url": "https://www.pptvhd36.com/sport/news/285523"
+          "title": "EVERYTHING You Can Enjoy at Estadio AKRON While Supporting Chivas and Chivas Femenil Against Necaxa",
+          "url": "https://www.chivasdecorazon.com.mx/en/noticias/41628/Esto-es-TOODO-lo-que-podrs-disfrutar-en-el-Estadio-AKRON-para-apoyar-a-Chivas-y-Chivas-Femenil-ante-Necaxa"
         }
       ],
-      "updatedAt": "2026-10-21T00:00:00+07:00"
-    },
-    {
-      "id": "2026-3-806ce877d7",
-      "title": "โปรแกรม วอลเลย์บอลหญิง \"เอเชียนเกมส์ 2026\" รอบชิงชนะเลิศ และ นัดชิงอันดับที่ 3",
-      "sourceType": "news",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "ข่าวจาก Google News keyword: วอลเลย์บอล / source: Thairath.co.th - โปรแกรม วอลเลย์บอลหญิง \"เอเชียนเกมส์ 2026\" รอบชิงชนะเลิศ และ นัดชิงอันดับที่ 3    Thairath.co.th",
-      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#โปรแกรมวอลเลย์บอลหญิง\"เอ"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Thairath.co.th",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0zUHpwVV85NHRsakRKNGo1LXZWY2pzeGZnLXJIZkd2bGhEOVdSYWI0TzNDNUMxYVQ3SDFRZmlJVTdaUWFyTXUzWVFKNUhvcEl4d0VUV0w2SEEzeVY5TTZj?oc=5"
-        }
-      ],
-      "updatedAt": "2026-10-18T11:45:00+07:00"
-    },
-    {
-      "id": "where-the-mask-ends-2026-506f548e5c",
-      "title": "เรื่องย่อ ปลดหน้ากาก Where the Mask Ends (2026) ซีรีส์จีนย้อนยุคโรแมนติกดราม่า",
-      "sourceType": "news",
-      "category": "entertainment",
-      "contentPotential": "high",
-      "riskLevel": "medium",
-      "summary": "ข่าวจาก Google News keyword: ซีรีส์ / source: Sanook.com - เรื่องย่อ ปลดหน้ากาก Where the Mask Ends (2026) ซีรีส์จีนย้อนยุคโรแมนติกดราม่า    Sanook.com",
-      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
-      "creatorAngle": "เล่า reaction ส่วนตัวต่อกระแส แล้วเปิดคำถามให้คนคุยต่อ",
-      "promptIdea": "กระแสนี้ทุกคนอยู่ทีมไหน?",
-      "hashtags": [
-        "#EntertainmentTH",
-        "#คุยเรื่องบันเทิง",
-        "#กระแสวันนี้",
-        "#เรื่องย่อปลดหน้ากากWhere"
-      ],
-      "riskNote": "Medium risk ควรเลี่ยงการพาดพิงบุคคลจริงและใช้คำถามเชิงสร้างสรรค์",
-      "sources": [
-        {
-          "title": "Sanook.com",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBWc2FuSy16aU12cFUtZVZDa3JHZDlBcWVqakF4QmthVDZ4Zk1rLTZUbXNTbFRfcEhKc0x1TkFySWw1LVA1VVVEWExoTHc?oc=5"
-        }
-      ],
-      "updatedAt": "2026-10-16T13:41:16+07:00"
+      "updatedAt": "2026-10-21T07:30:00+07:00"
     },
     {
       "id": "topic-7a5367082b",
@@ -1129,13 +1118,13 @@
       "updatedAt": "2026-10-20T17:33:15+07:00"
     },
     {
-      "id": "topic-9039c18f96",
-      "title": "จับตา ร.ย.ส.ท. ตัดสินดราม่า ศึกแข่งรถโกคาร์ทเยาวชน? – เสื้อสูบ ตัวการสำคัญ",
+      "id": "4-a00cac20e4",
+      "title": "\"ปอ ตนุภัทร\" ขอจบดราม่า ร่ายยาวจับตาดูเด็ก 4 คนนี้ให้ดี",
       "sourceType": "news",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "medium",
-      "summary": "ข่าวจาก Google News keyword: ดราม่า / source: Matichon Online - จับตา ร.ย.ส.ท. ตัดสินดราม่า ศึกแข่งรถโกคาร์ทเยาวชน? – เสื้อสูบ ตัวการสำคัญ    Matichon Online",
+      "summary": "ข่าวจาก Google News keyword: ดราม่า / source: Sanook.com - \"ปอ ตนุภัทร\" ขอจบดราม่า ร่ายยาวจับตาดูเด็ก 4 คนนี้ให้ดี    Sanook.com",
       "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -1143,25 +1132,25 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#จับตาร.ย.ส.ท.ตัดสินดราม่"
+        "#\"ปอตนุภัทร\"ขอจบดราม่าร่า"
       ],
       "riskNote": "Medium risk ควรเลี่ยงการพาดพิงบุคคลจริงและใช้คำถามเชิงสร้างสรรค์",
       "sources": [
         {
-          "title": "Matichon Online",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBUYWZUVVBmdDdsa1c2TkdYelMzOVhZaFcwQlJEOVlFZDl1a0ZCTXlLa05DWkpYdENZS2FnNUdLenp5ekNRVnoxMWprdURySHB3UWpOa0F4NUd0UkRoMTFNWkJ2U2tEWms?oc=5"
+          "title": "Sanook.com",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE53cTJCRG9UbWFlckg1TFk5YlpWZHJpQ21ucnRoUTJLRnBic0I2X3BEak5Fc2dmc0JEY0VmN1NhcVFSNXNPbFM1dURJM2M?oc=5"
         }
       ],
-      "updatedAt": "2026-10-14T09:33:45+07:00"
+      "updatedAt": "2026-10-19T13:38:58+07:00"
     },
     {
-      "id": "cadet-b-9f41175d37",
-      "title": "ร.ย.ส.ท. ออกคำชี้แจงแล้ว! ปมดราม่าแข่งโกคาร์ท รุ่น Cadet-B",
+      "id": "nene-royal-f108875abe",
+      "title": "ดราม่าสนั่น! สาวยื่นจดเครื่องหมายการค้า “NENE ROYAL” อ้างเป็นของขวัญให้เจ้าตัว ชาวเน็ตตั้งคำถามมีสิทธิ์อะไร?",
       "sourceType": "news",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "medium",
-      "summary": "ข่าวจาก Google News keyword: ดราม่า / source: Sanook - ร.ย.ส.ท. ออกคำชี้แจงแล้ว! ปมดราม่าแข่งโกคาร์ท รุ่น Cadet-B    Sanook",
+      "summary": "ข่าวจาก Google News keyword: ดราม่า / source: ผู้จัดการออนไลน์ - ดราม่าสนั่น! สาวยื่นจดเครื่องหมายการค้า “NENE ROYAL” อ้างเป็นของขวัญให้เจ้าตัว ชาวเน็ตตั้งคำถามมีสิทธิ์อะไร?    ผู้จัดการออนไลน์",
       "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -1169,42 +1158,16 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#ร.ย.ส.ท.ออกคำชี้แจงแล้ว!"
+        "#ดราม่าสนั่น!สาวยื่นจดเคร"
       ],
       "riskNote": "Medium risk ควรเลี่ยงการพาดพิงบุคคลจริงและใช้คำถามเชิงสร้างสรรค์",
       "sources": [
         {
-          "title": "Sanook",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBlYmF0OTBpbHNsbWhSYTdUTS1lcm0yZEVzQ1lGN3hNYm9SQ1JrRTREazVsbUM2cTgxZXZicjI4LVJaM1FCMWhDOEt6akw?oc=5"
+          "title": "ผู้จัดการออนไลน์",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBQc2N6S3M0RFQyR0lXa2FkUnY1VHRVTk9DdE1mdEozMFJ1Z0p0NlRMUFdBZHJoc0ZqWG9TXzdyMWw0T3hxM1NlSmFPdHQ1VW1RSUpoc1Q2ZElsQVpQX1ZkUElvS1A?oc=5"
         }
       ],
-      "updatedAt": "2026-10-14T16:06:36+07:00"
-    },
-    {
-      "id": "topic-89ca09efff",
-      "title": "สรุปดราม่าโกคาร์ท “น้องพายุ” โดนยื่นประท้วง ประเด็นสเปกเครื่องยนต์",
-      "sourceType": "news",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "medium",
-      "summary": "ข่าวจาก Google News keyword: ดราม่า / source: Thairath.co.th - สรุปดราม่าโกคาร์ท “น้องพายุ” โดนยื่นประท้วง ประเด็นสเปกเครื่องยนต์    Thairath.co.th",
-      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#สรุปดราม่าโกคาร์ท“น้องพา"
-      ],
-      "riskNote": "Medium risk ควรเลี่ยงการพาดพิงบุคคลจริงและใช้คำถามเชิงสร้างสรรค์",
-      "sources": [
-        {
-          "title": "Thairath.co.th",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBTU3NGMnJ6QnM2QU1Va1FfNVU1aFI3TlFlZkVxYWYxWEVsZi1sNXVGT2VJYlV4cDJKZnJ5X3N6d3pudWxhcEh6YmpRWFU3NFRBLXFEbW1NQzFLSlhUTVFB?oc=5"
-        }
-      ],
-      "updatedAt": "2026-10-14T09:23:16+07:00"
+      "updatedAt": "2026-10-17T15:40:00+07:00"
     },
     {
       "id": "thai-help-thai-plus",
@@ -1230,12 +1193,8 @@
           "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ZQUJzaXBwLUdNR0pOaVRrak1kRll2X3NxdUYwOVEyVktrZWJOTTAyVllTSVQweUxIamdYX0tVNFM1dTlzenlfWHNKWXpidDVOSzdmMnUzOHFoX2E0?oc=5"
         },
         {
-          "title": "Sanook.com",
+          "title": "Sanook",
           "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFAwSVJXVWdEc0Y5QnNhSTJXQTRnUmNYemdSNlZhV0tJbDAxM1hVN2hOVGt3U2dhNmxOU2VQbWpjb3dETHFKMUlESXZKeGc?oc=5"
-        },
-        {
-          "title": "thestandard.co",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBUMG95bzFnODBqUkVqc1Q3WWhQaUpHdjlmcHlaQ3ctczllb2d2cWg5YUtUVE4tbmtZWnFjdks1TFFwMjdmbGV5OEwta004emZJQmNtNktQV0J2LVB0eGhOdW9MMzhvRHBMbzFLN1VoZkZUalFEYUdJ?oc=5"
         },
         {
           "title": "Anti Fake News Center Thailand",
@@ -1244,9 +1203,39 @@
         {
           "title": "Facebook",
           "url": "https://news.google.com/rss/articles/CBMi8gVBVV95cUxOYUhscHFVckVtYnhOdlhjSGZxZUpzdjRsUU42aTIwTzBhSTVrN2JldmNJR1doTTlKU0lIRWNQMEtLR2gxX28xTHhkbUhOaEdZeUp0cXRhS21xMGZ2NHVhelhCeE9PWmVvSDVUaWNoaENlamNJbjZjYnFaX3FfWXVDN0o1M3cya0tKS3BDZlBoNGdRTnVlUEZxSmZSbW4tQTEwV05ERTZuSi16Tl9aZGZIODF3X3NCNThfS0NzMHoyREZpVDk1bzRMTHM4XzExRFd3YmNBRW9pQWFTNUVodFlwT21pZGliU2VfcENNX2hacV9URXNkMEc5ZWtfdllESm1ibmZ4aTVtNXZBNlBSSUFrbGxUVE0wcXNqZ0tNczBuQzlPOE1RZmlTMkUydE9DS0dRTHdRejhBWGNfLU1ldldWTUstRk12R1dLanJTVFVvSGdmOHFNMWM1OEtmOFhXenZJV2RMZ1duUlVab2NTTG1nUlA0RC1lbmZ2emczWnJMUXJfX2lBRWRIUkI0M2xHcXNNSF9yRWF6WG5zMXdVMi1BUzkyelF3emp3R2NUX1BjMGNEUUlIZWFLcEFhNElVWGw2N1c1Tl84NlJWZEpRX3A1U1otN3Z6aU15QzJYQzh6U2hiY1Z5YlRiZklXVnR4VUpRRVFIZjhKZE1oSnRZRVA3bGZCRjI5Sm5NMHFRRWJnRE9iYVJmYU5McjZ0X3FDQlhjeW81TURUUDZJbmR6XzBRY3E3Q0l2WHJKN3JSSTA4eTRZRmlDUy1rYVhoY2Fqd3NUZElnNy0wOTJPRHNaaTZsQmRsZm1nbnJab0VPak5Ub1FXQjAzSVU4TS04TkJRWmhTTy04ckJkWXlDR1NoRFZ5TEFMQWdRanFJeFlpdUh1cWtUbmdMcWJrbzVXM1BJYmpISjFzNlJUNGhjNmYwMENlR1NPbzJydnk2S29vVWUxa050V0hVQTRnTEpUS1hpck42dUNqMV9yOTMwY0w5bTRrakdB?oc=5"
+        },
+        {
+          "title": "แนวหน้า",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBqWUNXc1RBVmItVWR2dmItZGdnS3JINTFubjk3UGFhWlVFRW02RmhJRnlvQW5aOHFwLTZvTHNoaUlhTTMzb1Z3dHAtUHRkanZUeWdB?oc=5"
         }
       ],
       "updatedAt": "2026-10-14T14:00:00+07:00"
+    },
+    {
+      "id": "topic-9245c72ff8",
+      "title": "“ไฮโซปอ” ลั่นเตรียมทยอยฟ้อง หลังดราม่าโกคาร์ทลามถึงลูก",
+      "sourceType": "news",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "medium",
+      "summary": "ข่าวจาก Google News keyword: ดราม่า / source: ททบ. 5 - “ไฮโซปอ” ลั่นเตรียมทยอยฟ้อง หลังดราม่าโกคาร์ทลามถึงลูก    ททบ. 5",
+      "whyItMatters": "ช่วยให้ทีมรู้ว่าประเด็นไหนกำลังถูกพูดถึงก่อนเลือก brief Creator",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#“ไฮโซปอ”ลั่นเตรียมทยอยฟ้"
+      ],
+      "riskNote": "Medium risk ควรเลี่ยงการพาดพิงบุคคลจริงและใช้คำถามเชิงสร้างสรรค์",
+      "sources": [
+        {
+          "title": "ททบ. 5",
+          "url": "https://news.google.com/rss/articles/CBMiqAVBVV95cUxOQ29iS25wTFUzNGVCcFFkdlQ1Z0prM0pDbWhXNjcyNncwQ1RvTVJDd0duMHZaUVgwRkRua3BQbFR6VUhnNjdwVVRxMnF6OE9LOUZzQnFBMDkwS1RhRGY1eGFaQ3VIRUo3TmhyWmtsM2J0WHhSaF8wZmZVYW5uOTB2NVRQTDFzdElHTTJIWFlMbmFadHZSb1JROUpHTy05TXRPV3NIcmoyNmZGQzktdUVTSmhxd3M2R1l2SzdMNVpOOWFuUW1ycXotY1Z1YVlFSWhVU2FBZ0FRazlKb1pRM0FBWjR1VGFIb0RuSzFBMGZyNG9wWVFrSmhuTGFEb0lRNzYzSjRWQXF2RjRLQmwwdWRuU214VDVfWUZSRXBwblJKaHR1X3J3dHA0VUJpclBGUDRqZFpzaFZaTC0yd3VmRFNmVUZ4QUNxRW55dzM0eHBVTkNSQXhlSjRHVVV3NlEzdUhPQnpFd0MzOGloNEhXTG1ESkhlUEZhSjB1dndlcERMVV83WkxLM3RSLTlqRUdWUV9ndmpBcmZta1RpTXg2X3N3WmtHZ0FfMm5qLU5PYXZJZ2hiVlNpSlFOY1JuNFZyUVFBTzRFTGtXMlhPSHJkdEVrQmxrS3JjUHF6MlVqYWtUZkw3b0U3bEJuZnhrRGN3cllldXBsMFJiTGpkcG9KVEZPajNGaUZTbkVPanVkdlhzMzJsd0g5SFBhcERMN1BoWkpxZmVDaE5EdmRseXYxYkJEMlRyV1h5RkRIU3BLMmlFVFktbXFEMHlLeTVHb2tzbDZvUlZKLUVBcG5TT3J5WExYc3Q4VnF4NWR4WU5sZGwtNXcxRWpXeXdFN2RydXNYZkI5TE10a21kczFjZ3FaNHgtS1QtcnlJNGZxZ0Jya2NlcE8tRDZxWTR0SQ?oc=5"
+        }
+      ],
+      "updatedAt": "2026-10-15T16:49:00+07:00"
     },
     {
       "id": "topic-f8df0d76ad",
