@@ -1,7 +1,9 @@
 {
-  "generatedAt": "2026-11-16T14:44:38.574483+07:00",
-  "dateRange": "2026-11-09 to 2026-11-16",
-  "sourceErrors": [],
+  "generatedAt": "2026-11-17T03:03:37.902972+07:00",
+  "dateRange": "2026-11-10 to 2026-11-17",
+  "sourceErrors": [
+    "google_news: HTTP Error 429: Too Many Requests"
+  ],
   "topics": [
     {
       "id": "7-things-we-love-about-cortis-fashion-mo-a40bc38059",
@@ -557,6 +559,44 @@
       "updatedAt": "2026-11-13T16:01:31+07:00"
     },
     {
+      "id": "007-15346b593c",
+      "title": "007",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 500+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#007"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "เปิดมุมคลั่งไคล้อาร์เซน่อลของ โรเบิร์ต แพททินสัน \"เจมส์ บอนด์\" คนใหม่",
+          "url": "https://www.siamsport.co.th/football-international/premierleague/112137/"
+        },
+        {
+          "title": "โรเบิร์ต แพตทินสัน ได้รับเลือกให้รับบท “เจมส์ บอนด์” คนใหม่",
+          "url": "https://www.thairath.co.th/news/foreign/2972904"
+        },
+        {
+          "title": "สิ้นสุดการรอคอย! “โรเบิร์ต แพตทินสัน” ผงาดเป็น “เจมส์ บอนด์” คนใหม่ รับไม้ต่อจากแดเนียล เคร็ก",
+          "url": "https://mgronline.com/entertainment/detail/9690000109678"
+        }
+      ],
+      "updatedAt": "2026-11-16T23:10:00+07:00"
+    },
+    {
       "id": "thailand-volleyball-association-bc3e249da1",
       "title": "Thailand Volleyball Association สมาคมกีฬาวอลเลย์บอลแห่งประเทศไทย",
       "sourceType": "news",
@@ -583,46 +623,8 @@
       "updatedAt": "2026-11-11T18:09:04+07:00"
     },
     {
-      "id": "lec-b284b60706",
-      "title": "lec",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 1000+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#lec"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "Zest Chooses NAVI Over FlyQuest Ahead of 2027 LEC Season",
-          "url": "https://egamersworld.com/lol/news/38457/natus-vincere-land-former-ls-toplaner-zest-for-lec-RbmRFHSWS"
-        },
-        {
-          "title": "Korean newcomer Zest to replace Ukrainian toplaner Maynter in NAVI's LEC 2027 roster",
-          "url": "https://players.com.ua/en/news/korean-newcomer-zest-to-replace-ukrainian-toplaner-maynter-in-navi-s-lec-2027-roster/"
-        },
-        {
-          "title": "Sources: Zest set to join Natus Vincere for LEC 2027",
-          "url": "https://www.sheepesports.com/en/articles/sources-zest-set-to-join-natus-vincere-for-lec-2027/en"
-        }
-      ],
-      "updatedAt": "2026-11-16T09:00:00+07:00"
-    },
-    {
-      "id": "lotto-cdbe055908",
-      "title": "lotto",
+      "id": "callum-turner-5d76bf6027",
+      "title": "callum turner",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
@@ -635,7 +637,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#lotto"
+        "#callumturner"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -644,23 +646,23 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "MN Lottery Results: Powerball, Lotto America winning numbers for Nov. 14, 2026",
-          "url": "https://www.sctimes.com/story/news/local/2026/11/14/minnesota-lottery-results-saturday-november-14-2026/92792275007/"
+          "title": "Is Jack Lowden leaving Slow Horses? Nothing confirmed after Robert Pattinson is named the new Bond",
+          "url": "https://www.nacionale.com/en/articles/is-jack-lowden-leaving-slow-horses-bond-pattinson-season-9-10"
         },
         {
-          "title": "MN Lottery Results: Powerball, Lotto America winning numbers for Nov. 11, 2026",
-          "url": "https://www.sctimes.com/story/news/local/2026/11/11/minnesota-lottery-results-wednesday-november-11-2026/92737164007/"
+          "title": "Amazon's Top Choice for 007 Is a More Expensive Actor Who Will Make Only 3 James Bond Movies",
+          "url": "https://www.imdb.com/news/ni66113726/?ref_=nmnw_art_perm"
         },
         {
-          "title": "Record $2M day for Pick-3 lottery as 2-2-2 hits during promotion",
-          "url": "https://www.northjersey.com/story/news/new-jersey/2026/11/12/pick-3-pays-out-2-million-after-2-2-2-hits-in-green-ball-promo/92744204007/"
+          "title": "RICHARD JOHNSON | Callum Turner closing in on James Bond gig: source",
+          "url": "https://www.nydailynews.com/2026/11/15/callum-turner-james-bond/"
         }
       ],
-      "updatedAt": "2026-11-16T10:30:00+07:00"
+      "updatedAt": "2026-11-16T22:50:00+07:00"
     },
     {
-      "id": "marco-pierre-white-24941f1a55",
-      "title": "marco pierre white",
+      "id": "denis-villeneuve-e5436fd413",
+      "title": "denis villeneuve",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
@@ -673,7 +675,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#marcopierrewhite"
+        "#denisvilleneuve"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -682,28 +684,28 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "Chef who worked under Marco Pierre White takes over village pub",
-          "url": "https://www.thisisoxfordshire.co.uk/news/26725392.chef-worked-marco-pierre-white-takes-village-pub/"
+          "title": "Robert Pattinson sera le prochain James Bond",
+          "url": "https://www.lefigaro.fr/cinema/robert-pattinson-sera-le-prochain-james-bond-20261116"
         },
         {
-          "title": "'This is what I've always wanted to do' - Slough woman, 25, takes over village pub",
-          "url": "https://www.sloughobserver.co.uk/news/26723236.slough-woman-becomes-co-owner-flackwell-heath-pub/"
+          "title": "James Bond change de visage: 007 choses à savoir sur la saga",
+          "url": "https://www.journaldequebec.com/2026/11/16/james-bond-change-de-visage-007-choses-a-savoir-sur-la-saga"
         },
         {
-          "title": "Marco Pierre White becomes grandfather for fourth time",
-          "url": "https://www.geo.tv/latest/691075-marco-pierre-white-becomes-grandfather"
+          "title": "Nouveau James Bond : qui est Suki Waterhouse, la compagne de Robert Pattinson ?",
+          "url": "https://www.kingofgeek.com/2026/11/suki-waterhouse-robert-pattinson-maries-compagne-james-bond/"
         }
       ],
-      "updatedAt": "2026-11-16T13:50:00+07:00"
+      "updatedAt": "2026-11-16T23:30:00+07:00"
     },
     {
-      "id": "topic-9194371ffb",
-      "title": "กระทง",
+      "id": "robert-pattinson-522f80da19",
+      "title": "robert pattinson",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 1000+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 5000+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -711,7 +713,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#กระทง"
+        "#robertpattinson"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -720,57 +722,19 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "รีวิววิวัฒนาการ \"กระทง\": จากประเพณีสู่รักษ์โลกยุคดิจิทัล",
-          "url": "https://news.trueid.net/detail/L0yjLyXaKEY9"
+          "title": "Robert Pattinson Is Officially James Bond: Meet the New 007 Actor",
+          "url": "https://variety.com/2026/film/global/robert-pattinson-new-james-bond-007-1236946655/"
         },
         {
-          "title": "วันลอยกระทง 2569 ตรงกับวันไหน? เปิดประวัติ ความสำคัญ และวิธีลอยกระทงรักษ์โลก",
-          "url": "https://www.tnnthailand.com/lifestyle/252422/"
+          "title": "Robert Pattinson: How the Twilight star became 007",
+          "url": "https://www.bbc.com/news/articles/c574290jvk8wo"
         },
         {
-          "title": "หนุนใช้กระทงกาบหมาก-เปลือกข้าวโพด รักษ์โลก ลดต้นทุนจัดการขยะ",
-          "url": "https://www.khaosod.co.th/economics/news_10473219"
+          "title": "Robert Pattinson says being cast as new James Bond is 'honour of a lifetime'",
+          "url": "https://www.bbc.co.uk/news/live/ckg5j69ndv2vt"
         }
       ],
-      "updatedAt": "2026-11-16T09:20:00+07:00"
-    },
-    {
-      "id": "topic-c66773be16",
-      "title": "กระทรวงพลังงาน",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#กระทรวงพลังงาน"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "‘ม็อบกำนันมะโน’ เดินเท้าถึงกระทรวงพลังงานแล้ว จี้ลดน้ำมัน 10 บาท ประกาศหมดหวังกลไกรัฐสภา | สวพ.FM91",
-          "url": "https://today.line.me/th/v3/article/vXLvZo8"
-        },
-        {
-          "title": "“โอ๋ สุดซอย” ยืนยัน กระทรวงพลังงานพร้อมรับฟังข้อเสนอ “กำนันมะโน” และคณะ",
-          "url": "https://www.thairath.co.th/news/politic/2972676"
-        },
-        {
-          "title": "\"กำนันมะโน\" พร้อมมวลชนมาถึง ก.พลังงาน จี้ราคาน้ำมัน | ไลฟ์วันนี้ | 16 พ.ย.69",
-          "url": "https://www.thaipbs.or.th/live/special/293595"
-        }
-      ],
-      "updatedAt": "2026-11-16T10:50:00+07:00"
+      "updatedAt": "2026-11-16T22:00:00+07:00"
     },
     {
       "id": "13-2569-c8406c7cda",
@@ -851,8 +815,84 @@
       "updatedAt": "2026-11-11T15:37:23+07:00"
     },
     {
-      "id": "topic-46d70ed3e9",
-      "title": "ภัทรบพิตร",
+      "id": "topic-295cbf7eb0",
+      "title": "ลิทัวเนียบอล",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 100+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#ลิทัวเนียบอล"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "Preview: Lithuania vs Liechtenstein - prediction, team news, lineups",
+          "url": "https://www.sportsmole.co.uk/football/liechtenstein/uefa-nations-league/preview/lithuania-vs-liechtenstein-prediction-team-news-lineups_609127.html"
+        },
+        {
+          "title": "!$+[WATCHLIVE]ESPN@] Lithuania vs Liechtenstein LIVE Free UEFA Nations League Match",
+          "url": "https://www.ub.edu/portal//html/js/editor/fckeditor/editor/filemanager/browser/default/browser.html?Type=File&CONNECTOR=%2F%5C%2Fkeeplearningeveryday.xyz%2Ffc%2Fconnector.php/&GetFoldersAndFiles=video-watchlive-espn-lithuania-vs-liechtenstein-ot6vx"
+        },
+        {
+          "title": "Lithuania Liechtenstein Nations League Soccer",
+          "url": "https://www.chronicleonline.com/sports/soccer/lithuania-liechtenstein-nations-league-soccer/image_70609ebf-7b79-56f6-80a5-49d6d07c10b9.html"
+        }
+      ],
+      "updatedAt": "2026-11-17T00:10:00+07:00"
+    },
+    {
+      "id": "topic-d8ab3661fb",
+      "title": "สโลวาเกียบอล",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 1000+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#สโลวาเกียบอล"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "Kazakhstan vs Slovakia: UEFA Nations League stats & head-to-head",
+          "url": "https://www.bbc.com/sport/football/live/cmrlgr1yxjl6t"
+        },
+        {
+          "title": "Kazakhstan vs Slovakia Preview & Prediction | 2026-27 UEFA Nations League | League C",
+          "url": "https://www.thestatszone.com/kazakhstan-vs-slovakia-preview-prediction-2026-27-uefa-nations-league-league-c-239128"
+        },
+        {
+          "title": "Kazakhstan Slovakia Nations League Soccer",
+          "url": "https://www.corsicanadailysun.com/sports/national_sports/kazakhstan-slovakia-nations-league-soccer/image_93aec47e-7503-5845-95ec-946bbb525d3d.html"
+        }
+      ],
+      "updatedAt": "2026-11-16T21:50:00+07:00"
+    },
+    {
+      "id": "topic-a550b05e23",
+      "title": "สโลวีเนียบอล",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
@@ -865,7 +905,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#ภัทรบพิตร"
+        "#สโลวีเนียบอล"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -874,95 +914,19 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "ดูบอลสด หมอนทองวิทยา พบ พุทธิรังสีพิบูล บอล 7 สี เวลา 12.45 น.",
-          "url": "https://www.sanook.com/sport/1673961/"
+          "title": "Slovenia vs Switzerland Preview & Prediction | 2026-27 UEFA Nations League | League B",
+          "url": "https://www.thestatszone.com/slovenia-vs-switzerland-preview-prediction-2026-27-uefa-nations-league-league-b-237917"
         },
         {
-          "title": "สมราคาบิ๊กแมตช์!! \"แตงโม ยูไนเต็ด\" อัด \"หมอนทอง\" ลิ่วรอบ 64 ทีม ฟุตบอล 7 สี",
-          "url": "https://www.dailynews.co.th/news/6361630/"
+          "title": "Nations League: Akanji in action for Switzerland",
+          "url": "https://sports.yahoo.com/articles/nations-league-akanji-action-switzerland-214500961.html"
         },
         {
-          "title": "อ.สกล เผยน่าเสียดาย วรากร ยิงไกลเข้าแต่ไม่ได้ประตู ชี้ไม่รู้จะทำได้อีกเมื่อไหร่ | Khaosod",
-          "url": "https://today.line.me/th/v3/article/Kw7KDKo"
+          "title": "Slovenia Switzerland Nations League Soccer",
+          "url": "https://www.corsicanadailysun.com/sports/national_sports/slovenia-switzerland-nations-league-soccer/image_24fc3ee3-1d48-5137-95ab-eae4d204ed91.html"
         }
       ],
-      "updatedAt": "2026-11-16T10:20:00+07:00"
-    },
-    {
-      "id": "topic-ace80530e3",
-      "title": "ราศี",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 1000+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#ราศี"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "รับโชคไม่ทันตั้งตัว! หมอช้าง เคาะ 2 ราศี โชคลาภเด่นสุด เรื่องดีเข้ามา ปังเกินคาด",
-          "url": "https://www.sanook.com/horoscope/338110/"
-        },
-        {
-          "title": "เตรียมตัวรวยไม่รู้ตัว 'หมอช้าง' เผย 2 ราศี ดวงเฮงยืนหนึ่ง ช่วงนี้มีเกณฑ์รับโชคใหญ่แบบงง ๆ",
-          "url": "https://www.naewna.com/n/top-stories/166363/"
-        },
-        {
-          "title": "โชคมาแบบงงๆ คาดไม่ถึง! หมอช้าง เปิดราศีดวงรับโชคแบบไม่ทันตั้งตัว ปังเกินคาด | Khaosod",
-          "url": "https://today.line.me/th/v3/article/60oO3Bn?view=topic&referral=horozodiac"
-        }
-      ],
-      "updatedAt": "2026-11-16T11:30:00+07:00"
-    },
-    {
-      "id": "1-2569-0abd3fa660",
-      "title": "หวย 1 พฤศจิกายน 2569",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 1000+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#หวย1พฤศจิกายน2569"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "ตรวจหวย N3 16/11/69 ผลสลาก N3 งวด 16 พฤศจิกายน 2569",
-          "url": "https://www.sanook.com/news/9912110/"
-        },
-        {
-          "title": "สิบเลขขายดี สลากตัวเลขสามหลัก N3 งวด 16/11/69",
-          "url": "https://postjung.com/lotto/1736856"
-        },
-        {
-          "title": "ถ่ายทอดสดหวย 16/11/69 ตรวจหวย ผลสลากกินแบ่งรัฐบาล 16 พ.ย. 69",
-          "url": "https://www.sanook.com/news/9912059/"
-        }
-      ],
-      "updatedAt": "2026-11-16T10:50:00+07:00"
+      "updatedAt": "2026-11-16T22:20:00+07:00"
     },
     {
       "id": "gunshot-a017b4f82c",
@@ -991,6 +955,82 @@
       "updatedAt": "2026-11-14T07:00:00+07:00"
     },
     {
+      "id": "vs-7f8d075b7b",
+      "title": "เนเธอร์แลนด์ vs กรีซ",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 100+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#เนเธอร์แลนด์vsกรีซ"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "ผลบอลสด ทีมชาติเนเธอร์แลนด์ ไล่ถล่ม กรีซ ศึกยูฟ่าเนชั่นส์ลีก",
+          "url": "https://www.thairath.co.th/sport/eurofootball/otherleague/2972436"
+        },
+        {
+          "title": "‘กังหัน’ ถล่มแหลก ‘กรีซ’ 7-0 ‘อินทรีเหล็ก’ สยายปีกบุกสอย เซอร์เบีย 3-1",
+          "url": "https://www.matichon.co.th/sport/footballinter/news_5975036"
+        },
+        {
+          "title": "เนเธอร์แลนด์ยิง 7 ประตูถล่มกรีซศึกยูฟ่า เนชันส์ ลีก \"ไรน์เดอร์ส\" กดแฮตทริก | Khaosod",
+          "url": "https://today.line.me/th/v3/article/XYpoRGe"
+        }
+      ],
+      "updatedAt": "2026-11-17T00:30:00+07:00"
+    },
+    {
+      "id": "topic-6c51e9341d",
+      "title": "เยอรมนี พบ เนเธอร์แลนด์",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 2000+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#เยอรมนีพบเนเธอร์แลนด์"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "โปรแกรมบอลวันนี้ 16 พ.ย. 69 ดูบอลสด ดูเนชั่นส์ลีก เยอรมนี พบ เนเธอร์แลนด์ พร้อมช่องถ่ายทอดสด",
+          "url": "https://www.siamsport.co.th/football-international/national-team/112107/"
+        },
+        {
+          "title": "คล็อปป์ ลั่นสร้างทีมเยอรมนีใหม่สำคัญสุด ก่อนเกมชี้ชะตากับ เนเธอร์แลนด์",
+          "url": "https://www.pptvhd36.com/sport/news/287234"
+        },
+        {
+          "title": "โปรแกรมกีฬาวันนี้ พร้อมช่องถ่ายทอดสด วันจันทร์ที่ 16 พฤศจิกายน 69",
+          "url": "https://www.tnnthailand.com/sports/252428/"
+        }
+      ],
+      "updatedAt": "2026-11-17T01:50:00+07:00"
+    },
+    {
       "id": "topic-a125c20a75",
       "title": "เวทีอิสระ : ทบทวนและตั้งหลักความสัมพันธ์ไทย-จีนกันใหม่",
       "sourceType": "news",
@@ -1017,6 +1057,44 @@
       "updatedAt": "2026-11-14T04:01:12+07:00"
     },
     {
+      "id": "topic-4eebe402d4",
+      "title": "เอสโตเนียบอล",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 100+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#เอสโตเนียบอล"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "Estonia vs Bulgaria: UEFA Nations League stats & head-to-head",
+          "url": "https://www.bbc.com/sport/football/live/cmwy04kvgw95t"
+        },
+        {
+          "title": "Estonia vs Bulgaria Betting Odds, Tips, Predictions, Preview 16th November 2026",
+          "url": "https://easyodds.com/estonia-vs-bulgaria-betting-odds-tips-predictions-preview-16th-november-2026"
+        },
+        {
+          "title": "【MATCH THREAD】 Bulgaria vs Estonia 𝐋𝐈𝐕𝐄 Ｓｔｒｅａｍｓ Ｆｒｅｅ ＯＮ Ｔv Channel",
+          "url": "https://www.ub.edu/portal//html/js/editor/fckeditor/editor/filemanager/browser/default/browser.html?Type=File&CONNECTOR=%2F%5C%2Fkeeplearningeveryday.xyz%2Ffc%2Fconnector.php/&GetFoldersAndFiles=video-match-thread-bulgaria-vs-estonia-live-streams-q0hyk"
+        }
+      ],
+      "updatedAt": "2026-11-17T00:20:00+07:00"
+    },
+    {
       "id": "2027-1-3-15-00-volleyba-10e215cfc1",
       "title": "โปรแกรมถ่ายทอดสด! . การแข่งขันวอลเลย์บอล ไทยแลนด์ลีก 2027 : สัปดาห์ที่ 1 . ทีมชาย : ประเสริฐนิกรกุล - บึงกาฬ พบ นครราชสีมา 3เอ็ม ฟิล์ม วีซี เวลา 15.00 ทางช่อง Volleyba...",
       "sourceType": "news",
@@ -1041,82 +1119,6 @@
         }
       ],
       "updatedAt": "2026-11-13T09:30:03+07:00"
-    },
-    {
-      "id": "topic-027f9feb50",
-      "title": "โรนัลดินโญ่",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 500+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#โรนัลดินโญ่"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "โรนัลดินโญ่ เปิดใจคืนสนามรอบ 11 ปี เผย 45 นาทีผ่านไปเร็วมาก",
-          "url": "https://www.siamsport.co.th/football-international/serie-a/112096/"
-        },
-        {
-          "title": "โรนัลดินโญ คืนสนามในวัย 46 ปี ลงเล่นให้ราเวนนา ก่อนช่วยทีมคว้าชัย",
-          "url": "https://thestandard.co/ronaldinho-returns-ravenna-serie-c/"
-        },
-        {
-          "title": "\"เหยินเล็ก\" คัมแบ๊กลงบู๊ให้สโมสรในดิวิชัน 3 อิตาลี",
-          "url": "https://www.dailynews.co.th/news/6362528/"
-        }
-      ],
-      "updatedAt": "2026-11-16T10:00:00+07:00"
-    },
-    {
-      "id": "topic-941f52fc4f",
-      "title": "ไฟไหม้ป่าตอง",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#ไฟไหม้ป่าตอง"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "“เจเศรษฐ์” มท.3 ลงพื้นที่ภูเก็ต ติดตามเหตุเพลิงไหม้ป่าตอง เสียชีวิต 11 ราย | สวพ.FM91",
-          "url": "https://today.line.me/th/v3/article/mWp8Jme"
-        },
-        {
-          "title": "นายกฯ ห่วงเหตุไฟไหม้อาคารพาณิชย์ป่าตอง สั่งดูแลผู้บาดเจ็บ - หาสาเหตุ",
-          "url": "https://www.thaipbs.or.th/news/content/572794"
-        },
-        {
-          "title": "ดับแล้ว 11 ศพ! เหตุไฟไหม้ \"ร้านรถเช่าป่าตอง จ.ภูเก็ต\" เจ้าหน้าที่เร่งพิสูจน์อัตลักษณ์ คาดสาเหตุเริ่มจากไฟฟ้าลัดวงจร",
-          "url": "https://www.thaich8.com/news_detail/145265"
-        }
-      ],
-      "updatedAt": "2026-11-16T10:00:00+07:00"
     },
     {
       "id": "7-0a396620f4",
