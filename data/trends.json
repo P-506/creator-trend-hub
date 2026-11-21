@@ -1,7 +1,9 @@
 {
-  "generatedAt": "2026-11-21T15:05:12.219693+07:00",
-  "dateRange": "2026-11-14 to 2026-11-21",
-  "sourceErrors": [],
+  "generatedAt": "2026-11-22T00:11:06.431307+07:00",
+  "dateRange": "2026-11-15 to 2026-11-22",
+  "sourceErrors": [
+    "google_news: HTTP Error 429: Too Many Requests"
+  ],
   "topics": [
     {
       "id": "topic-cd8592f64d",
@@ -579,13 +581,13 @@
       "updatedAt": "2026-11-17T23:06:16+07:00"
     },
     {
-      "id": "abby-choi-3588d74b08",
-      "title": "abby choi",
+      "id": "chelsea-ac137c6ae0",
+      "title": "chelsea",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 1000+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -593,7 +595,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#abbychoi"
+        "#chelsea"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -602,23 +604,23 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "Abby Choi’s ex-husband says father killed her after she berated him over affair",
-          "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3375212/abby-chois-ex-husband-claims-his-father-killed-her-after-she-chastised-his-affair"
+          "title": "Chelsea v Leeds, Tottenham v Ipswich, and more: football clockwatch – live",
+          "url": "https://www.theguardian.com/football/live/2026/nov/21/chelsea-v-leeds-tottenham-v-ipswich-and-more-football-clockwatch-live"
         },
         {
-          "title": "Alex Kwong testifies in Abby Choi murder trial over car argument",
-          "url": "https://www.dimsumdaily.hk/alex-kwong-testifies-in-abby-choi-murder-trial-over-car-argument/"
+          "title": "Premier League live: score, updates and analysis",
+          "url": "https://www.thetimes.com/sport/football/article/premier-league-live-score-analysis-commentary-latest-news-hk6l5xhqn"
         },
         {
-          "title": "Abby Choi's murder trial: Kwong Kau admitted to Choi's dismemberment",
-          "url": "https://news.tvb.com/en/1207092-AbbyChoismurdertrialKwongKauadmittedtoChoisdismemberment"
+          "title": "Chelsea vs Leeds, Spurs vs Ipswich and Premier League 3pm matches",
+          "url": "https://www.telegraph.co.uk/football/2026/11/21/premier-league-live-score-chelsea-leeds-tottenham-ipswich/"
         }
       ],
-      "updatedAt": "2026-11-21T13:00:00+07:00"
+      "updatedAt": "2026-11-21T22:30:00+07:00"
     },
     {
-      "id": "btc-f92f3a0ee6",
-      "title": "btc",
+      "id": "kocaelispor-b57f1977e0",
+      "title": "kocaelispor พบ เฟแนร์บาห์เช",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
@@ -631,7 +633,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#btc"
+        "#kocaelisporพบเฟแนร์บาห์เ"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -640,57 +642,19 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "Strategy's Growing USD Reserves: Is Financial Flexibility Improving?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/strategys-growing-usd-reserves-financial-141600062.html"
+          "title": "Fenerbahce Face Kocaelispor in Turkish Super Lig Clash",
+          "url": "https://cwibc.co.id/en/kocaelispor-fenerbahce-super-lig"
         },
         {
-          "title": "Strategy Says None of Its Bitcoin Holdings Are Pledged, Net Reserve at $35 Billion",
-          "url": "https://en.bloomingbit.io/feed/news/124928"
+          "title": "Kocaelispor vs Fenerbahçe live today: Where to watch on TV and online",
+          "url": "https://www.goal.com/en-sg/news/kocaelispor-vs-fenerbahce-live-today-where-to-watch-on-tv-and-online/blt5aed1c826beb0e33"
         },
         {
-          "title": "Strategy Breaks Silence After BTC Crash as Bitcoin Position Dumps to $17B in Paper Losses",
-          "url": "https://cryptopotato.com/strategy-breaks-silence-after-btc-crash-as-bitcoin-position-dumps-to-17b-in-paper-losses/"
+          "title": "Kocaelispor vs Fenerbahçe: Confirmed Lineups, Kickoff Time and Team News as Süper Lig Rivals Clash",
+          "url": "https://aktualita.co/en/football/kocaelispor-vs-fenerbahce-confirmed-lineups-kickoff-time-and-team-news-as-super-lig-rivals-clash"
         }
       ],
-      "updatedAt": "2026-11-21T11:10:00+07:00"
-    },
-    {
-      "id": "lakers-vs-kings-8fff034ef8",
-      "title": "lakers vs kings",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#lakersvskings"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "Kings vs. Lakers (Nov 20, 2026) Live Score",
-          "url": "https://www.espn.com/nba/odds/_/gameId/401909313"
-        },
-        {
-          "title": "Lakers' NBA Cup chances require them to beat Kings — and by a lot",
-          "url": "https://www.nytimes.com/athletic/live-blogs/nba-news-schedule-scores-games-live-updates-2026/CzqWv0txVItd/iYoYsOifeuk2/"
-        },
-        {
-          "title": "Luka Dončić with 25/4/8/2 against the Kings in win",
-          "url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-11-21/luka-doncic-with-25-4-8-2-against-the-kings-in-win"
-        }
-      ],
-      "updatedAt": "2026-11-21T11:20:00+07:00"
+      "updatedAt": "2026-11-21T23:00:00+07:00"
     },
     {
       "id": "main-3cae73d18e",
@@ -719,13 +683,13 @@
       "updatedAt": "2026-11-19T11:03:02+07:00"
     },
     {
-      "id": "meet-392d787194",
-      "title": "meet",
+      "id": "newcastle-vs-arsenal-83aabb8eeb",
+      "title": "newcastle vs arsenal",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 100+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 1000+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -733,7 +697,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#meet"
+        "#newcastlevsarsenal"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -742,23 +706,23 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "A Dairy Farmer Ran for Office to Prove a Point. He Accidentally Won.",
-          "url": "https://www.nytimes.com/2026/11/20/us/democrats-unexpected-winning-candidates-midterms.html"
+          "title": "Newcastle United v Arsenal: Premier League – live",
+          "url": "https://www.theguardian.com/football/live/2026/nov/21/newcastle-united-v-arsenal-premier-league-live"
         },
         {
-          "title": "Big Elections Always Wash Some Oddballs Into Office. Meet the Wave Weirdos of 2026.",
-          "url": "https://slate.com/news-and-politics/2026/11/blue-wave-winners-kyrsten-sinema-weirdos.html"
+          "title": "Latest. Confirmed line-up: Miley and Willock in for Gunners game",
+          "url": "https://www.newcastleunited.com/en/news/arsenal-h-team-news-26-27"
         },
         {
-          "title": "Contenders or Crazy?",
-          "url": "https://www.tabletmag.com/sections/news/articles/democrats-jewish-contenders-crazy"
+          "title": "BOYLE Sports betting offer: Bet £10 get £30 + 25% boost on Newcastle vs Arsenal",
+          "url": "https://talksport.com/betting/4716291/newcastle-arsenal-boost-boyle-sports/"
         }
       ],
-      "updatedAt": "2026-11-21T09:00:00+07:00"
+      "updatedAt": "2026-11-21T23:40:00+07:00"
     },
     {
-      "id": "qantas-6fb57515e9",
-      "title": "qantas",
+      "id": "nice-vs-psg-bd770f5df1",
+      "title": "nice vs psg",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
@@ -771,7 +735,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#qantas"
+        "#nicevspsg"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -780,19 +744,95 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "Qantas plane dumps fuel after ‘bad news’",
-          "url": "https://www.news.com.au/travel/travel-updates/incidents/qantas-flight-qfa27-returning-to-sydney-after-reported-technical-issue-on-santiago-service/news-story/d27d3041985306e8257977935505fa27"
+          "title": "Pronostic Nice - Paris Saint-Germain : Un choc entre deux équipes en pleine forme.",
+          "url": "https://www.vietnam.vn/fr/nhan-dinh-nice-vs-paris-saint-germain-man-so-tai-cua-hai-doi-vao-phom"
         },
         {
-          "title": "Qantas to cut 850 jobs in Accenture AI outsourcing deal, Greens say",
-          "url": "https://onnotice.com.au/news/qantas-to-cut-850-jobs-in-accenture-ai-deal-greens-say/"
+          "title": "Mohamed Abdelmonem forfait contre le PSG, une nouvelle blessure pour le défenseur égyptien - Sports - Sports",
+          "url": "https://french.ahram.org.eg/NewsContent/6/51/96094/Sports/Sports/Mohamed-Abdelmonem-forfait-contre-le-PSG,-une-nouv.aspx"
         },
         {
-          "title": "The Process Nobody Wrote Down: What the Qantas Outsourcing Deal Gets Right and Risks",
-          "url": "https://vocal.media/journal/the-process-nobody-wrote-down-what-the-qantas-outsourcing-deal-gets-right-and-risks"
+          "title": "Mini feux d'artifice, chants, fumigènes : l'ambiance monte d'un cran avant Nice-PSG - Foot - Ligue 1",
+          "url": "https://sports.orange.fr/videos/football/mini-feux-d-artifice-chants-fumigenes-l-ambiance-monte-d-un-cran-avant-nice-psg-foot-ligue-1-CNT000002tWg1g.html"
         }
       ],
-      "updatedAt": "2026-11-21T09:00:00+07:00"
+      "updatedAt": "2026-11-21T23:10:00+07:00"
+    },
+    {
+      "id": "serie-a-99e3c1f937",
+      "title": "serie a",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 100+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#seriea"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "La Lazio non si ferma più: travolge anche il Lecce e resta prima",
+          "url": "https://www.gazzetta.it/Calcio/Serie-A/21-11-2026/lazio-lecce-live-risultato-e-gol-in-diretta-serie-a.shtml"
+        },
+        {
+          "title": "Serie A, vincono il Como e la Lazio. Stasera Napoli-Torino",
+          "url": "https://tg24.sky.it/sport/2026/11/21/serie-a-partite-oggi-risultati-gol-highlights-video"
+        },
+        {
+          "title": "Gattuso chiede due rigori, Di Francesco uno: caos in Lazio-Lecce",
+          "url": "https://www.spazio50.org/gattuso-chiede-due-rigori-di-francesco-uno-caos-in-lazio-lecce/"
+        }
+      ],
+      "updatedAt": "2026-11-21T23:00:00+07:00"
+    },
+    {
+      "id": "the-hunger-games-9cb2f4af85",
+      "title": "the hunger games",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#thehungergames"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "Box Office: 'Hunger Games: Sunrise on Reaping' Opening to $120M, 4th Best Series",
+          "url": "https://deadline.com/2026/11/box-office-hunger-games-sunrise-on-the-reaping-1237229925/"
+        },
+        {
+          "title": "AT THE MOVIES: Welcome back to the world of Panem!",
+          "url": "https://www.nbcmiami.com/video/entertainment/south-florida-live/at-the-movies-welcome-back-to-the-world-of-panem/3891103/"
+        },
+        {
+          "title": "Ranking The Hunger Games franchise",
+          "url": "https://missflicks.com/2026/11/21/ranking-the-hunger-games-franchise/"
+        }
+      ],
+      "updatedAt": "2026-11-21T23:20:00+07:00"
     },
     {
       "id": "65-0c3280f5c2",
@@ -847,44 +887,6 @@
       "updatedAt": "2026-11-18T11:17:59+07:00"
     },
     {
-      "id": "7-38d5ec7813",
-      "title": "ดูบอล 7 สีสด",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 2000+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#ดูบอล7สีสด"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "ส่องรางวัลบอล 7 สี 2569 แชมป์ได้เงินเท่าไหร่? แต่ละอันดับได้อะไรบ้าง",
-          "url": "https://www.sanook.com/money/961755/"
-        },
-        {
-          "title": "“บอย ท่าพระจันทร์” โพสต์ตอกกลับดราม่า หลังโดนแซะ ให้อัดฉีดบอล 7 สีน้อย ลั่นไม่ได้รวยพอมีเงินแจกทุกทีม",
-          "url": "https://mgronline.com/sport/detail/9690000111157"
-        },
-        {
-          "title": "ลูกชายเนวิน โพสต์แล้วหลัง ภัทรบพิตร ตกรอบ 16 ทีม บอล 7 สี",
-          "url": "https://www.thairath.co.th/sport/thaifootball/2973750"
-        }
-      ],
-      "updatedAt": "2026-11-21T09:50:00+07:00"
-    },
-    {
       "id": "6-11-2-3-6-2-3-0-a9b872e802",
       "title": "นครนนท์ 6 เปิดตัวสมราคาเต็งแชมป์! เสิร์ฟเอซ 11 แต้ม ไล่ต้อนราชินูทิศ 2 ขาดลอย 3 เซตรวด “กีฬานครนนท์วิทยา 6” ประเดิมสนามสุดแกร่ง! เอาชนะ “ราชินูทิศ 2” จากอุดรธานี 3-0 เ...",
       "sourceType": "news",
@@ -937,8 +939,8 @@
       "updatedAt": "2026-11-16T16:48:23+07:00"
     },
     {
-      "id": "topic-17c44347cb",
-      "title": "น้ำมัน",
+      "id": "topic-941f5022a3",
+      "title": "นิวคาสเซิล พบ อาร์เซนอล",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
@@ -951,7 +953,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#น้ำมัน"
+        "#นิวคาสเซิลพบอาร์เซนอล"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -960,28 +962,28 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "ราคาน้ำมันวันนี้ 21 พ.ย. 2569 ล่าสุดน้ำมัน \"เบนซิน-ดีเซล-แก๊สโซฮอล์\" ลิตรละกี่บาท",
-          "url": "https://www.sanook.com/money/961751/"
+          "title": "นิวคาสเซิ่ล พบ อาร์เซน่อล! อาร์เตต้า ยัน ซาก้า พักต่อแต่ ซาลีบา พร้อมคัมแบ็ก",
+          "url": "https://www.siamsport.co.th/football-international/premierleague/112282/"
         },
         {
-          "title": "ราคาน้ำมัน 22 พฤศจิกายน 2569 ทั้งดีเซล-เบนซิน แก๊สโซฮอล์",
-          "url": "https://www.pptvhd36.com/wealth/economic/287563"
+          "title": "ดูบอลสด นิวคาสเซิ่ล พบ อาร์เซน่อล ฟุตบอลพรีเมียร์ลีก อังกฤษ คืนนี้ เวลา 00.30 น.",
+          "url": "https://www.sanook.com/sport/1673966/"
         },
         {
-          "title": "ราคาน้ำมันพรุ่งนี้ (21 พ.ย. 69) อัปเดตราคาน้ำมันล่าสุด ปั๊มใหญ่",
-          "url": "https://www.nationtv.tv/business/378986472"
+          "title": "ดูบอลสด วิเคราะห์บอลพรีเมียร์ลีก นิวคาสเซิ่ล พบ อาร์เซน่อล 21 พ.ย.69",
+          "url": "https://www.pptvhd36.com/sport/news/287553"
         }
       ],
-      "updatedAt": "2026-11-21T11:40:00+07:00"
+      "updatedAt": "2026-11-21T23:30:00+07:00"
     },
     {
-      "id": "topic-8edad26cc8",
-      "title": "ฝน",
+      "id": "topic-c8509de535",
+      "title": "นิส พบ เปแอ็สเฌ",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 2000+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 10000+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -989,7 +991,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#ฝน"
+        "#นิสพบเปแอ็สเฌ"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -998,23 +1000,23 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "พยากรณ์อากาศ วันที่ 21 พฤศจิกายน 2569 กรุงเทพและปริมณฑล อุณหภูมิจะลดลงเล็กน้อย กับมีลมแรง | สวพ.FM91",
-          "url": "https://today.line.me/th/v3/article/7NGxnvr"
+          "title": "Man City 1-1 Fulham (Nov 21, 2026) Player Stats",
+          "url": "https://www.espn.com/soccer/player-stats/_/gameId/401879233"
         },
         {
-          "title": "สภาพอากาศวันนี้ \"เหนือ-อีสาน\" อุณหภูมิลดลง 1-2 องศาฯ",
-          "url": "https://www.thaipbs.or.th/news/content/573071"
+          "title": "Man City 1-1 Fulham (Nov 21, 2026) Team Stats",
+          "url": "https://www.espn.com/soccer/team-stats/_/gameId/401879233"
         },
         {
-          "title": "ประกาศเตือนฉบับ 13 วันที่ 21-22 พ.ย.2569 ภาคใต้มีฝนตกหนักถึงหนักมาก",
-          "url": "https://www.pptvhd36.com/news/%E0%B8%AA%E0%B8%B1%E0%B8%87%E0%B8%84%E0%B8%A1/287556"
+          "title": "PSG vs. AS Roma (Nov 25, 2026) Odds and Spread",
+          "url": "https://www.espn.com/soccer/odds/_/gameId/401915374"
         }
       ],
-      "updatedAt": "2026-11-21T12:30:00+07:00"
+      "updatedAt": "2026-11-21T22:30:00+07:00"
     },
     {
-      "id": "topic-7a8fd20427",
-      "title": "หุ้นกู้",
+      "id": "topic-18dd42fb02",
+      "title": "ปารีส แซ็ง แฌร์แม็ง",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
@@ -1027,7 +1029,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#หุ้นกู้"
+        "#ปารีสแซ็งแฌร์แม็ง"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -1036,28 +1038,28 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "TBC ผนึก APM โรดโชว์ข้อมูลหุ้นกู้ครั้งที่ 1/2569 แก่นักลงทุน จ.เชียงใหม่",
-          "url": "https://www.share2trade.com/news/61479/tbc-%E0%B8%9C%E0%B8%99%E0%B8%B6%E0%B8%81-apm-%E0%B9%82%E0%B8%A3%E0%B8%94%E0%B9%82%E0%B8%8A%E0%B8%A7%E0%B9%8C%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%B9%E0%B8%A5%E0%B8%AB%E0%B8%B8%E0%B9%89%E0%B8%99%E0%B8%81%E0%B8%B9%E0%B9%89%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B8%97%E0%B8%B5%E0%B9%88-1-2569-%E0%B9%81%E0%B8%81%E0%B9%88%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%A5%E0%B8%87%E0%B8%97%E0%B8%B8%E0%B8%99-%E0%B8%88%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88"
+          "title": "OGC Nice predicted XI v PSG: Mohamed Abdelmonem out, Elye Wahi to start",
+          "url": "https://sports.yahoo.com/articles/ogc-nice-predicted-xi-v-081200550.html"
         },
         {
-          "title": "เชียงใหม่- TBC จัด Roadshow เชียงใหม่ เสนอขายหุ้นกู้ ครั้งที่ 1/2569 เปิดโอกาสนักลงทุนร่วมรับฟังข้อมูลธุรกิจ",
-          "url": "https://www.topnews.co.th/news/1752546"
+          "title": "Ligue 1 - OGC Nice v Paris St Germain",
+          "url": "https://www.reutersconnect.com/item/ligue-1-ogc-nice-v-paris-st-germain/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQkwxQTM4VDA"
         },
         {
-          "title": "KTC จ่อออกหุ้นกู้ชุดใหม่ อายุ 4 และ 5 ปี เปิดให้สถาบัน-รายใหญ่จองซื้อ 24-26 พ.ย. : อินโฟเควสท์",
-          "url": "https://www.infoquest.co.th/2026/683419"
+          "title": "Pantaloni: \"We're playing the best team in the world\"",
+          "url": "https://www.ogcnice.com/en/article/131141/pantaloni-were-playing-the-best-team-in-the-world.html"
         }
       ],
-      "updatedAt": "2026-11-21T14:20:00+07:00"
+      "updatedAt": "2026-11-21T23:20:00+07:00"
     },
     {
-      "id": "topic-ce910a07b3",
-      "title": "เช็คราคาทองวันนี้",
+      "id": "topic-f38fce1ef5",
+      "title": "แอสตันวิลล่า",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 1000+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 500+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -1065,7 +1067,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#เช็คราคาทองวันนี้"
+        "#แอสตันวิลล่า"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -1074,19 +1076,19 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "ทองดิ่งลงเหว แตะ $3,500 ลงต่อหรือกลับตัวขึ้นแรง?",
-          "url": "https://www.intergold.co.th/investor_core/gold-20-11-69/"
+          "title": "ถ่ายทอดสด แอสตัน วิลล่า พบ ซันเดอร์แลนด์ พรีเมียร์ลีก วันนี้ 21 พ.ย.69",
+          "url": "https://www.posttoday.com/lifestyle/752295"
         },
         {
-          "title": "ทองโลกดิ่ง 3.98% ฉุดทองไทยร่วง 450 บาท หุ้นสหรัฐฯ ทรุด ดาวโจนส์ลง 949 จุด",
-          "url": "https://www.thaipbs.or.th/news/content/573085"
+          "title": "LIVE : ดูบอลสด แอสตัน วิลล่า พบ ซันเดอร์แลนด์ ฟุตบอลพรีเมียร์ลีก เวลา 22.00 น.",
+          "url": "https://www.sportingnews.com/th/football/news/live-watch-aston-villa-vs-sunderland-premier-league-2026-27/5b2dd3f473190aa4b9ecaabb"
         },
         {
-          "title": "เช็กราคาทองคำ วันเสาร์ที่ 21 พฤศจิกายน 2569 ปรับลดลง 450 บาท ส่งผลทองรูปพรรณขายออกบาทละ 57,950 บาท | สวพ.FM91",
-          "url": "https://today.line.me/th/v3/article/GgNxL28"
+          "title": "ดูบอลสด แอสตัน วิลล่า พบ ซันเดอร์แลนด์ 21 พ.ย. 69 พรีเมียร์ลีก",
+          "url": "https://thethaiger.com/th/news/1633539/"
         }
       ],
-      "updatedAt": "2026-11-21T09:40:00+07:00"
+      "updatedAt": "2026-11-21T22:30:00+07:00"
     },
     {
       "id": "topic-5e31302e70",
