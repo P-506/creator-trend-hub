@@ -1,7 +1,9 @@
 {
-  "generatedAt": "2026-11-23T00:40:12.841552+07:00",
+  "generatedAt": "2026-11-23T15:42:00.993082+07:00",
   "dateRange": "2026-11-16 to 2026-11-23",
-  "sourceErrors": [],
+  "sourceErrors": [
+    "google_news: HTTP Error 429: Too Many Requests"
+  ],
   "topics": [
     {
       "id": "topic-cd8592f64d",
@@ -236,6 +238,44 @@
         }
       ],
       "updatedAt": "2026-11-23T00:32:21+07:00"
+    },
+    {
+      "id": "travel-ban-4ada95e986",
+      "title": "travel ban",
+      "sourceType": "trends",
+      "category": "lifestyle",
+      "contentPotential": "high",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 1000+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "โยงกับชีวิตประจำวันของ Creator และถามประสบการณ์คนในคอมมูนิตี้",
+      "promptIdea": "ช่วงนี้มีใครเจอเรื่องแบบนี้เหมือนกันไหม?",
+      "hashtags": [
+        "#LifestyleTH",
+        "#ชีวิตประจำวัน",
+        "#แชร์ประสบการณ์",
+        "#travelban"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "Seattle judge set to move forward on Trump immigration case",
+          "url": "https://en.yenisafak.com/world/seattle-judge-set-to-move-forward-on-trump-immigration-case-2612846"
+        },
+        {
+          "title": "Air France reopens US flights to passengers hit by travel ban",
+          "url": "https://en.yenisafak.com/world/air-france-reopens-us-flights-to-passengers-hit-by-travel-ban-2607613"
+        },
+        {
+          "title": "Alienation worries at US mosque amid travel ban",
+          "url": "https://en.yenisafak.com/world/alienation-worries-at-us-mosque-amid-travel-ban-2741985"
+        }
+      ],
+      "updatedAt": "2026-11-23T10:20:00+07:00"
     },
     {
       "id": "zara-the-unlock-update-zara-d2ed710eb7",
@@ -575,13 +615,13 @@
       "updatedAt": "2026-11-17T23:06:16+07:00"
     },
     {
-      "id": "football-2d27b62c59",
-      "title": "football",
+      "id": "jeeno-thitikul-4542199e1e",
+      "title": "jeeno thitikul",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 100+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 2000+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -589,7 +629,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#football"
+        "#jeenothitikul"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -598,95 +638,19 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "College football odds, lines, schedule for Week 13: USC opens as favorite vs. UCLA",
-          "url": "https://www.cbssports.com/college-football/news/college-football-odds-lines-schedule-week-13-2026/"
+          "title": "Jeeno Thitikul: Thai golfer wins third title in a row at LPGA season-ending event",
+          "url": "https://www.bbc.com/sport/golf/articles/ckjwjvwexd12o"
         },
         {
-          "title": "5 Things to Watch in College Fotoball Week 13",
-          "url": "https://thegamehaus.com/college-football/5-things-to-watch-in-college-fotoball-week-13/2026/11/22/"
+          "title": "Jeeno wins 3rd straight CME Group Tour Championship, makes LPGA history",
+          "url": "https://www.bangkokpost.com/sports/3359715/jeeno-wins-3rd-straight-cme-group-tour-championship-makes-lpga-history"
         },
         {
-          "title": "Tom Krasovic: Aztecs deliver late-night thriller, complete with improbable plays and a walk-off win",
-          "url": "https://www.sandiegouniontribune.com/2026/11/22/tom-krasovic-aztecs-deliver-late-night-thriller-complete-with-improbable-plays-and-a-walk-off-win/"
+          "title": "Jeeno Thitikul Cashes in at Tiburon to Win $4M Prize for 3rd Straight Time",
+          "url": "https://www.lpga.com/news/2026/jeeno-thitikul-cashes-in-at-tiburon-to-win-4m-prize-for-3rd-straight-time"
         }
       ],
-      "updatedAt": "2026-11-23T00:00:00+07:00"
-    },
-    {
-      "id": "lpga-3752fbe7fa",
-      "title": "lpga",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 500+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#lpga"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "Two-Time Defending Champion Jeeno Thitikul Back in the Mix at Tiburon",
-          "url": "https://www.lpga.com/news/2026/two-time-defending-champion-jeeno-thitikul-back-in-the-mix-at-tiburon"
-        },
-        {
-          "title": "LPGA Tour: South Korea's A-Lim Kim has one-shot lead in LPGA finale as Nelly Korda closes in",
-          "url": "https://www.bbc.com/sport/golf/articles/c3ewvg08gjggo"
-        },
-        {
-          "title": "Chamblee breaks down leader Kim's chances to win CME Tour Champ",
-          "url": "https://www.golfchannel.com/watch/golf-central/chamblee-breaks-down-leader-kims-chances-to-win-cme-crown"
-        }
-      ],
-      "updatedAt": "2026-11-23T00:20:00+07:00"
-    },
-    {
-      "id": "lpga-leaderboard-f6401cc7b7",
-      "title": "lpga leaderboard",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#lpgaleaderboard"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "Nelly Korda Fires 65 to Set Up Historic Sunday at CME Group Tour Championship",
-          "url": "https://www.lpga.com/news/2026/nelly-korda-fires-65-to-set-up-historic-sunday-at-cme-group-tour-championship"
-        },
-        {
-          "title": "LPGA No. 1 Nelly Korda battling dreaded two-way miss at season-ending CME",
-          "url": "https://www.centraloregondaily.com/sports/lpga-no-1-nelly-korda-battling-dreaded-two-way-miss-at-season-ending-cme/article_ca95f3cb-6f45-51ee-b238-629d4e191223.html"
-        },
-        {
-          "title": "Nelly Korda reveals what she did during the CME Group Tour Championship that left her ‘really uncomfortable’",
-          "url": "https://www.hitc.com/nelly-korda-reveals-what-she-did-during-the-cme-group-tour-championship-that-left-her-really-uncomfortable/"
-        }
-      ],
-      "updatedAt": "2026-11-23T00:20:00+07:00"
+      "updatedAt": "2026-11-23T15:10:00+07:00"
     },
     {
       "id": "main-3cae73d18e",
@@ -713,44 +677,6 @@
         }
       ],
       "updatedAt": "2026-11-19T11:03:02+07:00"
-    },
-    {
-      "id": "topic-b2fd83e8ef",
-      "title": "ตารางพรีเมียร์ลีก",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 2000+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#ตารางพรีเมียร์ลีก"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "อัปเดตตารางคะแนนพรีเมียร์ลีก นัดที่ 11 ประจำวันที่ 22 พ.ย. 69",
-          "url": "https://www.sanook.com/sport/1673964/"
-        },
-        {
-          "title": "แมนยู แย่แล้ว สรุปตารางคะแนนพรีเมียร์ลีก 2026 ล่าสุด วันที่ 22 พ.ย. 69",
-          "url": "https://www.thairath.co.th/sport/eurofootball/premierleague/2973901"
-        },
-        {
-          "title": "ไฮไลต์ผลงานอันร้อนแรงของอาร์เซนอล ทีมจ่าฝูงพรีเมียร์ลีกในฤดูกาลนี้ วิดีโอกีฬา",
-          "url": "https://www.monomax.me/sports/vod/11516"
-        }
-      ],
-      "updatedAt": "2026-11-23T00:20:00+07:00"
     },
     {
       "id": "2-mcc-hall-17c0bb86df",
@@ -831,8 +757,194 @@
       "updatedAt": "2026-11-16T16:48:23+07:00"
     },
     {
-      "id": "topic-2e5fe1c5cb",
-      "title": "บอลโลก",
+      "id": "topic-22bb197f89",
+      "title": "นายภูมิพัฒน์ สังขวิภาพจพิบูล",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 500+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#นายภูมิพัฒน์สังขวิภาพจพิ"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "เปิดเส้นทางชีวิต ภูมิพัฒน์ สังขวิภาพจพิบูล จากนักแสดงสู่ผู้จัด วัย 35 ปี | News In Thailand",
+          "url": "https://today.line.me/th/v3/article/1DPvQ59"
+        },
+        {
+          "title": "เปิดผลงาน ภูมิพัฒน์ สังขวิภาพจพิบูล ผู้กำกับดัง คือใคร ผันตัวจากนักแสดงดาวรุ่ง",
+          "url": "https://thethaiger.com/th/news/1634114/"
+        }
+      ],
+      "updatedAt": "2026-11-23T11:00:00+07:00"
+    },
+    {
+      "id": "topic-3ca1eb5fdf",
+      "title": "บับเบิ้ล",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 500+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#บับเบิ้ล"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "รวบแล้ว! แก๊งผู้กำกับละครชื่อดัง อ้างเป็นตำรวจ ดส.ก่อเหตุอุ้มรีดเงินแม่ลูกต่างด้าว",
+          "url": "https://mgronline.com/crime/detail/9690000111537"
+        },
+        {
+          "title": "ตร.ขอศาลออกหมายจับ 3 ผู้ต้องหาคดีอุ้มรีดเงินแม่ค้าขายดอกไม้",
+          "url": "https://www.thaipbs.or.th/news/content/573142"
+        },
+        {
+          "title": "“แก๊งอุ้มแม่ค้าดอกไม้ RCA” ส่อโยงผู้กำกับละครดัง อุ้มแม่ลูก 5 ขวบกักขัง รีดเงิน 5 แสน | THE ROOM 44 CHANNEL",
+          "url": "https://today.line.me/th/v3/article/RBKpPMW"
+        }
+      ],
+      "updatedAt": "2026-11-23T14:40:00+07:00"
+    },
+    {
+      "id": "topic-8022f4f496",
+      "title": "ปิติ ภิรมย์ภักดี",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#ปิติภิรมย์ภักดี"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "\"นุ่น-ต๊อด\" คู่รักหมื่นล้าน ควงแขนทำบุญใหญ่ เปิดยอดบุญกฐิน เลขสวยมาก",
+          "url": "https://www.sanook.com/news/9912742/"
+        },
+        {
+          "title": "นุ่น วรนุช ควงสามีร่วมงานทอดกฐิน สวยสง่างาม กาลเวลาทำอะไรไม่ได้จริงๆ ชาวบ้านแห่ถ่ายรูปสนั่น!",
+          "url": "https://today.line.me/th/v3/article/XYp9nOm?referral=goldupdate"
+        },
+        {
+          "title": "นุ่น - ต๊อด ทำบุญกฐิน 2569 กว่า 4.4 ล้าน - มอบทุนการศึกษา บริจาค รพ. กว่า 5.8 ล้าน",
+          "url": "https://women.kapook.com/view/500210"
+        }
+      ],
+      "updatedAt": "2026-11-23T11:30:00+07:00"
+    },
+    {
+      "id": "topic-f88f4a862f",
+      "title": "มูเซียล่า",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 500+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#มูเซียล่า"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "\"ฟิฟโปร\" จวก \"เสือใต้\" หลังพูดเรื่องสุขภาพ \"มูเซียลา\" ออกสื่อ",
+          "url": "https://www.dailynews.co.th/news/6379803/"
+        },
+        {
+          "title": "มูเซียลาป่วยเป็นอะไรที่ทำให้บาเยิร์น มิวนิคต้องการหักเงินเดือนของเขา?",
+          "url": "https://www.vietnam.vn/th/musiala-mac-benh-gi-ma-bayern-munich-muon-tru-luong"
+        },
+        {
+          "title": "FIFPro แถลงป้อง \"มูเซียล่า\" หลังส่อโดน \"บาเยิร์นฯ\" ตัดอนาคตเพราะอาการป่วย",
+          "url": "https://mainstand.co.th/index.php/th/news/1/article/27647"
+        }
+      ],
+      "updatedAt": "2026-11-23T11:10:00+07:00"
+    },
+    {
+      "id": "topic-50c4bfdfef",
+      "title": "สลึง",
+      "sourceType": "trends",
+      "category": "social_topic",
+      "contentPotential": "medium",
+      "riskLevel": "low",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 20000+ searches",
+      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
+      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
+      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
+      "hashtags": [
+        "#SocialTopic",
+        "#คุยกันวันนี้",
+        "#TrendTH",
+        "#สลึง"
+      ],
+      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
+      "sources": [
+        {
+          "title": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=TH"
+        },
+        {
+          "title": "บทวิเคราะห์ราคาทองคำประจำวันที่ 23 พฤศจิกายน 2569",
+          "url": "https://www.intergold.co.th/investor_core/analyze-23-11-2026/"
+        },
+        {
+          "title": "อัปเดต ราคาทองล่าสุดราคาทองวันนี้ล่าสุด 23 พฤศจิกายน 69 เปิดตลาด พุ่ง 850 บาททองรูปพรรณขาย 58,800 บาท",
+          "url": "https://today.line.me/th/v3/article/EXwVNXP"
+        },
+        {
+          "title": "ทองตก คนทิ้งตั๋วจำนำ ไม่ส่งดอก ไม่ไถ่คืน ร้านขู่ฟ้อง ทำได้จริงหรือไม่?",
+          "url": "https://www.thairath.co.th/money/investment/gold/2974049"
+        }
+      ],
+      "updatedAt": "2026-11-23T14:30:00+07:00"
+    },
+    {
+      "id": "topic-ae9b1ea89f",
+      "title": "สายการบิน",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
@@ -845,7 +957,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#บอลโลก"
+        "#สายการบิน"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -854,57 +966,19 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "ซิโก้ มองไทยอยู่โถ 2 เป็นโอกาสดี ลุ้นช้างศึกฝ่าด่านคัดบอลโลก 2030 ย้ำทุกฝ่ายต้องพร้อม",
-          "url": "https://www.matichon.co.th/sport/footballlocal/news_5983917"
+          "title": "เที่ยวบินเดลตา ล่าช้าทั่วสหรัฐฯ เหตุระบบคำนวณน้ำหนักขัดข้อง",
+          "url": "https://www.thairath.co.th/news/foreign/2974021"
         },
         {
-          "title": "โปรแกรม \"ฟุตบอลทีมชาติไทย\" ชุดใหญ่ ประจำปี ปฏิทิน 2027",
-          "url": "https://www.thairath.co.th/sport/thaifootball/changsuek/2973235"
+          "title": "‘เดลตา แอร์ไลน์’ ป่วน! เที่ยวบินดีเลย์กว่า 1,000 เที่ยว เหตุระบบเทคนิคขัดข้อง | The Bangkok Insight",
+          "url": "https://today.line.me/th/v3/article/LXeqK72"
         },
         {
-          "title": "ทีมชาติเวียดนามอยู่ในกลุ่ม 2 ของรอบคัดเลือกฟุตบอลโลก 2030: จะมีโค้ชคนใหม่หรือไม่?",
-          "url": "https://www.vietnam.vn/th/doi-tuyen-viet-nam-nam-nhom-hat-giong-so-2-vong-loai-world-cup-2030-lieu-co-hlv-moi-dan-dat"
+          "title": "สหรัฐฯเตือน! เตรียมรับมือ \"ไอทีขัดข้อง\" | เนชั่นโฟกัส | 23 พ.ย.69",
+          "url": "https://www.nationtv.tv/video-gallery/tv-program/36661"
         }
       ],
-      "updatedAt": "2026-11-23T00:10:00+07:00"
-    },
-    {
-      "id": "topic-035f672984",
-      "title": "ผลบอลพรีเมียร์ลีกเมื่อคืน",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 5000+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#ผลบอลพรีเมียร์ลีกเมื่อคื"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "นิวคาสเซิ่ล v อาร์เซนอล วิดีโอกีฬา",
-          "url": "https://www.monomax.me/sports/vod/10160"
-        },
-        {
-          "title": "อาร์เซน่อลรอดหวุดหวิด เจาะจุดเปลี่ยนพานิวคาสเซิลชวดชัย",
-          "url": "https://www.siamsport.co.th/football-international/premierleague/112344/"
-        },
-        {
-          "title": "อาร์เตต้า เผยสิ่งที่เสียไปหลัง อาร์เซน่อล ได้แค่เจ๊า นิวคาสเซิ่ล",
-          "url": "https://www.thairath.co.th/sport/eurofootball/premierleague/2973893"
-        }
-      ],
-      "updatedAt": "2026-11-23T00:10:00+07:00"
+      "updatedAt": "2026-11-23T11:00:00+07:00"
     },
     {
       "id": "topic-c37465d238",
@@ -933,13 +1007,13 @@
       "updatedAt": "2026-11-22T11:21:42+07:00"
     },
     {
-      "id": "topic-1d5ae50310",
-      "title": "แพทริก ดอร์กู",
+      "id": "topic-dd1cc85cbe",
+      "title": "เศรษฐกิจ",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 100+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 500+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -947,7 +1021,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#แพทริกดอร์กู"
+        "#เศรษฐกิจ"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -956,28 +1030,28 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "Man Utd late comebacks have made… a comeback. Is it simply part of their DNA?",
-          "url": "https://www.nytimes.com/athletic/7787320/2026/11/19/manchester-united-late-comebacks-dna/"
+          "title": "นายก เผย​ผลหารือ เลขาฯ OECD​ ไทยผ่านประเมินขั้นต้นแล้ว​",
+          "url": "https://www.thaipbs.or.th/news/content/573160"
         },
         {
-          "title": "Man United handed final verdict on Patrick Dorgu’s controversial equaliser in dramatic Aston Villa draw",
-          "url": "https://sports.yahoo.com/articles/man-united-handed-final-verdict-110000896.html"
+          "title": "ก้าวสำคัญเศรษฐกิจไทย! \"อนุทิน\" เผยไทยผ่านเกณฑ์รอบแรกเข้า OECD ไร้เงื่อนไข",
+          "url": "https://www.nationtv.tv/business/economy/378986581"
         },
         {
-          "title": "Man United receive final verdict after Matheus Cunha accusations as Premier League panel agree",
-          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-villa-dorgu-goal-34928734"
+          "title": "\"บัญชีกลาง\" ผนึก OECD-OGP โลก ดึง AI จับโกงเบิกสวัสดิการราชการ",
+          "url": "https://www.kaohoon.com/news/883358"
         }
       ],
-      "updatedAt": "2026-11-22T23:50:00+07:00"
+      "updatedAt": "2026-11-23T11:30:00+07:00"
     },
     {
-      "id": "topic-e4a6c0b192",
-      "title": "แวร์เดอร์เบรเมน",
+      "id": "topic-29294dbe4e",
+      "title": "ไอซ์รักชนก",
       "sourceType": "trends",
       "category": "social_topic",
       "contentPotential": "medium",
       "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 100+ searches",
+      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 5000+ searches",
       "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
       "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
       "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
@@ -985,7 +1059,7 @@
         "#SocialTopic",
         "#คุยกันวันนี้",
         "#TrendTH",
-        "#แวร์เดอร์เบรเมน"
+        "#ไอซ์รักชนก"
       ],
       "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
       "sources": [
@@ -994,87 +1068,19 @@
           "url": "https://trends.google.com/trending/rss?geo=TH"
         },
         {
-          "title": "วิเคราะห์บอล เบรเมน พบ ฮัมบูร์ก 22 พ.ย. 69 ศึกนอร์ดดาร์บี้ชี้ชะตา",
-          "url": "https://www.siamsport.co.th/football-international/bundesliga/112349/"
+          "title": "ด่วน! ศาลอนุญาต “ไอซ์ รักชนก” ประกันตัว วงเงิน 5 แสนบาท ยังไม่หลุดเก้าอี้ สส.",
+          "url": "https://mgronline.com/onlinesection/detail/9690000111691"
+        },
+        {
+          "title": "“โตโต้” ตั้งคำถามคดี ม.112 ห่วงผู้ต้องหาหลายรายถูกขังระหว่างสู้คดี จี้ทบทวนสิทธิประกันตัว",
+          "url": "https://today.line.me/th/v3/article/aGpN0mo?view=topic&referral=politics_trending"
+        },
+        {
+          "title": "เจาะทรัพย์สิน ไอซ์ รักชนก ศรีนอก นักการเมืองรุ่นใหม่ กับเงินทองที่มีแบบรวยชิลๆ",
+          "url": "https://www.sanook.com/money/961839/"
         }
       ],
-      "updatedAt": "2026-11-23T00:10:00+07:00"
-    },
-    {
-      "id": "topic-eade1d6372",
-      "title": "แฮร์รี แมไกวร์",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 200+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#แฮร์รีแมไกวร์"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "Mauricio Pochettino explains his first Man Utd XI after dropping trio of stars including Harry Maguire",
-          "url": "https://www.thesun.co.uk/sport/41108125/mauricio-pochettino-man-utd-xi-harry-maguire/"
-        },
-        {
-          "title": "Pochettino Benched Pulisic After Dispute Over USMNT Plans",
-          "url": "https://demokratis.co.id/en/pochettino-benched-pulisic-usmnt"
-        },
-        {
-          "title": "Mauricio Pochettino left key player out of starting XI and gave blunt explanation",
-          "url": "https://www.mirror.co.uk/sport/football/news/mauricio-pochettino-left-key-player-37903619"
-        }
-      ],
-      "updatedAt": "2026-11-23T00:20:00+07:00"
-    },
-    {
-      "id": "topic-6823efaa3e",
-      "title": "โฟลรีอาน เวียทซ์",
-      "sourceType": "trends",
-      "category": "social_topic",
-      "contentPotential": "medium",
-      "riskLevel": "low",
-      "summary": "กำลังถูกค้นหาใน Google Trends Thailand ประมาณ 2000+ searches",
-      "whyItMatters": "เป็นสัญญาณว่าคนกำลังค้นหาและสนใจเรื่องนี้ในช่วงล่าสุด",
-      "creatorAngle": "เล่าแบบ personal take และชวนคอมเมนต์ด้วยคำถามปลายเปิด",
-      "promptIdea": "ทุกคนคิดยังไงกับเรื่องนี้?",
-      "hashtags": [
-        "#SocialTopic",
-        "#คุยกันวันนี้",
-        "#TrendTH",
-        "#โฟลรีอานเวียทซ์"
-      ],
-      "riskNote": "Low risk ใช้เป็นไอเดียโพสต์ได้ แต่ยังควรตรวจรูปและที่มา",
-      "sources": [
-        {
-          "title": "Google Trends",
-          "url": "https://trends.google.com/trending/rss?geo=TH"
-        },
-        {
-          "title": "“I’d be cautious”: Didi Hamann again questions Florian Wirtz despite Germany’s emphatic display",
-          "url": "https://www.goal.com/en/news/i-d-be-cautious-didi-hamann-again-questions-florian-wirtz-despite-germany-s-emphatic-display/blte089500ab55b44ea"
-        },
-        {
-          "title": "How Jurgen Klopp is providing Liverpool the Florian Wirtz blueprint",
-          "url": "https://www.squawka.com/en/features/tactical-analysis-florian-wirtz-germany-vs-liverpool/"
-        },
-        {
-          "title": "Pundit thinks confidence makes or breaks Florian Wirtz",
-          "url": "https://www.bavarianfootballworks.com/off-the-crossbar/282850/pundit-thinks-confidence-makes-or-breaks-florian-wirtz"
-        }
-      ],
-      "updatedAt": "2026-11-22T23:40:00+07:00"
+      "updatedAt": "2026-11-23T09:40:00+07:00"
     },
     {
       "id": "topic-0fca973385",
